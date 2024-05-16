@@ -75,6 +75,36 @@ def student_score(student_email):
         return jsonify({'message':"Email Not found"})
     else:
         return data_json
+    
+@app.route('/student-scores/')
+def student_scores():
+    creds_path = "./msit.json"
+    credential = ServiceAccountCredentials.from_json_keyfile_name(creds_path,
+                                                                ["https://spreadsheets.google.com/feeds",
+                                                                "https://www.googleapis.com/auth/spreadsheets",
+                                                                "https://www.googleapis.com/auth/drive.file",
+                                                                "https://www.googleapis.com/auth/drive"])
+
+    sheet_url = os.environ.get('sheet_url')
+    client = gspread.authorize(credential)
+    sheet = client.open_by_url(sheet_url)
+    worksheet = sheet.get_worksheet(0)
+    values = worksheet.get_all_values()
+    data_json = []
+
+    headers = values[0]
+    for row in values[1:]:
+        
+            # data_json = json.dumps([dict(zip(headers,row))],indent=4)
+        row_dict = dict(zip(headers, row))
+        data_json.append(row_dict)
+
+
+    # json_str = json.dumps(data_json, indent=4)
+    if data_json == []:
+        return jsonify({'message':"No Data"})
+    else:
+        return data_json
 
 
 @app.route("/info/<string:student_email>")
