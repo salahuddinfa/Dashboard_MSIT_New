@@ -9,7 +9,7 @@ import './App.css';
 
 ReactDOM.render(
 	<BrowserRouter >
-    <FetchData />
+    <App />
   </BrowserRouter>,
   document.getElementById("root")
 );

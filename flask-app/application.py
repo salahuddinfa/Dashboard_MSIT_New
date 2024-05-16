@@ -1,8 +1,10 @@
 import os
 import sys
 sys.path.append('C:/Python39/Lib/site-packages')
+
 from dotenv import load_dotenv
 import os
+
 from flask import Flask, render_template, jsonify, request
 from flask_cors import CORS
 import csv, json
@@ -10,11 +12,26 @@ import pandas as pd
 from collections import OrderedDict 
 from collections import defaultdict
 import datetime
+import os
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
+from dotenv import load_dotenv
+
 
 app = Flask(__name__)
 CORS(app)
+
+load_dotenv()
+sheet_url = os.getenv('sheet_url')
+creds_path = "./msit.json"
+credential = ServiceAccountCredentials.from_json_keyfile_name(creds_path,
+                                                              ["https://spreadsheets.google.com/feeds",
+                                                               "https://www.googleapis.com/auth/spreadsheets",
+                                                               "https://www.googleapis.com/auth/drive.file",
+                                                               "https://www.googleapis.com/auth/drive"])
+client = gspread.authorize(credential)
+client = gspread.authorize(credential)
+sheet = client.open_by_url(sheet_url)
 
 IT_course_dates = {
     "IDS":["2020-11-09", "2020-12-05"],
@@ -323,6 +340,78 @@ def get_presentation_scores():
     
     return ppt_scores
 
+
+worksheet = sheet.get_worksheet(0)
+
+def check_duplicate(email):
+    existing_data = worksheet.get_all_values()
+    existing_emails = [row[0] for row in existing_data]  # Assuming emails are in the first column
+    return email in existing_emails
+
+def add_to_google_sheets(row):
+    values = list(row.values())
+    worksheet.append_row(values)
+
+
+def process_data(data):
+    existing_emails = [row[0].lower() for row in worksheet.get_all_values()]  # Fetch existing emails from Google Sheet in lowercase
+    unique_rows = []
+    
+    if isinstance(data, dict):  # Single JSON object
+        email = data.get('email')
+        if email and email.lower() not in existing_emails:  # Convert email to lowercase for comparison
+            unique_rows.append(data)
+    elif isinstance(data, list):  # List of JSON objects
+        for entry in data:
+            email = entry.get('email')
+            if email and email.lower() not in existing_emails:  # Convert email to lowercase for comparison
+                unique_rows.append(entry)
+    else:
+        return jsonify({'error': 'Invalid data format'})
+    
+    if unique_rows:
+        add_to_google_sheets(unique_rows)
+
+@app.route('/upload', methods=['POST'])
+def upload():
+    if 'file' in request.files:
+        file = request.files['file']
+        if file.filename.endswith('.csv'):
+            reader = list(csv.DictReader(file.read().decode('utf-8').splitlines()))
+            process_data(reader)
+            
+    else:
+        try:
+            data = json.loads(request.data.decode('utf-8'))
+            process_data(data)
+        except json.JSONDecodeError:
+            return jsonify({'error': 'Invalid JSON data format'})
+
+    return jsonify({'message': 'Data added successfully'})
+
+@app.route('/get_role', methods=['GET'])
+def get_role():
+
+    email = request.args.get('email')
+
+    if not email:
+        return jsonify({'error': 'Email parameter is missing'}), 400
+    
+    try:
+        data = worksheet.get_all_records()
+        print("Data from Google Sheet:", data)
+        for row in data:
+            print("Row from Google Sheet:", row)
+            if row['email'].lower() == email.lower():
+                print(email)
+                return jsonify({'role': row['role']})
+        
+        return jsonify({'error': 'Email not found'}), 404
+
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+
 # Load CSV data into memory as a list of dictionaries
 def load_data(csv_file):
     data = []
@@ -363,3 +452,4 @@ def search():
 
 if __name__ == '__main__':
     app.run(debug=True)
+

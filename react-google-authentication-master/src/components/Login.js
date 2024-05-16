@@ -17,7 +17,7 @@ function Login(props) {
   const history = useHistory();
 
   const onSuccess = async (res) => {
-    // alert(`Logged in successfully welcome ${res.profileObj.name}`);
+    alert(`Logged in successfully welcome ${res.profileObj.name}`);
     console.log("Login successful");
 
     axios
