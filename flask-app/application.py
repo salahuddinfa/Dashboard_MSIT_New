@@ -366,30 +366,9 @@ def search():
     else:
         return jsonify({'error': 'No search query provided'}), 400
 
-    
-load_dotenv()
-users_sheet_url = os.getenv('users_sheet_url')
-scores_sheet_url = os.getenv('scores_sheet_url')
-creds_path = "./credentials.json"
-credential = ServiceAccountCredentials.from_json_keyfile_name(creds_path,
-                                                              ["https://spreadsheets.google.com/feeds",
-                                                               "https://www.googleapis.com/auth/spreadsheets",
-                                                               "https://www.googleapis.com/auth/drive.file",
-                                                               "https://www.googleapis.com/auth/drive"])
-client = gspread.authorize(credential)
-user_worksheet = client.open_by_url(users_sheet_url)
-users_worksheet = user_worksheet.get_worksheet(0)
-score_worksheet = client.open_by_url(scores_sheet_url)
-scores_worksheet = score_worksheet.get_worksheet(0)
-
-
-def add_to_google_sheets(row):
-    values = list(row.values())
-    users_worksheet.append_row(values)
-
-
 def process_data(data):
-    existing_emails = [row[0].lower() for row in users_worksheet.get_all_values()]
+    worksheet = get_worksheet('user_worksheet_url')
+    existing_emails = [row[0].lower() for row in worksheet.get_all_values()]
     unique_rows = []
     
     if isinstance(data, dict):
@@ -402,10 +381,10 @@ def process_data(data):
             if email and email.lower() not in existing_emails:
                 unique_rows.append(list(entry.values()))
     else:
-        return jsonify({'error': 'Invalid data format'})
+        return jsonify({'error': 'Invalid data format'}), 400
     
     if unique_rows:
-        add_to_google_sheets(unique_rows)
+        worksheet.append_rows(unique_rows)
 
 @app.route('/upload', methods=['POST'])
 def upload():
@@ -420,22 +399,24 @@ def upload():
             data = json.loads(request.data.decode('utf-8'))
             process_data(data)
         except json.JSONDecodeError:
-            return jsonify({'error': 'Invalid JSON data format'})
+            return jsonify({'error': 'Invalid JSON data format'}), 400
 
-    return jsonify({'message': 'Data added successfully'})
+    return jsonify({'message': 'Data added successfully'}), 200
 
-@app.route('/get-role/<string:email>', methods=['GET'])
-def get_role(email):
+@app.route('/get-role', methods=['GET'])
+def get_role():
+    email = request.args.get('email')
+    print(email)
     if not email:
         return jsonify({'error': 'Email parameter is missing'}), 400
     try:
-        data = users_worksheet.get_all_records()
-        print("Data from Google Sheet:", data)
+        worksheet = get_worksheet('user_worksheet_url')
+        data = worksheet.get_all_records()
         for row in data:
-            print("Row from Google Sheet:", row)
+            print(type(row['email']), type(email))
             if row['email'].lower() == email.lower():
                 print(email)
-                return jsonify({'role': row['role']})
+                return jsonify({'role': row['role']}), 200
         
         return jsonify({'error': 'Email not found'}), 404
 
