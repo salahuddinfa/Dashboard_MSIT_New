@@ -389,18 +389,18 @@ def add_to_google_sheets(row):
 
 
 def process_data(data):
-    existing_emails = [row[0].lower() for row in users_worksheet.get_all_values()]  # Fetch existing emails from Google Sheet in lowercase
+    existing_emails = [row[0].lower() for row in users_worksheet.get_all_values()]
     unique_rows = []
     
-    if isinstance(data, dict):  # Single JSON object
+    if isinstance(data, dict):
         email = data.get('email')
-        if email and email.lower() not in existing_emails:  # Convert email to lowercase for comparison
-            unique_rows.append(data)
-    elif isinstance(data, list):  # List of JSON objects
+        if email and email.lower() not in existing_emails:
+            unique_rows.append(list(data.values()))
+    elif isinstance(data, list):
         for entry in data:
             email = entry.get('email')
-            if email and email.lower() not in existing_emails:  # Convert email to lowercase for comparison
-                unique_rows.append(entry)
+            if email and email.lower() not in existing_emails:
+                unique_rows.append(list(entry.values()))
     else:
         return jsonify({'error': 'Invalid data format'})
     
