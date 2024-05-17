@@ -423,6 +423,24 @@ def upload():
             return jsonify({'error': 'Invalid JSON data format'})
 
     return jsonify({'message': 'Data added successfully'})
+
+@app.route('/get-role/<string:email>', methods=['GET'])
+def get_role(email):
+    if not email:
+        return jsonify({'error': 'Email parameter is missing'}), 400
+    try:
+        data = users_worksheet.get_all_records()
+        print("Data from Google Sheet:", data)
+        for row in data:
+            print("Row from Google Sheet:", row)
+            if row['email'].lower() == email.lower():
+                print(email)
+                return jsonify({'role': row['role']})
+        
+        return jsonify({'error': 'Email not found'}), 404
+
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
     
 if __name__ == '__main__':
     app.run(debug=True)
