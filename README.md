@@ -1,2961 +1,3460 @@
-# FINANCIAL NOTES
+# NEXANS 2024 FINANCIAL STATEMENTS
 
-Annual Report 2023/24                                                                                                                                                                    38
+## 05 Consolidated financial statements
 
-## Note 1 Accounting principles
+The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
 
-Elekta AB (Parent Company), with corporate registration number 556170-4015, is a public limited company and its shares are listed on Nasdaq Stockholm, Sweden. Elekta AB is the Parent Company of the Group (Elekta) and is headquartered in Stockholm, Sweden. The address to the head office is Elekta AB, Hagaplan 4, Box 7593, SE-113 68 Stockholm. This annual report, including the consolidated financial statements, was signed and approved for publication by the Board of Directors of Elekta AB on July 4, 2024. The statements of income and the balance sheets, for the Parent Company and the Group, included in the annual report and the consolidated financial statements, are subject to adoption by the Annual General Meeting on September 5, 2024. The most important accounting principles applied in the preparation of the financial reports are set out below and, where applicable, in the following notes. Mainly, the same principles are applied for the Parent Company and the Group. The Parent Company's accounting principles deviating from those applied by the Group, or considered important to describe, are stated under a separate heading at the end of this note.
+## 5.1 Consolidated financial statements
 
-### Basis for preparation
-Elekta's consolidated financial statements have been prepared in accordance with International Financial Reporting Standards (IFRS) as endorsed by the European Union (EU), the Swedish Annual Accounts Act and standard RFR 1 of the Swedish Corporate Reporting Board. The Parent Company's financial reports have been prepared in accordance with the Swedish Annual Accounts Act and standard RFR 2 of the Swedish Corporate Reporting Board.
+### 5.1.1 Consolidated income statement
 
-### Measurement basis
-Financial statements have been prepared on a going concern and historical cost basis apart from financial assets and liabilities that are short-term investments, derivatives and contingent considerations, which are recognized at fair value.
+in millions of euros | Notes | 2024 | 2023
+--- | --- | --- | ---
+**NET SALES<sup>(a)</sup>** | **1.E.A, 4 AND 5** | **8,546** | **7,790**
+Cost of sales | | (7,373) | (6,795)
+**GROSS PROFIT** | | **1,173** | **995**
+Administrative and selling expenses | | (518) | (474)
+R&D costs | | (89) | (89)
+**OPERATING MARGIN<sup>(b)</sup>** | **1.E.B AND 4** | **566** | **432**
+Core exposure effect<sup>(c)</sup> | 1.E.C | 44 | (12)
+Reorganization costs | 25 | (62) | (49)
+Other operating income and expenses | 7, 8 and 9 | (34) | 1
+Share in net income of associates | | (0) | 1
+**OPERATING INCOME** | **1.E.D** | **513** | **374**
+Cost of debt (net) | 1.E.E | (55) | (59)
+Other financial income and expenses<sup>(d)</sup> | 1.E.E and 10 | (61) | (24)
+**INCOME BEFORE TAXES** | | **398** | **292**
+Income taxes | 1.E.F and 11 | (115) | (68)
+**NET INCOME (LOSS) FROM CONTINUING OPERATIONS** | | **283** | **223**
+Net income from discontinued operations | | - | -
+**CONSOLIDATED NET INCOME (LOSS)** | | **283** | **223**
+• attributable to owners of the parent | | 279 | 221
+• attributable to non-controlling interests | | 3 | 2
+**NET INCOME ATTRIBUTABLE TO OWNERS OF THE PARENT PER SHARE in euros** | **12** | | 
+• basic earnings (loss) per share | | 6.39 | 5.08
+• diluted earnings (loss) per share | | 6.20 | 4.92
 
-### New and amended accounting principles
-**Amended IFRS applied from May 1, 2023**
+(a) In addition to net Sales, The Group uses the indicator Sales at constant metal prices calculated using reference prices. They are presented in the segment information provided in Note 4 and in the activity report in Part 2. Sales at constant copper and aluminum prices are used by the Group to monitor its operational performance, because the effect of changes in non-ferrous metals prices is neutralized to show underlying business growth. Cost of sales is restated on the same basis.  
+(b) Operating margin is one of the business management indicators used to assess the Group's operating performance.  
+(c) Effect relating to the revaluation of core exposure at its weighted average cost.  
+(d) The other financial income and expenses includes the adjustment on the monetary impact of Turkey and Ghana due to the application of IAS 29 standard "Hyperinflation", see Notes 1 and 10.
 
-**Amendment to IAS 1 Presentation of Financial Statements and IFRS Practice Statement 2 Making Materiality Judgements – Disclosure of Accounting Policies**  
-The amendment and the practice statement provide guidance and examples to materiality judgements to accounting policy disclosures. Accounting principles presented in this report has been adjusted in accordance with the amended guidance.
+## 3 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
 
-**Amendment to IAS 8 Accounting Policies, Changes in Accounting Estimates and Errors – Definition of Accounting Estimates**  
-The amendments distinguish changes in accounting estimates from changes in accounting policies.
+---
 
-**Amendment to IAS 12 Income Taxes – Deferred Tax related to Assets and Liabilities arising from a Single Transaction**  
-The amendment clarifies that the initial recognition exemption does not apply on particular transactions that, on initial recognition, give rise to equal amounts of taxable and deductible temporary differences. For the Group, the amendment is only applicable for its leases and has affected the information disclosed in **Note 16 Taxes**.
+# NEXANS 2024 FINANCIAL STATEMENTS 05
+## Consolidated financial statements
 
-**Amendment to IAS 12 Income Taxes – International Tax Reform – Pillar Two Model Rules**  
-The amendments include disclosure requirements of the tax exposure and a temporary exception to recognize and disclose deferred taxes related to Pillar Two Model Rules, which are disclosed in **Note 16 Taxes**.
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
 
-No other new or amended accounting standards or interpretations effective from 2023 have affected the Group's financial statements.
+### 5.1.2    Consolidated statement of comprehensive income
 
-**New IFRS regulations and interpretations to be applied in 2024 or later**  
-From January 1, 2024 amendments in IAS 1 Presentation of Financial Statements come in to force clarifying when liabilities are to be classified as short-term. Furthermore there have been minor amendments to IFRS 16 Leases for the requirements for sale and leaseback transactions and new disclosure requirements for supplier finance arrangements in IAS 7 Statement of Cash Flows and IFRS7 Financial Instruments: Disclosures.
+*in millions of euros*
 
-From January 1, 2027 IFRS 18 Presentation and Disclosures in Financial Statements will be applicable. Elekta is currently evaluating the effects on the financial reporting from new and amended standards.
+| | Notes | 2024 | 2023 |
+|---|:---:|---:|---:|
+| Net income (loss) | | 283 | 223 |
+| Recyclable components of comprehensive income (loss) | | (44) | (91) |
+| • currency translation differences | | 12 | (59) |
+| • cash flow hedges | 28 | (57) | (32) |
+| Tax impacts on recyclable components of comprehensive income (loss) | 11.C | 12 | 4 |
+| Non-recyclable components of comprehensive income (loss) | | 26 | (9) |
+| • actuarial gains and losses on pensions and other long-term employee benefit obligations | 24.B | 26 | (9) |
+| • financial assets at fair value through other comprehensive income | | - | - |
+| Tax impacts on non-recyclable components of comprehensive income (loss) | 11.C | (7) | 2 |
+| TOTAL OTHER COMPREHENSIVE INCOME (LOSS) | | (13) | (94) |
+| TOTAL COMPREHENSIVE INCOME | | 269 | 129 |
+| • attributable to owners of the parent | | 265 | 127 |
+| • attributable to non-controlling interests | | 4 | 2 |
 
-### Consolidated accounts
-The consolidated accounts include Elekta AB and its subsidiaries.
+NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024    4
 
-### The acquisition method
-The consolidated accounts have been prepared in accordance with the acquisition method.
+---
 
-### Translation of foreign subsidiaries
-The Group companies prepare their financial statements in their functional currency, i.e. the currency used in the primary economic environment in which they mainly operate. These reports provide the basis for the consolidated accounts which are prepared in Swedish kronor (SEK), which is the functional currency of the Parent Company and the presentation currency. Unless otherwise stated, the amounts presented are in millions Swedish krona and, accordingly, rounding differences can occur. All items in the income statements have been translated at the average rate for the reporting period, while assets and liabilities in the balance sheets have been translated at the closing rate.
+# NEXANS 2024 FINANCIAL STATEMENTS
 
-### Income statement
-Elekta presents its income statement classified by function where the operating expenses are allocated to cost of products sold, selling expenses, administrative expenses and R&D expenses. Exchange rate differences are reported on a separate line within the operating income. These have been identified as important to distinguish from operating income and expenses directly related to functions in order to ease comparability over time.
+Consolidated financial statements
 
-### Transactions and balances in foreign currency
-Transactions in foreign currency are translated to the respective Group Company's functional currency by use of the currency rate prevailing on the transaction date. Monetary receivables and liabilities in foreign currency are translated by use of the closing day rate. Exchange rate differences arising upon translation, and upon payment of the transaction, are reported in the income statement with the exception of those related to qualified hedge transactions, related to cash flows or net investments, which are recognized in equity under other comprehensive income.
+The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
+
+## 5.1.3 Consolidated balance sheet
+
+At December 31, in millions of euros | Notes | 2024 | 2023
+--- | --- | --- | ---
+**ASSETS** |  |  | 
+Goodwill | 8 and 14 | 470 | 293
+Intangible assets | 15 | 320 | 210
+Property, plant and equipment | 16 | 2,196 | 1,854
+Investments in associates | 17 | 18 | 19
+Deferred taxes assets | 11.D | 117 | 129
+Other non-current assets | 18 | 225 | 234
+**NON-CURRENT ASSETS** |  | **3,345** | **2,740**
+Inventories and work in progress | 19 | 1,279 | 1,319
+Contract assets | 5.B | 194 | 187
+Trade receivables | 20 | 1,197 | 856
+Current derivative liabilities | 28 | 61 | 67
+Other current assets | 21 | 211 | 235
+Cash and cash equivalents | 26.A | 1,254 | 1,131
+Assets and groups of assets held for sale | 13 | 131 | -
+**CURRENT ASSETS** |  | **4,327** | **3,796**
+**TOTAL ASSETS** |  | **7,673** | **6,536**
+
+5 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
+
+| At December 31, in millions of euros | Notes | 2024 | 2023 |
+|:----------------------------------|:----:|-----:|-----:|
+| **Liabilities and equity** |  |  |  |
+| Capital, premiums, results and reserves |  | 1,945 | 1,793 |
+| Other components of equity |  | (131) | (98) |
+| **Equity attributable to owners of the parent** |  | 1,813 | 1,695 |
+| Non-controlling interests |  | 19 | 16 |
+| **EQUITY** | 23 | 1,833 | 1,711 |
+| Pensions and other long-term employee benefit obligations | 24 | 213 | 237 |
+| Non-current provisions | 25 | 95 | 82 |
+| Long-term financial borrowings and debt | 26 | 1,706 | 747 |
+| Non-current derivative liabilities | 28 | 60 | 33 |
+| Deferred taxes liabilities | 11.D | 151 | 129 |
+| **NON-CURRENT LIABILITIES** |  | 2,224 | 1,227 |
+| Current provisions | 25 | 113 | 117 |
+| Short-term financial borrowings and debt | 26 | 228 | 598 |
+| Contract liabilities | 5.B | 1,004 | 738 |
+| Current derivative liabilities | 28 | 112 | 61 |
+| Trade payables | 27 | 1,622 | 1,601 |
+| Other current liabilities | 27 | 508 | 482 |
+| Liabilities related to groups of assets held for sale | 13 | 29 | - |
+| **CURRENT LIABILITIES** |  | 3,615 | 3,597 |
+| **TOTAL EQUITY AND LIABILITIES** |  | 7,673 | 6,536 |
+
+NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024  6
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements
+The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.
+
+### 5.1.4    Consolidated statement of changes in equity
+
+| in millions of euros | Number of shares outstanding | Capital stock | Additional paid-in capital | Treasury stock | Retained earnings and other reserves | Changes in fair value and other | Currency translation differences | Equity attributable to owners of the parent | Non-controlling interests | Equity |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **DECEMBER 31, 2022** | 43,460,978 | 44 | 1,604 | (26) | 46 | (29) | 13 | 1,652 | 15 | 1,667 |
+| Net income | - | - | - | - | 221 | - | - | 221 | 2 | 223 |
+| Other comprehensive income (loss) | - | - | - | - | (8) | (27) | (60) | (94) | - | (94) |
+| **TOTAL COMPREHENSIVE INCOME** | - | - | - | - | 214 | (27) | (60) | 127 | 2 | 129 |
+| Dividends paid | - | - | - | - | (92) | - | - | (92) | (1) | (94) |
+| Changes in capital | - | - | - | - | - | - | - | - | - | - |
+| Changes in treasury shares⁽ᵃ⁾ | 172,544 | - | - | 16 | (23) | - | - | (6) | - | (6) |
+| Employee share-based plans: | | | | | | | | | | |
+| • Service cost | - | - | - | - | 13 | - | - | 13 | - | 13 |
+| • Proceeds from share issues | - | - | - | - | - | - | - | - | - | - |
+| Transactions with owners not resulting in a change of control | - | - | - | - | - | - | - | - | - | - |
+| Other | - | - | - | - | 1 | - | - | 1 | - | 1 |
+| **DECEMBER 31, 2023** | 43,633,522 | 44 | 1,604 | (10) | 159 | (56) | (46) | 1,695 | 16 | 1,711 |
+| Net income | - | - | - | - | 279 | - | - | 279 | 3 | 283 |
+| Other comprehensive income (loss) | - | - | - | - | 19 | (43) | 10 | (14) | 1 | (13) |
+| **TOTAL COMPREHENSIVE INCOME** | - | - | - | - | 298 | (43) | 10 | 265 | 4 | 269 |
+| Dividends paid | - | - | - | - | (101) | - | - | (101) | (1) | (102) |
+| Changes in capital | - | - | - | - | - | - | - | - | - | - |
+| Changes in treasury shares⁽ᵃ⁾ | (63,901) | - | - | (11) | (22) | - | - | (33) | - | (33) |
+| Employee share-based plans: | | | | | | | | | | |
+| • Service cost | - | - | - | - | 19 | - | - | 19 | - | 19 |
+| • Proceeds from share issues | - | - | - | - | - | - | - | - | - | - |
+| Transactions with owners not resulting in a change of control | - | - | - | - | (32) | - | - | (32) | - | (32) |
+| Other | - | - | - | - | - | - | - | - | - | - |
+| **DECEMBER 31, 2024** | 43,569,621 | 44 | 1,604 | (21) | 321 | (99) | (36) | 1,813 | 19 | 1,833 |
+
+The number of shares outstanding corresponds to the issued shares less the shares held in treasury, acquisitions and disposals of treasury shares, as well as outstanding shares, are detailed in Note 23.
+
+7 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## 05 Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+### 5.1.5 Consolidated statement of cash flows
+
+| in millions of euros | Notes | 2024 | 2023 |
+|:---------------------|:-----:|-----:|-----:|
+| Net income |  | 283 | 223 |
+| Depreciation, amortization and impairment of assets (including goodwill) | 8, 15 and 16 | 217 | 156 |
+| Cost of debt (gross) |  | 81 | 80 |
+| Core exposure effect⁽ᵃ⁾ |  | (44) | 12 |
+| Current and deferred income tax charge (income) | 11 | 115 | 68 |
+| Net (gains) losses on asset disposals | 9 | 4 | 9 |
+| Net change in provisions and non-current liabilities |  | (11) | (9) |
+| Fair value changes on operational derivatives |  | 46 | (37) |
+| Charges related to the cost of share-based payments |  | 19 | 13 |
+| Other restatements |  | 19 | 4 |
+| **CASH FLOWS FROM OPERATIONS BEFORE GROSS COST OF DEBT AND TAX**⁽ᵇ⁾ |  | **729** | **520** |
+| Decrease (increase) in working capital | 22 | 176 | 262 |
+| Impairment of current assets and accrued contract costs |  | 2 | 24 |
+| Income taxes paid |  | (132) | (107) |
+| **NET CHANGE IN CURRENT ASSETS AND LIABILITIES** |  | **46** | **180** |
+| **NET CASH GENERATED FROM OPERATING ACTIVITIES** |  | **775** | **700** |
+| Proceeds from disposals of property, plant and equipment and intangible assets |  | 2 | 6 |
+| Disbursements on tangible and intangible investments | 15, 16 | (378) | (377) |
+| Decrease (increase) in loans granted and short-term financial assets |  | 2 | (23) |
+| Purchase of shares in consolidated companies, net of cash acquired |  | (528) | (60) |
+| Proceeds from sale of shares in consolidated companies, net of cash transferred |  | (1) | 13 |
+| **NET CASH USED IN INVESTING ACTIVITIES** |  | **(903)** | **(440)** |
+| **NET CHANGE IN CASH AND CASH EQUIVALENTS AFTER INVESTING ACTIVITIES** |  | **(127)** | **260** |
+| Proceeds from (repayments of) long-term and short-term borrowings | 26 | 475 | (58) |
+| • of which proceeds from the 2024-2030 bond |  | 348 | - |
+| • of which proceeds from the 2024-2029 bond |  | 569 | - |
+| • of which repayment of the 2017-2024 bond |  | (200) | - |
+| • of which repayment of the 2018-2023 bond |  | - | (325) |
+| • of which proceeds from the 2023-2028 bond |  | - | 398 |
+| Cash capital increases (reductions)⁽ᶜ⁾ | 23 | (33) | (6) |
+| Interest paid |  | (63) | (59) |
+| Transactions with owners not resulting in a change of control |  | - | - |
+| Dividends paid |  | (102) | (93) |
+| **NET CASH USED IN FINANCING ACTIVITIES** |  | **278** | **(215)** |
+| Impact of hyperinflation⁽ᵈ⁾ |  | (2) | 3 |
+| Net effect of currency translation differences |  | (12) | (62) |
+| **NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS** |  | **(136)** | **(15)** |
+| **CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR** | 26.A | **1,114** | **1,129** |
+| **CASH AND CASH EQUIVALENTS AT YEAR-END** | 26.A | **1,251** | **1,114** |
+| • of which cash and cash equivalents recorded under assets |  | 1,254 | 1,131 |
+| • of which short-term bank loans and overdrafts recorded under liabilities |  | (3) | (16) |
+
+(a) Effect relating to the revaluation of core exposure at its weighted average cost, which has no cash impact (see Note 1.E.C).
+(b) The Group also uses the concept of "operating cash flow", which is obtained after reintegration of disbursements related to reorganizations, see Note 23 and deduction of taxes paid.
+(c) This line includes also inflows and outflows on acquisitions/sales of treasury stocks.
+(d) This line contains the impacts related to the application of IAS 29 "Hyperinflation" rules, see Notes 1 and 3.B.
+
+NEXANS | UNIVERSAL REGISTRATION DOCUMENT 2024   8
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+Consolidated financial statements
+
+The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
+
+## 5.1.6    Notes to the corporate financial statements
+
+| Note 1. | Accounting principles | Note 20. | Trade receivables |
+|---------|----------------------|----------|------------------|
+| Note 2. | Climate issues | Note 21. | Other current assets |
+| Note 3. | Significant events of the year | Note 22. | Change in working capital requirement |
+| Note 4. | Operating segments | Note 23. | Equity |
+| Note 5. | Revenue from contracts with customers | Note 24. | Pensions, retirement bonuses and other long-term benefits |
+| Note 6. | Payroll costs and headcount | Note 25. | Provisions |
+| Note 7. | Other operating income and expenses | Note 26. | Net debt |
+| Note 8. | Net asset impairment | Note 27. | Trade payables and other current liabilities |
+| Note 9. | Net gains (losses) on asset disposals | Note 28. | Derivative instruments |
+| Note 10. | Other financial income and expenses | Note 29. | Financial risks |
+| Note 11. | Income taxes | Note 30. | Additional disclosures concerning financial instruments |
+| Note 12. | Earnings per share | Note 31. | Related party transactions |
+| Note 13. | Assets held for sale and discontinued operations | Note 32. | Disputes and contingent liabilities |
+| Note 14. | Goodwill | Note 33. | Off-balance sheet commitments |
+| Note 15. | Intangible assets | Note 34. | Main consolidated companies |
+| Note 16. | Property, plant and equipment | Note 35. | Statutory Auditors' fees |
+| Note 17. | Investments in associates – Summary of financial data | Note 36. | Subsequent events |
+| Note 18. | Other non-current assets | | |
+| Note 19. | Inventories and work in progress | | |
+
+## Note 1.    Accounting principles
+
+### A.    General principles
+
+Nexans (the Company) is a French joint stock corporation (société anonyme) governed by the laws and regulations applicable to commercial companies in France, notably the French Commercial Code (Code de commerce). The Company was formed on January 7, 1994 (under the corporate name Atalec) and its headquarters is at Le Vinci, 4 allée de l'Arche, 92400 Courbevoie, France.
+
+Nexans is listed on the regulated market of Euronext Paris (Compartment A) and forms part of the SBF 120 index.
+
+The Nexans Group produces electrical cables and provides its customers with innovative energy transport solutions and services. The consolidated financial statements are presented in euros, rounded to the nearest million. Rounding may in some cases lead to non-material discrepancies in the different totals or year-on-year changes. They were approved by the Board of Directors on February 15, 2023 and will become final after approval at the Shareholders' Meeting, which will take place on May 11, 2023, on first call.
+
+Significant information on the accounting methods used in the preparation of these consolidated financial statements is described below. Except where otherwise indicated, these policies have been applied consistently to all the financial years presented.
+
+### BASIS OF PREPARATION OF THE CONSOLIDATED FINANCIAL STATEMENTS
+
+The consolidated financial statements of the Nexans Group have been prepared in accordance with the International Financial Reporting Standards (IFRS) as adopted by the European Union at December 31, 2023.
+
+The Group has applied all standards, interpretations and amendments of mandatory application to fiscal years beginning on or after January 1, 2023, which were as follows:
+• Amendments to IFRS 16 "Rental liabilities in case of sale and leaseback";
+• amendments to IAS 1 "Classification of current and non-current liabilities";
+• amendments to IAS 7 and IFRS 7 concerning reverse factoring.
+
+These publications had no material impact on the Group's consolidated financial statements.
+
+In particular, following the recommendation of "Pillar 2" of the OECD leading to the creation of a minimum tax regime for large international organizations, on December 14, 2022 the European Union adopted a directive making this regime effective on January 1, 2023, transposed by France as part of the 2023 Finance law. The "Pillar 2" rules are therefore applicable to all entities effectively controlled by Nexans, whether consolidated or not.
+
+The Group has been subject to the "Pillar 2" rules since January 1, 2023. The consequences of applying the standard are described in Note 11 "Income taxes".
+
+NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2023
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS 05
+
+Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+## NEW STANDARDS PUBLISHED BUT NOT YET EFFECTIVE
+
+The IASB has issued the following amendment that has been endorsed by the European Union and is applicable from January 1, 2023:
+- amendment to IAS 1: "Non-Convertibility"
+
+The Group does not expect its application of this amendment to have a material impact on its consolidated financial statements.
+
+The IASB has not issued any new standards, amendments or interpretations not yet endorsed by the European Union and potentially applicable to Group.
+
+## ACCOUNTING ESTIMATES AND JUDGEMENTS
+
+The preparation of consolidated financial statements requires Management to exercise its judgment and make estimates and assumptions that could have a material impact on the reported amounts of assets, liabilities, income and expenses.
+
+These assessments are carried out on a regular basis by Management in order to take into account past experience and other factors deemed relevant in view of the economic conditions. In particular, the regulations applicable in the coming years and the foreseeable consequences of the commitments made in favor of carbon neutrality, the forecasts of technological and market developments (raw material costs, changes in customer expectations, etc.) are taken into account and any other change that could have a significant impact on the consolidated financial statements in accordance with IFRS.
+
+The main sources of uncertainty relating to estimates are discussed in the notes specific to these items when necessary and relate to the following items:
+- the recoverable amount of certain items of property, plant and equipment, goodwill and other intangible assets, and determining the groups of cash-generating units (CGU) used for goodwill impairment testing (see Note 1.F.A, Note 1.F.B, Note 1.F.C and Note 8). The Group included in its review of the recoverable amount assumptions related to the consequences of climate change;
+- recognition and recoverability of deferred tax assets for unused tax losses (see Note 1.E.F and Note 11.B);
+- margins to completion and percentage of completion on long-term contracts (see Note 1.E.A);
+- the measurement of pension liabilities and other employee benefits (see Note 1.F.J and Note 24);
+- provisions and contingent liabilities (see Note 1.F.K, Note 25 and Note 32);
+- the measurement of derivative instruments and their qualification as cash flow hedges (see Note 1.F.N and Note 28);
+- cancelable lease terms for real estate leases (see Note 1.F.M).
+
+The estimates and underlying assumptions are based on past experience and other factors considered reasonable under the circumstances. They are reviewed on an ongoing basis. They serve as the basis for determining the carrying amounts of assets and liabilities when such amounts cannot be obtained directly from other sources. Due to the inherent uncertainties of any valuation process, it is possible that actual amounts reported in the Group's future financial statements may differ from the estimates used in these financial statements. The impact of changes in accounting estimates is recognized in the period of the change if it only affects that period or over the period of the change and subsequent periods if they are also affected by the change.
+
+## B. Consolidation methods
+
+The consolidated financial statements include the financial statements of Nexans, the subsidiaries over which Nexans exercises control, and companies accounted for by the equity method (associates).
+
+The financial statements of subsidiaries and associates are prepared for the same period as those of the parent company. Adjustments are made to harmonize any differences in accounting policies that may exist.
+
+Subsidiaries (companies controlled by Nexans) are fully consolidated from the date the Group takes over control through the date on which control is transferred outside the Group. Control is defined as the direct or indirect power to govern the financial and operating policies of a company in order to benefit from its activities.
+
+Other companies over which the Group exercises significant influence are classified as associates and accounted for by the equity method. Significant influence is presumed to exist when the Group's direct or indirect interest is over 20%.
+
+The type of control or influence exercised by the Group is assessed on a case-by-case basis using the presumptions set out in IFRS 10, IFRS 11, and the revised version of IAS 28. A list of the Group's main subsidiaries and associates is provided in Note 34.
+
+Intra-group balances and transactions, including any intra-group profits, are eliminated in consolidation.
+
+## C. Foreign currency translation methods
+
+The Group's financial statements are presented in euros. Consequently:
+- The balance sheets of foreign operations whose functional currency is not the euro are translated into euros at the year-end exchange rate.
+- Income statement items of foreign operations are translated at the average annual exchange rate. This exchange rate is considered as approximating the rate applicable to the underlying transactions.
+- The resulting exchange differences are included in other comprehensive income under "Currency translation differences". The functional currency of an entity is the currency of the primary economic environment in which the entity operates. In the majority of cases, this currency corresponds to the local currency.
+- Cash flow statement items are also translated at the average annual exchange rate.
+
+NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024 10
+
+---
+
+# NEXANS 2023 FINANCIAL STATEMENTS
+
+## 05. Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+The Group has applied IAS 29 to Turkey since January 1, 2022, and to Ghana since January 1, 2023.
+
+This standard (IAS 29) requires restatement of the non-monetary items of the assets and liabilities of a country experiencing hyperinflation as well as its income statement to reflect the change in the general purchasing power of its functional currency, resulting in a profit or loss on the net monetary position which is recognized in net income. In addition, the financial statements of this country are translated at the closing rate for the period in question.
+
+The consequences of the application of IAS 29 are described in Note 8 "Other financial income and expenses".
+
+IAS 29 has not been applied to translate the financial statements of any other Group company.
+
+Since 2020, the Lebanese economy was considered as hyperinflationary within the meaning of IAS 29. Nevertheless, the functional currency of the Group entity located in Lebanon is the US dollar and its activities in this country are mainly carried out in this currency. As a result, no restatement is made in the Group's financial statement.
+
+Foreign currency transactions are translated at the exchange rate prevailing at the transaction date. When these transactions are hedged and the hedge concerned is documented as a qualifying hedging relationship for accounting purposes, the gain or loss on the spot portion of the corresponding derivative directly affects the hedged item, so that the overall transaction is recorded at the hedging rate in the income statement.
+
+In accordance with IAS 21, "The Effects of Changes in Foreign Exchange Rates", foreign currency monetary items in the balance sheet are translated at the year-end closing rate. Any exchange gains or losses arising on translation are recorded as financial income or expense except if they form part of the net investment in the foreign operation within the meaning of IAS 21, in which case they are recognized directly in other comprehensive income under "Currency translation differences".
+
+Foreign exchange derivatives are measured and recognized in accordance with the principles described in Note 1.F.n.
+
+## D. Business combinations
+
+Business combinations are accounted for using the acquisition method, whereby the identifiable assets acquired, liabilities assumed and any contingent liabilities are recognized and measured at fair value.
+
+For all business combinations the acquirer must (other than in exceptional cases) recognize any non-controlling interest in the acquiree either at fair value (the "full goodwill" method) or at the non-controlling interest's proportionate share of the recognized amounts of the acquiree's identifiable net assets measured at their acquisition-date fair value. In the latter case, no goodwill is recognized on non-controlling interests (the "partial goodwill" method).
+
+Goodwill, determined as of the acquisition date, corresponds to the difference between:
+- The aggregate of the acquisition price, generally measured at acquisition-date fair value, the amount of any non-controlling interest in the acquiree measured as described above, and for a business combination achieved in stages, the acquisition-date fair value of the acquirer's previously held equity interest in the acquiree; and
+- The net of the acquisition-date amounts of the identifiable assets acquired and the liabilities assumed measured in accordance with IFRS 3.
+
+The Group has a period of 12 months from the acquisition date to complete the initial accounting for a business combination, during which any "measurement period adjustments" may be made. These adjustments are notably made to reflect information obtained subsequent to the acquisition date about facts and circumstances that existed at that date.
+
+The consideration transferred in a business combination must be measured at fair value, which is calculated as the sum of the acquisition date fair values of the assets transferred by the acquirer, the liabilities incurred by the acquirer to former owners of the acquiree and the equity interests issued by the acquirer. Any contingent consideration at the acquisition date is systematically included in the initial fair value measurement of the consideration transferred in exchange for the acquiree based on probability tests.
+
+Any changes in the fair value of contingent consideration that the acquirer recognizes after the acquisition date and which do not correspond to measurement period adjustments as described above – such as meeting an earnings target different from initial expectations – are accounted for as follows:
+- Contingent consideration classified as equity is not remeasured and its subsequent settlement is accounted for within equity.
+- Contingent consideration classified as an asset or liability that is a financial instrument and is within the scope of IFRS 9 is measured at fair value with any resulting gain or loss recognized in the income statement (notably the effect of unwinding the discount) or in other comprehensive income as appropriate.
+
+The Group accounts for acquisition-related costs for subsidiaries as expenses in the periods in which the costs are incurred and the services received. However, if the acquisition of a subsidiary is financed through the issuance of equity or debt instruments, the related costs are recognized in equity or debt respectively in accordance with IFRS 9 and IAS 32.
+
+## E. Income statement items
+
+### a. REVENUE
+
+Net sales represent revenue from sales of goods held for resale, as well as sales of goods and services deriving from the Group's main activities, for which consideration has been promised in contracts drawn up with customers. Net sales correspond to the Net sales at current metal prices in Note 4 related to Operating segments.
+
+The Group's main activities correspond to sales of cables produced in its plants, as well as cable installation services. Cables are sold either separately under specific contracts with customers (see below "Sales of goods"), or together with installation services under contracts that combine both sales of cables and installation services (see below "Goods and services contracts").
+
+## 11 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2023
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## 05 Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+In accordance with IFRS 15, revenue is recognized under sales when the control of goods or services is transferred to the customer. The amount recognized corresponds to the consideration the entity expects to receive in exchange for the goods or services.
+
+For all business the sales amount recognized in revenue corresponds to the amount of consideration to which the entity expects to be entitled based on the terms and conditions of each contract and standard commercial practices. Where applicable, penalties are deducted from contract revenue when a risk is estimated and it is likely to be payable. Revenue also includes certain variable consideration, notably relating to discounts and rebates which are measured using the expected value method or based on the single most likely amount depending on the specific terms and conditions of the contracts concerned.
+
+For all of the Group's activities, the revenue recognized as the consideration promised from customers for the transfer of goods or services takes into account the financial impact of payment deferrals when such deferrals are significant and represent a period of more than one year.
+
+### Sales of goods
+
+Customer contracts covering sales of goods include a single performance obligation for each delivery.
+
+Revenue from sales of goods is recognized at a specific point in time, corresponding to the moment when control of the asset concerned is transferred to the customer, which is generally when the goods are delivered.
+
+In addition, as the delivery of goods also corresponds to the moment when the Group obtains an enforceable right to payment, the contra-entry to the recognized amount of sales is presented in "Trade receivables" on the assets side of the consolidated balance sheet.
+
+### Goods and services contracts
+
+Contracts covering both sales of goods and cable installation services essentially concern the Group's high-voltage cable activities. They are contracts that are specifically negotiated for constructing and installing an asset or a group of assets that are closely interrelated or interdependent in terms of their design, technology and function or their ultimate purpose or use. When the customer cannot use an asset or a group of assets during their production or installation due to the specific features of their design and interdependency as provided for contractually, then a single performance obligation is identified per contract.
+
+Performance obligations under goods and services contracts are considered to be satisfied over time if (i) the asset or group of assets created in connection with a goods and services contract is specific to the requirements of the customer and cannot have an alternative use, and (ii) Nexans has an enforceable right to payment for the services performed up until the date in question.
+
+The input method is used to measure progress towards fulfilling the performance obligation based on costs incurred. The costs taken into account do not include any inefficiencies that were not anticipated and cannot therefore trigger any revenue recognition.
+
+For each goods and services contract, the cumulative amount of revenue recognized in respect of all of the Group's service obligations under the contract, less any advance payments received from customers and trade receivables which are recognized separately, is presented in the consolidated balance sheet under "Contract assets" or "Contract liabilities".
+
+Any expected loss to completion is recognized immediately in cost of sales in the consolidated income statement and under "Short-term provisions" or "Long-term provisions" in the consolidated balance sheet.
+
+### Customer advance payments
+
+The Group may receive partial payments from customers before the corresponding work is performed, which are referred to as customer advance payments. In accordance with IFRS 15, these advance payments are recorded under "Contract liabilities" or "Contract assets" depending on the net balance sheet position of the related goods and services contract.
+
+In the same way as for recognition of consideration promised by customers, when recognizing customer advance payments, the Group takes into account the financial impact of payment deferrals when such deferrals are significant and represent a period of more than one year.
+
+### Sales at constant metal prices
+
+On an operating level, the effects of fluctuations in metal prices are passed on in selling prices.
+
+To neutralize the effect of fluctuations in non-ferrous metal prices and thus measure the underlying trend in its business, the Group also presents its sales figures based on a constant price for copper and aluminum. These reference prices were set at 5,000 EUR/ton for copper and 1,200 EUR/ton for aluminum. They are then broken down in the currencies of each unit, thus incorporating the economic conditions specific to the environment of these units. The sales at constant metal prices are shown in Note A.1.
+
+## B. OPERATING MARGIN
+
+Operating margin, a key indicator, measures the Group's operating performance and comprises gross profit (which includes indirect production costs), administrative and selling expenses, and research and development costs (see Note 1.F.a).
+
+Share-based payments (see Note 1.F.i), pension operating costs (see Note 1.F.j) and employee profit-sharing are allocated by function to the appropriate lines in the income statement based on cost accounting principles.
+
+The operating margin is assessed before the effect of (i) the revaluation of the Core Exposure (see Note 1.E.c), (ii) impairment of property, plant and equipment, intangible assets and goodwill resulting from impairment tests, (iii) changes in fair value of non-ferrous metal derivatives, (iv) capital gains and losses on asset disposals, (v) related acquisition costs for completed acquisitions and expenses and fees related to planned acquisitions, (vi) expenses and provisions for antitrust investigations, (vii) reorganization costs, (viii) of which share in net income of associates, (ix) financial income, (x) taxes, and (xi) net income from discontinued operations.
+
+NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2024    12
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## 05 Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+The Group also uses adjusted EBITDA and ROCE as operating performance indicators.
+
+Adjusted EBITDA is defined as the operating margin before (i) depreciation, amortization and impairment, (ii) share-based expenses and (iii) certain specific operating items that are not representative of the performance of the Company (see Note 5 for more details). ROCE is the return on capital employed. It is calculated by dividing the operating margin by the capital employed.
+
+C. CORE EXPOSURE EFFECT
+
+This line of the consolidated income statement includes the following two components (see also Note 29.C):
+
+* A price effect: In the Group's IFRS financial statements, non-ferrous metal inventories are measured using the weighted average unit cost method, leading to the recognition of a temporary price difference between the accounting value of the copper used in production and the actual value of this copper as allocated to orders through the hedging mechanism. This difference is exacerbated by the existence on a permanent basis of a minimum inventory of metal that is not hedged (called "Core exposure").
+
+The accounting impact related to this difference is not included in operating margin and instead is accounted for in a separate line of the consolidated income statement called "Core exposure effect". Within operating margin – which is a key performance indicator for Nexans – inventories consumed are valued based on the metal price specific to each order, in line with the Group's policy of hedging the price of the metals contained in the cables sold to customers.
+
+* A volume effect: at the level of operating margin – which is a performance indicator – Core exposure is measured at historic cost, whereas at operating income level it is valued at weighted average cost (see Note 1.F.e) in accordance with IFRS. The impact of any changes in volumes of Core exposure during the period is also recorded under "Core exposure effect" in the consolidated income statement. However, this effect is generally limited as the tonnage of Core exposure is usually kept at a stable level from one period to the next, except for any structural change in the event of structural reorganizations within the Group or following a lasting significant contraction or expansion in business volumes, in accordance with the management principles described in Note 29.C.
+
+D. OPERATING INCOME
+
+Operating income includes operating margin (see Note 1.E.b), Core exposure effect (see Note 1.E.c), reorganization costs (see Note 1.F.k), share in net income of associates and other operating income and expenses. Other operating income and expenses are presented in Note 7 and mainly include impairment losses recorded on property, plant and equipment, goodwill and other intangible assets following impairment tests (see Note 1.F.c), gains and losses on asset disposals, and expenses and provisions for antitrust investigations.
+
+E. FINANCIAL INCOME AND EXPENSES
+
+Financial income and expenses include the following:
+
+* Cost of debt, net of financial income from investments of cash and cash equivalents.
+* Other financial income and expenses, which primarily include foreign currency gains and losses on transactions not qualified as cash flow hedges, additions to and reversals of provisions for impairment in value of financial investments, net interest expense on pensions and other long-term benefit obligations, and dividends received from non-consolidated companies.
+
+Details on the majority of these items are provided in Notes 10 and 26.
+
+F. INCOME TAXES
+
+The income tax expense for the year comprises current and deferred taxes.
+
+Deferred taxes are recognized for temporary differences arising between the carrying amount and tax base of assets and liabilities, as well as for tax losses available for carryforward. In accordance with IAS 12, no deferred tax assets or liabilities are recognized for temporary differences resulting from goodwill for which impairment is not deductible for tax purposes, or from the initial recognition of an asset or liability in a transaction which:
+
+* Is not a business combination,
+* At the time of the transaction, affects neither accounting profit nor taxable profit (except in the case of finance leases and actuarial gains or losses on pension benefit obligations),
+* Does not give rise, at the time of the transaction, to a taxable temporary difference and a deductible temporary difference of an equal amount.
+
+Deferred tax assets that are not matched by deferred tax liabilities expected to reverse in the same period are recognized only to the extent that it is probable that taxable profit will be available against which the deductible temporary differences can be utilized, based on medium-term earnings forecasts (generally covering a five-year period) for the company concerned. The Group ensures that the forecasts used for calculating deferred taxes are consistent with those used for impairment testing (see Note 1.F.c).
+
+Deferred tax assets and liabilities are measured at the tax rates that are expected to apply to the period when the asset is realized or the liability is settled. The rates applied reflect Management's intentions of how the underlying assets will be realized or the liabilities settled. All amounts resulting from changes in tax rates are recorded either in equity or in net income in the year in which the tax rate change is enacted or substantively enacted based on the initial recognition method for the corresponding deferred taxes.
+
+A deferred tax liability is recognized for all taxable temporary differences associated with investments in subsidiaries, branches and associates and interests in joint ventures, except to the extent that the Group is able to control the timing of the reversal of the temporary difference and it is probable that the temporary difference will not reverse in the foreseeable future.
+
+Deferred tax assets and liabilities are offset if the entity is legally entitled to offset current tax assets and liabilities and if the deferred tax assets and liabilities relate to taxes levied by the same taxation authority.
+
+---
+
+13 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements
+
+05
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+### F. Items recognized in the consolidated statement of financial position
+
+#### A. INTANGIBLE ASSETS
+
+See Notes D and F.c for a description of the Group's accounting treatment of goodwill.
+
+Intangible assets are stated at cost less any accumulated amortization and impairment losses. When they are acquired in a business combination their cost corresponds to their fair value.
+
+The Group applies the cost model for the measurement of intangible assets rather than the allowed alternative method that consists of regularly revaluing categories of assets. Government grants are recognized as a deduction from the gross amount of the assets to which they relate.
+
+Intangible assets primarily correspond to the following:
+
+* Trademarks, customer relationships and certain supply contracts acquired in business combinations. Except in rare cases, trademarks are deemed to have an indefinite useful life. Customer relationships are amortized on a straight-line basis over the period during which the related economic benefits are expected to flow to the Group (between five and 25 years).
+* Supply contracts can be deemed to have an indefinite useful life when they are automatically renewable and where there is evidence, notably based on past experience, indicating that the contractual rights will be renewed. Otherwise their useful lives generally correspond to the term of the contract.
+* The costs for acquired or developed software, usually intended for internal use, and development costs, to the extent that their cost can be reliably measured and it is probable that they will generate future economic benefits. These assets are amortized by the straight-line method over their estimated useful lives (between three and five years).
+* Capitalized development costs that meet the recognition criteria in IAS 38. Capitalized development costs are amortized over the estimated useful life of the project concerned from the date the related product is made available. Research costs as well as development costs that do not meet the recognition criteria in IAS 38 are expensed as incurred. Research and development costs to be rebilled to or by customers under the terms of construction contracts are included in "Contract assets" and "Contract liabilities".
+
+Intangible assets are derecognized when the risks and rewards of ownership of the asset are transferred.
+
+#### B. PROPERTY, PLANT AND EQUIPMENT
+
+Property, plant and equipment are stated at cost less any accumulated depreciation and impairment losses. When they are acquired in a business combination, their cost corresponds to their fair value. In accordance with IAS 23, directly attributable borrowing costs are included in the cost of qualifying assets.
+
+The Group applies the cost model for the measurement of property, plant and equipment rather than the allowed alternative method that consists of regularly revaluing categories of assets. Government grants are recognized as a deduction from the gross amount of the assets to which they relate.
+
+Property, plant and equipment are depreciated by the straight-line method based on the following estimated useful lives:
+
+| Industrial buildings and equipment |  |
+|-----------------------------------|-----------|
+| Industrial buildings | 20 years |
+| Infrastructure and fixtures | 10-20 years |
+| Equipment and machinery |  |
+| Heavy mechanical components | 30 years |
+| Medium mechanical components | 20 years |
+| Light mechanical components | 10 years |
+| Electrical and electronic components | 10 years |
+| Small equipment and tools | 3 years |
+| Buildings for administrative and commercial use | 20-40 years |
+
+The depreciation method and periods applied are reviewed at each year-end where necessary. The residual value of the assets is taken into account in the depreciable amount when it is deemed significant. Replacement costs are capitalized to the extent that they satisfy the criteria in IAS 16.
+
+Property, plant and equipment are derecognized when the risks and rewards of ownership of the asset are transferred.
+
+Property, plant and equipment also include right-of-use assets recognized for leases (see Note F.m).
+
+#### C. ASSET IMPAIRMENT TESTS
+
+At each period-end the Group assesses whether there is an indication that an asset may be impaired. Impairment tests are also carried out whenever events or changes in the market environment indicate that property, plant and equipment or intangible assets (including goodwill) may have suffered impairment. An impairment loss is recognized where necessary for the amount by which the asset's carrying amount exceeds its recoverable amount. The recoverable amount is the higher of an asset's fair value less costs to sell and value in use. Intangible assets with indefinite useful lives and goodwill are tested for impairment at least once a year.
+
+NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024  14
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+For operating assets that the Group intends to hold and use in its operations over the long term, the recoverable amount of a cash-generating unit (CGU) corresponds to the higher of fair value less costs to sell (where determinable) and value in use. Where the Group has decided to sell particular operations, the carrying amount of the related assets is compared with their fair value less costs to sell. Where negotiations in relation to such a sale are in progress, fair value is determined based on the best estimate of the outcome of the negotiations at the reporting date.
+
+Value in use is calculated on the basis of the future operating cash flows determined in the Group's budget process and strategic plan, which represent Management's best estimate of the economic conditions that will prevail during the remainder of the asset's useful life. The assumptions used are made on the basis of past experience and external sources of information, such as discount rates and perpetual growth rates.
+
+When an analysis of the related context reveals that a CGU, intangible asset or item of property, plant and equipment that is in use or ready for use may have become impaired, the asset concerned is tested for impairment in accordance with IAS 36, based on the following:
+
+- CGU: a cash-generating unit is the smallest identifiable group of assets that generates cash inflows that are largely independent of the cash inflows from other assets or groups of assets. The recoverable amount of goodwill is tested at the level of the CGU or group of CGUs to which it is allocated. The structure of the Group's CGUs is aligned with its operational organization and is based on a combined vision of market segments and geographical areas.
+
+- Other intangible assets and property, plant and equipment: groups of assets with finite useful lives are tested for impairment if there is a specific indication that they may be impaired (as defined in IAS 36). Examples of indications that an asset may be impaired include a pronounced decline in profitability, a considerably lower performance than in the original business plan, or a significant loss of customers, market share or product certifications.
+
+- The discount rate applied corresponds to the expected market rate of return for a similar investment, specific to each geographic area, regardless of the sources of financing. The discount rates used are post-tax rates applied to post-tax cash flows. The recoverable amounts determined using these post-tax rates are the same as those that would be obtained by using pre-tax rates applied to pre-tax cash flows.
+
+- Five-year business plans are used, based on the Group's budget process and strategic plan, with an extrapolation calculated in conjunction with local management for the final years of the projection period if appropriate.
+
+- Operational cash flows are extrapolated based on growth rates specific to each geographical area.
+
+Impairment losses (net of reversals) are recorded in the income statement under "Other operating income and expenses" unless they directly relate to a reorganization operation (see Note F.k.).
+
+## D. FINANCIAL ASSETS AT FAIR VALUE THROUGH PROFIT OR LOSS OR THROUGH OTHER COMPREHENSIVE INCOME
+
+Financial assets at fair value through profit or loss or through other comprehensive income relate to the shares in non-consolidated entities. They are initially recognized at fair value. For each of these assets the Group decides whether to measure subsequent changes in fair value either through profit or loss or through other comprehensive income (without any possibility of subsequently being recycled to profit or loss). This choice is made at the initial recognition date and is irreversible.
+
+## E. INVENTORIES AND WORK IN PROGRESS
+
+Inventories and manufacturing work in progress are stated at the lower of cost and net realizable value. The costs incurred in bringing inventories to their present location and conditions are accounted for as follows:
+
+- Raw materials: purchase cost according to the weighted average cost (WAC) method.
+
+- Finished goods and work in progress: cost of materials and direct labor, and share of indirect production costs, according to the WAC method.
+
+In compliance with IAS 23, qualifying inventories include directly attributable borrowing costs.
+
+Inventories include Core exposure:
+
+- In respect of rod mills, core exposure represents the minimum quantity of non-ferrous metal inventories necessary to establish and maintain continuous operation.
+
+- In respect to Nexans cabling activities, the Core exposure represents the amounts of non-ferrous metals required for the Group's cable plants to operate.
+
+Its overall volume is generally kept stable and is constantly replenished, however the level of Core exposure may have to be adapted at times, particularly in the event of a lasting significant contraction or expansion in business volumes. In the event of structural reorganizations within the Group, the level of Core exposure may have to be revised.
+
+The impact of changes in value of this component is shown in a separate line of the income statement and is included as a component of cash flows from operations in the statement of cash flows.
+
+Net realizable value of inventories is the estimated sale price in the ordinary course of business, less estimated completion costs and the costs necessary to carry out the sale. If the carrying amount of non-ferrous metal inventories is higher than their market value at the year-end, an impairment loss is only recognized when the products to which the assets are allocated have a negative production margin. Additional factors may be taken into account in determining inventory impairment losses, such as obsolescence, physical damage, defects or other indications of impairment (short lengths etc.). As stated in Note E.c., impairment losses on Core exposure are recognized under "Core exposure effect" in the consolidated income statement. Any impairment losses related to other categories of inventories are recognized within operating margin.
+
+15 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## 05 Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+### F. TRADE RECEIVABLES AND OTHER RECEIVABLES
+
+Trade receivables are stated at their transaction price determined in accordance with IFRS 15. Interest-free short-term operating receivables are recognized at nominal value as the impact of discounting is not material.
+
+Impairment losses for trade receivables are recognized based on two methods:
+
+- A collective method based on a statistical approach that reflects the expected credit losses over the lifetime of receivables, including receivables not past due, in accordance with IFRS 9.
+
+In order to apply this method, the Group has drawn up a matrix of the rates used to write down its trade receivables that factor in country risks, observed default probabilities and expected losses in the event of default. The base used to calculate these statistical loss allowances also takes into account any contractual guarantees received in relation to the receivables concerned. The carrying amount of the asset is written down and the amount of the loss is recognized in the income statement under "Cost of sales".
+
+- An individual method, whereby an impairment loss is recorded for a trade receivable whenever there is an objective indication that the Group will not be able to collect the full amounts due under the conditions originally provided for at the time of the transaction.
+
+The following are indicators that a receivable may be impaired: major financial difficulties for the debtor, the probability that the debtor will undergo bankruptcy or a financial reorganization, and a payment default. The amount of the impairment loss recorded represents the difference between the carrying amount of the asset and the estimated value of future cash flows discounted at the initial effective interest rate.
+
+Receivables written down by the individual method are excluded from the calculation base for impairment losses determined by the collective method.
+
+In the same way as for the collective method described above, under the individual method, the carrying amount of the asset is written down and the amount of the impairment loss is recognized in the income statement under "Cost of sales".
+
+These impairment methods also apply to "Contract assets" recognized in the consolidated balance sheet.
+
+### G. CASH AND CASH EQUIVALENTS
+
+Cash and cash equivalents, whose changes are shown in the consolidated statement of cash flows, comprise the following:
+
+- Cash and cash equivalents, classified as assets in the balance sheet, which include cash on hand, demand deposits and other short-term highly liquid investments that are readily convertible to a known amount of cash and are subject to an insignificant risk of changes in value.
+
+- Bank overdrafts repayable on demand which form an integral part of the entity's cash management. In the consolidated balance sheet, bank overdrafts are recorded as current financial liabilities.
+
+### H. ASSETS HELD FOR SALE
+
+#### Presentation in the consolidated balance sheet
+Non-current assets or groups of assets held for sale, as defined by IFRS 5, are presented on a separate line on the assets side of the balance sheet. Liabilities related to groups of assets held for sale are shown on the liabilities side, also on a separate line, except those for which the Group will remain liable after the related sale as a result of the applicable sale terms and conditions. Non-current assets classified as held for sale cease to be depreciated from the date on which they fulfill the classification criteria for assets held for sale.
+
+In accordance with IFRS 5, assets and groups of assets held for sale are measured at the lower of their carrying amount and fair value less costs to sell. The potential capital loss arising from this measurement is recognized in the income statement under "Other operating income and expenses" in "Net asset impairment".
+
+#### Presentation in the income statement
+A group of assets sold, held for sale or whose operations have been discontinued is a major component of the Group if:
+
+- It represents a separate major line of business or geographical area of operations;
+- It is part of a single coordinated plan to dispose of a separate major line of business or geographical area of operation; or
+- It is a subsidiary acquired exclusively with a view to resale.
+
+Where a group of assets sold, held for sale or whose operations have been discontinued is a major component of the Group, it is classified as a discontinued operation and its income and expenses for all periods presented are shown on a separate line of the income statement "Net income (loss) from discontinued operations", which comprises the total of:
+
+- The post-tax profit or loss of discontinued operations, and
+- The post-tax gain or loss recognized on the measurement at fair value less costs to sell or on the disposal of assets or groups of assets held for sale constituting the discontinued operation.
+
+When a group of assets previously presented as "held for sale" ceases to satisfy the criteria in IFRS 5, each related asset and liability component – and where appropriate income statement item – is reclassified to the relevant items of the consolidated financial statements.
+
+### I. SHARE-BASED PAYMENTS
+
+Stock options, performance shares and free shares may be granted to senior managers and certain other Group employees. These plans correspond to equity-settled share-based payment transactions and are based on the issue of new shares in the parent company (Nexans).
+
+In accordance with IFRS 2 "Share-based Payment", stock options, performance shares and free shares are measured at fair value at the grant date (corresponding to the date on which the plan is announced) up until the end of the subscription period. The value is fixed at the end of the subscription period. The Group uses different measurement models to calculate this fair value, notably the Black & Scholes and Monte-Carlo pricing models.
+
+The fair value of vested stock options, performance shares and free shares is recorded as a payroll expense on a straight-line basis from the grant date to the end of the vesting period, with a corresponding adjustment to equity recorded under "Retained earnings and other reserves".
+
+NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2024   16
 
 [IMAGE_DESCRIPTION: 
-Type: Company logo
-Location: Top left corner of the page
-Content: Elekta company logo showing a circular blue symbol with the name "Elekta" in dark blue text
-Colors & Style: Blue and white color scheme, corporate logo design
-Purpose: Brand identification
+Type: Page footer/header
+Location: Top of page
+Content: Nexans 2024 Financial Statements header with page number 05
+Text Elements: "NEXANS 2024 FINANCIAL STATEMENTS", "05", "Consolidated financial statements"
+Colors & Style: Professional document header with Nexans branding
+Purpose: Document identification and page numbering
 ]
-
-| Business overview | 04 |
-| --- | --- |
-| Financial reporting | 19 |
-| Board of Director's report | 21 |
-| Consolidated income statement | 30 |
-| Consolidated statement of comprehensive income | 30 |
-| Consolidated balance sheet | 32 |
-| Changes in consolidated equity | 34 |
-| Consolidated cash flow statement | 35 |
-| Financial statements – Parent Company | 36 |
-| Financial notes | 38 |
-| Signatures of the Board | 70 |
-| Auditor's report | 71 |
-| Sustainability notes | 75 |
-| Auditor's report | 101 |
-| Definitions | 102 |
-| Alternative performance measures | 103 |
-| Five-year review and key figures | 106 |
-| Corporate governance | 108 |
-
----
-
-# FINANCIAL NOTES
 
 [IMAGE_DESCRIPTION: 
-Type: Logo
-Location: Top left corner of the page
-Content: Elekta company logo showing circular symbol next to "Elekta" text
-Colors & Style: Blue and white company logo
-Purpose: Brand identification
+Type: Page footer
+Location: Bottom of page
+Content: Page number and document identification
+Text Elements: "NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2024   16"
+Colors & Style: Simple text footer with document identification and page number
+Purpose: Document identification and page numbering
 ]
-
-## Business overview    04
-
-## Financial reporting    19
-Board of Director's report    21
-Consolidated  
-income statement    30
-Consolidated statement  
-of comprehensive income    30
-Consolidated  
-balance sheet    32
-Changes in  
-consolidated equity    34
-Consolidated  
-cash flow statement    35
-Financial statements –  
-Parent Company    36
-Financial notes    38
-Signatures of the Board    70
-Auditor's report    71
-Sustainability notes    75
-Auditor's report    101
-Definitions    102
-Alternative  
-performance measures    103
-Five-year review and  
-key figures    106
-Corporate governance    108
-
-## Note 1 Significant accounting principles, cont.
-
-### Exchange rates
-
-| Country | Currency | Average rate |  | Closing rate |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  | 2023/24 | 2022/23 | April 30, 2024 | April 30, 2023 |
-| Australia | AUD | 6.979 | 7.097 | 7.157 | 6.816 |
-| Canada | CAD | 7.876 | 7.862 | 8.007 | 7.571 |
-| China | CNY | 1.478 | 1.517 | 1.513 | 1.490 |
-| Euroland | EUR | 11.514 | 10.884 | 11.729 | 11.347 |
-| United Kingdom | GBP | 13.368 | 12.545 | 13.744 | 12.861 |
-| Hong Kong | HKD | 1.359 | 1.333 | 1.400 | 1.313 |
-| Japan | JPY | 0.073 | 0.077 | 0.070 | 0.076 |
-| USA | USD | 10.635 | 10.447 | 10.955 | 10.303 |
-
-### Cash flow statement
-The cash flow statement is prepared according to the indirect method.
-
-### The Parent Company
-The Group's Parent Company, Elekta AB, carries out group management and provides joint group functions and financial management. The Parent Company's revenues consist mainly of dividends from subsidiaries. The most material balance sheet items are shares in subsidiaries, intra-group balances and external loans.
-
-The Parent Company's annual accounts have been prepared in accordance with the Swedish Annual Accounts Act (1995:1554) and standard RFR 2 of the Swedish Corporate Reporting Board. RFR 2 requires the Parent Company, in its annual accounts, to apply all the International Financial Reporting Standards (IFRS) as endorsed by the EU in so far as this is possible within the framework of the Annual Accounts Act and with regard to the relationship between accounting and taxation. RFR 2 states what exceptions from, and additions to, IFRS should be made.
-
-### Revenues
-The Parent Company's revenues consist mainly of dividends from subsidiaries. Dividends are recognized when the right to receive payment is judged to be firm.
-
-### Shares in subsidiaries and shares in associates
-Shares in subsidiaries and shares in associates are accounted for at cost less any accumulated impairment losses. Acquisition-related transaction costs are included in the cost of the shares. The recoverable amount of shares in subsidiaries or shares in associates is calculated whenever there is an indication of a reduction in value. Impairment is performed if the recoverable amount is lower than the carrying value. Impairment losses are recognized in the financial net in the income statement.
-
-### Financial instruments
-Derivative financial instruments and short-term investments are accounted for at fair value. Changes in the fair values of derivative financial instruments are reported in the income statement with the exception of exchange differences related to a monetary item that forms part of a net investment in a foreign subsidiary. Such value changes are recognized in equity under other comprehensive income. Contingent considerations are reported as provisions in the Parent Company.
-
-### Group contributions
-Group contributions are reported in accordance with RFR 2. Group contributions received and given are recognized as income from participations in Group companies and increase of shares in subsidiaries respectively. The tax effect of group contributions is recognized in the income statement in accordance with IAS 12.
-
-## Note 2 Financial risk management
-
-### Accounting principles
-See Note 4 for accounting principles relating to financial instruments.
-
-### Financial risk factors
-As a result of its operations, the Elekta Group is exposed to a number of financial risks: market risk, credit risk and liquidity risk. The Group's overriding risk management policy focuses on the unpredictability of financial markets and seeks to reduce any potentially unfavorable effects on the Group's financial results. Risk management is conducted by the Group's finance department, which identifies, evaluates and hedges financial risks. Work is pursued in line with the policies established by the board for overarching risk management and for specific areas such as currency risk, interest-rate risk, credit risk, utilization of derivative instruments and financial instruments that are not derivatives, and the investment of surplus liquidity.
-
-### Market risk
-Market risk encompasses currency risk, interest-rate risk and price risk. The Group's exposure to and management of currency risk and interest-rate risk are described below. The Group's exposure to price risk is limited and is not described in particular.
-
-### Currency risk
-Because of its international operations, the Group is exposed to currency risks in the form of transaction exposure and translation exposure. Transaction exposure arises as a result of future business transactions and translation exposure emerges as a result of recognized assets and liabilities in foreign currency as well as net investments in foreign operations. The Group's currency risk mainly arises from currency exposures in US dollars (USD), Euro (EUR), British Pounds (GBP), Japanese Yen (JPY) and Chinese Yuan (CNY).
-
-The Group's net revenue arises primarily in USD, EUR and JPY, while the Group's net expenses largely arise in GBP, EUR and USD. Sales companies primarily have income and expenses in their functional currency while production companies are to a greater extent exposed to currency risk as sales are largely in a currency other than the functional currency. The currency risk that arises from future business transactions and recognized assets and
-
-Annual Report 2023/24    39
 
 ---
 
-# FINANCIAL NOTES
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+If stock options or share grants are subject to internal performance conditions, their number is updated at the year-end. For plans that are subject to market performance conditions, changes in fair value after the grant date do not affect the amounts recognized in the financial statements.
+
+### J. PENSIONS, STATUTORY RETIREMENT BONUSES AND OTHER EMPLOYEE BENEFITS
+
+In accordance with the laws and practices of each country where it operates, the Group provides pensions, early retirement benefits and statutory retirement bonuses.
+
+For basic statutory plans and other defined contribution plans, expenses correspond to contributions made. No provision is recognized as the Group has no payment obligation beyond the contributions due for each accounting period.
+
+For defined benefit plans, provisions are determined as described below and recognized under "Pensions and other long-term employee benefit obligations" in the balance sheet (except for early retirement plans which are deemed to form an integral component of a reorganization plan, see Note 'F.k').
+
+* Provisions are calculated using the projected unit credit method which sees each service period as giving rise to an additional unit of benefit entitlement and measures each unit separately to build up the final obligation. These calculations take into account assumptions with respect to mortality, staff turnover, discounting, projections of future salaries and the return on plan assets.
+* Plan assets are measured at fair value at the year-end and deducted from the Group's projected benefit obligation.
+* In accordance with the revised version of IAS 19, actuarial gains and losses – resulting from experience adjustments and the effects of changes in actuarial assumptions – are recognized as components of other comprehensive income that will not be reclassified to the income statement, and are included in "Changes in fair value and other" within equity.
+* The Group analyzes the circumstances in which minimum funding requirements in respect of services already received may give rise to a liability at the year-end.
+
+When the calculation of the net benefit obligation results in an asset for the Group, the recognized amount (which is recorded under "Other non-current assets" in the consolidated balance sheet) cannot exceed the present value of available refunds and reductions in future contributions to the plan, less the present value of any minimum funding requirements.
+
+Provisions for jubilee and other long-service benefits paid during the employees' service period are valued based on actuarial calculations comparable to the calculations used for pension benefit obligations. They are recognized in the consolidated balance sheet under "Pensions and other long-term employee benefit obligations". Actuarial gains and losses on provisions for jubilee benefits are recorded in the income statement.
+
+In the event of an amendment, curtailment or settlement of a defined benefit pension plan, the Group's obligation is remeasured at the date when the plan amendment, curtailment or settlement occurs and the gain or loss on remeasurement is included within operating margin. When a defined benefit pension plan is subject to a reduction in liquidity or an amendment as a result of a reorganization plan, the related impact is presented in "Reorganization costs" in the income statement.
+
+The financial component of the annual expense for pensions and other employee benefits (interest expense after deducting any return on plan assets calculated based on the discount rate applied for determining the benefit obligations) is included in other financial expenses (see Note 9).
+
+### K. PROVISIONS
+
+Provisions are recognized when the Group has a present obligation (legal or constructive) resulting from a past event when it is probable that an outflow of resources embodying economic benefits would be required to settle the obligation and a reliable estimate can be made of the amount of the obligation.
+
+If the effect of discounting is material, the provisions are determined by discounting expected future cash flows applying a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the liabilities concerned. The effect of unwinding the discounting is recognized as a financial expense and the effects of any changes in the discount rate are recognized in the same account as that through which the provision was accrued.
+
+A provision is set aside to fully cover reorganization costs when they relate to an obligation by the Group to another party resulting from a decision made at an appropriate managerial or supervisory level, backed by a detailed formal plan that has been announced before the year-end to the party or parties concerned. Such costs primarily correspond to severance payments, early retirement benefits (except where qualified as employee benefits, see Note 'F.j'), costs for unworked notice periods, training costs of employees whose employment contracts have been terminated, and other costs directly linked to the shutdown of facilities.
+
+Asset retirements and impairment of inventories and other assets as well as other cash outflows directly linked to reorganization measures but which do not meet the criteria for the recognition of a provision are also recorded under reorganization costs in the income statement. In the consolidated balance sheet, this type of impairment is presented as a deduction from the related non-current or current assets. Reorganization costs also include costs directly related to the programs undertaken by the Group transformation strategy.
+
+### L. FINANCIAL LIABILITIES
+
+Financial liabilities are initially recognized at fair value, corresponding to their issue price less transaction costs directly attributable to the acquisition or issue of the financial liability. If the liability is issued at a premium or discount, the premium or discount is amortized over the life of the liability using the effective interest method. The effective interest method calculates the interest rate that is necessary to discount the cash flows associated with the financial liability through maturity to the net carrying amount at initial recognition.
+
+### Convertible bonds and other borrowings
+
+Under IAS 32 "Financial Instruments: Presentation", if a financial instrument has both a liability and an equity component, the issuer must account for these components separately according to their nature.
+
+17 | NEXANS | UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## 05 Consolidated financial statements
+
+The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
+
+This treatment applies, where appropriate, to OCEANE bonds which are convertible into new shares and/or exchangeable for existing shares as the conversion option meets the definition of an equity instrument.
+
+The liability component is measured on the issue date on the basis of contractual future cash flows discounted applying the market rate (taking into account the issuers credit risk) for a similar instrument but which is not convertible/redeemable for shares.
+
+The value of the conversion option is calculated as the difference between the issue price of the bonds and the value of the liability component. This amount is recognized under "Retained earnings and other reserves" in equity.
+
+Following initial measurement of the liability and equity components, the liability component is measured at amortized cost. The interest expense relating to the liability is calculated using the effective interest method.
+
+### Put options given to minority shareholders
+
+Put options given to minority shareholders in subsidiaries are recognized as financial liabilities at their discounted value. The impact of changes in the exercise price of these options is recognized in equity.
+
+### Leases
+
+Leases are recognized in the balance sheet at their inception for an amount corresponding to the present value of the future lease payments. The discount rates used for the present value calculations are based on the Group's incremental borrowing rate to which a spread is added to take into account the economic environments specific to each country.
+
+This amount is recognized under "Lease liabilities" on the liabilities side and "Right-of-use assets" on the assets side. The right-of-use asset recognized for a lease is then depreciated over the term of the lease, which generally corresponds to the non-cancellable period of a lease together with optional periods, i.e. periods where the Group is reasonably certain that it will exercise an extension option or not exercise a termination option.
+
+In the income statement due to the balance sheet treatment referred to above, lease payments are recognized as depreciation of the right-of-use asset included in "Operating margin" and interest on the lease liability included in "Cost of debt (net)". The tax impact of the restatements carried out on consolidation is accounted for via the recognition of deferred taxes.
+
+In the statement of cash flows, lease payments are presented in cash flows from financing activities under "Proceeds from (repayments of) long-term and short-term borrowings" for the portion corresponding to the repayment of lease liabilities and under "Interest paid" for the portion corresponding to the payment of interest on lease liabilities.
+
+Payments under leases corresponding to low value assets or short-term leases are recognized directly as expenses.
+
+### N. DERIVATIVE INSTRUMENTS
+
+Only derivatives negotiated with external counterparties are deemed eligible for hedge accounting.
+
+#### Foreign exchange hedges
+
+The Group uses derivatives (mainly forward purchases and sales of foreign currencies) to hedge the risk of fluctuations in foreign currency exchange rates. These instruments are measured at fair value, calculated by reference to the forward exchange rates prevailing at the year-end for contracts with similar maturity profiles.
+
+#### Foreign exchange cash flow hedges
+
+When foreign exchange derivatives are used to hedge highly probable future transactions (forecast cash flows or firm orders) that have not yet been invoiced and to the extent that they satisfy the conditions for cash flow hedge accounting, the change in the fair value of the derivative comprises two elements:
+
+- The "effective" portion of the unrealized or realized gain or loss on the hedging instrument, which is recognized directly in equity under "Changes in fair value and other". Any gains or losses previously recognized in equity are reclassified to the income statement in the period in which the hedged item impacts income, for example when the forecast sale takes place. These gains or losses are included in operating margin when they relate to commercial transactions.
+
+- The "ineffective" portion of the realized or unrealized gain or loss, which is recognized directly in the income statement as financial income or expense.
+
+#### Foreign exchange derivatives that do not qualify for hedge accounting
+
+Changes in fair value of derivatives that do not qualify for hedge accounting are recognized directly in the income statement as financial income or expense.
+
+These derivatives notably include instruments used as economic hedges that were never or are no longer designated as hedges for accounting purposes.
+
+#### Hedging of risks associated with fluctuations in non-ferrous metal prices
+
+Forward purchases of non-ferrous metals used in the Group's operations and which require physical delivery of the metals concerned are not included within the scope of IFRS 9. The purchases are recognized on the delivery date.
+
+The Group uses futures contracts negotiated primarily on the London Metal Exchange (LME) to hedge its exposure to non-ferrous metal price fluctuations (copper, aluminum and to a lesser extent, lead). These contracts are settled net in cash and constitute derivative instruments falling within the scope of application of IFRS 9.
+
+NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024 18
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## 05 Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+### Cash flow hedges of risks associated with fluctuations in non-ferrous metal prices
+
+Due to the sharp volatility in non-ferrous metal prices over the past several years, the Group has taken measures to enable a large portion of these derivative instruments to be classified as cash flow hedges as defined in IFRS 9. Consequently, whenever these instruments are used to hedge future transactions (mainly purchases of copper wires and cathodes) that are highly probable but not yet invoiced and meet the requirements for cash flow hedge accounting, the Group applies IFRS 9, as follows:
+
+- The "effective" portion of the unrealized gain or loss on the hedging instrument is recognized directly in equity under "Changes in fair value and other". The corresponding realized gain or loss is recognized within operating margin.
+- The "ineffective" portion of the unrealized gain or loss is recognized in the consolidated income statement under "Other operating income and expenses". The corresponding realized gain or loss is recognized within operating margin, which, in accordance with the Group's management model, includes all of the realized impacts relating to non-ferrous metals.
+
+The scope of entities eligible for hedge accounting covers most of the Group's metal derivatives.
+
+### Hedges of risks associated with fluctuations in non-ferrous metal prices that do not qualify for hedge accounting
+
+Changes in fair value of derivatives that do not qualify for hedge accounting are recognized directly within operating income under "Changes in fair value of non-ferrous metal derivatives". Any realized gains or losses are recorded in operating margin when the derivatives expire.
+
+These derivatives notably include instruments used as economic hedges that were never or are no longer designated as hedges for accounting purposes.
+
+### Note 2 - Climate issues
+
+Nexans closely monitors the challenges and potential consequences of climate change on its business strategy and investments.
+
+As detailed in Chapter 3 "Corporate Social Responsibility" Section 3.1, the Group has included the Environment in its E³ performance model. It is designing, developing and selling low-carbon solutions and has set targets for reducing carbon emissions by 2030 and 2050 set on the basis of the Paris Agreement.
+
+In line with the Science Based Target initiative (SBTi) rules, Nexans has committed itself to:
+- achieve "Net-Zero" emissions by 2050;
+- reduce its absolute Scopes 1 & 2 greenhouse gas (GHG) emissions by 46% and its Scope 3 GHG emissions by 30%, with a baseline year of 2019.
+
+These commitments involve an ambitious approach to reducing its greenhouse gas emissions by 4.2% per year.
+
+To this end, Nexans has implemented concrete actions such as the development of the circular economy since 2008 through Recycable (Joint Venture with Suez) or through the use, for example, of a new material based on recycled aluminum or by proposing the launch in 2023 of a low-carbon offer of distribution network cables.
+
+The Group has also chosen to invest in a targeted manner in the renovation or purchase of equipment. By making incremental investments, the Group can limit its recurring investments in maintenance and optimization. These investments include, for example, the installation of photovoltaic panels to improve the share of renewable and low-carbon energy while securing its supply.
+
+On the financing side, as part of the Sustainable Financing Framework, the Group carried out its first sustainable development bond issue for an amount of 500 million euros. This fixed-rate issue maturing on April 5, 2028 is linked to the climate objectives that Nexans hope to achieve by December 31, 2030, for the reduction of its Scope 1 and 2 greenhouse gas emissions, as well as for its Cradle-to-Shelf approach relating to the CO₂ content of Scope 3 emissions products. Failure to comply with any of these obligations would result in an increase in the coupon rate of the last year (see Note 26).
+
+The consequences in terms of investments, costs and other impacts on cash flows are taken into account when preparing accounting estimates. In particular, the impairment tests carried out include the following items:
+- the incremental investments related to the commitments made in terms of objectives for the contribution to carbon neutrality are insignificant and have no consequences on the review of the valuation of the Group's assets;
+- Forecasts of tensions on the copper market led the Group to include in its sensitivity tests the consequences of a possible reduction in the volume of copper.
+
+It is also possible that in the future the carrying amount of the assets or liabilities recognized in the Group's financial statements will be subject to different impacts as the climate change management strategy evolves or as the consequences of climate change materialize in the form of, for instance, rising sea levels or more frequent and severe droughts.
+
+In this context, Nexans is working to identify the risks on these assets in particular through the completion in 2023 of a study by Axa Climate on the challenges of the physical risks related to climate change for the Group's assets. Alongside the actions and protections already in place, this study enables the Group to determine its exposure and the future action plans to be put in place. The review of the conclusions of this study had no impact on the valuation of the assets in the financial statements. Any future action plans will be included in the assumptions for impairment tests as they are realized.
+
+For more details on the impairment tests, please refer to Note 8.
+
+## 19 NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2023
+
+AI: I've fully transcribed the document content while maintaining all formatting and structure. The document appears to be page 19 from Nexans' 2023 Universal Registration Document, specifically focused on their 2024 financial statements regarding consolidated financial statements, cash flow hedges related to metal price fluctuations, and climate issues (Note 2).
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+**Consolidated financial statements** 05
+
+*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
+
+## Note 2. Significant events of the year
+
+### A. Changes in Group structure
+
+**ACQUISITION OF THE LA TRIVENETA CAVI GROUP**
+
+In early 2024, Nexans entered into an agreement for the acquisition of the La Triveneta Cavi Group, one of the leaders in the medium and low-voltage cable sector.
+
+Founded in Italy in 1965, and now present in 55 countries, La Triveneta Cavi primarily manufactures low-voltage cables for building, infrastructure, fire-retardant cable systems and renewable energy applications. The company operates a best-in-class vertically integrated network with three cable production units featuring highly efficient logistic capabilities in addition to a world class "in-house" copper drawing facility. The company has almost 700 skilled employees and has generated current revenue of more than €405 million euros over the last twelve months.
+
+Nexans successfully completed this acquisition after obtaining the authorization from the Italian competition authority at the end of May 2024.
+
+The details and conditions of this transaction as well as the provisional goodwill are presented in **Note 14**.
+
+The entities of the La Triveneta Cavi Group have been fully consolidated since June 1, 2024 and their activities contributed to the Group's consolidated financial statements for 2024 for revenue at current metal prices of 425 million euros and an operating margin of 35 million euros.
+
+On a 12-month basis, considering, for example, an acquisition made on January 1, 2024, the contribution to the recurring revenue and the operating margin can be estimated at 730 million euros and 41 million euros respectively.
+
+### B. Assets held for sale
+
+As of December 31, 2024, a divestment program is undertaken for the entity Amercable, based in the United States and whose activity concerns resource cables (oil and gas, mines).
+
+The sale has been finalized on January 12, 2025, refer to post-closing events in **Note 15**.
+
+As a result, these items are presented in "Assets and groups of assets held for sale" as of December 31, 2024 in application of IFRS 5, see **Note 13**
+
+The details of this presentation to the Group's accounts are also detailed in this note.
+
+### C. Financing
+
+Nexans issued 2 new bonds during this first semester 2024:
+- a first issue, on March 11, 2024, for 350 million euros, with a six-year maturity and an annual interest rate of a 4.25%.
+- a second issue on May 17, 2024, for 300 million euros, with a five-year maturity and an annual interest rate of 4.125%. This bond loan partly financed the acquisition of the La Triveneta Cavi Group.
+
+Nexans redeemed the 200 million euros bond on its maturing date of April 5 2024.
+
+## Note 4. Operating segments
+
+Beginning of 2024, the Group announced a change in its organization and in the label of its businesses, without any impact on IFRS 8 segmentation. The Group has thus the following reportable segments within the meaning of IFRS 8 (after taking into account the aggregations authorized by the standard). These segments reflect the managerial organization of the Group and are defined on the basis of products and applications specific to different markets, all geographical areas combined:
+
+- **"PWR-Grid & Connect"** formerly "Buildings & Territories":  
+this segment provides reliable cabling systems and smart energy solutions enabling buildings and territories to be more efficient, sustainable and people-friendly. It covers the following markets: building, smart cities/grids, e-mobility, local infrastructure, decentralized energy systems and rural electrification. It has two components:
+  - **"PWR-Grid"** (ex-Distribution) which covers the cables intended for the energy distribution networks managed by the electricity suppliers within the territories.
+  - **"PWR-Connect"** (ex-Usages) corresponding to all the equipment cables of the various buildings.
+
+- **"PWR-Transmission"** (ex-Generation & Transmission) this segment partners its customers from the start of the cycle (design, engineering, financing, asset management) right through to the end (systems management) to help them find the cabling solution that is the best suited to their needs in terms of efficiency and reliability. It includes the following markets: offshore wind farms, subsea interconnections, onshore high voltage, subsea data transmissions (closely related to high voltage submarine projects), as well as the finalization of ongoing projects for smart solutions for the oil and gas sector.
+
+- **"Industry & Solutions"** this segment provides support to OEMs and industrial infrastructure project managers in personalizing their cabling and connection solutions to enable them being powered and meet their electrification, digitization and automation requirements. It covers the following markets: transport (aeronautics, rail, shipbuilding, automotive), automatic devices, renewable energy (solar and wind power), resources (oil and gas, mining) and other sectors (nuclear, medical, handling).
+
+The Group's segment information also includes a column entitled **"Other"** which corresponds to certain specific or centralized activities carried out for the Group as a whole which give rise to expenses that are not allocated between the various segments and the Electrical Wires business, comprising wire rods, electrical wires and winding wire production operations.
+
+NEXANS | UNIVERSAL REGISTRATION DOCUMENT 2024 | 20
+
+[Note: The text appears to show page 20 of Nexans' 2024 Universal Registration Document]
 
 [IMAGE_DESCRIPTION: 
-Type: Logo
-Location: Top left of the page
-Content: Elekta company logo showing a stylized circular design with the name "Elekta" in dark text
-Colors & Style: Blue and black corporate logo
-Purpose: Company branding
+Type: Document page
+Location: Full page
+Content: Page 20 of Nexans 2024 Financial Statements showing consolidated financial statements with notes about significant events of the year (Note 2) and operating segments (Note 4)
+Text Elements: All text has been transcribed above
+Colors & Style: Red Nexans logo at top right corner, red headings for notes, black text on white background
+Purpose: Financial reporting document page showing company restructuring, acquisition details, and segment reporting
 ]
-
-## Business overview    04
-## Financial reporting    19
-### Board of Director's report    21
-### Consolidated income statement    30
-### Consolidated statement of comprehensive income    30
-### Consolidated balance sheet    32
-### Changes in consolidated equity    34
-### Consolidated cash flow statement    35
-### Financial statements – Parent Company    36
-## Financial notes    38
-### Signatures of the Board    70
-### Auditor's report    71
-## Sustainability notes    75
-### Auditor's report    101
-### Definitions    102
-### Alternative performance measures    103
-### Five-year review and key figures    106
-## Corporate governance    108
-
-**Note 2 Financial risk management, cont.**
-
-liabilities are managed using derivative contracts based on forecasted net flows and recognized net balances. Elekta's policy is to hedge the exchange-rate risk using forwards, the extent of which is determined by the Group's estimation of the exchange-rate risk and in accordance with the Group's established policy. Highly forecasted transaction exposure hedging is on the basis of expected net sales and hedging is conducted over a period up to 24 months. Each Group company is responsible for quantifying its transaction exposure in particular flow forecasts that then provide the basis for determination of the exposure and decisions on hedging measures. Currency hedging of recognized assets and liabilities in foreign currency is hedged, in accordance with policy, from 50 percent to 100 percent.
-
-Hedging is carried out in order to reduce the effects of short-term fluctuations in currency markets. The Parent Company's direct and indirect holdings in foreign operations entail that net assets in the foreign operations are exposed to currency risk. Such net investments in foreign currency are hedged when viewed as appropriate on an individual basis, currently there are no outstanding net investment hedges.
-
-Based on the year's income, expense, and currency structure (transaction exposure) a general change of one percentage point in the SEK exchange rate against other currencies would affect Group net profit and shareholders' equity by approximately – SEK 29 M (17), exclusive of hedging effects.
-
-The table below shows the impact on operating income from a 1 percent weakening of the Swedish krona (SEK) in relation to the major currencies.
-
-**Impact on operating income of a 1 percent weakening of SEK, SEK M**
-
-| Currency | April 30, 2024 | April 30, 2023 |
-|----------|---------------|---------------|
-| USD | 33 | 39 |
-| EUR | 2 | −1 |
-| JPY | 3 | 4 |
-| GBP | −22 | −31 |
-| CNY | 1 | −4 |
-| Other currencies | 12 | 10 |
-
-The Group's net sales and operating expenses by currency for 2023/24 are shown in the following diagram.
-
-**Net sales and operating expenses per currency**
-
-```
-SEK M
-       10,000
-        5,000
-            0
-       -5,000
-              USD  EUR  JPY  GBP  CNY  SEK  Other
-```
-
-| Legend |
-|--------|
-| ■ Net sales 2023/24 |
-| ■ Operating expenses 2023/24 |
-| ■ Net sales 2022/23 |
-| ■ Operating expenses 2022/23 |
-
-**Interest-rate risk**
-
-Interest-rate risk refers to the risk that changes in the interest rate level negatively affect Elekta's earnings.
-
-Elekta's policy is to reduce the interest-rate risk through the use of loans, investments and derivatives. Hedging is carried out in order to reduce impact on result from interest rate movements and is never to exceed the amount and maturity of the underlying exposure. The Group's finance department analyzes exposure to interest-rate risk, whereby refinancing, turnover of existing positions, alternative financing and hedging are taken into account. Based on this, the effect on earnings that a certain change in the interest rate would have is calculated, in which the total change in the interest rate is used for all currencies. Elekta usually obtains long-term loans at a variable or fixed interest rate based on current market conditions. Conversion to fixed or variable interest rates is done using interest rate derivatives when this is deemed appropriate from a risk management and market perspective. An interest rate swap entails that the Group reaches agreement with another party with the indicated intervals (such as per quarter) to swap the difference between fixed and variable interest amount, estimated on the basis of the contracted nominal amount.
-
-Based on the balance sheet structure at year-end and under the assumption that all other variables were constant, a general change in the interest rate on loans and investments by one percentage point would affect the Group's net result and shareholders' equity by –32 M (–20), excluding hedging effects. The impact on the result is mainly attributable to lower/higher interest expense for loans at variable interest rate.
-
-On April 30, 2024, interest-bearing liabilities amounted to SEK 7,248 M (6,668), of which SEK 1,319 M (948) pertained to lease liabilities. The average fixed interest term was 0.9 years (1.1) and the weighted average interest rate, taking interest rate derivatives into account, was 4.65 percent (4.2). See Note 29 for more information on interest-bearing loans.
-
-**Credit risk**
-
-Credit risk arises via financial credit risk related to cash and cash equivalents, short-term investments, derivative instruments and balances at banks and financial institutions as well as through credit exposure vis-à-vis customers and distributors. Credit risk is managed primarily at Group level, but, as regards credit risk in accounts receivable and accrued income, the primary responsibility lies with the individual Group companies. Maximum credit risk is deemed to correspond to the carrying values of the financial assets recognized in the balance sheet.
-
-**Financial credit risk**
-
-Elekta's finance policy includes special counterparty regulations in which the maximum credit exposure and the lowest credit rating for various counterparts are specified. Elekta's liquidity is invested in accordance with the determined policy, with the goal of maintaining high liquidity combined with a low credit risk.
-
-Most of the subsidiary financing goes through internal loans from the Parent Company, therefore there is a credit risk originating from these. The opening balance of expected credit losses in the Parent Company amounted to SEK 21 M and the closing balance of expected credit loss reservation at the end of financial year 2023/24 was SEK 17 M.
-
-**Credit risk in accounts receivable**
-
-Credit risk in accounts receivable, including accrued income, are managed primarily by the individual group companies. The credit risk for each new customer is analyzed before the conditions for
-
-Annual Report 2023/24                 40
 
 ---
 
-# FINANCIAL NOTES
+# NEXANS 2024 FINANCIAL STATEMENTS
 
-[IMAGE_DESCRIPTION: 
-Type: Logo
-Location: Top left of the page
-Content: Elekta company logo - a blue circular symbol with "Elekta" text next to it
-Colors & Style: Blue circular logo with company name in dark blue
-Purpose: Company branding
-]
+## 05 Consolidated financial statements
 
-**Note 2 Financial risk management, cont.**
+*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
 
-payment and delivery are offered. A continuous follow up of the credit risk in receivables outstanding and agreed transactions are performed. A risk assessment is conducted continuously of credit worthiness through the observance of the customer's financial position and other influencing factors as well as previous experience. No single customer accounts for 10 percent or more of Elekta's net sales.
+Thus, among the items that principally contribute to the **"Other"** item, the following facts should be mentioned:
+- At December 31, 2023, 83% of the sales at constant metal prices recorded under this segment were generating by the Group's "Electrical Wires" business (compared with 76% in 2022), with the remainder being generated almost entirely by the Telecom/Data residual business.
+- the operating margin for "Other Activities" was a 61 million euros at December 31, 2023. It includes the combined impact of profit generated from sales of copper wires and certain centralized Group costs that are not allocated between the segments (such as holding company expenses).
 
-A continuous assessment is made of the credit risk in receivables outstanding and at the end of the financial year 2023/24 the provision for bad debts amounted to SEK 84 M. See ▶ **Note 25** for an analysis of credit exposure in accounts receivable and provision for bad debts.
+Transfer prices between the various operating segments are generally the same as those applied for transactions with parties outside the Group.
 
-**Liquidity risk**  
-Liquidity risk pertains to the risk of not being able to cover payment obligations due to insufficient cash and cash equivalents or difficulties in obtaining external financing. The operating Group companies draw up cash flow forecasts, which are consolidated centrally. At the Group level, rolling forecasts for the Group's liquidity reserve are observed in order to ensure that the Group has sufficient cash resources to meet the requirements of current operations, while also retaining sufficient scope of unutilized credit facilities.
+The segments presented in the segment information correspond to product families that are similar in nature, customer type, distribution methods and manufacturing processes.
 
-Excess liquidity in operating Group companies is usually transferred centrally and is managed by the Group's financial function. Investments are made primarily in interest-bearing accounts, term-limited borrowing, money market instruments, money market funds and tradable securities, depending on which instrument is viewed as having an appropriate term or sufficient liquidity to meet the particular situation. To reduce the liquidity risk, the Group endeavors to maintain readily available funds equal to at least 10 percent of net sales. On April 30, 2024, available cash and cash equivalents and short-term investments amounted to SEK 2,771 M (3,271), or 15 percent (19) of net sales. In addition, the Group had SEK 2,930 M (2,270) in unutilized credit facilities.
+Adjusted EBITDA is defined as the operating margin before (i) depreciation, amortization and provisions, (ii) share-based expenses and (iii) certain other specific operating items that are not representative of the Company's performance.
 
-The table to the right shows the Group's liquidity risk through a maturity analysis regarding financial liabilities (including interest payments as applicable) and derivatives recognized as financial liabilities. The amounts noted in the table are contractual, undiscounted cash flows classified on the basis of the term on the balance sheet date that remains to the agreed maturity date.
+Revenue at constant metal prices for 2023 and 2024 have been calculated using the reference prices of 5,000 EUR/ton for copper and 1,500 EUR/ton for aluminum. They are then broken down in the currencies of each unit, thus incorporating the economic conditions specific to the environment of these units.
 
-**The Groups capital management**  
-The primary objective of the Group's capital management is to secure a going concern through maintaining a high creditworthiness and a well-balanced capital structure with the aim of generating return to shareholders and benefits for other stakeholders, and to keep down the costs of capital.
+### A. Information by operating segment
 
-**Maturity analysis: financial liabilities**
+| 2024 in millions of euros | PWR Connect (ex-Usages) | PWR Grid (ex-Distribution) | PWR Transmission | Industry and Solutions | Other | Total Group |
+|---------------------------|-------------------------|---------------------------|------------------|------------------------|-------|------------|
+| Net revenue at current metal prices | 2,746 | 1,457 | 1,315 | 1,853 | 1,174 | 8,546 |
+| Net revenue at constant metal prices | 2,073 | 1,243 | 1,287 | 1,701 | 774 | 7,078 |
+| Adjusted EBITDA | 283 | 170 | 142 | 207 | 2 | 804 |
+| Specific operational items(a) | - | - | (3) | - | (19) | (22) |
+| Depreciation and amortization | (39) | (27) | (66) | (41) | (44) | (217) |
+| Operating margin | 245 | 142 | 73 | 166 | (61) | 566 |
+| Net impairment of non-current assets (including goodwill) (see Note 8) | - | - | (1) | - | 0 | (0) |
 
-| SEK M | < 1 yr | > 1 yr < 3 yrs | > 3 yrs < 5 yrs | > 5 yrs | Total | < 1 yr | > 1 yr < 3 yrs | > 3 yrs < 5 yrs | > 5 yrs | Total |
-|-------|--------|---------------|----------------|---------|-------|--------|---------------|----------------|---------|-------|
-| Loans (note 28) | 1,383 | 3,213 | 499 | 1,645 | 6,739 | 262 | 1,416 | 3,030 | 2,061 | 6,769 |
-| Lease liabilities (note 28) | 267 | 428 | 312 | 506 | 1,514 | 258 | 256 | 179 | 411 | 1,103 |
-| Accounts payable | 1,550 | – | – | – | 1,550 | 1,809 | – | – | – | 1,809 |
-| Derivative financial instruments – outflow, gross | 6,052 | 1,817 | – | – | 8,381 | 8,239 | 1,668 | – | – | 9,907 |
-| Derivative financial instruments – inflow, gross | −6,066 | −1,814 | – | – | −8,399 | −8,161 | −1,699 | – | – | −9,860 |
-| Other liabilities | 595 | 62 | – | – | 657 | 490 | 34 | – | – | 523 |
-| Total | 3,781 | 3,699 | 811 | 2,151 | 10,441 | 2,897 | 1,675 | 3,209 | 2,472 | 10,252 |
+(a) The specific operating items include principally 19 million euros related to the share-based payment tagged as "Other", and 3 million euros in PWR-Transmission in relation with additional costs on long term projects impacted by past reorganizations. These additional costs led to subsequent losses at completion which are not representative of the actual business performance and has initially been booked end 2023.
 
-April 30, 2024 | April 30, 2023
+| 2023 in millions of euros | PWR Connect (ex-Usages) | PWR Grid (ex-Distribution) | PWR Transmission | Industry and Solutions | Other | Total Group |
+|---------------------------|-------------------------|---------------------------|------------------|------------------------|-------|------------|
+| Net revenue at current metal prices | 2,214 | 1,366 | 896 | 1,886 | 1,428 | 7,790 |
+| Net revenue at constant metal prices | 1,679 | 1,186 | 870 | 1,750 | 1,026 | 6,512 |
+| Net revenue at constant metal prices and scope, and 2024 exchange rates(a) | 1,733 | 1,185 | 856 | 1,743 | 893 | 6,411 |
+| Adjusted EBITDA | 229 | 156 | 83 | 185 | 13 | 665 |
+| Specific operational items(a) | - | - | (40) | - | (13) | (53) |
+| Depreciation and amortization | (24) | (25) | (52) | (38) | (40) | (179) |
+| Operating margin | 205 | 131 | (9) | 147 | (41) | 432 |
+| Net impairment of non-current assets (including goodwill) (see Note 8) | - | - | (0) | 7 | 16 | 23 |
 
-**Maturity analysis: loans & lease liabilities**
+(a) The specific operating items included 13 million euros related to the share-based payment tagged as "Other", and 40 million euros in PWR-Transmission in relation with additional costs on long term projects impacted by past reorganizations. These additional costs led to subsequent losses at completion which are not representative of the actual business performance.
 
-[IMAGE_DESCRIPTION:
-Type: Bar chart
-Location: Bottom right of page
-Content: Bar chart showing maturity analysis for loans and lease liabilities across different time periods (<1 yr, 1-3 yrs, 3-5 yrs, >5 yrs)
-Text Elements: "SEK M" on y-axis, values from 0 to 4,000, time periods on x-axis
-Colors & Style: Blue and lighter blue bars representing loans and lease liabilities
-Purpose: Visual representation of loan and lease liability maturity structure
-Data Visualization: Shows higher loan values (darker blue) compared to lease liabilities (lighter blue) across time periods
-]
+The segments presented in the segment information correspond to product families that are similar in nature, customer type, distribution methods and manufacturing processes.
 
-**Net debt/EBITDA ratio**
-
-| | Note | April 30, 2024 | April 30, 2023 |
-|---|------|--------------|---------------|
-| Interest-bearing liabilities | 29 | 5,929 | 5,720 |
-| Cash and cash equivalents and short-term investments | 27 | −2,779 | −3,278 |
-| Net debt | | 3,150 | 2,442 |
-| EBITDA | | 3,189 | 2,682 |
-| Net debt/EBITDA ratio | | 0.99 | 0.91 |
-
-The net debt/EBITDA ratio was 0.99 compared to 0.94 for prior fiscal year. See ▶ **Note 29** for more information on interest-bearing liabilities and section Alternative Performance Measures on ▶ **page 103** for more information on EBITDA and Net debt.
-
-In order to maintain or adjust the capital structure, the Group can propose the dividend paid to shareholders, repay capital to shareholders, issue new shares or sell assets to reduce debt.
-
-Annual Report 2023/24                41
-
-## Business overview    04
-## Financial reporting    19
-### Board of Director's report    21
-### Consolidated income statement    30
-### Consolidated statement of comprehensive income    30
-### Consolidated balance sheet    32
-### Changes in consolidated equity    34
-### Consolidated cash flow statement    35
-### Financial statements – Parent Company    36
-## Financial notes    38
-### Signatures of the Board    70
-### Auditor's report    71
-## Sustainability notes    75
-### Auditor's report    101
-## Definitions    102
-## Alternative performance measures    103
-## Five-year review and key figures    106
-## Corporate governance    108
+## 21 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
 
 ---
 
-# FINANCIAL NOTES
+# NEXANS 2024 FINANCIAL STATEMENTS
+## Consolidated financial statements 05
 
-[IMAGE_DESCRIPTION: 
-Type: Logo
-Location: Top left corner of the document
-Content: Elekta company logo consisting of a circular blue symbol next to the text "Elekta"
-Colors & Style: Blue corporate logo
-Purpose: Brand identification
-]
+*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
 
-Annual Report 2023/24                                                                                                43
+## B. Information by main countries
 
-## Note 4  Financial instruments
-
-### Accounting principles 
-A financial asset or a financial liability is reported in the balance sheet when the Group becomes party to the contractual terms and conditions of the financial instrument. A financial asset is derecognized from the balance sheet when the contractual rights are realized, fall due, or if the Company transfer substantially all the risks and rewards of ownership. Spot acquisitions or sales of financial assets are reported on the settlement date, which is the date on which the asset is delivered.
-
-Financial assets are initially recognized at fair value plus transaction costs, except for those financial assets carried at fair value through the net income. Related transaction costs are expensed in the income statement.
-
-Financial assets and liabilities are offset and reported at a net amount in the balance sheet when there is a legal right to net and when the intention is to settle the items using a net amount or simultaneously realize the assets and settle the liability.
-
-Subsequent measurement of financial assets, after the initial recognition at fair value, is based on what business model the Group have for managing the asset and the cash flow characteristics of the asset. For debt instruments there are three measurement categories with the following characteristics:
-• Amortized cost; assets held with the intention for collection of contractual cashflows and the cashflow represent solely payments of principal and interest
-• Fair value through other comprehensive income; assets held with the intention for collection of contractual cashflow and for selling it, and the cashflow represent solely payments of principal and interest
-• Fair value through the profit or loss; all financial assets that do not meet the criteria for amortized cost or fair value through other comprehensive income
-
-Equity instruments which are instrument that evidence a residual interest in the asset of an entity after deduction of all its liabilities, are measured at fair value through the net income.
-
-The financial liabilities are classified into following measurement categories:
-• fair value through profit or loss; liabilities held for trading
-• amortized cost; liabilities not held for trading
-
-### Financial assets measured at amortized cost
-Assets are classified in this category when the intention is to hold the asset for collection of contractual cashflows and the cashflow represent solely payments of principal and interest.
-
-In this category assets are measured at amortized cost using the effective interest method, less any provision for impairment. Interest income and gains and losses are recognized in the income statement. The category includes accounts receivables as well as cash and bank.
-
-#### Accounts receivable
-Accounting principles for accounts receivables are disclosed in Note 25 Accounts receivables.
-
-#### Cash and cash equivalent
-Cash and cash equivalent comprise cash and bank balances with financial institutions and short-term investments with an original maturity of less than three months. Cash and bank are reported at amortized cost, while the short-term investments in money market funds are measured at fair value through the net income.
-
-### Financial assets measured at fair value through profit and loss (FVTPL)
-All financial assets that do not meet the criteria for amortized cost or FVTOCI are measured as FVTPL. Assets are classified to this category when the intention is to sell in short term. Derivatives with a positive market value are classified in this category unless they are used for hedge accounting. Financial derivatives and short-term investments in tradeable securities as well as money market funds is classified in this category. Assets in this category are recognized at fair value and changes in value are recognized in the income statement.
-
-### Impairment
-Financial assets carried at amortized cost and FVTOCI are assessed for impairment based on expected credit losses. The expected credit loss allowance is based on historical credit loss experience, current conditions, and forward-looking economic conditions.
-
-The impairment methodology applied depends on whether there has been a significant increase in credit risk. For account receivables the Group applies the simplified approach to estimate the expected credit losses and uses a matrix based on country and ageing group.
-
-### Financial liabilities at fair value through profit or loss
-This category includes derivatives with negative fair values that are not used for hedge accounting, financial liabilities held for trading and contingent considerations. Liabilities in this category are measured at fair value with changes in that value recognized in the income statement.
-
-### Financial liabilities measured at amortized cost
-This category includes financial liabilities that are not held for trading, for example loans and accounts payable. These are recognized initially at fair value, net after transaction costs, and subsequently at amortized cost according to the effective interest method.
-
-#### Loan liabilities
-Loan liabilities are initially reported at fair value, net of transaction costs, and subsequently at amortized cost according to the effective interest method.
-
-#### Accounts payable
-The valuation principle for accounts payable is the amortized cost principle. The expected lifetime for accounts payable is short and thus the payables are reported at nominal value without discounting.
-
-### Accounting for derivatives used for hedging purposes
-Elekta applies the hedge accounting requirements of IFRS 9. All derivatives are initially and continuously recognized at fair value in the Balance sheet. Gains and losses on remeasurement of derivatives used for hedging purposes are recognized as follows. Changes in value relating to cash flow hedges are reported in other comprehensive income and are taken to the income statement as the hedged cash flow affects the income statement. Any ineffective portion of the change in value is reported directly in the income statement.
-
-The result of a revaluation of derivatives used to hedge fair value is reported in the income statement along with changes in the fair value of the receivable or liability exposed to the hedged risk. For derivatives designated and qualified as hedging instruments
-
-## Table of Contents
-
-Business overview                    04
-Financial reporting                  19
-Board of Director's report           21
-Consolidated income statement        30
-Consolidated statement of comprehensive income  30
-Consolidated balance sheet           32
-Changes in consolidated equity       34
-Consolidated cash flow statement     35
-Financial statements – Parent Company  36
-Financial notes                      38
-Signatures of the Board             70
-Auditor's report                     71
-Sustainability notes                 75
-Auditor's report                    101
-Definitions                         102
-Alternative performance measures     103
-Five-year review and key figures     106
-Corporate governance               108
-
----
-
-# Note 4 Financial instruments, cont.
-
-ments, the method of recognizing the fair value gains or losses depends on the nature of the item being hedged.
-
-The Company documents, at the inception of the hedge, the relationship between hedged item and financial derivative instrument, as well as its risk management objective and strategy. Also, the Company documents its assessment, both at the hedge inception and on an ongoing basis, of whether the derivatives that are used in hedging transactions are highly effective in offsetting the changes in fair values or cash flows of hedged items based on the following hedging criteria:
-• There is an economic relationship between the hedged item and the hedging instrument
-• The effect of credit risk does not dominate the value changes that result from that economic relationship and
-• The hedge ratio of the hedging relationship is consistent with risk management strategy
-
-The table to the right presents Elekta's financial assets and financial liabilities by measurement category with the carrying amount and fair value per item. Fair value for interest-bearing liabilities has been established by discounting future payment flows at current market interest rate and then converting to SEK at the current exchange rate. For other financial instruments the fair value is estimated to agree with the carrying amount.
-
-## Financial instruments per category
-
-| | | April 30, 2024 | | April 30, 2023 | |
-|---|---|---|---|---|---|
-| SEK M | Note | Carrying amount | Fair value | Carrying amount | Fair value |
-| **FINANCIAL ASSETS** | | | | | |
-| **Financial assets measured at fair value through profit or loss:** | | | | | |
-| Derivative financial instruments– non-hedging | | 42 | 42 | 10 | 10 |
-| Current investments classified as cash equivalents | 27 | – | – | 3 | 3 |
-| **Financial assets measured at amortised cost:** | | | | | |
-| Other financial assets | 23 | 1,031 | 1,031 | 990 | 990 |
-| Accounts receivable | 25 | 3,877 | 3,877 | 3,990 | 3,990 |
-| Other receivables | 26 | 667 | 667 | 718 | 718 |
-| Cash and bank | 27 | 2,779 | 2,779 | 3,275 | 3,275 |
-| **Derivatives used for hedging purposes:** | | | | | |
-| Derivative financial instruments – hedging | | 149 | 149 | 141 | 141 |
-
-| | | April 30, 2024 | | April 30, 2023 | |
-|---|---|---|---|---|---|
-| SEK M | Note | Carrying amount | Fair value | Carrying amount | Fair value |
-| **FINANCIAL LIABILITIES** | | | | | |
-| **Financial liabilities at fair value through profit or loss:** | | | | | |
-| Derivative financial instruments– non-hedging | | 11 | 11 | 9 | 9 |
-| Other liabilities (contingent considerations) | | 76 | 76 | 21 | 21 |
-| **Financial liabilities measured at amortized cost:** | | | | | |
-| Long-term interest-bearing liabilities | 29 | 4,806 | 5,531 | 4,099 | 4,251 |
-| Short-term interest-bearing liabilities | 29 | 1,121 | 1,174 | 510 | 514 |
-| Accounts payable | | 1,550 | 1,550 | 1,809 | 1,809 |
-| Other liabilities | | 31 | 31 | 30 | 30 |
-| **Derivatives used for hedging purposes:** | | | | | |
-| Derivative financial instruments – hedging | | 120 | 120 | 194 | 194 |
-
-[IMAGE_DESCRIPTION: 
-Type: Logo and navigation sidebar
-Location: Left side of the document
-Content: Elekta company logo at top, followed by a navigation sidebar with sections including "Business overview", "Financial reporting", and other document sections with corresponding page numbers
-Colors & Style: Blue and white color scheme, professional corporate design
-Purpose: Document navigation and branding
-]
-
-FINANCIAL NOTES
-Annual Report 2023/24
-44
-
----
-
-# FINANCIAL NOTES
-
-Annual Report 2023/24    45
-
-**Note 4 Financial instruments, cont.**
-
-## Distribution by level when measured at fair value
-
-| SEK M | April 30, 2024 |  |  |  | April 30, 2023 |  |  |  |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  | Level 1 | Level 2 | Level 3 | Total | Level 1 | Level 2 | Level 3 | Total |
-| **FINANCIAL ASSETS** |  |  |  |  |  |  |  |  |
-| Financial assets measured at fair value through profit or loss: |  |  |  |  |  |  |  |  |
-| Derivative financial instruments – non-hedge accounting | – | 42 | – | 42 | – | 10 | – | 10 |
-| Current investments classfied as cash equivalents | – | – | – | – | 3 | – | – | 3 |
-| Derivatives used for hedging purposes: |  |  |  |  |  |  |  |  |
-| Derivative financial instruments – hedge accounting | – | 149 | – | 149 | – | 141 | – | 141 |
-| Total financial assets | – | 190 | – | 190 | 3 | 151 | – | 154 |
-| **FINANCIAL LIABILITIES** |  |  |  |  |  |  |  |  |
-| Financial liabilities at fair value through profit or loss: |  |  |  |  |  |  |  |  |
-| Derivative financial instruments – non-hedge accounting | – | 11 | – | 11 | – | 9 | – | 9 |
-| Contingent considerations | – | – | 76 | 76 | – | – | 21 | 21 |
-| Derivatives used for hedging purposes: |  |  |  |  |  |  |  |  |
-| Derivative financial instruments – hedge accounting | – | 120 | – | 120 | – | 194 | – | 194 |
-| Total financial liabilities | – | 131 | 76 | 207 | – | 203 | 21 | 224 |
-
-The table above shows how Elekta's financial assets and financial liabilities, which are carried at fair value, have been categorized in the fair value hierarchy. The different levels are defined as follows. Level 1: Quoted prices on an active market for identical assets or liabilities. Level 2: Other observable data than quoted prices included in Level 1, either directly (that is, price quotations) or indirectly (that is, obtained from price quotations). Level 3: Data not based on observable market data.
-
-**Financial instruments, level 1**  
-The fair value of tradeable securities is reported based on quoted prices on an active market.
-
-**Financial instruments, level 2**  
-The fair value of financial instruments that are not traded on an active market is determined by means of available valuation techniques. Market information is used when available. The use of corporate-specific information is avoided whenever possible. If all important input data required for a fair value valuation of an instrument is observable, the instrument is in level 2. Specific valuation techniques used in the valuation of financial instruments include, for example, listed market prices, fair value for interest-rate swaps, calculated as the present value of estimated future cash flows based on observable yield, fair value of currency forward contracts determined through the use of rates for currency foreign exchange contracts on the balance sheet date.
-
-**Financial instruments, level 3**  
-The change during the year for instruments at level 3 refers to contingent considerations, valued at fair value. Input to the valuation is outcome, and estimates of the outcome relating to conditions set forth in the purchase agreement, usually revenue from the acquired business. Amounts expected to be paid in the future are discounted at a rate relevant for the respective business and market.
-
-**Movements financial instruments level 3**
-
-| SEK M | 2023/24 | 2022/23 |
-|---|---:|---:|
-| Opening balance May 1 | −21 | −18 |
-| Business combinations | −68 | −13 |
-| Payments | 12 | 20 |
-| Reversals | 1 | 4 |
-| Reclassifications | 0 | – |
-| Revaluations | −1 | −19 |
-| Translation differences | 1 | 5 |
-| Closing balance April 30 | −76 | −21 |
-
-[IMAGE_DESCRIPTION:
-Type: Company logo
-Location: Top left corner of the document
-Content: Elekta company logo
-Colors & Style: Blue circular logo next to the Elekta text
-Purpose: Corporate branding
-]
-
-Business overview    04
-Financial reporting    19
-Board of Director's report    21
-Consolidated income statement    30
-Consolidated statement of comprehensive income    30
-Consolidated balance sheet    32
-Changes in consolidated equity    34
-Consolidated cash flow statement    35
-Financial statements – Parent Company    36
-Financial notes    38
-Signatures of the Board    70
-Auditor's report    71
-Sustainability notes    75
-Auditor's report    101
-Definitions    102
-Alternative performance measures    103
-Five-year review and key figures    106
-Corporate governance    108
-
----
-
-# FINANCIAL NOTES
-
-Annual Report 2023/24    46
-
-**Note 4 Financial instruments, cont.**
-
-## Derivatives outstanding
-
-| Mkr | April 30, 2024 |||| April 30, 2023 ||||
-|---|---|---|---|---|---|---|---|---|
-| | Nominal | Asset | Liability | Hedge reserve | Nominal | Asset | Liability | Hedge reserve |
-|**Currency derivatives:** | | | | | | | | |
-|Cash flow hedges|1,599|149|120|23|1,625|141|194|−39|
-|Non-hedging|1,369|42|11|–|1,133|10|9|–|
-|**Currency derivatives, total**|2,968|190|131|23|2,758|151|203|−39|
-
-**Outstanding derivative financial instruments**  
-The Company's derivative financial instruments outstanding at April 30 are presented with nominal amounts and fair values in the table below. The total amount of fair values of assets and liabilities respectively are equivalent to the carrying values recognized in the balance sheet.
-
-## Cash flow hedges outstanding
-
-| Currencies | Currency | Q1 24/25 Amount | Q1 24/25 Rate | Q2 24/25 Amount | Q2 24/25 Rate | Q3 24/25 Amount | Q3 24/25 Rate | Q4 24/25 Amount | Q4 24/25 Rate | 25/26 Amount | 25/26 Rate |
-|------------|----------|-----------------|--------------|-----------------|--------------|-----------------|--------------|-----------------|--------------|--------------|-----------| 
-| GBP/SEK    | GBP      | 21              | 12.439       | 20              | 12.628       | 16              | 12.838       | 34              | 13.152       | 52           | 13.178     |
-| USD/SEK    | USD      | −40             | 10.339       | −43             | 10.516       | −20             | 10.364       | −99             | 10.529       | −98          | 10.457     |
-| JPY/SEK    | JPY      | −500            | 0.084        | −550            | 0.082        | −400            | 0.082        | −1,325          | 0.077        | −1,200       | 0.075      |
-
-The table to the left presents detailed information regarding Elekta's outstanding cash flow hedges. Realized results from cash flow hedges have been recognized on the line "Currency rate differences" in the operating income and amounted to SEK –104 M (–358) during the year, of which SEK 15 M (–16) was related to the ineffective portion.
-
-## Outstanding cash flow hedges' estimated effect on the income statement
-
-| SEK M | 2024/25 |||| 2025/26 ||||
-|---|---|---|---|---|---|---|---|---|
-|| Q1 | Q2 | Q3 | Q4 | Q1 | Q2 | Q3 | Q4 |
-|Expected result from cash flow hedges|9|12|7|−4|2|14|−7|−6|
-
-The hedged transactions in foreign currency are estimated to take place in the coming 24 months. Results from the forward exchange agreements recognized in the hedge reserve in other comprehensive income on 30 April 2024, will be accounted for in the income statement in the periods when the hedged transactions will affect the income statement. The estimated future effects from outstanding cash flow hedges are presented in the table to the left.
-
-[IMAGE_DESCRIPTION:
-Type: Logo
-Location: Top left corner of the document
-Content: Elekta company logo in blue
-Text Elements: "Elekta"
-Colors & Style: Blue corporate logo on light background
-Purpose: Company branding/identification
-]
-
-Business overview    04
-Financial reporting    19
-Board of Director's report    21
-Consolidated  
-income statement    30
-Consolidated statement  
-of comprehensive income    30
-Consolidated  
-balance sheet    32
-Changes in  
-consolidated equity    34
-Consolidated  
-cash flow statement    35
-Financial statements –  
-Parent Company    36
-Financial notes    38
-Signatures of the Board    70
-Auditor's report    71
-Sustainability notes    75
-Auditor's report    101
-Definitions    102
-Alternative  
-performance measures    103
-Five-year review and  
-key figures    106
-Corporate governance    108
-
----
-
-# FINANCIAL NOTES
-
-Annual Report 2023/24                                                                                                47
-
-Note 4 Financial instruments, cont.
-
-## Offsetting of financial assets and financial liabilities
-Financial assets and financial liabilities set off only consist of derivative financial instruments.
-
-| SEK M | Gross amount | Amounts set off in the balance sheet | Net amounts in the balance sheet | Amounts covered by netting ­agreements but not set off | Net amount | Gross amount | Amounts set off in the balance sheet | Net amounts in the balance sheet | Amounts covered by netting ­agreements but not set off | Net amount |
-|-------|-------------|----------------------------------|-------------------------------|------------------------------------------|------------|-------------|----------------------------------|-------------------------------|------------------------------------------|------------|
-| | | | 2023/24 | | | | | 2022/23 | | |
-| Financial assets | 190 | – | 190 | −7 | 183 | 151 | – | 151 | −7 | 144 |
-| Financial liabilities | 131 | – | 131 | −9 | 122 | 203 | – | 203 | −9 | 194 |
-
-In the case of financial assets and liabilities that are subject to legally binding offsetting agreements, each agreement ­between the company and the counterparties permits net deduction of the relevant financial assets and liabilities if both parties elect to apply net deduction. If both parties are not in agreement regarding net deduction, gross deduction is applied. In the event that one party defaults, the other party is entitled to deduct on a net basis.
-
-## Note 5 Estimates and assessments
-
-The preparation of financial statements and application of accounting standards require that management use estimates and assessments. Therefore, they make certain assumptions which are considered reasonable under the prevailing circumstances. Thus, estimates and assessments affect the financial reports, and they are frequently based on experience as well as other factors, including expectations of future events. Using other assumptions than those applied in the preparation of the financial statements, the result can be different, and the actual outcome seldom complies with the anticipated result.
-
-The most significant estimates and assessments at Elekta relate to:
-• revenue recognition, see Note 7
-• impairment testing of goodwill, see Note 18
-
-Other areas subject to estimates and assessments are:
-• valuation of accounts receivable, see Note 25
-• calculation of deferred taxes, see Note 16
-• capitalization and amortization of intangible assets, see Note 18
-• calculation of provisions, see Note 30
-• valuation of leases, see Note 19
-
-Estimates and assessments are continually reassessed.
-
-## Note 6 Segment reporting
-
-### Accounting principles
-Operating segments are reported in accordance with management reporting as reported to the chief operating decision maker. The chief operating decision maker is the function that is responsible for allocation of resources and assessment of the operating segments' performance. In Elekta, this function has been identified as the President and CEO who is responsible for and deals with the continuous administration of the Group based on the board's guidelines and instructions. To his aid, he has the Executive Committee. Elekta's President and CEO evaluates business performance from both geographic and product based perspective. The geographic follow-up is however the main perspective and the product based perspective constitutes a complement to the geographic monitoring and control. It is from the geographic perspective that the business activity is conducted and managed. Evaluation of financial performance is executed for three geographic regions which are Elekta's operating segments:
-• Americas
-• EMEA
-• APAC
-
-The same accounting principles are applied in the segment reporting as for the Group.
-
-See Note 18 for information on goodwill per region. For information regarding tangible assets per country see Note 20.
-
-[IMAGE_DESCRIPTION: 
-Type: Logo
-Location: Top left corner of the document
-Content: Elekta company logo showing a stylized blue circular symbol next to the word "Elekta"
-Colors & Style: Blue corporate logo
-Purpose: Company branding identification
-]
-
-Business overview                  04
-Financial reporting                19
-Board of Director's report         21
-Consolidated 
-income statement                  30
-Consolidated statement 
-of comprehensive income           30
-Consolidated 
-balance sheet                     32
-Changes in 
-consolidated equity               34
-Consolidated 
-cash flow statement              35
-Financial statements – 
-Parent Company                    36
-Financial notes                    38
-Signatures of the Board           70
-Auditor's report                   71
-Sustainability notes              75
-Auditor's report                  101
-Definitions                       102
-Alternative 
-performance measures             103
-Five-year review and 
-key figures                       106
-Corporate governance             108
-
----
-
-# FINANCIAL NOTES
-
-[IMAGE_DESCRIPTION: 
-Type: Logo
-Location: Top left of document
-Content: Elekta company logo showing a circular symbol with the Elekta text
-Colors & Style: Blue logo on white background
-Purpose: Company branding
-]
-
-## Note 6. Segment reporting, cont.
-
-### Segment reporting
-
-| SEK M | Americas |  | EMEA |  | APAC |  | Other/Group-wide¹⁾ |  | Group Total |  |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-|  | 2023/24 | 2022/23 | 2023/24 | 2022/23 | 2023/24 | 2022/23 | 2023/24 | 2022/23 | 2023/24 | 2022/23 |
-| Net Sales³⁾ | 5,436 | 5,239 | 6,550 | 5,907 | 6,134 | 5,724 | – | – | 18,119 | 16,869 |
-| Operating expences | −3,366 | −3,224 | −4,536 | −3,926 | −4,300 | −3,831 | – | – | −12,202 | −10,981 |
-| Contribution margin | 2,070 | 2,015 | 2,014 | 1,981 | 1,834 | 1,893 | – | – | 5,918 | 5,888 |
-| Contribution margin, % | 38% | 38% | 31% | 34% | 30% | 33% | | | | |
-| Global costs | – | – | – | – | – | – | −3,879 | −4,457 | −3,879 | −4,457 |
-| Operating result | 2,070 | 2,015 | 2,014 | 1,981 | 1,834 | 1,893 | −3,879 | −4,457 | 2,039 | 1,431 |
-| Income participations in associated companies | – | – | – | – | – | – | −5 | 1 | −5 | 1 |
-| Financial income | – | – | – | – | – | – | 108 | 79 | 108 | 79 |
-| Financial expences | – | – | – | – | – | – | −482 | −310 | −482 | −310 |
-| Exchange rate differences | – | – | – | – | – | – | 8 | −3 | 8 | −3 |
-| Income before tax | 2,070 | 2,015 | 2,014 | 1,981 | 1,834 | 1,893 | −4,250 | −4,690 | 1,668 | 1,198 |
-| Income tax | – | – | – | – | – | – | −365 | −254 | −365 | −254 |
-| Profit for the year | 2,070 | 2,015 | 2,014 | 1,981 | 1,834 | 1,893 | −4,615 | −4,944 | 1,302 | 944 |
-| Net Sales per product type | | | | | | | | | | |
-| Solutions²⁾ | 2,346 | 2,323 | 3,883 | 3,502 | 4,404 | 4,155 | – | – | 10,633 | 9,981 |
-| Service | 3,090 | 2,915 | 2,666 | 2,405 | 1,730 | 1,569 | – | – | 7,487 | 6,889 |
-| Total | 5,436 | 5,239 | 6,550 | 5,907 | 6,134 | 5,724 | – | – | 18,119 | 16,869 |
-| Depreciation/amortization | −501 | −449 | −534 | −515 | −107 | −99 | – | – | −1,142 | −1,062 |
-| Investments | 485 | 9 | 1,049 | 765 | 110 | 790 | – | – | 1,644 | 1,564 |
-| Impairments | – | −35 | – | −1 | – | −7 | −13 | −61 | −13 | −103 |
-| Non-current assets⁴⁾ | 305 | 307 | 1,542 | 1,145 | 392 | 314 | – | – | 2,239 | 1,765 |
-
-¹⁾ Within other/group-wide are costs that can not be allocated by segment such as global costs and items affecting comparability.  
-Allocations by segment are not done for financial items and tax.  
-²⁾ The product type Solutions includes hardware and software combined as it better reflects the business follow-up.  
-³⁾ Net sales from internal transactions amounts to SEK 16,143 M (15,385) and has been eliminated in the table above.  
-⁴⁾ Excluding financial assets and deferred tax assets.
-
-## Note 7 Net sales
-
-Elekta's revenue is primarily derived from the sales of treatment solutions and oncology software including equipment used for radiation therapy, radiosurgery and brachytherapy as well as software products and related services.
-
-Many of Elekta's products and services are sold on a stand-alone basis but are often included in bundled deals, which are arrangements where equipment, software and services may be included in the same contract. A bundled deal is treated as a project which is supported by a project team that coordinates the production, delivery and installation, which can occur at different stages. The equipment, installation, software and services are distinct performance obligations excluding the software that is integrated in the hardware.
-
-In most contracts the transaction price consists of a fixed consideration which is clearly stated in the contract and the products are usually sold without a right of return. In rare cases contracts can include variable consideration for which the value is estimated for revenue recognition purposes.
-
-### Accounting principles
-The allocation of the transaction price, including any discount, to the various goods and services (performance obligations) in a contract is performed based on the relative stand-alone selling prices for the goods and services identified as performance obligations. As many items included in a bundled deal are also sold on a stand-alone basis, the stand-alone selling prices are based on observable prices in most cases. For items not sold on a stand-alone basis the stand-alone selling prices have been estimated using the best available market and internal data relating to those items.
-
-Costs incurred to obtain a contract consist mainly of commissions, which is recognized as contract asset and are amortized over the time when the related revenue is recognized.
-
-The timing for revenue recognition of products and services included in a bundled deal depend on its nature and when control for each product or service has been transferred to the customer. Payment terms or conditions for projects differ between regions. In some markets, partial payments will be due upon certain events such as order receipt, delivery and acceptance. In other markets, the entire payment is due upon completion of implementation or acceptance. Amounts invoiced are reported as accounts receivable while revenue recognized amounts not yet invoiced are reported as accrued income.
-
-Annual Report 2023/24      48
-
-Business overview    04
-Financial reporting    19
-Board of Director's report    21
-Consolidated income statement    30
-Consolidated statement of comprehensive income    30
-Consolidated balance sheet    32
-Changes in consolidated equity    34
-Consolidated cash flow statement    35
-Financial statements – Parent Company    36
-Financial notes    38
-Signatures of the Board    70
-Auditor's report    71
-Sustainability notes    75
-Auditor's report    101
-Definitions    102
-Alternative performance measures    103
-Five-year review and key figures    106
-Corporate governance    108
-
----
-
-# FINANCIAL NOTES
-
-Annual Report 2023/24    49
-
-[IMAGE_DESCRIPTION: 
-Type: Logo
-Location: Top left corner of page
-Content: Elekta corporate logo showing a blue circular symbol with the name "Elekta" in dark text
-Colors & Style: Blue and black corporate logo
-Purpose: Company branding
-]
-
-**Note 7 Net sales, cont.**
-
-## Treatment solutions
-Elekta sells treatment solutions including hardware, software and service. Main hardware products are Leksell Gamma Knife, Linear accelerators, MR-Linacs and Afterloaders. Software licenses consist mainly of Oncology informatics systems (OIS) and Treatment planning systems (TPS). Services include maintenance and support relating to equipment, software, training, installation services and warranties. Most bundled deals include at least one device, software licenses, installation, service, training and one-year standard warranty that is included in the price. There is a possibility for an extended warranty in some contracts that is considered as a service contract. Revenue recognition for these deals is linked to when control for each identified performance obligation is transferred to the customer, which for a standard contract happens at different stages over a longer period, usually up to six months depending on the geographical market.
-
-## Hardware products
-In a standard contract, control is considered to be transferred when the device is delivered to the customer's site and installation is started. At this time, the customer has physical possesion of the unit and Elekta has the right to payment for the equipment delivered.
-
-## Software products
-For software licenses control is considered to be transferred and revenue is recognized when the licenses are made available to the customer, which is usually at the time of acceptance of the software.
-
-## Service contracts
-For service agreements, control is considered to be transferred over time and revenue is recognized on a straight-line basis over the contractual term of the arrangement or the expected period during which the specified services will be performed. Maintenance and support agreements relating to software products are generally renewed on an annual basis. Installation services and training with low values and which span over a limited time are considered non-material and revenue is recognized when the related device reaches the stage of technical acceptance.
-
-## Estimates and assessment
-Changes to the goods and services included in an arrangement and the amounts allocated to each item could affect the timing and amount of revenue recognition. Revenue recognition also depends on the timing of shipment, readiness of the customer's site, availability of products and for some contracts, customer acceptance terms. If shipments or installations are not made on scheduled timelines or if the products are not accepted by the customer in a timely manner, revenues may differ from expectations.
-
-Revenue recognition does often not coincide with invoicing to, and payments from, customers. Payment terms or conditions for projects may differ between contracts and regions, but in a standard Elekta contract partial payments will be due upon certain events, such as order receipt, shipment and acceptance. In a standard project, amounts invoiced in accordance with an invoicing plan are reported as accounts receivable and as a contract liability included in advances from customers if performance obligations are not yet satisfied and revenue cannot be recognized. Amounts that have been recognized as revenue, but for which Elekta has not yet the right to invoice according to the invoicing plan agreed, are reported as contract assets and included in accrued income. For service contracts the agreed consideration is invoiced and paid in advance in most markets. When there is a contract agreed and invoiced to the customer, Elekta usually has the right to payment even if the performance obligations are still to be satisfied. Therefore, a receivable is accounted for with a corresponding contract liability reported as deferred income.
-
-Net sales for the year amounted to SEK 18,119 M (16,869). Accrued income amounted to SEK 2,050 M (2,119). Accounts receivable amounted to SEK 3,877 M (3,990). For more information on accounts receivable see **Note 24**.
-
-Net sales per country is based on sales to customers in the respective country. There is no individual customers representing more than 10 percent of net sales.
-
-## Net sales by country
-
-| SEK M | 2023/24 | % | 2022/23 | % |
-|-------|---------|---|---------|---|
-| Sweden | 63 | 0.3% | 75 | 0.4% |
-| USA | 3,901 | 21.5% | 3,919 | 23.2% |
-| China | 2,818 | 15.6% | 2,713 | 16.1% |
-| Italy | 872 | 4.8% | 766 | 4.5% |
-| Japan | 764 | 4.2% | 924 | 5.5% |
-| India | 756 | 4.2% | 573 | 3.4% |
-| Germany | 744 | 4.1% | 739 | 4.4% |
-| Spain | 620 | 3.4% | 516 | 3.1% |
-| France | 575 | 3.2% | 437 | 2.6% |
-| Canada | 506 | 2.8% | 423 | 2.5% |
-| United Kingdom | 470 | 2.6% | 420 | 2.5% |
-| Mexico | 451 | 2.5% | 386 | 2.3% |
-| Poland | 366 | 2.0% | 248 | 1.5% |
-| Australia | 352 | 1.9% | 325 | 1.9% |
-| Other countries | 4,861 | 26.8% | 4,407 | 26.1% |
-| Total | 18,119 | 100% | 16,869 | 100% |
-
-## Net sales per product type and timing of revenue recognition
-
-| SEK M | 2023/24 | 2022/23 |
-|-------|---------|---------|
-| Hardware | Point in time | 8,961 | 8,311 |
-| Software | Point in time | 1,673 | 1,670 |
-| Service (incl. software) | Over time | 7,485 | 6,889 |
-| Total | 18,119 | 16,869 |
-
-[IMAGE_DESCRIPTION:
-Type: Pie chart
-Location: Bottom right of page
-Content: Distribution of net sales by product type
-Text Elements: "Hardware SEK 8,961 M", "Software SEK 1,673 M", "Service SEK 7,485 M"
-Colors & Style: Blue color scheme with different shades for each segment
-Purpose: Visualization of sales distribution by product category
-Data Visualization: Shows the proportion of total sales from hardware (largest segment), software (smallest segment), and service
-]
-
-## Business overview
-04
-
-## Financial reporting
-19
-
-### Board of Director's report
-21
-
-### Consolidated income statement
-30
-
-### Consolidated statement of comprehensive income
-30
-
-### Consolidated balance sheet
-32
-
-### Changes in consolidated equity
-34
-
-### Consolidated cash flow statement
-35
-
-### Financial statements – Parent Company
-36
-
-### Financial notes
-38
-
-### Signatures of the Board
-70
-
-### Auditor's report
-71
-
-## Sustainability notes
-75
-
-### Auditor's report
-101
-
-### Definitions
-102
-
-### Alternative performance measures
-103
-
-### Five-year review and key figures
-106
-
-## Corporate governance
-108
-
----
-
-# FINANCIAL NOTES
-
-Annual Report 2023/24                                                                                                                                  50
-
-## Note 8  Personnel costs
-
-### Accounting principles
-Personnel costs comprise of fixed wages and salaries, variable remuneration, pension, and other benefits. Personnel costs are recognized when incurred. Accounting principles related to pensions are reported in ► Note 30. 
-
-### Share-based compensation
-Ongoing share programs are reported according to IFRS 2 Share-based payments and are mainly equity-settled. The conditions of the share programs state that they may be settled in other ways than through shares. This possibility is only applied to a very limited extent and neither cost nor obligation are material amounts. 
-
-Accounting for equity-settled share-based compensation programs entails that the instrument's fair value at grant date is recognized in the income statement over the vesting period, with a corresponding adjustment to equity. This leads to an estimated cost, corresponding to the earned portion of the estimated share value at allotment, being charged to profit and loss over the vesting period. Market-based share are not revalued during the remainder of the vesting period after the fair value is established, except if the condition of continued employment during the vesting period is no longer fulfilled. 
-
-In addition, provisions are made for estimated employer contributions related to the share programs. Calculations are based on a theoretical market valuation where the market value is calculated using Monte Carlo simulation based on the share price on the closing date. For allotted shares, social security expenses are paid based on the market value on the allotment date.
-
-### Salaries, other remuneration and social security costs
-
-| SEK M | Group |  | Parent company |  |
-| --- | ---: | ---: | ---: | ---: |
-|  | 2023/24 | 2022/23 | 2023/24 | 2022/23 |
-| **Salaries, other remuneration and social security costs:** |  |  |  |  |
-| Board and Managing directors | 117 | 135 | 24 | 28 |
-| Other employees | 4,592 | 4,285 | 73 | 73 |
-| **Total salaries and other remunerations** | 4,709 | 4,420 | 97 | 101 |
-| Pension costs | 361 | 336 | 15 | 15 |
-| Other social security costs | 576 | 547 | 35 | 33 |
-| **Total social security costs** | 937 | 883 | 50 | 49 |
-| **Total salaries, other remuneration and social security costs** | 5,646 | 5,302 | 147 | 150 |
-
-Bonuses included in the above salaries and other remunerations paid to the Boards and the Managing directors of subsidiaries amounted to SEK 34 M (43), and SEK 8 M (9) in the Parent Company. Total pension costs amounted to SEK 361 M (336) of which SEK 23 M (27) concern defined benefit pension plans. Pension costs in the Parent Company amounted to a total of SEK 15 M (15) and the full amount related to defined contribution pension plans. For further information regarding the defined benefit pension plans see ► Note 30.
-
-### Remuneration to the Board of Directors
-The AGM resolved the adoption of fees to the Board of Directors totaling SEK 8,041 K (7,120), of which SEK 8,041 K (7,120) were paid. The fees were distributed in accordance with the table below.
-
-### Fees for the Board of Directors
-
-| SEK Thousands | April 30, 2024 |  |  | April 30, 2023 |  |  |
+| in millions of euros | Norway | Canada | France | Germany | Other (b) | TOTAL GROUP |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-|  | Regular Remuneration | Remuneration Compensation Committee | Remuneration Audit Committee | Regular Remuneration | Remuneration Compensation Committee | Remuneration Audit Committee |
-| **Chairman:** |  |  |  |  |  |  |
-| Laurent Leksell | 1,550 | 145 | - | 1,500 | 140 | - |
-| **Members:** |  |  |  |  |  |  |
-| Cecilia Wikstrom | 670 | 100 | - | 645 | 95 | - |
-| Wolfgang Reim | 670 | 100 | - | 645 | 95 | - |
-| Jan Secher | 670 | - | 185 | 645 | - | 170 |
-| Birgitta Stymne Göransson | 670 | - | 290 | 645 | - | 265 |
-| Caroline Leksell Cooke¹⁾ | 670 | - | 185 | 645 | - | 170 |
-| Kelly Londy (ended in March)²⁾ | 670 | 92 | - | 645 | - | - |
-| Johan Malmqvist (ended in August) | 280 | - | 77 | 645 | - | 170 |
-| Tomas Eliasson (started in September) | 447 | - | 123 | - | - | - |
-| Volker Wetekam (started in September) | 447 | - | - | - | - | - |
-| **Total** | 6,744 | 437 | 860 | 6,015 | 330 | 775 |
+| Net revenue at current metal prices(a) | 1,281 | 1,113 | 1,002 | 950 | 4,200 | 8,546 |
+| Net revenue at constant metal prices | 1,242 | 783 | 792 | 936 | 3,325 | 7,078 |
+| Non-current assets IFRS 8 (at December 31)(a) | 746 | 37 | 195 | 227 | 1,798 | 3,003 |
 
-¹⁾ Remuneration for consultancy services provided during the year amounted to SEK 2,293 K (2,310), see ► Note 37.  
-²⁾ Remuneration for consultancy services provided during the year amounted to SEK 1,492 K (–), see ► Note 37.
+(a) Based on the location of the assets of the Group's subsidiaries.
+(b) Countries that do not individually account for more than 10% of the Group's net sales at constant metal prices.
 
-[IMAGE_DESCRIPTION:
-Type: Company logo
-Location: Top left of document
-Content: Elekta logo - a circular blue icon with company name "Elekta" next to it
-Colors & Style: Blue corporate logo against white background
-Purpose: Brand identification for the annual report
-]
+| 2023 in millions of euros | Norway | Canada | France | Germany | Other (b) | TOTAL GROUP |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| Net revenue at current metal prices(a) | 899 | 1,182 | 987 | 1,000 | 3,721 | 7,790 |
+| Net revenue at constant metal prices | 866 | 864 | 803 | 981 | 2,998 | 6,512 |
+| Net revenue at constant metal prices and scope, and 2024 exchange rates | 850 | 851 | 768 | 973 | 2,968 | 6,411 |
+| Non-current assets IFRS 8 (at December 31)(a) | 651 | 37 | 189 | 188 | 1,312 | 2,377 |
 
-Business overview                 04
-Financial reporting               19
-Board of Director's report        21
-Consolidated 
-income statement                  30
-Consolidated statement
-of comprehensive income           30
-Consolidated
-balance sheet                     32
-Changes in
-consolidated equity               34
-Consolidated
-cash flow statement              35
-Financial statements –
-Parent Company                    36
-Financial notes                   38
-Signatures of the Board           70
-Auditor's report                  71
-Sustainability notes              75
-Auditor's report                  101
-Definitions                       102
-Alternative
-performance measures             103
-Five-year review and
-key figures                       106
-Corporate governance             108
+(a) Based on the location of the assets of the Group's subsidiaries.
+(b) Countries that do not individually account for more than 10% of the Group's net revenue at constant metal prices.
+
+## C. Information by major customer
+
+The Group did not have any customers that individually accounted for over 10% of its revenue in 2024 or 2023.
+
+## Note 5. Revenue from contracts with customers
+
+### A. Consolidated revenue
+
+Consolidated revenue can be analyzed as follows:
+
+| 2024 Revenue, in millions of euros | PWR Connect (ex-Usages) | PWR Grid (ex-Distribution) | PWR Transmission | Industry and Solutions | Other | Total Group |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| Performance obligations satisfied at a point in time | 2,746 | 1,457 | 183 | 1,853 | 1,174 | 7,414 |
+| Performance obligations satisfied over time | - | - | 1,132 | - | - | 1,132 |
+| NET REVENUE | 2,746 | 1,457 | 1,315 | 1,853 | 1,174 | 8,546 |
+
+| 2023 Revenue, in millions of euros | PWR Connect (ex-Usages) | PWR Grid (ex-Distribution) | PWR Transmission | Industry and Solutions | Other | Total Group |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| Performance obligations satisfied at a point in time | 2,214 | 1,366 | 110 | 1,886 | 1,428 | 7,005 |
+| Performance obligations satisfied over time | - | - | 786 | - | - | 786 |
+| NET REVENUE | 2,214 | 1,366 | 896 | 1,886 | 1,428 | 7,790 |
+
+NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2024    22
 
 ---
 
-# FINANCIAL NOTES
+# NEXANS 2024 FINANCIAL STATEMENTS
 
-Annual Report 2023/24                51
+## 05 Consolidated financial statements
 
-Note 8 Salaries, other remuneration and social security costs, cont.
+The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
 
-## Remuneration to Executive Committee
-The guidelines for remuneration to the executive management, adopted by the AGM in 2020, are presented on page 28. The Executive Committee for 2023/24 comprised of a total of 7 people, of whom 4 are located in Sweden and the other 3 in the Netherlands and France. The tables below display remunerations and other benefits to the Executive Committee in 2023/24 and the Executive Management in 2022/23.
+### B. Contract assets and contract liabilities
 
-## Remuneration and other benefits to Executive Committee during the year 2023/24
+Contract assets and contract liabilities can be analyzed as follows:
 
-| SEK thousands | Fixed remuneration | Variable remuneration | Share-based compensation | Other benefits | Pension costs | Total |
-|---|---:|---:|---:|---:|---:|---:|
-| President and CEO | 7,335 | 3,281 | 4,593 | 110 | 2,141 | 17,459 |
-| Other senior executives resident in Sweden (3) | 8,540 | 3,667 | 3,600 | 277 | 2,139 | 18,706 |
-| Other senior executives resident abroad (3) | 14,610 | 6,591 | 7,060 | 1,309 | 3,278 | 33,216 |
-| Total senior executives | 30,485 | 13,538 | 15,253 | 1,696 | 7,558 | 68,529 |
-
-## Remuneration and other benefits to Executive Management during the year 2022/23
-
-| SEK thousands | Fixed remuneration | Variable remuneration | Share-based compensation | Other benefits | Pension costs | Total |
-|---|---:|---:|---:|---:|---:|---:|
-| President and CEO | 7,403 | 4,995 | 3,727 | 94 | 2,129 | 18,348 |
-| Other senior executives resident in Sweden (5) | 12,490 | 5,128 | 889 | 351 | 3,081 | 21,940 |
-| Other senior executives resident abroad (10) | 34,798 | 12,840 | 13,704 | 3,040 | 4,124 | 68,506 |
-| Total senior executives | 54,691 | 22,963 | 18,320 | 3,486 | 9,334 | 108,794 |
-
-Variable remuneration pertains to the bonus for the 2023/24 and 2022/23 fiscal years respectively, partly paid quarterly during each fiscal year and partly paid in the year after.
-
-## Share based compensation
-As per April 30, 2024, Elekta has three outstanding share programs. The program performance share plan LTI 2020/23, which was outstanding as per April 30, 2023, has expired during the year.
-
-The total number of shares that may be allotted under the share programs is 1,764,886 (1,144,160) B-shares. The share programs are secured by delivery of shares already held or repurchased by Elekta and, consequently, no new shares will be issued under the share programs. Share programs awarded to employees have a potential dilution effect.
-
-The recognized costs related to the share programs amounted to SEK 19 M (20) and social security amounted to SEK 3 M (5). For more information see page 28.
-
-The long-term incentive (LTI) programs called Performance share plans are approved by the AGM. Performance share plan LTI 2020/23, resolved by the AGM in 2019, expired during the year. Outstanding share programs as per April 30 2023 were performance share plan, LTI 2021/24, LTI 2022/25 and LTI 2023/26. The performance share plans cover 25 (LTI 2021/24), 19 (LTI 2022/25) and 22 (LTI 2023/26) key employees of the Group respectively. The performance share plans entitle the participants to obtain, free of charge, B-shares in Elekta upon fulfillment of certain performance requirements.
-
-The main terms of the performance share programs are:
-• A performance share award shall entitle a participant to receive, subject to the terms and conditions set forth in the performance share plans and applicable award agreements, a number of B-shares based upon the attainment of performance targets over a three-year performance period
-• Each performance share award shall be subject to forfeiture in the event of termination of employment due to a reason other than death, disability or retirement or failure to attain performance targets over the applicable performance period.
-• Performance share awards shall be settled through the delivery of shares unless otherwise decided by the board
-• The number of shares to be allotted will depend on the degree of fulfillment of financial and ESG targets
-
-The financial targets for performance share plans are defined as Total Shareholder Return (TSR) relative to the OMXS30 index over a three-year period. The minimum performance requirement is that Elekta TSR outperform the OMXS30 index with at least +0.1 percent. The maximum performance level requires that Elekta TSR outperform the OMXS30 Index at or above +15 percent. If the minimum performance level is reached, the allocation will amount up to (and will not exceed) 25 percent of annual base salary at the beginning of the fiscal year 2020/21 for performance share plan LTI 2021/23, at the beginning of fiscal year 2021/22 for performance plan LTI 2021/24 and at the beginning of fiscal year 2022/23 for performance plan LTI 2022/25 and at the beginning of fiscal year 2023/24 for the performance plan LTI 2023/26. The actual minimum value for each participant will be subject to an individual performance evaluation for the past fiscal year. If the maximum performance level is reached or exceeded, the allocation will amount to (and will not exceed) the maximum number of performance shares. If performance is below the maximum level but above the minimum level, a proportionate allocation of shares will be made. No allocation will be made if performance is below the minimum level.
-
-The performance share plan of 2023/26 will in addition to the TSR relative to OMX30 also include two ESG targets; Access to Healthcare, i.e number of installed linacs in underserved markets, as well as CO2 equivalents reductions from operations over a three-year period. The weighting between the three targets is as follows; Relative TSR with a weighting of 85%, access to
-
-[IMAGE_DESCRIPTION:
-Type: Logo
-Location: Top left corner of the document
-Content: Elekta company logo showing a stylized blue circular symbol next to the text "Elekta"
-Text Elements: "Elekta"
-Colors & Style: Blue corporate logo on white background
-Purpose: Company branding
-]
-
-Business overview    04
-Financial reporting    19
-Board of Director's report    21
-Consolidated income statement    30
-Consolidated statement of comprehensive income    30
-Consolidated balance sheet    32
-Changes in consolidated equity    34
-Consolidated cash flow statement    35
-Financial statements – Parent Company    36
-Financial notes    38
-Signatures of the Board    70
-Auditor's report    71d
-Sustainability notes    75
-Auditor's report    101
-Definitions    102
-Alternative performance measures    103
-Five-year review and key figures    106
-Corporate governance    108
-
----
-
-# FINANCIAL NOTES
-
-[IMAGE_DESCRIPTION: 
-Type: Logo
-Location: Top left of page
-Content: Elekta company logo showing a stylized circular design with the word "Elekta" in dark blue text
-Colors & Style: Blue professional corporate branding
-Purpose: Company identification
-]
-
-## Business overview 04
-## Financial reporting 19
-### Board of Director's report 21
-### Consolidated income statement 30
-### Consolidated statement of comprehensive income 30
-### Consolidated balance sheet 32
-### Changes in consolidated equity 34
-### Consolidated cash flow statement 35
-### Financial statements – Parent Company 36
-## Financial notes 38
-## Signatures of the Board 70
-## Auditor's report 71
-## Sustainability notes 75
-## Auditor's report 101
-## Definitions 102
-## Alternative performance measures 103
-## Five-year review and key figures 106
-## Corporate governance 108
-
-**Note 8 Salaries, other remuneration and social security costs, cont.**
-
-Healthcare and CO₂ equivalents reduction with a weighting of 7.5% each. Regarding the ESG targets, the minimum performance requirement is that Elekta installs 502 linacs in underserved markets and reduces its' CO₂ emissions from operations by 0.1 per cent during the three-year performance period. The maximum performance level requires Elekta to install 652 linacs in underserved markets and reduces its' CO₂ emissions from operations by 13.86 per cent during the three-year performance period.
-
-The terms of the performance share plan further state that:
-• The performance targets may be adjusted should an event occur that affects the operations of the Company or the number of outstanding Elekta shares or otherwise affecting the performance targets and deemed relevant by the board.
-• The performance targets will be finally evaluated at the end of the applicable performance period and each participant will receive the number of shares he/she is entitled to according to the participant's award agreement depending on the attainment of the applicable performance targets over the performance period
-• The value that a participant can receive in settlement of the performance share award is maximized at 400 percent of the value of the shares at the date of grant of the performance share award
-
-• Potential allotments of shares will take place September 16, 2024 (LTI 2021/24), September 16, 2025 (LTI 2022/25), and September 16, 2026 (LTI 2023/26) respectively.
-
-Participants shall at allotment of shares receive compensation for any cash dividends paid during the respective three-year performance period. The participants shall at allotment of shares of series B not receive any cash compensation for any cash dividend under the Performance Period September 2023 to September 2026.
-
-Before the number of shares to be allotted is finally determined, the board shall examine whether the allotment is reasonable, taking into consideration the Company's financial results and position, conditions on the stock market and other circumstances, and if not, as determined by the board, reduce the number of shares to be allotted to the lower number of shares deemed appropriate by the board. Delivery of shares and dividend compensation in settlement of the performance share award shall be made as soon as practicable following the lapse of the performance period.
-
-The conditions of the share programs state that the right to performance share awards may be settled in other ways than through the delivery of shares. As per April 30, 2024, there were no material obligations to settle in any other way than through shares.
-
-### Share program
-
-| SEK M | 2020/23¹⁾ | 2021/24¹⁾ | 2022/25¹⁾ | 2023/26¹⁾ |
-|-------|-----------|-----------|-----------|-----------|
-| Originally designated number of shares | 510,622 | 483,189 | 721,034 | 732,213 |
-| Share price used for calculation of theoretical value | 65 | 53 | 32 | 75 |
-| Theoretical value at time of issue, SEK | 33,190,430 | 25,609,017 | 23,073,088 | 54,915,975 |
-| Allotment of shares | 16/09/2023 | 16/09/2024 | 16/09/2025 | 16/09/2026 |
-| Number of shares as of April 30, 2023 | 346,879 | 395,931 | 701,350 | – |
-| Granted during the year | – | – | – | 732,213 |
-| Cancelled/Expired during the year | −346,879 | −64,608 | – | – |
-| Released during the year | – | – | – | – |
-| Number of share as of April 30, 2024 | – | 331,323 | 701,350 | 732,213 |
-
-¹⁾ For the market-based performance conditions, a Monte Carlo approach has been used to determine the fair value of granted performance shares.
-
-## Note 9 Depreciation/amortization/write-down
-
-| | Group | |
-|---|---|---|
-| SEK M | 2023/24 | 2022/23 |
-| Cost of products sold | 111 | 105 |
-| Selling expenses | 188 | 185 |
-| Administrative expenses | 273 | 259 |
-| R&D expenses | 564 | 513 |
-| Total | 1,136 | 1,062 |
-
-Write-down of tangible assets amounted to SEK – M (115). Intangible assets no longer in use were impaired with SEK 13 M (11).
-
-## Note 10 Remunerations to auditors
-
-| | Group | | Parent company | |
-|---|---|---|---|---|
-| SEK M | 2023/24 | 2022/23 | 2023/24 | 2022/23 |
-| **Group auditor (EY)** | | | | |
-| Audit engagements | 19 | 17 | 8 | 7 |
-| Audit-related services | 1 | 2 | 0 | 3 |
-| Other services | 0 | – | – | – |
-| **Total group auditor** | 20 | 19 | 8 | 10 |
-| **Other auditors** | | | | |
-| Audit engagements | 1 | 1 | – | – |
-| Audit-related services | 1 | 0 | – | – |
-| Tax consultancy | 11 | 8 | 2 | 2 |
-| Other services | 2 | 1 | 0 | 0 |
-| **Total other auditors** | 14 | 10 | 2 | 2 |
-| **Total** | 34 | 28 | 11 | 12 |
-
-Audit engagements refers to remuneration to auditors for work related to the statutory audit, including audit of the annual report and the accounting records, the administration of the board of directors and the managing director as well as audit consultancy work directly linked to the audit assignment. Audit-related services comprises quality assurance services, including consultancy work driven by observations made in the audit engagement. Other services refers to other services/consultancy work which are not covered by any of the other categories above, e g consultancy work related to internal control and acquisitions.
-
-Annual Report 2023/24 52
-
----
-
-# FINANCIAL NOTES
-
-Annual Report 2023/24                53
-
-## Note 11 Expenses by nature
-
-In the income statement costs are broken down by function. Operating expenses amounts to SEK 16,080 M (15,438). Below, operating expenses are broken down by nature:
-
-| Group | | |
-| --- | ---: | ---: |
-| SEK M | 2023/24 | 2022/23 |
-| Products, materials and consumables | 7,720 | 7,079 |
-| Personnel costs | 5,832 | 5,522 |
-| Depreciation and amortization (Notes 18, 19 and 20) | 1,136 | 1,062 |
-| Impairment | 13 | 102 |
-| Other expenses | 1,378 | 1,673 |
-| Total | 16,080 | 15,438 |
-
-## Note 12 Income from participations in Group companies
-
-| Parent Company | | |
-| --- | ---: | ---: |
-| SEK M | 2023/24 | 2022/23 |
-| Dividends from subsidiaries | 332 | 1107 |
-| Group Contribution | – | – |
-| Other | – | – |
-| Total | 332 | 1107 |
-
-## Note 13 Net financial items
-
-| Group | | |
-| --- | ---: | ---: |
-| SEK M | 2023/24 | 2022/23 |
-| Income from participations in associates | −5 | 1 |
-| **Interest income, external** | | |
-| Financial assets at amortized costs | 71 | 46 |
-| Financial assets at fair value | 3 | 4 |
-| Finance lease | 2 | 3 |
-| Derivatives at fair value through income statement | 30 | 24 |
-| Other | 1 | 3 |
-| Other financial income | 1 | 1 |
-| **Financial income** | 108 | 79 |
-| **Interest expenses, other external loans** | | |
-| Borrowings and other liabilities at amortized cost | −302 | −140 |
-| Derivatives identified as hedging instruments | −54 | −42 |
-| Derivatives at fair value through income statement | −1 | 0 |
-| Lease liabilities | −49 | −38 |
-| Other | −8 | −5 |
-| Other financial expenses¹⁾ | −68 | −84 |
-| **Financial expenses** | −481 | −310 |
-| Exchange rate differences on financial instruments | 8 | −3 |
-| **Net financial items** | −371 | −233 |
-
-¹⁾ Other financial expenses mainly consist of bank charges.
-
-## Note 14 Interest income, interest expense and similar items
-
-| Parent Company | | |
-| --- | ---: | ---: |
-| SEK M | 2023/24 | 2022/23 |
-| Interest income from subsidiaries | 449 | 268 |
-| Interest income, external | 71 | 34 |
-| **Interest income and similar items** | 520 | 302 |
-| Interest expenses to subsidiaries | −143 | −69 |
-| Interest expenses, other external loans | −354 | −182 |
-| Other financial expenses | −5 | −11 |
-| **Interest expenses and similar items** | −502 | −262 |
-
-## Note 15 Remeasurement for hyperinflation
-
-Elektas' operations in Turkey is accounted for according to IAS 29, Financial reporting in Hyperinflationary economies. The index used by Elekta for the remeasurement of the financial statements is the consumer price index with base period January 2003. The impact on the consolidated statement of income from IAS 29 is illustrated below.
-
-| Group | | |
-| --- | ---: | ---: |
-| **Exchange rate and index** | 2023/24 | 2022/23 |
-| Exchange rate, SEK/TRY | 0.34 | 0.53 |
-| Index | 2,208 | 1,300 |
-
-| Group | | |
-| --- | ---: | ---: |
-| **Net monetary gain or loss recognized in the consolidated statement of income, SEK M** | 2023/24 | 2022/23 |
-| Net monetary loss, Turkey | 27 | −17 |
-
-| Group | | |
-| --- | ---: | ---: |
-| **Remeasurement impact recognized in Other comprehensive income, SEK M** | 2023/24 | 2022/23 |
-| Remeasurement | −1 | 41 |
-
-[IMAGE_DESCRIPTION:
-Type: Logo and navigation sidebar
-Location: Left side of document
-Content: Elekta company logo at top, followed by a table of contents/navigation menu showing page numbers
-Text Elements: Business overview (04), Financial reporting (19), Board of Director's report (21), Consolidated income statement (30), Consolidated statement of comprehensive income (30), Consolidated balance sheet (32), Changes in consolidated equity (34), Consolidated cash flow statement (35), Financial statements – Parent Company (36), Financial notes (38), Signatures of the Board (70), Auditor's report (71), Sustainability notes (75), Auditor's report (101), Definitions (102), Alternative performance measures (103), Five-year review and key figures (106), Corporate governance (108)
-Colors & Style: Blue navigation indicators and highlighting, white background
-Purpose: Document navigation/contents
-]
-
----
-
-# FINANCIAL NOTES
-
-Annual Report 2023/24                 54
-
-## Note 16  Taxes
-
-### Accounting principles
-The tax expense in the income statement includes all income tax that is to be paid or received for the current year, adjustments relating to previous years' current tax, and changes in deferred tax. Deferred tax is calculated on the basis of the temporary differences between the tax bases and the carrying amounts of assets and liabilities. Deferred tax assets relating to loss carry-forwards and other future tax credits are recognized to the extent it is probable that deductions can be made against future profits. Valuation is based on nominal amounts based on the tax rules prevailing in each country and the anticipated tax rate for the following year in each country. Deferred taxes relating to temporary differences attributable to investments in subsidiaries are not recognized in the consolidated financial statements since Elekta AB, in all cases, can control the time of reversal of the temporary differences and it is not considered probable that such a reversal will occur in the foreseeable future. Deferred tax assets and deferred tax liabilities are offset when there is a legally enforceable right to offset tax assets against tax liabilities and when the deferred tax amounts refer to the same tax authority. For items recognized in the net income, the related tax effects are also recognized in the net income.
-
-Elekta is within the scope of the OECD Pillar Two model rules, an international tax reform which aims to ensure that large multinational groups pay a minimum tax on income arising in each jurisdiction in which they operate. Thus, Elekta becomes liable to pay top-up taxes on profits in each jurisdiction where the effective tax rate calculated according to the GloBE rules is below the minimum tax rate of 15%. The Pillar Two legislation has been enacted in Sweden and applies from January 1, 2024. Elekta applies the exception to recognizing and disclosing information about deferred tax assets and liabilities related to Pillar Two income taxes, provided in the amendments to IAS 12. Potential exposure arising from the new legislation is not expected to have any material impact on the results in any of the main jurisdictions in which Elekta currently operates.
-
-The Group is continuing to assess the impact of Pillar Two income taxes legislation on its future financial performance, however, based on the analysis performed it is not expected that the legislation effective in 2024 will have a material impact on the results, cash flows or financial position.
-
-### Estimates and assessments
-Deferred tax assets and deferred tax liabilities are balance sheet items which are subject to estimates and assessments. Deferred tax is calculated on temporary differences between the carrying amounts and the tax values of assets and liabilities. Estimates and assessments affect the recognized deferred tax amounts in the determination of the carrying amounts of the different assets and liabilities, and also through forecasts regarding future taxable profits in those cases where a future utilization of deferred tax assets depends on future taxable profits.
-
-### Income taxes
-Deferred taxes amounted to a net receivable of SEK 385 M (230), whereof assets SEK 801 M (703) and liabilities SEK 416 M (473).
-
-| Group | | Parent Company | |
-| --- | --- | --- | --- |
-| SEK M | 2023/24 | 2022/23 | 2023/24 | 2022/23 |
-| Current taxes | −513 | −475 | −8 | – |
-| Deferred taxes | 147 | 221 | 4 | −22 |
-| Total | −365 | −254 | −4 | −22 |
-
-| Group | | | |
-| --- | --- | --- | --- |
-| | 2023/24 | | 2022/23 |
-| SEK M | % | SEK M | % |
-| Profit before tax | 1,668 | – | 1,198 | – |
-| Swedish corporate income tax rate | −343 | −20.6% | −247 | −20.6% |
-| Difference between corporate tax rate in Sweden and other countries | −77 | −4.6% | −56 | −4.9% |
-| Taxes related to prior years | −2 | −0.1% | 11 | 0.9% |
-| Non-taxable income | 74 | 4.4% | 66 | 5.7% |
-| Non-deductible expenses | −27 | −1.6% | −8 | −0.7% |
-| Effect of tax rate changes | −3 | −0.2% | 8 | 0.6% |
-| Tax losses carried forward without corresponding increase in deferred taxes | −3 | −0.2% | −34 | −2.9% |
-| Utilization of previously unrecognized tax losses | 25 | 1.5% | 5 | 0.4% |
-| Other | −8 | −0.5% | 2 | 0.2% |
-| Effective tax rate | −365 | −21.9% | −254 | −21.2% |
-
-### Deferred tax assets (+)/liabilities (–), net
-
-| SEK M | Group, net | Parent Company, net |
+| in millions of euros | December 31, 2024 | December 31, 2023 |
 | --- | --- | --- |
-| Opening balance May 1, 2022 | 67 | 44 |
-| Business combinations | −5 | – |
-| Reclassifications | 15 | – |
-| Adjustment for prior years | −18 | −9 |
-| Change in tax legislations | 8 | – |
-| Deferred taxes for the year | 232 | −13 |
-| Deferred taxes charged in other comprehensive income | −50 | – |
-| Translation differences | −20 | – |
-| Closing balance April 30, 2023 | 230 | 22 |
-| Business combinations | 5 | – |
-| Reclassifications | 15 | – |
-| Adjustment for prior years | 14 | 8 |
-| Change in tax legislations | −3 | – |
-| Deferred taxes for the year | 136 | −4 |
-| Deferred taxes charged in other comprehensive income | −16 | – |
-| Translation differences | 4 | – |
-| Closing balance April 30, 2024 | 385 | 26 |
+| | Sales of goods | Goods and services contracts | Sales of goods | Goods and services contracts |
+| Contract assets | - | 194 | - | 187 |
+| Contract liabilities | (193) | (810) | (130) | (608) |
+| TOTAL | (193) | (616) | (130) | (421) |
 
-The Group has tax loss carry forwards of approximately SEK 432 M (611) for which deferred tax assets have not been recognized. These tax loss carry forwards have long or indefinite periods of utilization and are subject to regular assessment of whether it is probable that deductions can be made against future profits. The majority of tax loss carry forwards pertain to UK, Finland and Canada.
+#### SALES OF GOODS
 
-[IMAGE_DESCRIPTION: 
-Type: Logo
-Location: Top left corner of the document
-Content: Elekta company logo in blue color
-Text Elements: "Elekta"
-Colors & Style: Blue corporate logo
-Purpose: Brand identifier for the document
-]
+Contract liabilities correspond to customer advance payments. The related performance obligation is satisfied within two years of receipt of the advance payment. The majority of the amounts reported at December 31, 2023 are included in revenue in 2024.
 
-Business overview                04
-Financial reporting               19
-Board of Director's report        21
-Consolidated  
-income statement                 30
-Consolidated statement  
-of comprehensive income          30
-Consolidated  
-balance sheet                    32
-Changes in  
-consolidated equity              34
-Consolidated  
-cash flow statement              35
-Financial statements –  
-Parent Company                   36
-Financial notes                  38
-Signatures of the Board          70
-Auditor's report                 71
-Sustainability notes             75
-Auditor's report                 101
-Definitions                      102
-Alternative  
-performance measures            103
-Five-year review and  
-key figures                      106
-Corporate governance            108
+#### GOODS AND SERVICES CONTRACTS
 
----
+Among the contract assets and liabilities for goods and services contracts, the assets correspond mainly to revenue recognized in respect of services rendered but not yet invoiced at the period-end. Amounts recorded in "Contract assets" are transferred to "Trade receivables" when the Group obtains an enforceable right to payment.
 
-# FINANCIAL NOTES                                                                                                     Annual Report 2023/24     55
+The liabilities relate to customer advance payments yet to be recognized in revenue as the related performance obligation is satisfied.
 
-[IMAGE_DESCRIPTION: 
-Type: Logo
-Location: Top left corner
-Content: Elekta company logo showing a circular blue symbol with the company name "Elekta" next to it
-Colors & Style: Blue and white corporate logo
-Purpose: Brand identification
-]
+The 195 million euros negative change in contract assets and liabilities reflects:
+- 120 million euros positive change corresponding to outstanding contract liabilities at December 31, 2023 that were recognized in revenue in 2024.
+- 120 million euros negative effect of timing differences between 2024 billings and revenues recognized using the percentage completion method.
+- 60 million euros negative change corresponding to outstanding contract assets at December 31, 2023 that were billed in 2024.
+- 35 million euros negative change for the net increase in advances received.
+- 20 million euros positive change related to differences in foreign currencies values between 2023 and 2024.
 
-## Note 16. Taxes, cont.
+### C. Unsatisfied performance obligations
 
-### Deferred tax assets and deferred tax liabilities
-Deferred tax assets/liabilities in the balance sheet are attributable to the following:
+#### SALES OF GOODS
 
-| Group | Assets (+) |  | Liabilities (–) |  | Net |  |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: |
-|  | April 30, 2024 | April 30, 2023 | April 30, 2024 | April 30, 2023 | April 30, 2024 | April 30, 2023 |
-| Loss carry-forwards | 487 | 401 | – | – | 487 | 401 |
-| Untaxed reserves | – | 0 | 0 | 0 | 0 | 0 |
-| Intangible assets | 1 | 1 | −973 | −870 | −972 | −869 |
-| Tangible fixed assets | 33 | 37 | −71 | −68 | −38 | −31 |
-| Right-of-use assets | – | – | −280 | −193 | −280 | −193 |
-| Financial assets/liabilities | 16 | 39 | −6 | 0 | 10 | 39 |
-| Lease liabilities | 315 | 232 | – | – | 315 | 232 |
-| Provisions | 69 | 71 | −30 | −19 | 39 | 52 |
-| Accrued expenses | 64 | 68 | −12 | −2 | 52 | 66 |
-| Intercompany profits in inventory | 162 | 142 | – | – | 162 | 142 |
-| Other assets | 512 | 343 | −5 | −23 | 507 | 320 |
-| Other liabilities | 127 | 77 | −23 | −6 | 104 | 71 |
-| Deferred tax assets / tax liabilities | 1,786 | 1,412 | −1,400 | −1,181 | 385 | 230 |
-| Offsetting | −985 | −708 | 985 | 708 | – | – |
-| Reported deferred tax assets / tax liabilities | 801 | 703 | −415 | −473 | 385 | 230 |
+Due to the nature of the business, performance obligations related to sales of goods are satisfied within the short term. Consequently, the amount of the benefits corresponding to unsatisfied performance obligations is not detailed.
 
-### Current tax, net (liability –/receivable +)
+#### GOODS AND SERVICES CONTRACTS
 
-| Group | | Parent Company | |
-| --- | ---: | ---: | ---: |
-| SEK M | 2023/24 | 2022/23 | 2023/24 | 2022/23 |
-| Opening balance, May 1 | 6 | 104 | 19 | 17 |
-| Business combination | – | – | – | – |
-| Reclassifications | 155 | 79 | 1 | – |
-| Adjustment for prior years | 3 | 36 | – | 0 |
-| Current tax for the year | −516 | −511 | – | – |
-| Paid taxes | 431 | 290 | −5 | 1 |
-| Divestments | – | – | – | – |
-| Translation differences | 8 | 7 | – | – |
-| Closing balance, April 30 | 87 | 6 | 14 | 19 |
+Goods and services contracts mainly concern the Group's high-voltage cable and umbilical cable activities. Unsatisfied performance obligations for these activities amount to 3,853 million euros and should be almost entirely satisfied by 2031.
 
-### Tax relating to components of other comprehensive income
+### Note 6. Payroll costs and headcount
 
-| Group | | Parent Company | |
-| --- | ---: | ---: | ---: |
-| SEK M | 2023/24 | 2022/23 | 2023/24 | 2022/23 |
-| Revaluation of defined benefit pension plans | 1 | 0 | – | – |
-| Revaluation of cash-flow hedges | −17 | −41 | – | – |
-| Net gain/loss on equity instruments designated at fair value | – | −9 | – | – |
-| Total | −16 | −50 | – | – |
-
-## Note 17 Earnings per share
-
-### Before dilution
-The calculation of earnings per share before dilution is based on the net income attributable to Parent Company shareholders divided by the weighted average numbers of shares outstanding during the year excluding treasury shares.
-
-| | 2023/24 | 2022/23 |
+| | 2024 | 2023 |
 | --- | ---: | ---: |
-| Profit attributable to Parent Company shareholders (SEK M) | 1,302 | 943 |
-| **Weighted average number of shares (thousands)** | | |
-| Total number of ordinary shares | 383,568 | 383,568 |
-| Effect of holding of treasury shares | −1,485 | −1,485 |
-| Weighted average number before dilution (thousands) | 382,083 | 382,083 |
-| Earnings per share before dilution (SEK) | 3.41 | 2.47 |
+| Payroll costs (including payroll taxes) in millions of euros | 1,221 | 1,171 |
+| Average headcount of consolidated companies in number of employees | 28,498 | 28,541 |
 
-### After dilution
-Diluted earnings per share is calculated by adjusting the weighted average numbers of shares outstanding to assume conversion of all dilutive potential ordinary shares. The Group's long term incentive programs have a dilutive potential.
+Payroll costs in the above table include share-based payments within the meaning of IFRS 2. These payments totaled 22 million euros in 2024 (including payroll taxes). See Note 24 for further details.
 
-| | 2023/24 | 2022/23 |
+Compensation paid to employees affected by reorganization plans in progress is not included in the above table.
+
+### 23 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
+
+## Note 7. Other operating income and expenses
+
+| in millions of euros | Notes | 2024 | 2023 |
+|----------------------|-------|------|------|
+| Net asset impairment | 8 | (0) | 23 |
+| Changes in fair value of non‑ferrous metal derivatives |  | (2) | (1) |
+| Net gains (losses) on asset disposals | 9 | (4) | (9) |
+| Acquisition‑related costs (completed and planned acquisitions) |  | (22) | (10) |
+| Expenses and provisions for antitrust investigations |  | (6) | (2) |
+| **OTHER OPERATING INCOME AND EXPENSES** |  | **(34)** | **1** |
+
+Acquisition‑related costs are mainly related to the acquisition in 2024 of the La Triveneta group in Italy, see Note 14.
+
+## Note 8. Net asset impairment
+
+| in millions of euros | 2024 | 2023 |
+|----------------------|------|------|
+| Impairment losses – non‑current assets | (0) | |
+| Reversals of impairment losses – non‑current assets | | 23 |
+| Impairment losses – goodwill | | |
+| Impairment losses – assets and groups of assets held for sale | | |
+| **NET ASSET IMPAIRMENT** | **(0)** | **23** |
+
+The Group carries out impairment tests on goodwill at least once a year, on intangible assets with an indefinite useful life at least once a year, and on other intangible assets and property, plant and equipment whenever there is an indication that they may be impaired (see Note 1.F.c).
+
+The valuation of the Group's goodwill is carried out at the level of the Cash-Generating Units (CGU) to which they are allocated. In the event of an unfavorable difference between the carrying amount and the recoverable amount, an impairment loss is recognized.
+
+Since 2022, the Group has integrated the challenges associated with the consequences of climate change and the commitments taken for the contribution to carbon neutrality in its approach to the review of the valuation of its assets, in particular via the following elements:
+
+• the investments related to the commitments made in terms of objectives for the contribution to carbon neutrality are insignificant and have no consequences on the review of the valuation of the Group's assets.
+
+• the forecasts of tensions on the copper market led the Group to include in its sensitivity tests the consequences of a possible 10% reduction in volume for the P&T‑Connect business within the P&T‑Grid & Connect segment from 2026. The other activities were not subject to a sensitivity test on this point: they are not affected by such a shortage either because they are considered as a strategic activity or because they are not very exposed to a potential reduction in the availability of copper.
+
+• In 2023, the Group also commissioned a study by Axa Climate on the challenges of physical risks related to climate change for the Group's assets. This study identified six sites with high ISO risks regarding climate change. Following this, actions were put in place to reduce the risks identified.
+
+End 2024, like 2023, the Group has not identified any element related to this work that could lead to the recognition of an impairment loss on one of its assets. Any future action plans will be included in the impairment test assumptions as they are realized.
+
+In addition, the Group also associated the challenges of climate change with its last sustainable development bond issue (see Note 26).
+
+### A. Results of the impairment tests performed over the year
+
+As described in Note 1.F.c and in accordance with IAS 36, impairment tests were first carried out on individual assets when an indication of impairment was identified.
+
+As part of the closing of the financial statements at December 31, 2024, the Group conducted a review of the main impairment issues to identify any indications of impairment that appeared during the period both on individual assets and on Cash‑Generating Units (CGU).
+
+Following the identification of indicators linked to the slowdown in the "electromobility" branch within the automotive harness business, and to the economic and geopolitical situation in Lebanon and Ukraine, the Group carried out impairment tests which did not reveal any loss of value to be recognized.
+
+In 2023, the performance improvement of the North America Industry & Solutions CGU and the improvement in the Asia‑Pacific P&T‑Grid & Connect CGU led the Group to record impairment reversals of €7 million and €17 million respectively on intangible assets (customer relations, brands).
+
+NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024   24
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+The review of the valuations at the CGU level did not lead to the recognition of any impairments losses or reversals on the CGUs in 2024 or 2023, other than those mentioned above.
+
+## B. Goodwill breakdown
+
+Goodwill balances and movements in goodwill can be analyzed as follows by CGU:
+
+*in millions of euros*
+
+| | South America PWR-Grid Connect CGU (a) | Asia-Pacific PWR-Grid Connect CGU (a) | Europe PWR-Grid Connect CGU (a) | Europe Industry and Solutions CGU | Other CGUs | TOTAL |
+|---|---|---|---|---|---|---|
+| **DECEMBER 31, 2023** | 104 | 66 | 41 | 31 | 51 | 293 |
+| Business combinations | - | - | 201 | - | - | 201 |
+| Disposals/acquisitions | - | - | - | - | - | - |
+| Impairment losses | - | - | - | - | - | - |
+| Exchange differences and other | 4 | (1) | (0) | (0) | (28) | (25) |
+| **DECEMBER 31, 2024** | 108 | 64 | 243 | 31 | 24 | 470 |
+
+(a) "PWR-Grid Connect" is the new denomination of the "Buildings and Territories" segment (cf. Note 4)
+
+The goodwill of the Europe PWR-Grid Connect CGU increased by 201 million euros due to the acquisition of the Group La Triveneta Cavi (see Note 14).
+
+The goodwill of the Other CGUs decreased by 28 million euros due to principally, the presentation of Amercable entity in Assets and groups of assets held for sale (see Note 1).
+
+No impairment loss on goodwill was recognized by the Group in 2024 or 2023.
+
+## C. Key assumptions
+
+The discount rates in the Group's main monetary areas and the perpetuity growth rates applied when preparing the business plans used in connection with impairment testing are presented below by geographic area:
+
+| | Discount rates (after tax) of future flows | | Infinite growth rate | |
+|---|---|---|---|---|
+| | **2024** | **2023** | **2024** | **2023** |
+| Europe (Euro Zone) | 8.7% | 9.0% | 1.2% | 1.2% |
+| Chile | 11.0% | 11.5% | 2.3% | 2.4% |
+| United States of America | 10.0% | 10.3% | 2.1% | 2.1% |
+| Brazil | 13.8% | 15.0% | 2.5% | 2.0% |
+| China | 10.8% | 11.0% | 3.3% | 3.4% |
+| Peru | 12.0% | 12.5% | 2.3% | 3.0% |
+| Norway | 9.6% | 10.0% | 1.4% | 1.4% |
+| Australia | 10.2% | 10.3% | 2.3% | 2.3% |
+| Ukraine | 35.0% | 35.0% | 1.2% | 1.2% |
+| Lebanon | 35.0% | 35.0% | 2.7% | 2.7% |
+
+The cash flow assumptions used for impairment calculations were based on the latest projections approved by Group Management and therefore factor in Management's most recent estimates of the Group's future business levels (as contained in the 2025 Budget and the new Strategic Plan). Cash flows are projected over a five-year period for the purpose of these assumptions.
+
+## Sensitivity analyses
+
+The main assumptions described above are used for measuring the CGUs that are tested for impairment. Sensitivity analyses are performed to assess the effect on the calculations of changes in the assumptions. The method used consists of testing the effect of the following changes in assumptions:
+
+- 50-basis point increase in the discount rate compared to the assumptions used.
+- 50-basis point decrease in the perpetuity growth rate compared to the assumptions used.
+- 50-basis point decrease in EBITDA margin (measure of business performance) compared to the assumptions used.
+- 10% reduction in the volume of PWR-Connect business within the PWR-Grid & Connect segment to reflect a potential shortage of copper.
+
+An increase in the discount rate of 50 basis points compared to the assumptions used would lead to a depreciation of 9 million euros on the automotive harness business.
+
+The other sensitivity tests did not reveal any potential need to recognize additional impairment losses.
+
+215 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+Consolidated financial statements
+
+05
+
+The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.
+
+## Note 9. Net gains (losses) on asset disposals
+
+| in millions of euros | 2024 | 2023 |
 | --- | ---: | ---: |
-| Profit attributable to Parent Company shareholders (SEK M) | 1,302 | 943 |
-| **Weighted average number of shares (thousands)** | | |
-| Total number of ordinary shares | 383,568 | 383,568 |
-| Effect of holding of treasury shares | −1,485 | −1,485 |
-| Adjusted for long-term incentive programs | 3 | 284 |
-| Weighted average number after dilution (thousands) | 382,086 | 382,367 |
-| Earnings per share after dilution (SEK) | 3.41 | 2.47 |
+| Net gains (losses) on disposals of fixed assets | (7) | 4 |
+| Net gains (losses) on disposals of investments | 2 | (13) |
+| Other | | |
+| **NET GAINS (LOSSES) ON ASSET DISPOSALS** | **(4)** | **(9)** |
 
-## Business overview
-04
+In 2024, the Group recognized a gain on disposals of investments mainly thanks to a profit made in relation with the liquidation of a non-consolidated entity.
 
-## Financial reporting
-19
+In 2023, the Group recognized capital gains (losses) on disposals of 13 million euros which included:
+- The sale of the Telecom Systems business for 57 million euros, leading to a net capital loss of EB million. The sale price of 57 million euros was paid in cash for 24 million euros, the balance corresponding to five-year loans, with most of which carrying an interest rate of 12%. The sale price was subject to a non-significant adjustment in 2024.
+- The sale contract also includes an "earn-out" clause calculated at 30% of the potential gain from the resale of the business by the purchaser. This clause is capped at 40 million euros.
+- The sale of all shares held in the equity-accounted company IES Energy, i.e. 27.8% of the capital. This sale resulted in a net capital loss of 1 million euros.
 
-## Board of Director's report
-21
+## Note 10. Other financial income and expenses
 
-## Consolidated income statement
-30
-
-## Consolidated statement of comprehensive income
-30
-
-## Consolidated balance sheet
-32
-
-## Changes in consolidated equity
-34
-
-## Consolidated cash flow statement
-35
-
-## Financial statements – Parent Company
-36
-
-## Financial notes
-38
-
-## Signatures of the Board
-70
-
-## Auditor's report
-71
-
-## Sustainability notes
-75
-
-## Auditor's report
-101
-
-## Definitions
-102
-
-## Alternative performance measures
-103
-
-## Five-year review and key figures
-106
-
-## Corporate governance
-108
-
----
-
-# FINANCIAL NOTES
-
-Annual Report 2023/24    56
-
-## Note 18 Intangible assets
-
-### Accounting principles
-Intangible assets contain goodwill, capitalized development costs, customer contracts, customer relationships, technology, patents, and licenses. Amortization of intangible assets is reported in the income statement and allocated to functions as applicable.
-
-### Goodwill
-Goodwill is carried at cost less accumulated impairment losses. Goodwill is tested for impairment annually, or more frequently if impairment indicators are identified.
-
-### Research and development
-Research costs are expensed as they are incurred. In those instances, in which it is difficult to distinguish between the research phase and the development phase in a project, the entire project is considered as research and is expensed as incurred. Identifiable costs for the development of new products are capitalized to the extent that these are considered to provide future economic benefits. In other instances, development expenditures are expensed as they are incurred. Costs for development once reported in the income statement are never capitalized in future periods. Capitalized expenditures are amortized on a straight-line basis from the time when the asset is available for use, which normally occurs when it is produced commercially, and during the estimated useful life of the asset.
-
-### Customer relations and other intangible assets
-Intangible assets also include customer relationships, customer contracts and technology acquired through business combinations, patents, and licenses. These assets are recognized when acquired at the amount of their purchase cost including any directly attributable cost and are amortized on a straight-line basis over their estimated useful life.
-
-### Amortization periods:
-
-| | |
-|---|---|
-| Capitalized development cost | 3–5 years |
-| Technology | 5–20 years |
-| Customer relationships and contracts | 5–20 years |
-| Patents | 3–10 years |
-
-### Impairment
-The carrying amount of an intangible asset is tested for impairment whenever there are indications that the carrying amount might not be recoverable. If there are indications of impairment, the asset's recoverable amount is calculated. The recoverable amount is the higher of the value in use of the asset and the value that would be received if the asset was sold to a third party less selling costs. Value in use consists of all incoming and outgoing payments attributable to the asset during the period it is expected to be used in operations, plus the net realizable value at the end of the useful life. If the calculated recoverable amount is less than the carrying amount, impairment is made to the asset's recoverable amount. An impairment loss recognized in previous periods is reversed if the reasons for the impairment no longer exist. However, a reversal will not be higher than the carrying amount would have been if an impairment loss had not been recognized in previous periods.
-
-Goodwill is tested for impairment annually, and when there are indicators which suggest that the carrying amount may not be recoverable. The impairment test is performed at the level of cash-generating units (CGUs) which represent the Group's operating segments. For the impairment test, the carrying amount of the goodwill is allocated to the CGUs and is compared to their recoverable amount. The recoverable amount is the higher of the CGU fair value less costs to sell and its value in use. An impairment loss is recognized when the carrying amount exceeds the recoverable amount. Impairment losses on goodwill are not reversed. All impairment losses, and any reversals of the same, are recognized in the income statement.
-
-### Estimates and assessment
-For the Group, the most significant estimates and assumptions are those relating to impairment testing of goodwill. This means that the effect on the financial reports may be considerable if the estimates and assessments made would prove to deviate significantly from the actual outcome. In connection with impairment testing of goodwill the carrying amount is compared with the recoverable amount. The recoverable amount is determined by the higher of an asset's net realizable value and its value in use. Normally, it is not possible to determine the net realizable value. Therefore, the value in use is normally the value being compared with the carrying amount. Thus, each cash generating unit's value in use is calculated in assessing any impairment of goodwill. Calculations are performed through discounting future estimated cash flows. In order to perform the calculations a number of assumptions concerning future circumstances and estimates of parameters are made. Any adjustments of the assumptions made could have an effect on the carrying amount of the goodwill. Assuming a lower growth rate would lead to a lower recoverable amount. A higher discount rate would also lead to a lower recoverable amount.
-
-Capitalized development costs comprise capitalized expenditure for research and development as well as other capitalized development costs such as software. Total capitalized development costs amounted to SEK 1,343 M (1,345) for the year whereof capitalization of development costs within R&D represented SEK 1,331 M (1,338).
-
-### Goodwill
-The allocation of the carrying amount of goodwill to CGUs is shown in the following table.
-
-#### Goodwill by segment
-
-| SEK M | 30/04/2024 | 30/04/2023 |
-|-------|------------|------------|
-| North and South America | 2,697 | 2,184 |
-| Europe, Middle East and Africa | 2,727 | 2,394 |
-| Asia Pacific | 2,065 | 2,359 |
-| Total | 7,489 | 6,937 |
-
-[IMAGE_DESCRIPTION:
-Type: Company logo and navigation menu
-Location: Left side of document
-Content: Elekta logo (blue circular symbol with Elekta text) followed by a navigation menu with page numbers
-Text Elements: "Business overview 04", "Financial reporting 19", "Board of Director's report 21", "Consolidated income statement 30", "Consolidated statement of comprehensive income 30", "Consolidated balance sheet 32", "Changes in consolidated equity 34", "Consolidated cash flow statement 35", "Financial statements – Parent Company 36", "Financial notes 38", "Signatures of the Board 70", "Auditor's report 71", "Sustainability notes 75", "Auditor's report 101", "Definitions 102", "Alternative performance measures 103", "Five-year review and key figures 106", "Corporate governance 108"
-Colors & Style: Blue logo on white background, navigation menu in black text with blue highlight indicator for current section
-Purpose: Navigation and branding for annual report document
-]
-
----
-
-# FINANCIAL NOTES
-
-Note 18. Intangible assets, cont.
-
-| SEK M | Goodwill | Capitalized development costs | Customer relationships | Tecnology | Patents, Licenses | Total group | Other intangible assets | Total Parent Company |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| Accumulated acquisition value May 1, 2023 | 6,937 | 9,412 | 1,929 | 753 | 421 | 19,452 | 91 | 91 |
-| Business combinations | 243 | 2 | 56 | 8 | – | 309 | – | – |
-| Purchases/capitalization | – | 1,343 | – | – | 49 | 1,392 | – | – |
-| Sold/Scrapped | – | −2,603 | – | – | −37 | −2,640 | – | – |
-| Translation differences | 309 | 488 | 78 | 39 | 19 | 933 | – | – |
-| Accumulated acquisition value April 30, 2024 | 7,489 | 8,642 | 2,063 | 800 | 452 | 19,446 | 91 | 91 |
-| Accumulated amortization and impairment May 1, 2023 | – | −5,579 | −1,209 | −594 | −348 | −7,730 | −58 | −58 |
-| Sold/Scrapped | – | 2,598 |  |  | 36 | 2,634 | – | – |
-| Amortization for the year | – | −514 | −120 | −20 | −14 | −668 | −9 | −9 |
-| Impairment for the year | – | −4 |  |  | −9 | −13 | −6 | −6 |
-| Translation differences | – | −230 | −56 | −33 | −14 | −333 | – | – |
-| Accumulated amortization and impairment April 30, 2024 | – | −3,729 | −1,385 | −647 | −349 | −6,110 | −73 | −73 |
-| Carrying amount April 30, 2024 | 7,489 | 4,913 | 678 | 153 | 103 | 13,336 | 18 | 18 |
-| Accumulated acquisition value May 1, 2022 | 6,499 | 7,716 | 1,721 | 706 | 393 | 17,035 | 91 | 91 |
-| Business combinations | 2 | 7 | 29 | – | – | 38 | – | – |
-| Purchases/capitalization | – | 1,345 | – | – | 12 | 1,357 | – | – |
-| Sold/Scrapped | – | −1 | – | – | – | −1 | – | – |
-| Translation differences | 436 | 345 | 179 | 47 | 16 | 1,023 | – | – |
-| Accumulated acquisition value April 30, 2023 | 6,937 | 9,412 | 1,929 | 753 | 421 | 19,452 | 91 | 91 |
-| Accumulated amortization and impairment May 1, 2022 | – | −4,899 | −1,008 | −542 | −324 | −6,773 | −52 | −52 |
-| Sold/Scrapped | – | 1 | – | – | – | 1 | – | – |
-| Amortization for the year | – | −467 | −114 | −19 | −11 | −610 | −6 | −6 |
-| Impairment for the year | – | −11 | – | – | – | −11 | – | – |
-| Translation differences | – | −203 | −88 | −33 | −14 | −337 | – | – |
-| Accumulated amortization and impairment April 30, 2023 | – | −5,579 | −1,209 | −594 | −348 | −7,730 | −58 | −58 |
-| Carrying amount April 30, 2023 | 6,937 | 3,833 | 720 | 159 | 73 | 11,722 | 33 | 33 |
-
-expected cash flows has been assumed to be a prudent 2 percent (2), which is considerably lower than the anticipated industry growth. The pre-tax discount rates were within a range of 9.1-10.3%. The discount rates correspond to the GCUs current weighted cost of capital and are based on current market assessments.
-
-The group performed its annual impairment test using data as of January 2024. The 2024 (2023) test showed that there is no need for impairment.
-
-Sensitivity analysis have been carried out based on an increase of the discount rates by 2 percentage points and reduction of the long-term growth of 1 percentage point. The sensitivity analyses did not lead to any impairment indicators.
-
-**Purchases/capitalization per country**
-
-[IMAGE_DESCRIPTION:
-Type: Pie chart
-Location: Bottom right of the page
-Content: Distribution of purchases/capitalization by country
-Text Elements: Sweden, SEK 68 M; United Kingdom, SEK 672M; USA, SEK 461 M; Netherlands, SEK 77 M; Finland, SEK 29 M; Other countries, SEK 36 M
-Colors & Style: Multicolored pie chart with 6 segments
-Purpose: Showing geographic distribution of acquisitions/investments
-]
-
-| Country | Amount |
-|---------|-------:|
-| Sweden | SEK 68 M |
-| United Kingdom | SEK 672 M |
-| USA | SEK 461 M |
-| Netherlands | SEK 77 M |
-| Finland | SEK 29 M |
-| Other countries | SEK 36 M |
-
-The value in use for each unit is derived from discounted cash flows, based on estimated future cash flows. The estimates are based on the financial budget for the next fiscal year as determined by the Executive Committee, and expected future development up to five years. Assumptions regarding sales volume, sales prices, operating expenses and product mix form the basis for estimated future growth and margin development.
-
-Volume assumptions are based on historical outcome, the Executive Committee's expectations on market development, and expected global market growth. Price assumptions are based on current market trends and inflation forecasts. Margin development is based on current margin levels and product mix adjusted for expected price changes and possible changes in the product mix. For periods after five years, the extrapolation of
-
-Annual Report 2023/24                 57
-
----
-
-# FINANCIAL NOTES
-
-[IMAGE_DESCRIPTION:
-Type: Logo
-Location: Top left corner of the page
-Content: Elekta corporate logo with blue circular symbol and "Elekta" text
-]
-
-## Note 19 Leases
-
-### Accounting principles
-Elekta's lease contracts mainly consist of contracts for premises, vehicles and equipment. For premises and equipment, theGroup accounts for the lease and non-lease components of a contract separately. Leases are recognized as a liability and a corresponding right-of-use asset at the date at which the leased asset is available for use by the Group.
-
-The lease payments are discounted using the Group's incremental borrowing rate. To determine the incremental borrowing rate the Group uses a risk-free interest rate and adjusts for credit risk as well as specific adjustments for different durations and currencies.
-
-As of April 30, 2024 the balance sheet shows the following amounts related to leases:
-
-### Right-of-use assets
-
-| SEK M | Premises | Vehicles | Equipment | Total |
-|-------|----------|----------|-----------|-------|
-| Opening accumulated acquisition value May 1, 2023 | 1,438 | 205 | – | 1,643 |
-| Additions¹⁾ | 512 | 97 | 13 | 621 |
-| Terminations | −222 | −75 | – | −297 |
-| Translation differences | 75 | 8 | 0 | 83 |
-| **Accumulated acquisition value April 30, 2024** | **1,801** | **235** | **13** | **2,049** |
-| Opening balance accumulated depreciation May 1, 2023 | −770 | −98 | – | −868 |
-| Depreciation for the year | −201 | −58 | −2 | −261 |
-| Impairments for the year | – | – | – | – |
-| Terminations | 222 | 64 | – | 285 |
-| Translation differences | −38 | −3 | 0 | −41 |
-| **Accumulated depreciation April 30, 2024** | **−788** | **−96** | **−2** | **−885** |
-| **Carrying amount April 30, 2024** | **1,013** | **139** | **11** | **1,164** |
-
-¹⁾ Additions includes new lease contracts, index-adjustments and remeasurements.
-
-| SEK M | Premises | Vehicles | Equipment | Total |
-|-------|----------|----------|-----------|-------|
-| Opening accumulated acquisition value May 1, 2022 | 1,384 | 176 | – | 1,560 |
-| Additions¹⁾ | 17 | 63 | – | 81 |
-| Terminations | −17 | −47 | – | −64 |
-| Translation differences | 53 | 12 | – | 66 |
-| **Accumulated acquisition value April 30, 2023** | **1,438** | **205** | **–** | **1,643** |
-| Opening balance accumulated depreciation May 1, 2022 | −503 | −82 | – | −585 |
-| Depreciation for the year | −193 | −50 | – | −242 |
-| Impairments for the year | −84 | – | – | −84 |
-| Terminations | 20 | 40 | – | 59 |
-| Translation differences | −10 | −6 | – | −16 |
-| **Accumulated depreciation April 30, 2023** | **−770** | **−98** | **–** | **−868** |
-| **Carrying amount April 30, 2023** | **667** | **106** | **–** | **773** |
-
-¹⁾ Additions includes new lease contracts, index-adjustments and remeasurements.
-
-Right-of-use assets are depreciated on a straight-line basis over the shorter of the asset's useful life and the lease term. If the group is reasonably certain to exercise a purchase option, the right-of-use asset is depreciated over the underlying asset's useful life.
-
-The Group's lease contracts for premises typically range between fixed periods of 1 to 20 years, the vehicle leases usually have a lease term of 3–5 years, and equipment leases usually have a lease term of 3–5 years. Elekta has a number of contracts where the contractual terms include extension and termination options that are included when it is determined as reasonably certain that they will be exercised. The assessment of reasonable certainty is only revised if a significant event or a significant change in circumstances occurs. The Group applies the short-term lease recognition exemption to its short-term leases and the lease of low-value assets recognition exemption to leases of assets that are considered to be of low value.
-
-Payments associated with short-term leases and low-value assets are recognized as expenses on a straight-line basis over the lease term. Short-term leases are leases with a lease term of less than 12 months. The Group does not apply IFRS 16 to intangible assets.
-
-### Amounts recognized in the income statement
-
-| SEK M | 2023/24 | 2022/23 |
-|-------|---------|---------|
-| Depreciation for the year | 261 | 242 |
-| Interest expense (included in finance cost) | 48 | 38 |
-| Expense relating to short-term leases (included in cost of goods sold and administrative expenses) | 2 | 1 |
-| Expense relating to leases of low-value assets that are not shown above as short-term leases (included in administrative expenses) | 1 | 2 |
-| **Total** | **312** | **282** |
-
-No material variable lease payments not included in the lease liability has been identified. Low-value assets comprise small items such as printers and coffee machines.
-
-Total cash outflow for leases during fiscal year 2023/24 was SEK 338 M (291).
-
-Leasing fees paid by the Parent Company during the year amounted to SEK 324 K (304). Future leasing fees due for payment within one year amount to SEK 292 K, after 1 year but within 5 years to SEK 85 K.
-
-During the year impairments have been made of 0 M (84) relating to termination of office leases. Impairments are recorded as Administration and R&D expenses in the consolidated income statement.
-
-For maturity analysis of lease liabilities see Note 2.
-
-Annual Report 2023/24        58
-
-## Business overview
-04
-
-## Financial reporting
-19
-
-## Board of Director's report
-21
-
-## Consolidated income statement
-30
-
-## Consolidated statement of comprehensive income
-30
-
-## Consolidated balance sheet
-32
-
-## Changes in consolidated equity
-34
-
-## Consolidated cash flow statement
-35
-
-## Financial statements – Parent Company
-36
-
-## Financial notes
-38
-
-## Signatures of the Board
-70
-
-## Auditor's report
-71
-
-## Sustainability notes
-75
-
-## Auditor's report
-101
-
-## Definitions
-102
-
-## Alternative performance measures
-103
-
-## Five-year review and key figures
-106
-
-## Corporate governance
-108
-
----
-
-# FINANCIAL NOTES
-
-Annual Report 2023/24    59
-
-## Note 20 Tangible assets
-
-### Accounting principles
-Tangible assets acquired by Group companies are reported at cost, less accumulated depreciation and any write-downs. Tangible assets in acquired companies are recognized at fair value on the acquisition date. Buildings are depreciated on a straight-line basis over 50 years. Machinery and equipment are depreciated on a straight-line basis during its economic life of between 3 and 10 years. The residual value of assets and their useful economic lives are reviewed annually and adjusted prospectively, if required.
-
-### Tangible assets
-
-| SEK M | Machinery etc for production | Equipment, tools and installations | Buildings | Total |
-|-------|----------------------------|----------------------------------|----------|-------|
-| Accumulated acquisition value May 1, 2023 | 478 | 2,115 | 272 | 2,866 |
-| Purchases | 30 | 194 | 29 | 252 |
-| Sale/disposals | −47 | −199 | −13 | −259 |
-| Reclassifications | 18 | −26 | 3 | −5 |
-| Translation differences | 11 | 102 | 6 | 119 |
-| Accumulated acquisition value April 30, 2024 | 490 | 2,186 | 297 | 2,973 |
-| Accumulated depreciation and impairment May 1, 2023 | −339 | −1,411 | −135 | −1,886 |
-| Reclassifications | −2 | 1 | – | −2 |
-| Sale/disposals | 47 | 198 | 13 | 258 |
-| Depreciation for the year | −44 | −151 | −12 | −207 |
-| Translation differences | −8 | −64 | −3 | −75 |
-| Accumulated depreciation and impairment April 30, 2024 | −346 | −1,427 | −137 | −1,911 |
-| Carrying amount April 30, 2024 | 143 | 759 | 160 | 1,062 |
-| Accumulated acquisition value May 1, 2022 | 423 | 1,987 | 250 | 2,660 |
-| Purchases | 42 | 161 | 4 | 207 |
-| Sale/disposals | −1 | −104 | −2 | −107 |
-| Reclassifications | 5 | −15 | 9 | −1 |
-| Translation differences | 9 | 86 | 11 | 107 |
-| Accumulated acquisition value April 30, 2023 | 478 | 2,115 | 272 | 2,866 |
-| Accumulated depreciation and impairment May 1, 2022 | −294 | −1,292 | −119 | −1,706 |
-| Sale/disposals | 2 | 103 | – | 105 |
-| Impairment | – | −8 | – | −8 |
-| Depreciation for the year | −41 | −157 | −12 | −210 |
-| Translation differences | −6 | −58 | −4 | −68 |
-| Accumulated depreciation and impairment April 30, 2023 | −339 | −1,411 | −135 | −1,886 |
-| Carrying amount April 30, 2023 | 139 | 704 | 137 | 980 |
-
-### Tangible assets by country
-
-| SEK M | 2023/24 | 2022/23 |
-|-------|---------|---------|
-| Sweden | 110 | 73 |
-| United Kingdom | 405 | 399 |
-| Netherlands | 167 | 154 |
-| China | 161 | 137 |
-| India | 121 | 117 |
-| USA | 51 | 51 |
-| Other countries | 47 | 49 |
-| Total | 1,062 | 980 |
-
-[IMAGE_DESCRIPTION:
-Type: Pie chart
-Location: Bottom right of page
-Content: Distribution of tangible assets by country
-Text Elements: Shows percentages for Sweden, United Kingdom, Netherlands, China, India, USA, and Other countries
-Colors & Style: Blue and teal color scheme with segments showing the proportion of assets by country
-Purpose: Visual representation of the geographical distribution of tangible assets
-Data Visualization: Pie chart showing Sweden (SEK 110 M), United Kingdom (SEK 405 M), Netherlands (SEK 167 M), China (SEK 161 M), India (SEK 121 M), USA (SEK 51 M), and Other countries (SEK 47 M)
-]
-
-Business overview    04
-Financial reporting    19
-Board of Director's report    21
-Consolidated income statement    30
-Consolidated statement of comprehensive income    30
-Consolidated balance sheet    32
-Changes in consolidated equity    34
-Consolidated cash flow statement    35
-Financial statements – Parent Company    36
-Financial notes    38
-Signatures of the Board    70
-Auditor's report    71
-Sustainability notes    75
-Auditor's report    101
-Definitions    102
-Alternative performance measures    103
-Five-year review and key figures    106
-Corporate governance    108
-
----
-
-# FINANCIAL NOTES
-
-## Note 21 Shares in subsidiaries
-
-| Parent Company | |
-| --- | --- |
-| SEK M | 2023/24 | 2022/23 |
-| Opening balance May 1 | 2,807 | 2,752 |
-| Shareholder contributions | 2,022 | 55 |
-| Closing balance April 30 | 4,829 | 2,807 |
-
-| | | | April 30, 2024 | | | April 30, 2023 | |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Company | Corp. Id. No. | Domicile | No. of shares | Interest, % | Carrying amount SEK M | Interest, % | Carrying amount SEK M |
-| Elekta Instrument AB | 556492-0949 | Stockholm, Sweden | 1,000,000 | 100.0 | 50 | 100.0 | 50 |
-| Leksell Institute AB | 556942-6314 | Stockholm, Sweden | 50,000 | 100.0 | - | 100.0 | - |
-| Elekta Solutions AB | 559157-5286 | Stockholm, Sweden | 50,000 | 100.0 | 200 | 100.0 | 200 |
-| Global Medical Investments GMI AB | 556786-4375 | Stockholm, Sweden | 32,100,000 | 100.0 | 7 | 100.0 | 7 |
-| Elekta KK | 65,820 | Tokyo, Japan | 2,000 | 100.0 | 36 | 100.0 | 36 |
-| Elekta Holding Limited | 2699176 | Crawley, England | 22,810,695 | 100.0 | 494 | 100.0 | 494 |
-| Elekta, Inc. | 58-1524221 | Atlanta, USA | 6,020 | 100.0 | 432 | 100.0 | 432 |
-| Elekta Ltd. | R889657862 | Montreal, Canada | 1 | 100.0 | 229 | 100.0 | 229 |
-| Elekta Asia Ltd | 502,493 | Hong Kong, S.A.R. | 81,022,160 | 100.0 | 13 | 100.0 | 13 |
-| Elekta Instrument (Shanghai) Ltd | 310115764250077 | Shanghai, China | 1 | 100.0 | 50 | 100.0 | 50 |
-| Elekta BMEI (Beijing) Medical Equipment Co., Ltd. | 91110114400615135X | Beijing, China | 1 | 100.0 | 295 | 100.0 | 230 |
-| Elekta China Investment CO LTD | 91310115MA1K47TB2R | Shanghai, China | 1 | 100.0 | 230 | 100.0 | 135 |
-| Elekta Pty Limited | ACN 109 006 966 | Sydney, Australia | 1 | 100.0 | 1 | 100.0 | 1 |
-| Elekta Medical System India Private Limited | U33112DL2005PTC139794 | New Delhi, India | 10,000 | 99.0 | 31 | 99.0 | 31 |
-| Elekta SA | B 414 404 913 | Paris, France | 2,493 | 100.0 | 4 | 100.0 | 4 |
-| Elekta Medical SA | A-818 867 31 | Madrid, Spain | 10,000 | 100.0 | 3 | 100.0 | 3 |
-| Elekta GmbH | HRB 63500 | Hamburg, Germany | 1 | 100.0 | - | 100.0 | - |
-| Elekta GmbH | FN 166018w | Innsbruck, Austria | 1 | 100.0 | 3 | 100.0 | 3 |
-| Elekta Hellas EPE | 998,569,196 | Atens, Greece | 600 | 100.0 | - | 100.0 | - |
-| Elekta S.A./N.V. | HRB 613 484 | Zaventem, Belgium | 250 | 100.0 | 1 | 100.0 | 1 |
-| Elekta BV | 17,097,384 | Best, The Netherlands | 40 | 100.0 | - | 100.0 | - |
-| Elekta S.p.A. | 02723670960 | Agrate Brianza (MI), Italy | 500,000 | 100.0 | 66 | 100.0 | 66 |
-| Elekta Medical Systems Comercio e Prestacao<br>de Servicos para Radiologia, Radiocirurgia<br>e Radioterapia Ltda | CNPJ 09.528.196/0001-66 | Sao Paolo, Brazil | 1 | 100.0 | 73 | 100.0 | 73 |
-| Elekta (Pty) Ltd | 2000/018814/07 | Pretoria, South Africa | 1 | 100.0 | - | 100.0 | - |
-| Elekta Pte Ltd | 20090927AZ | Singapore, Singapore | 10,000 | 100.0 | 12 | 100.0 | 12 |
-| Elekta Limited, Korea | 1311111-0259 | Seongnam-si, South Korea | 473,879 | 100.0 | 16 | 100.0 | 16 |
-| Elekta Services S.R.O | 292 80 095 | Brno, Chech Republic | 1 | 100.0 | - | 100.0 | - |
-| Elekta Medikal Sistemler Ticaret A.S. | 196757 | Istanbul, Turkey | 87,900,000 | 100.0 | 87 | 100.0 | 87 |
-| Elekta Medical SA de CV | EME140919G49 | Mexico City, Mexico | 50 | 100.0 | 57 | 100.0 | 57 |
-| Elekta sp.Z.O.O | KRS 0000538192 | Warsaw, Poland | 2,000 | 100.0 | 104 | 100.0 | 104 |
-| Elekta Company Limited | 106810452 | Hanoi, Vietnam | 1 | 100.0 | 2 | 100.0 | 2 |
-| Elekta Business Services sp.Z.O.O | KRS 000567549 | Warsaw, Poland | 1 | 100.0 | 1 | 100.0 | 1 |
-| Elekta (GMP) Algeria | 16236978051 | Dely Ibrahim, Algeria | 1 | 100.0 | 0 | 100.0 | 0 |
-| Elekta Russia | 1167746799637 | Moscow, Russian federation | 1 | 100.0 | 11 | 100.0 | 11 |
-| RRTS Unipessoal LDA | 514185155 | Lisbon, Portugal | 1 | 100.0 | 13 | 100.0 | 13 |
-| Elekta General Trading LLC (Egypt) | 158410 | Cairo, Egypt | 310,000 | 50.0 | 14 | 50.0 | 14 |
-| Kaiku Health Oy | 2505458-2 | Helsinki, Finland | 716,944 | 100.0 | 414 | 100.0 | 414 |
-| Elekta Medical Systems SRL | J40/9054/2021 | Bucharest, Romania | 20 | 100.0 | 1 | 100.0 | 1 |
-| Elekta Philippines Inc | 2021110032534-01 | Makati City, Philippines | 250,000 | 100.0 | 5 | 100.0 | 5 |
-| PT Elekta Medical Solutions | 1281002451394 | Jakarta, Indonesia | 2500 | 49.0 | 12 | 49.0 | 12 |
-| Elekta Limited | 105566065341 | Bangkok, Thailand | 99,470 | 49.0 | 65 | - | - |
-| Elekta Limited | 3244454 | Crawley, England | 140,000 | 86.0 | 1799 | - | - |
-| Elekta s.r.o. | 54527538 | Bratislava, Slovakien | 1 | 100.0 | 0 | 100.0 | 0 |
-| Total | | | | | 4,829 | | 2,807 |
-
-Annual Report 2023/24        60
-
-[IMAGE_DESCRIPTION: 
-Type: Logo/Header
-Location: Left side of document
-Content: Elekta company logo (stylized blue circular symbol followed by "Elekta" text)
-Purpose: Corporate branding
-]
-
-Business overview                04
-Financial reporting               19
-Board of Director's report        21
-Consolidated 
-income statement                 30
-Consolidated statement 
-of comprehensive income          30
-Consolidated 
-balance sheet                    32
-Changes in 
-consolidated equity              34
-Consolidated 
-cash flow statement              35
-Financial statements – 
-Parent Company                   36
-Financial notes                   38
-Signatures of the Board           70
-Auditor's report                  71
-Sustainability notes              75
-Auditor's report                 101
-Definitions                      102
-Alternative 
-performance measures            103
-Five-year review and 
-key figures                      106
-Corporate governance            108
-
----
-
-# FINANCIAL NOTES
-
-Annual Report 2023/24                61
-
-## Note 22  Shares in associated companies
-
-### Accounting principles
-Associated companies are reported by use of the equity method. 
-The revaluation of shares is reported in the financial net.
-
-### Shares in associated companies
-
-| SEK M | Group |  | Parent company |  |
-| --- | ---: | ---: | ---: | ---: |
-|  | April 30, 2024 | April 30, 2023 | April 30, 2024 | April 30, 2023 |
-| Opening balance, May 1 | 27 | 25 | 6 | 6 |
-| Investments | 12 | – | – | – |
-| Participations in income of associates (note 13) | −6 | 2 | – | – |
-| Dividends | −1 | −1 | – | – |
-| Adjustment for prior years | 1 | −1 | – | – |
-| Translation differences | 2 | 1 | – | – |
-| Closing balance, April 30 | 34 | 27 | 6 | 6 |
-
-## Note 23  Other financial assets
-
-| SEK M | Group |  | Parent company |  |
-| --- | ---: | ---: | ---: | ---: |
-|  | April 30, 2024 | April 30, 2023 | April 30, 2024 | April 30, 2023 |
-| Derivative financial instruments | 27 | 38 | – | – |
-| Loan receivables | – | 12 | – | – |
-| Contractual receivables | 980 | 931 | – | – |
-| Other non-current receivables | 51 | 47 | 23 | 23 |
-| Total | 1,058 | 1,028 | 23 | 23 |
-
-### Participations in other companies
-
-| SEK M | Group |  | Parent company |  |
-| --- | ---: | ---: | ---: | ---: |
-|  | April 30, 2024 | April 30, 2023 | April 30, 2024 | April 30, 2023 |
-| Opening balance May 1 | – | 15 | – | 14 |
-| Divestments / Impairment | – | −15 | – | −14 |
-| Closing balance April 30 | – | – | – | – |
-
-The table above presents detailed information regarding the 
-Group's participations in other companies.
-
-## Note 24  Inventories
-
-### Accounting principles
-Inventories are valued in accordance with the 'first in, first out' 
-principle at the lower of cost and net realizable value. The cost is 
-based on a standard cost method. Net realizable value is calculated as the selling price less costs attributable to the sale. Internal profits arising from deliveries between Group companies are 
-eliminated upon consolidation.
-
-### Inventories
-
-| SEK M | Group |  |
+| in millions of euros | 2024 | 2023 |
 | --- | ---: | ---: |
-|  | April 30, 2024 | April 30, 2023 |
-| Components | 430 | 379 |
-| Work in progress | 111 | 84 |
-| Finished goods | 2,717 | 2,607 |
-| Total | 3,259 | 3,070 |
+| Dividends received from non-consolidated companies | 3 | 2 |
+| Provisions | (4) | (1) |
+| Net foreign exchange gain (loss) | (48) | (10) |
+| Net interest expense on pensions and other long-term employee benefit obligations | (6) | (5) |
+| Hyperinflation | (2) | (3) |
+| Other | (4) | (7) |
+| **OTHER FINANCIAL INCOME AND EXPENSES** | **(61)** | **(24)** |
 
-Write-down of inventories during the year amounted to SEK 44 M 
-(103). In the income statement this is reported as cost of product 
-sold. No material inventory is carried at net realisable value.
+In 2023, the impairment recorded on cash deposits in Lebanon was reversed in full for 1 million euros following the change in the conversion rate used to convert deposits into Lebanese currencies. The balance of these deposits of 3 million euros remains classified in other net receivables excluding cash and cash equivalents (see Notes 21 and 26).
 
-## Note 25  Accounts receivable and contract assets
+Foreign exchange gains and losses (net) correspond to realized or unrealized foreign exchange gains and losses on commercial transactions recorded in the balance sheet or in the backlog. These exchange gains and losses may vary significantly from one year to the next.
 
-### Accounting principles
-Accounts receivable are initially recognized at their nominal value 
-and subsequently measured at nominal value less provisions for 
-expected credit losses. Due to the short-term nature of the 
-accounts receivables, the Group expects that the effect of discounting of account receivable would be immaterial. Impairment loss on accounts receivable is recognized in operating 
-income. Elekta applies the simplified approach for measuring 
-expected credit losses for accounts receivable in accordance with 
-IFRS 9. A general provision is calculated using a provision matrix 
-comprising of provision rates by country and ageing group. The 
-provision rates are based on historical loss experience, current 
-market conditions and forward-looking economic conditions. 
-Specific provisions are recorded for exposures to customers with 
-high risk of default. Accounts receivable are written off when the 
-probability of collection is deemed to be unlikely and no further 
-collection efforts are made.
+### Effects of the application of IAS 29 "Hyperinflation" in Turkey and in Ghana
 
-[IMAGE_DESCRIPTION:
-Type: Logo
-Location: Top left of document
-Content: Elekta company logo showing a circular symbol next to the word "Elekta"
-Text Elements: "Elekta"
-Colors & Style: Blue logo on white background
-Purpose: Company branding
-]
-Business overview	04
-Financial reporting	19
-Board of Director's report	21
-Consolidated  
-income statement	30
-Consolidated statement  
-of comprehensive income 	30
-Consolidated  
-balance sheet	32
-Changes in  
-consolidated equity	34
-Consolidated  
-cash flow statement	35
-Financial statements –  
-Parent Company	36
-Financial notes	38
-Signatures of the Board	70
-Auditor's report	71
-Sustainability notes	75
-Auditor's report	101
-Definitions	102
-Alternative  
-performance measures	103
-Five-year review and  
-key figures	106
-Corporate governance	108
+As indicated in Note 1, the Group applied IAS 29 for its Turkish and Ghanaian subsidiaries and used the indicators published by the IMF to revalue the income statement, cash flows and non-monetary assets and liabilities.
+
+The consequences of the treatment of hyperinflation in the income statement for the fiscal year are reflected in:
+- In Turkey, the indicator increased by 44% in the 2024 fiscal year (67% in 2023). The EUR/TRY exchange rate used for the translation of the income statement was 35.73 at December 31, 2024 (33.15 at December 31, 2023).
+- In Ghana, the indicator increased by 24% in the 2024 fiscal year (27% in 2023). The EUR/GHC exchange rate used for the translation of the income statement was 15.51 at December 31, 2024 (11.16 at December 31, 2023).
+- for the Turkish subsidiary, an increase in consolidated revenue for the period of around 21 million euros (up 13 million euros in 2023), an increase in operating margin of around 4 million euros (increase of 2 million euros in 2023), while other financial income and expenses include an insignificant expense reflecting the consequence of hyperinflation on the net monetary position (expense of 2 million euros in 2023).
+- for the Ghanaian subsidiary, an increase in consolidated revenue for the period of around 5 million euros (up 2 million euros in 2023), an insignificant increase in the operating margin, while other financial income and expenses included an expense of 2 million euros reflecting the impact of hyperinflation on the net monetary position (expense of 1 million euros in 2023).
+
+NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024 26
 
 ---
 
-# FINANCIAL NOTES
+# NEXANS 2024 FINANCIAL STATEMENTS
 
-**Note 25. Accounts receivable and contract assets, cont.**
+05 Consolidated financial statements
 
-As of April 30, 2024, accounts receivable amounted to SEK 3,877 M (3,990) including expected credit losses of SEK 84 M (93). The general provision is SEK 48 M and the specific provision amounted to SEK 36 M.
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
 
-Contract assets relate to unbilled work in progress and are considered to have the same risk characteristics as non-due accounts receivable. Contract assets amounted to SEK 2,050 M (2,119) including expected credit losses of SEK 6 M (16).
+## Note 11. Income taxes
 
-## Credit risk analysis of accounts receivable
+### A. Analysis of the income tax charge
 
-| SEK M | April 30, 2024 |  |  | April 30, 2023 |  |  |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: |
-|  | Gross | Reserv | Total | Gross | Reserv | Total |
-| Not due | 2,376 | −6 | 2,370 | 2,508 | −2 | 2,506 |
-| Overdue 1–30 days | 397 | −2 | 395 | 592 | −1 | 591 |
-| Overdue 31–60 days | 273 | −3 | 270 | 162 | −1 | 161 |
-| Overdue 61–90 days | 165 | −2 | 163 | 130 | −3 | 127 |
-| Overdue > 90 days | 750 | −71 | 679 | 692 | −87 | 605 |
-| Total accounts receivables, net | 3,961 | −84 | 3,877 | 4,084 | −93 | 3,990 |
+(in millions of euros) | 2024 | 2023
+--- | --- | ---
+Current income tax charge | (119) | (93)
+Deferred income tax (charge)/benefit, net | 4 | 24
+**INCOME TAXES** | **(115)** | **(68)**
 
-## Provision for bad debt accounts receivable
+In 2024, Nexans headed up a tax group in France that comprised 14 companies. Other tax groups have been set up where possible in other countries, including Germany, the United States, Italy and South Korea.
 
-| SEK M | 2023/24 | 2022/23 |
-| --- | ---: | ---: |
-| Opening balance, May 1 | −94 | −98 |
-| Provisions | −21 | −83 |
-| Reversals | 3 | 50 |
-| Realized loss | 30 | 41 |
-| Translation differences | −2 | −4 |
-| Closing balance, April 30 | −86 | −94 |
+The 2024 income tax charge included a non-material expense below 1 million euro in relation with Pillar II (in line with preparatory work).
 
-## Provision for bad debt contract assets
+### B. Effective income tax rate
 
-| SEK M | 2023/24 | 2022/23 |
-| --- | ---: | ---: |
-| Opening balance, May 1 | −16 | −16 |
-| Provisions | −19 | −1 |
-| Reversals | 30 | 1 |
-| Closing balance, April 30 | −6 | −16 |
+The effective income tax rate was as follows:
 
-[IMAGE_DESCRIPTION:
-Type: Bar chart
-Location: Bottom left of the page
-Content: Bar chart showing accounts receivable by aging category
-Text Elements: "Not due", "Over-due 1-30 days", "Over-due 31-50 days", "Over-due 61-90 days", "Over-due > 90 days"
-Colors & Style: Blue bars showing values from 0 to 2,500 SEK M
-Purpose: Visualization of accounts receivable aging data
-Data Visualization: Shows highest values for "Not due" accounts (around 2,500) and "Overdue > 90 days" (around 750)]
+Tax proof in millions of euros | 2024 | 2023
+--- | --- | ---
+Income before taxes | 398 | 292
+of which share in net income of associates | (0) | 1
+**INCOME BEFORE TAXES AND SHARE IN NET INCOME OF ASSOCIATES** | **398** | **290**
+Standard tax rate applicable in France (in %)(a) | 25.83% | 25.83%
+**THEORETICAL INCOME TAX CHARGE** | **(103)** | **(75)**
+Effect of:  |  | 
+• Difference between foreign and French tax rates | 2 | (7)
+• Change in tax rates for the period | (0) | (0)
+• Unrecognized deferred tax assets | (7) | 20
+• Taxes calculated on a basis different from "Income before taxes" | (12) | (14)
+• Other permanent differences | 5 | 7
+**ACTUAL INCOME TAX CHARGE REPORTED** | **(115)** | **(68)**
+**EFFECTIVE TAX RATE (in %)** | **28.94%** | **23.57%**
 
-# Note 26 Other current receivables
+(a) For the purpose of simplicity, the Group has elected to only use the standard tax rate for France i.e. including surtaxes.
 
-| Group |  |  |
-| --- | ---: | ---: |
-| SEK M | April 30, 2024 | April 30, 2023 |
-| Prepayments to suppliers | 156 | 147 |
-| Other receivables¹ | 742 | 718 |
-| Prepaid expenses | 645 | 732 |
-| Total | 1,543 | 1,597 |
+The theoretical income tax charge is calculated by applying the parent company's tax rate to consolidated income before taxes and share in net income of associates.
 
-¹ Mainly value added tax.
-
-| SEK M | April 30, 2024 | April 30, 2023 |
-| --- | ---: | ---: |
-| Derivative financial instruments (Note 2) | 42 | 7 |
-| Current tax assets | 14 | 19 |
-| Other receivables | 29 | 8 |
-| Prepaid expenses | – | 9 |
-| Total | 85 | 43 |
-
-# Note 27 Cash and cash equivalents and short-term investments
-
-Cash and cash equivalents and short term investments only contains investments that readily can be converted to a known amount of cash and are subject to an insignificant risk of changes in value. All the investments presented as cash equivalents are only held for a short maturity of maximum three months.
-
-|  | Group |  | Parent company |  |
-| --- | ---: | ---: | ---: | ---: |
-| SEK M | April 30, 2024 | April 30, 2023 | April 30, 2024 | April 30, 2023 |
-| Current investments classified as cash equivalent¹ | 602 | 914 | 602 | 914 |
-| Cash and bank | 2,177 | 2,364 | 870 | 962 |
-| Total | 2,779 | 3,278 | 1,472 | 1,876 |
-
-¹ Refers to short-term interest-bearing funds with a high credit rating.
-
-Available cash and cash equivalents and short-term investments amounted to SEK 2,771 M (3,270) which is cash and cash equivalents and short-term investments reduced by bank balances included in assets pledged. See → Note 34.
-
-[IMAGE_DESCRIPTION:
-Type: Logo/Navigation element
-Location: Left sidebar of the document
-Content: Elekta company logo at top, followed by navigation menu items
-Text Elements: "Business overview 04", "Financial reporting 19", "Board of Director's report 21", "Consolidated income statement 30", "Consolidated statement of comprehensive income 30", "Consolidated balance sheet 32", "Changes in consolidated equity 34", "Consolidated cash flow statement 35", "Financial statements – Parent Company 36", "Financial notes 38", "Signatures of the Board 70", "Auditor's report 71", "Sustainability notes 75", "Auditor's report 101", "Definitions 102", "Alternative performance measures 103", "Five-year review and key figures 106", "Corporate governance 108"
-Colors & Style: Blue Elekta logo, navigation menu with page numbers
-Purpose: Document navigation sidebar]
-
-Annual Report 2023/24                                                                                                                        62
+27 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
 
 ---
 
-# FINANCIAL NOTES
+# NEXANS 2024 FINANCIAL STATEMENTS
 
-Annual Report 2023/24    63
+Consolidated financial statements
 
-## Note 28  Equity
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
 
-| Number of shares in Elekta AB (publ) | Series A | Series B | Total | Share capital |
-|-------------------------------------|--------:|----------:|-----------:|-----------:|
-| Number of shares May 1, 2022 | 14,980,769 | 368,587,640 | 383,568,409 | 191,784,205 |
-| Number of shares April 30, 2023 | 14,980,769 | 368,587,640 | 383,568,409 | 191,784,205 |
-| of which treasury shares | – | 1,485,289 | 1,485,289 | – |
-| Number of shares May 1, 2023 | 14,980,769 | 368,587,640 | 383,568,409 | 191,784,205 |
-| Number of shares April 30, 2024 | 14,980,769 | 368,587,640 | 383,568,409 | 191,784,205 |
-| of which treasury shares | – | 1,485,289 | 1,485,289 | – |
+## C. Taxes recognized directly in other comprehensive income
 
-### Appropriation of profit
-| | Sek |
+The taxes recognized directly in other comprehensive income at December 31, 2024, can be analyzed as follows:
+
+| in millions of euros | December 31, 2023 | Gains (losses) generated during the year(a) | Amounts recycled to the income statement(a) | Total other comprehensive income (loss) | December 31, 2024 |
+|---|---|---|---|---|---|
+| Currency translation differences | (9) | (1) | - | (1) | (10) |
+| Cash flow hedges | 16 | (0) | 13 | 13 | 29 |
+| **TAX IMPACTS ON RECYCLABLE COMPONENTS OF COMPREHENSIVE INCOME**(b) | **6** | **(1)** | **13** | **12** | **19** |
+| Financial assets at fair value through other comprehensive income | (0) | - | N/A | - | (0) |
+| Actuarial gains and losses on post‑employment benefits | 26 | (7) | N/A | (7) | 19 |
+| **TAX IMPACTS ON NON‑RECYCLABLE COMPONENTS OF COMPREHENSIVE INCOME** | **26** | **(7)** | **-** | **(7)** | **19** |
+
+## D. Deferred taxes recognized in the consolidated balance sheet
+
+Deferred taxes break down as follows by type:
+
+| in millions of euros | December 31, 2023 | Impact on income | Impact on equity | Change in consolidation scope | Exchange differences and other | December 31, 2024 |
+|---|---|---|---|---|---|---|
+| Fixed assets | (67) | 6 | - | (54) | 5 | (111) |
+| Other assets | (79) | (27) | - | (1) | 4 | (104) |
+| Employee benefit obligations | 22 | (0) | (7) | - | 0 | 15 |
+| Provisions for contingencies and charges | 23 | 13 | - | 4 | (2) | 38 |
+| Other payables | 8 | 18 | - | - | 0 | 27 |
+| Derivatives (metal exchange) | (5) | 6 | 14 | - | 0 | 15 |
+| Unused tax losses, non‑deductible interest and tax credits | 643 | (12) | - | - | (9) | 622 |
+| **DEFERRED TAX ASSETS (GROSS) AND DEFERRED TAX LIABILITIES** | **545** | **4** | **7** | **(52)** | **(1)** | **503** |
+| Unrecognized deferred tax assets | (545) | 1 | (0) | - | 8 | (536) |
+| **NET DEFERRED TAXES** | **0** | **4** | **7** | **(52)** | **6** | **(33)** |
+| ➔ of which recognized deferred tax assets | 129 | - | - | - | - | 117 |
+| ➔ of which deferred tax liabilities | 129 | - | - | - | - | 151 |
+| **NET DEFERRED TAXES EXCLUDING ACTUARIAL GAINS AND LOSSES** | **(22)** | - | - | - | - | **(48)** |
+
+At December 31, 2024, deferred tax assets in an amount of 536 million euros were not recognized as the Group deemed that their recovery was not sufficiently probable (545 million euros at December 31, 2023). These mainly concern the tax losses described in Note 11.E below.
+
+## E. Unused tax losses
+
+For countries in a net deferred tax asset position after offsetting deferred tax assets and deferred tax liabilities arising from temporary differences, the net deferred tax asset recognized in the consolidated balance sheet is determined based on updated business plans (see Note 1.E.f).
+
+The line "Unused tax losses, deductible interest and tax credits" (see Note D) consisted of 508 million euros in unused tax losses, 95 million euros in non‑deductible interest and 19 million euros in tax credits at December 31, 2024.
+
+Unused tax losses carried forward represented potential tax benefits for the Group of 508 million euros at December 31, 2024 (532 million euros at December 31, 2023). The main entities concerned are:
+
+• French subsidiaries, in an amount of 271 million euros (254 million euros at December 31, 2023), of which 9 million euros were recognized in deferred tax assets at December 31, 2024 (8 million euros at December 31, 2023).
+
+• German subsidiaries, in an amount of 179 million euros (184 million euros at December 31, 2023), of which 30 million euros were recognized in deferred tax assets at December 31, 2024 (26 million euros at December 31, 2023).
+
+Deferred tax assets recognized in France and Germany are consistent with the Group's analysis based on the latest business plans and the reorganization measures implemented in the subsidiaries concerned.
+
+(a) The tax effects relating to cash flow hedges as well as the gains and losses generated during the year and amounts recycled to the income statement are presented in the consolidated statement of changes in equity in the "Changes in fair value and other" column.
+(b) These taxes will be recycled to the income statement in the same periods as the underlying transactions to which they relate (see Notes 1.C and F.N).
+
+NEXANS | UNIVERSAL REGISTRATION DOCUMENT 2024 | 28
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements
+
+The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
+
+The potential tax benefits deriving from unused tax losses carried forward break down as follows by expiration date:
+
+| At December 31, in millions of euros | 2024 | 2023 |
+| --- | ---: | ---: |
+| Year Y+1 | 3 | 2 |
+| Years Y+2 to Y+4 | 7 | 11 |
+| Year Y+5 and subsequent years | 598 | 620 |
+| **TOTAL** | **608** | **633** |
+
+(a) This line includes the potential tax benefits derived from unused tax losses that may be carried forward indefinitely.
+
+## Taxable temporary differences relating to interests in subsidiaries, joint ventures and associates
+
+No deferred tax liabilities have been recognized in relation to temporary differences where the Group is able to control the timing of the reversal of the temporary difference and it is probable that the temporary difference will not reverse in the foreseeable future or where the reversal of the temporary difference will not give rise to a significant tax payment.
+
+## Note 12. Earnings per share
+
+The following table presents a reconciliation of basic earnings per share and diluted earnings per share:
+
+| | 2024 | 2023 |
+| --- | ---: | ---: |
+| **NET INCOME ATTRIBUTABLE TO OWNERS OF THE PARENT**(a) | 279 | 221 |
+| Average number of shares outstanding | 43,682,327 | 43,601,217 |
+| Average number of dilutive instruments(b) | 1,336,584 | 1,358,282 |
+| Average number of diluted shares | 45,018,910 | 44,959,499 |
+| **NET INCOME ATTRIBUTABLE TO OWNERS OF THE PARENT PER SHARE** | | |
+| Basic earnings per share(c) | 6.39 | 5.08 |
+| Diluted earnings per share(c) | 6.20 | 4.92 |
+
+(a) In millions of euros. In 2024 and 2023, attributable net income corresponded to adjusted net income attributable to owners of the parent.
+(b) Dilutive instruments in 2024 and 2023 corresponded to free share and performance share rights.
+(c) In euros.
+
+29 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS 05
+
+Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
+
+## Note 13.    Assets held for sale and discontinued operations
+
+In November 2023, the Group entered into an sale agreement for AmerCable entity, a North American power instrumentation and control cable entity in the resources sector (oil and gas, mining) to Mattb based on a value of 140 million US dollar.
+
+With its completion expected within the next twelve months, this program meets the criteria for Assets held for sale within the meaning of IFRS 5.
+
+As a result, the balance sheet contribution of the Amercable entity is presented in Assets and asset groups held for sale as of December 31, (states in euro).
+
+December 31, 2024: 
+Its activities are presented in the "Industry & Solutions" section of the segment reporting, and contribute 256 million euros to net sales at current metal prices and 21 million euros to adjusted EBITDA in 2024.
+
+In accordance with IFRS 5, the Group has valued these asset groups at the lower of their carrying amount and fair value less costs, without recognition of an impairment loss for the disposal.
+
+| (At December 31, in millions of euros) | 2024 |
+|---------------------------------------|------|
+| Net property, plant and equipment and intangible assets | 79 |
+| Inventories and work in progress | 38 |
+| Trade receivables | 13 |
+| Other assets | 1 |
+| TOTAL ASSETS AND GROUPS OF ASSETS HELD FOR SALE | 131 |
+| Trade payables | (12) |
+| Other liabilities | (18) |
+| LIABILITIES RELATED TO GROUPS OF ASSETS HELD FOR SALE | (29) |
+
+As of December 31, 2024, the conversion reserves related to these entities represent a loss of 25 million euros.
+The sale of Amercable was finalized on January 2, 2025, see Note 30.
+
+## Note 14.    Goodwill
+
+The evolution of goodwill in 2024 (490 million euros at December 31, 2024, versus 294 million euros at December 31, 2023) was primarily attributable to the acquisition of the groupe La Triveneta Cavi and to a lesser extent to changes in exchange rates over the period as several of the Group's goodwill items are expressed in foreign currencies as they relate to the Australian (Olex), South American (Madeco, Centelsa) and North American (AmerCable) acquisitions.
+
+All goodwill are tested for impairment as soon as there is an indication of impairment and at least once a year according to the methods and assumptions described in Note 7. No impairment was recognized under goodwill at December 31, 2024 and December 31, 2023.
+
+### Goodwill associated with the acquisition of the La Triveneta Cavi Group
+
+The acquisition was paid mainly by proceeds of the bonds issued in May 2024, for an acquisition cost of the shares of 577 million euros.
+
+The amount paid net of the cash acquired amounted to 514 million euros at December 31, 2024.
+
+The provisional goodwill recognized before allocation to identifiable assets and liabilities amounted to 334 million euros on the date of entry into the scope of consolidation.
+
+NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024   30
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+**Consolidated financial statements**
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+The table below shows the main elements used to determine the goodwill before allocation:
+
+| in millions of euros | La Triveneta Cavi Acquisition 2024 |
+|----------------------|-----------------------------------|
+| Purchase price (a) | 577 |
+| Purchase price of shares (1) | 577 |
+| **Assets** | |
+| Non-current assets (including financial assets) | 72 |
+| Inventories | 82 |
+| Receivables | 169 |
+| Cash and cash equivalents | 66 |
+| Deferred taxes assets | - |
+| Other assets | (4) |
+| **Liabilities** | |
+| Provisions | 2 |
+| Deferred taxes liabilities | - |
+| Financial liabilities | 3 |
+| Other liabilities | 138 |
+| Net attributable assets acquired (2) | 243 |
+| **GOODWILL (1) - (2)** | **334** |
+
+(a) The entire acquisition price was paid in cash and cash equivalents.
+
+The corresponding acquisition costs amounted to 12 million euros in 2024 and were recognized in the income statement in accordance with IFRS 3. In accordance with the Group's accounting principles (see Note 1.D), they are presented on the specific "Acquisition-related costs (completed and planned acquisitions)" line within "Other operating income and expenses" (see Note 7).
+
+| in millions of euros | References | La Triveneta Cavi Acquisition 2024 |
+|----------------------|------------|-----------------------------------|
+| **GOODWILL BEFORE PURCHASE PRICE ALLOCATION AS OF MAY 31, 2024** | | **334** |
+| Allocation to property, plant and equipment | (1) | 63 |
+| Allocation to trademarks | (2) | 33 |
+| Allocation to customer relationships | (2) | 102 |
+| Allocation to inventories | (3) | 4 |
+| Provisions | (4) | (18) |
+| Net deferred tax liabilities | (5) | (52) |
+| **GOODWILL AFTER PURCHASE PRICE ALLOCATION AS OF MAY 31, 2024** | | **201** |
+
+(1) During the 2024 financial year, the Group carried out an assessment at the acquisition date of the fair value of all tangible assets of the group: land, buildings and industrial equipment in the various countries of establishment. This assessment was carried out in particular with the assistance of consulting firms specializing in the real estate sector.
+
+(2) Nexans also carried out an assessment of the intangible assets of the La Triveneta Cavi group over the same period. Two significant categories of intangible assets were identified and valued with the assistance of specialist consulting firms:
+- Brands, which were considered to have a defined life of 20 years
+- Customer relationships, considered to have a defined life of 14 years
+
+(3) Valuation of inventories at their fair value at the date of acquisition.
+
+(4) The Group has identified the fair value of liabilities and contingent liabilities at the acquisition date, taking into account the risks shared by the purchaser and the seller, in particular based on liability guarantee clauses.
+
+(5) Deferred taxes recognized as part of the allocation of the purchase price: they cover deferred taxes recognized on the allocations of goodwill to tangible and intangible assets acquired as well as to liabilities and contingent liabilities identified at the acquisition date.
+
+Please note that this provisional goodwill will become definitive at the end of a period of 12 months following the acquisition, i.e. May 31, 2025.
+
+31 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements                                              05
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+### Note 15. Intangible assets
+
+| in millions of euros | Trademarks | Customer relationships | Software | Intangible assets in progress | Other | Total |
+|:---------------------|:----------:|:----------------------:|:--------:|:----------------------------:|:-----:|:-----:|
+| Gross value | 80 | 257 | 119 | 16 | 66 | 537 |
+| Accumulated amortization and impairment | (8) | (181) | (106) | - | (32) | (327) |
+| **NET VALUE AT JANUARY 1, 2024** | **71** | **76** | **13** | **16** | **34** | **210** |
+| Acquisitions and capitalizations | - | - | 2 | 21 | 0 | 24 |
+| Disposals | - | - | - | - | (0) | (0) |
+| Amortization expense | (2) | (13) | (8) | - | (4) | (26) |
+| Impairment losses, net of reversals⁽ᵃ⁾ | - | - | - | - | - | - |
+| Changes in Group structure | 33 | 102 | 0 | 0 | (0) | 136 |
+| Exchange differences and other | (21) | (4) | 6 | (5) | 1 | (23) |
+| **NET VALUE AT DECEMBER 31, 2024** | **82** | **161** | **13** | **32** | **31** | **320** |
+| Gross value | 95 | 316 | 131 | 32 | 68 | 642 |
+| Accumulated amortization and impairment | (13) | (154) | (117) | - | (37) | (322) |
+
+⁽ᵃ⁾ See Note 7
+
+The line "Exchange differences and others" includes in particular the presentation in IFRS 5 of Amercable's intangible assets cf. **Note 13.**
+
+### Note 16. Property, plant and equipment
+
+| in millions of euros | Land and buildings | Technical installations and tools | Rights of use | Property, plant and equipment in progress | Other | Total |
+|:---------------------|:------------------:|:-------------------------------:|:-------------:|:----------------------------------------:|:-----:|:-----:|
+| Gross value | 1,005 | 2,369 | 204 | 492 | 300 | 4,370 |
+| Accumulated amortization and impairment | (582) | (1,699) | (76) | (1) | (158) | (2,516) |
+| **NET VALUE AT JANUARY 1, 2024** | **423** | **670** | **128** | **491** | **143** | **1,854** |
+| Acquisitions and capitalizations | 4 | 42 | 89 | 296 | 16 | 446 |
+| Disposals | (0) | (10) | 0 | (1) | (0) | (12) |
+| Amortization expense | (36) | (103) | (33) | - | (15) | (188) |
+| Impairment losses, net of reversals⁽ᵃ⁾ | - | 3 | - | - | - | 3 |
+| Changes in Group structure | 43 | 77 | - | 10 | 5 | 135 |
+| Exchange differences and other | 14 | 54 | (16) | (108) | 12 | (44) |
+| **NET VALUE AT DECEMBER 31, 2024** | **448** | **732** | **168** | **689** | **159** | **2,196** |
+| Gross value | 1,058 | 2,515 | 252 | 690 | 332 | 4,847 |
+| Accumulated amortization and impairment | (610) | (1,783) | (83) | (1) | (172) | (2,651) |
+
+⁽ᵃ⁾ See Note 7
+
+Right-of-use assets primarily concern real estate leases for 150 million euros at December 31, 2024 (114 million euros at December 31, 2023).
+
+NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024    32
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+Consolidated financial statements
+
+The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.
+
+## Note 17. Investments in associates – Summary of financial data
+
+### A. Equity value
+
+| At December 31, in millions of euros | % control | 2024 | 2023 |
+|:----------------------------------|:--------:|-----:|-----:|
+| Qatar International Cable Company | 30.33% | 14 | 12 |
+| Colada Continua | 41.00% | 5 | 4 |
+| RecyCâbles | 36.50% | (0) | 4 |
+| **TOTAL** | | **19** | **19** |
+
+### B. Financial data relating to associates
+
+The information below is presented in accordance with the local GAAP of each associate as full balance sheets and income statements prepared in accordance with IFRS were not available at the date on which the Group's consolidated financial statements were published.
+
+#### CONDENSED BALANCE SHEET
+
+| At December 31, in millions of euros | 2024 | 2023 |
+|:----------------------------------|-----:|-----:|
+| Property, plant and equipment and intangible assets | 51 | 48 |
+| Current assets | 91 | 77 |
+| **TOTAL CAPITAL EMPLOYED** | **142** | **125** |
+| Equity | 59 | 65 |
+| Net financial debt | (29) | (18) |
+| Other payables | 111 | 78 |
+| **TOTAL FINANCING** | **142** | **125** |
+
+#### CONDENSED INCOME STATEMENT
+
+| in millions of euros | 2024 | 2023 |
+|:-------------------|-----:|-----:|
+| Revenue at current metal prices | 392 | 386 |
+| Operating income | (1) | 5 |
+| Net income | (7) | 3 |
+
+## Note 18. Other non-current assets
+
+| At December 31, in millions of euros, net of impairment | 2024 | 2023 |
+|:--------------------------------------------------|-----:|-----:|
+| Long-term loans and receivables | 83 | 79 |
+| Shares in non-consolidated companies | 19 | 24 |
+| Pension plan assets | 85 | 79 |
+| Derivative instruments | 25 | 36 |
+| Other | 13 | 17 |
+| **TOTAL** | **225** | **234** |
+
+33 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+## Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+The maturity schedule for non-current assets at December 31, 2024 is presented below, excluding shares in non-consolidated companies and pension plan assets:
+
+| At December 31, in millions of euros | Value in the consolidated balance sheet | One to five years | Due beyond five years |
+|--------------------------------------|---------------------------------------|-------------------|----------------------|
+| Long-term loans and receivables      | 83                                    | 78                | 5                    |
+| Derivative instruments               | 25                                    | 25                |                      |
+| Other                                | 13                                    | 3                 | 11                   |
+| **TOTAL**                            | **121**                               | **105**           | **16**               |
+
+Movements in impairment losses recognized for other non-current assets carried at net realizable value were as follows:
+
+| in millions of euros | Long-term loans and receivables | Other |
+|----------------------|--------------------------------|-------|
+| **DECEMBER 31, 2023**| 17                             | 0     |
+| Additions            | 3                              | -     |
+| Disposals/reversals  | -                              | -     |
+| Other                | -                              | (0)   |
+| **DECEMBER 31, 2024**| 20                             | 0     |
+
+*(a) The "Other" line corresponds to reclassifications that had no income statement impact and changes in Group structure.*
+
+## Note 19. Inventories and work in progress
+
+| At December 31, in millions of euros | 2024  | 2023  |
+|--------------------------------------|-------|-------|
+| Raw materials and supplies           | 579   | 653   |
+| Industrial work in progress          | 368   | 317   |
+| Finished products                    | 392   | 418   |
+| **GROSS VALUE**                      | **1,339** | **1,387** |
+| Impairment                           | (60)  | (68)  |
+| **NET VALUE**                        | **1,279** | **1,319** |
+
+## Note 20. Trade receivables
+
+| At December 31, in millions of euros | 2024  | 2023  |
+|--------------------------------------|-------|-------|
+| Gross value                          | 1,227 | 882   |
+| Impairment                           | (30)  | (25)  |
+| **NET VALUE**                        | **1,197** | **856** |
+
+Receivables securitization and factoring programs are discussed in **Note 29.A**.
+Changes in provisions for impairment of trade receivables can be analyzed as follows (see **Note 29.D** for details on the Group's policy for managing customer credit risk):
+
+| in millions of euros | At January 1 | Additions | Utilizations | Reversals | Changes in Group structure | Other (currency exchange differences…) | At December 31 |
+|----------------------|--------------|-----------|--------------|-----------|----------------------------|---------------------------------------|---------------|
+| 2024                 | 25           | 4         | (1)          | (5)       | 8                          | (1)                                   | 30            |
+| 2023                 | 23           | 6         | (0)          | (1)       | (2)                        | (1)                                   | 25            |
+
+NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024 34
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements
+
+The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
+
+Receivables more than 30 days past due at the year-end but not written down were as follows:
+
+in millions of euros | Between 31 and 90 days past due | More than 90 days past due
+--- | --- | ---
+**DECEMBER 31, 2024** | 9 | 7
+December 31, 2023 | 10 | 9
+
+At December 31, 2024 and 2023, the remaining receivables past due but not written down mainly related to leading industrial groups, major public and private electricity companies and telecommunications operators, and major resellers.
+
+## Note 21. Other current assets
+
+At December 31, in millions of euros | 2024 | 2023
+--- | --- | ---
+Prepaid and recoverable income taxes | 43 | 34
+Other tax receivables | 91 | 84
+Cash deposits paid | 8 | 8
+Prepaid expenses | 23 | 26
+Other receivables, net | 45 | 84
+**NET VALUE** | **211** | **235**
+
+Cash deposited to meet margin calls on copper forward purchases traded on the LME whose fair value was negative at the year-end (see Note 29.C) is presented under "Cash deposits paid" in the above table and amounted to 5 million euros at December 31, 2024 (6 million euros at December 31, 2023).
+
+Since December 31, 2020, other receivables net include cash deposits placed by the Group's entity in Lebanon with local banks due to the crisis situation in the country, see Note 26.
+
+## Note 22. Change in working capital requirement
+
+The change in working capital mentioned in the statement of cash flows in 2024 is detailed below:
+
+At December 31, in millions of euros | 2024 | 2023
+--- | --- | ---
+Inventories and work in progress | 129 | 70
+Trade receivables and other receivables | (184) | 42
+Trade payables and other debts | 231 | 151
+**DECREASE (INCREASE) IN WORKING CAPITAL REQUIREMENT** | **176** | **262**
+
+## Note 23. Equity
+
+### A. Composition of the share capital
+
+At December 31, 2024, Nexans S.A.'s capital stock comprised 43,753,380 fully paid-up shares, each with a par value of 1 euro and a single voting right (43,753,380 shares at December 31, 2023).
+
+Nexans manages its equity with a long-term perspective aimed at ensuring the Group's liquidity, optimizing its financial structure and allowing its shareholders to benefit from strong cash flow generation.
+
+The decision elements may be net profit per share targets, future cash flow forecasts or balance sheet balance in order to meet net debt criteria (leverage & gearing ratios).
+
+### B. Distribution
+
+At the Shareholders' Meeting, shareholders will be invited to vote on the distribution of a dividend of 2.60 euros per share, which taking into account the 43,753,380 ordinary shares comprising the Company's share capital at December 31, 2024, will represent a total distribution of 114 million euros.
+
+If the Company holds any treasury shares at the time the dividend is paid, the amount corresponding to unpaid dividends on these shares will be allocated to retained earnings. The total amount of the dividend could be increased in order to reflect the number of additional shares that may be issued between January 1, 2025 and the date on which the Shareholders' Meeting is called to approve the dividend payment.
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements
+
+The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
+
+## B. CHANGE IN OUTSTANDING FREE SHARES AND PERFORMANCE SHARES
+
+| | Number of shares |
 |---|---:|
-| Amount to be paid to the shareholders | 916,999,488 |
-| Amount to be carried forward by the Parent Company | 722,865,330 |
-| Total non-restricted equity of the Parent Company | 1,639,864,818 |
+| **SHARES OUTSTANDING AT BEGINNING OF YEAR** | **1,325,345** |
+| Shares granted during the year | 330,200 |
+| Shares canceled during the year | (92,241) |
+| Shares vested during the year(a) | (261,099) |
+| **SHARES OUTSTANDING AT THE YEAR-END** | **1,302,205** |
 
-All shares have a par value of SEK 0.50 and provide the holders with equal rights to the Company's assets and earnings. All shares are entitled to dividends subsequently issued. One series A-share entitles the holder to 10 votes and one series B-share to one vote. In accordance with section 12 of the articles of association, series A-shares are subject to right of first refusal. All series A-shares are currently owned by Laurent Leksell via company. The dividend paid out during the financial year amounted to a total sum of SEK 917 M, corresponding to SEK 2.40 per share. At the AGM on September 5, 2024, a dividend of SEK 2.40 per share for the year 2023/24 – a total sum of approximately SEK 917 M will be proposed. The average number of shares during the year, rounded to the nearest thousand, before dilution was 382,083 thousand (382,083) and 382,086 thousand (382,367) after dilution. The dilution effect relates to the share programs awarded to employees and occurs when certain performance targets are met. The number of repurchased shares on April 30, 2024, totaled 1,485,289 B-shares (1,485,289).
+(a) Including 253,409 shares allocated from treasury stock
 
-For more information on the Elekta share, see → page 26.
+## C. VALUATION OF FREE SHARES AND PERFORMANCE SHARES
 
-## Note 29  Interest-bearing liabilities
+The assumptions applied to value the shares impacting income for 2024 and 2023 were as follows:
 
-| SEK M | Group ||  Parent Company ||
-|-------|-------:|-------:|-------:|-------:|
-|| April 30, 2024 | April 30, 2023 | April 30, 2024 | April 30, 2023 |
-| Bond loan | 2,498 | 2,496 | 2,498 | 2,496 |
-| Liabilities to credit institutions | 3,432 | 3,225 | 3,309 | 3,210 |
-| Liabilities to Group companies | – | – | 3,750 | 2,808 |
-| Lease liabilities | 1,319 | 947 | – | – |
-| Total | 7,248 | 6,668 | 9,557 | 8,514 |
+| Grant date | Share price at grant date (in euros) | Vesting period | Volatility (in %)(a) | Risk-free interest rate (in %) | Dividend rate (in %) | Fair value of each share (in euros) |
+|---|---:|---|---:|---:|---:|---|
+| March 19, 2019 | 28.22 | 4 years | 35.00 % | -0.22 % | 2.00 % | 10.90-26.05 |
+| March 17, 2020 | 24.77 | 4 years | 37.63 % | -0.32 % | 2.00 % | 7.11-22.87 |
+| March 18, 2021 | 70.85 | 4 years | 44.03 % | -0.55 % | 2.00 % | 42.40-65.40 |
+| September 30, 2021 | 79.60 | 3-4 years | 41.31 % | -0.58 % | 2.00 % | 45.46-74.28 |
+| November 8, 2021 | 87.20 | 4 years | 41.11 % | -0.58 % | 2.00 % | 51.70-80.50 |
+| March 17, 2022 | 84.50 | 4 years | 40.74 % | 0.03 % | 2.00 % | 48.87-78.00 |
+| October 25, 2022 | 98.80 | 3-4 years | 40.74 % | 2.30 % | 2.00 % | 70.44-92.32 |
+| March 16, 2023 | 65.30 | 4 years | 36.33 % | 3.16 % | 2.00 % | 21.03-61.50 |
+| October 24, 2023 | 65.30 | 3-4 years | 36.33 % | 3.16 % | 2.00 % | 21.03-61.50 |
+| March 20, 2024 | 95.00 | 4 years | 35.41 % | 2.81 % | 2.00 % | 54.58-87.70 |
+| October 29, 2024 | 138.80 | 3-4 years | 37.62 % | 2.43 % | 2.00 % | 105.22-129.70 |
 
-### Maturity term structure, external loans
-|| Group ||  Parent Company ||
-|-------|-------:|-------:|-------:|-------:|
-|| April 30, 2024 | April 30, 2023 | April 30, 2024 | April 30, 2023 |
-| < 1 year | 1,122 | 15 | 999 | – |
-| > 1 year < 3 years | 2,883 | 999 | 2,883 | 999 |
-| > 3 years < 5 years | 350 | 2,803 | 350 | 2,803 |
-| > 5 years | 1,575 | 1,904 | 1,575 | 1,904 |
-| Total | 5,929 | 5,721 | 5,806 | 5,706 |
+(a) Only for shares subject to a stock market performance condition
 
-### Specification by currency
+The fair value of free shares and performance shares is recorded as a payroll expense from the grant date to the end of the vesting period, with a corresponding adjustment to equity. In the income statement, this expense amounted to 19 million euros in 2024 (compared to an expense of 18 million euros in 2023) including the expense related to the employee share ownership plan.
 
-| Currency | Amount || SEK M ||
-|----------|-------:|-------:|-------:|-------:|
-|| April 30, 2024 | April 30, 2023 | April 30, 2024 | April 30, 2023 |
-| Swedish kronor, SEK M | 3,989 | 3,985 | 3,989 | 3,985 |
-| British pound, GBP M | 90 | 90 | 1,233 | 1,155 |
-| EU Euro, EUR M | 50 | 50 | 585 | 566 |
-| Thai Baht, THB M | 415 | 0 | 123 | 0 |
-| US dollars, USD M | 0 | 1 | 0 | 15 |
-| Total |  |  | 5,929 | 5,721 |
+## E. Put options granted to non-controlling interests
 
-[IMAGE_DESCRIPTION:
-Type: Navigation/index sidebar
-Location: Left side of the document
-Content: Table of contents for the Annual Report with page numbers
-Text Elements:
-- Business overview 04
-- Financial reporting 19
-- Board of Director's report 21
-- Consolidated income statement 30
-- Consolidated statement of comprehensive income 30
-- Consolidated balance sheet 32
-- Changes in consolidated equity 34
-- Consolidated cash flow statement 35
-- Financial statements - Parent Company 36
-- Financial notes 38
-- Signatures of the Board 70
-- Auditor's report 71
-- Sustainability notes 75
-- Auditor's report 101
-- Definitions 102
-- Alternative performance measures 103
-- Five-year review and key figures 106
-- Corporate governance 108
-Purpose: Navigation sidebar showing document structure
-]
+In September 2024, Nexans made a commitment to acquire the shares of the minority shareholders of Nexans Continuous Copper Casting and Refining, a company dedicated to the manufacture of copper wire from cathodes and recycled copper. This commitment is considered as a financial liability in accordance with IAS 32. This call / put option on 30% of the shares has an estimated maturity of 4y. It was recognized in financial liabilities in the amount of 30 million euros, against the Group's consolidated reserves.
 
-[IMAGE_DESCRIPTION:
-Type: Logo
-Location: Top-left of the document
-Content: Elekta company logo
-Text Elements: Elekta
-Colors & Style: Blue corporate logo
-Purpose: Brand identification
-]
+At December 31, 2024, the financial debt represented 30 million euros.
+
+The dividends paid on shares covered by this call / put option granted to non-controlling interests are analyzed as earn-outs and increase the amount of goodwill.
+
+## 37 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
 
 ---
 
-# FINANCIAL NOTES
+# NEXANS 2024 FINANCIAL STATEMENTS
+Consolidated financial statements 05
 
-Annual Report 2023/24                64
+The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.
 
-## Note 30 Provisions
+## C. Significant events of the year
 
-### Accounting principles
-Provisions are reported when the Group has an obligation resulting from a past event for which it is probable that payments will be required to settle the obligation and it is possible to make a reliable estimate of the amount of the obligation.
+Over the year actuarial gains are mainly due to the performance of invested funds for an amount of 14 million euros. Actuarial losses are linked to the decrease in discount rates, were offset by experience gains generated over the period. The latter are explained by the non-revaluation of annuities in Germany compared to the assumption of early revaluation. As for actuarial gains for the financial year 2023, they were mainly due to the decrease in discount rates partially offset by the performance of invested funds.
 
-### Pensions
-Most of the Group's pension commitments are met through payments to authorities or other independent organizations that administer the pension plans. For these defined contribution pension plans, a pension cost is reported on a continuous basis as the benefits are earned, which normally coincides with the date on which the fees are paid.
+Two specific transactions were carried out in 2024, in Canada and the United States:
+* In Canada, an annuity buyout transaction was carried out for one of the main plans eliminating the risk towards the beneficiaries of this plan. Thus the commitment relating to this plan was transferred almost entirely to an insurance company for a value of 30 million euros. This transfer was fully financed by the assets covering the plan, for a net impact that was not significant on income.
+* In the United States, part of the commitment was settled by a lump sum payment offered to participants for 7 million euros, largely covered by the assets covering the plan. The impact on income is not significant.
 
-The Group has defined benefit pension plans for certain employees in a few countries. Under these defined benefit plans, the Group has an obligation to provide agreed benefits to current and former employees. The related actuarial and investment risks fall on the Group. The obligation for defined benefit plans is remeasured at each balance sheet date using actuarial assumptions and the so-called projected unit credit method that distributes the costs over the employee's working life. These obligations are measured at the present value of the expected future payments.
+The Group's employer contributions relating to defined benefit plans are estimated at 9 million euros for 2025.
 
-### Restructuring provision
-Restructuring provisions are recognized only when the Group has an obligation, which is when: (i) there is a detailed formal plan that identifies the business or part of the business concerned, the location and number of employees affected, the detailed estimate of the associated costs, and the timeline; and (ii) the employees affected have been notified of the plan's main features.
+Lastly, the other pension plans from which the Group's employees benefit correspond to defined-contribution plans, for which the Group has no commitment beyond the payment of contributions, which are recognized as expenses for the period. Contributions under these plans are recognized immediately as an expense. The amount of contributions paid in relation to these plans amounted to 126 million euros in 2024 (105 million euros in 2023).
 
-### Warranty provisions
-Estimated costs for product guarantees are charged against operating costs in conjunction with the income recognition of the products. The estimated costs are established using historic statistics, with known changes taken into account regarding product quality, repair costs etc.
+## D. Analysis of actuarial gains and losses
 
-### Estimates and assessment
-Provisions include uncertainties and entails various judgments. Provisions for guarantees are based on historic statistics, while others, such as provisions for legal disputes and restructuring are based on management's best estimate of the expected outcome. Provisions for defined benefit plans are based on actuarial valuations which rely on key assumptions including discount rate, future salary increase and inflation. Total provisions amounted to SEK 383 M (426).
+Actuarial gains and losses arising on the Group's defined benefit obligation (DBO) can be analyzed as follows:
 
-### Provisions
+| | 2024 | | 2023 | |
+|---|---|---|---|---|
+| | in millions of euros | % of plan assets | in millions of euros | % of plan assets |
+| Discount rate | 11 | 2% | 18 | 3% |
+| Salary increases | 0 | 0% | 0 | 0% |
+| Mortality | (0) | 0% | 0 | 0% |
+| Headcount turnover | 0 | 0% | - | 0% |
+| Inflation rate | (2) | 0% | 3 | 0% |
+| Other changes in assumptions | 0 | 0% | 3 | 0% |
+| (GAINS)/LOSSES FROM CHANGES IN ASSUMPTIONS | 10 | 2% | 24 | 4% |
+| (GAINS)/LOSSES FROM PLAN AMENDMENTS | - | 0% | - | 0% |
+| (GAINS)/LOSSES FROM EXPERIENCE ADJUSTMENTS | (14) | -3% | 7 | 1% |
+| OTHER | - | 0% | - | 0% |
+| TOTAL (GAINS)/LOSSES ARISING DURING THE YEAR | (5) | -1% | 31 | 5% |
 
-| SEK M | Group |  | Parent company |  |
-| --- | ---: | ---: | ---: | ---: |
-|  | April 30, 2024 | April 30, 2023 | April 30, 2024 | April 30, 2023 |
-| Restructuring reserve | 18 | 23 | 0 | 3 |
-| Warranty provisions | 107 | 107 | - | - |
-| Other provisions | 23 | 59 | - | - |
-| **Short-term provisions** | **148** | **189** | **0** | **3** |
-| Provision for pensions | 149 | 137 | - | - |
-| Other provisions | 87 | 100 | 16 | 16 |
-| **Long-term provisions** | **236** | **237** | **16** | **16** |
+## E. Breakdown of plan assets by category
 
-### Pension plans
-The majority of Elekta's pension plans are defined contribution plans but there are also defined benefit pension plans for certain employees in a few countries; mainly Japan, Netherlands, Italy and Germany. Total pension costs for the Group amounted to SEK 361 M (336) of which SEK 25 M (30) relate to defined benefit pension plans, see Note 8.
+The Group's portfolio of plan assets breaks down as follows:
 
-### Pension costs, defined benefit pension plans
+| At December 31 | 2024 | | 2023 | |
+|---|---|---|---|---|
+| | in millions of euros | % of plan assets | in millions of euros | % of plan assets |
+| Shares(a) | 143 | 32% | 153 | 33% |
+| Bonds and other fixed income products(a) | 156 | 35% | 163 | 35% |
+| Real estate | 104 | 23% | 105 | 22% |
+| Cash and cash equivalents | 7 | 2% | 7 | 2% |
+| Other | 34 | 8% | 37 | 8% |
+| FAIR VALUE OF PLAN ASSETS | 445 | 100% | 465 | 100% |
 
-| | Group | |
-| --- | ---: | ---: |
-| | April 30, 2024 | April 30, 2023 |
-| Current service cost | -23 | -26 |
-| Interest on obligation | -10 | -7 |
-| Interest income | 5 | 4 |
-| Past service costs and gains/losses on settlements | 3 | - |
-| Actuarial loss/gain | -8 | 7 |
-| **Total cost of defined benefit pension plans before tax** | **-33** | **-22** |
-| whereof reported in: | | |
-| the income statement | -25 | -29 |
-| other comprehensive income | -8 | 7 |
+(a) All of the instruments recognized under "Equities" and "Bonds and other fixed income products" are listed.
 
-### Defined benefit pension plans
-
-| SEK M | Group | |
-| --- | ---: | ---: |
-| | April 30, 2024 | April 30, 2023 |
-| Defined benefit obligation, funded plans | 186 | 162 |
-| Fair value of plan assets | -145 | -128 |
-| **Provision for pensions, funded plans** | **41** | **34** |
-| Defined benefit obligation, unfunded plans | 107 | 103 |
-| **Provision for pensions, unfunded plans** | **107** | **103** |
-| **Pension provision for defined benefit plans, net** | **149** | **137** |
-
-[IMAGE_DESCRIPTION:
-Type: Logo
-Location: Top left of the document
-Content: Elekta company logo, consisting of a blue circular symbol next to the word "Elekta"
-Text Elements: "Elekta"
-Colors & Style: Blue corporate logo
-Purpose: Brand identification for the annual report
-]
-
-Business overview    04
-Financial reporting    19
-Board of Director's report    21
-Consolidated income statement    30
-Consolidated statement of comprehensive income    30
-Consolidated balance sheet    32
-Changes in consolidated equity    34
-Consolidated cash flow statement    35
-Financial statements – Parent Company    36
-Financial notes    38
-Signatures of the Board    70
-Auditor's report    71
-Sustainability notes    75
-Auditor's report    101
-Definitions    102
-Alternative performance measures    103
-Five-year review and key figures    106
-Corporate governance    108
+NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024 40
 
 ---
 
-# FINANCIAL NOTES
+# NEXANS 2024 FINANCIAL STATEMENTS
 
-Note 30 Provisions, cont.
+## 05 Consolidated financial statements
 
-## Movement in provision for pensions
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
 
-| Mkr | April 30, 2024 |  |  | April 30, 2023 |  |  |
+### F. Sensitivity analyses
+
+The present value of the Group's obligation for pensions and other retirement benefits is sensitive to changes in discount rates. A 50 basis-point decrease in the discount rates applied would have had the following impacts on the present value of the Group's defined benefit obligation:
+
+| At December 31 | 2024 |  |  |
+| --- | :---: | :---: | :---: |
+|  | **Actual value in millions of euros** | **Adjusted value in millions of euros** | **% change** |
+| Europe | 429 | 452 | 5.19% |
+| North America | 111 | 116 | 4.70% |
+| Asia | 14 | 14 | 3.36% |
+| Other countries | 15 | 15 | 2.59% |
+| **TOTAL** | **569** | **597** | **4.99%** |
+
+The present value of the Group's obligation for pensions and other retirement benefits is also sensitive to changes in inflation rates. Depending on the type of plan concerned, changes in inflation rates can affect both the level of future salary increases and the amounts of annuity payments. A 50 basis-point increase in the inflation rates used would have had the following impacts on the present value of the Group's defined benefit obligation (assuming that the discount rates applied remain constant):
+
+| At December 31 | 2024 |  |  |
+| --- | :---: | :---: | :---: |
+|  | **Actual value in millions of euros** | **Adjusted value in millions of euros** | **% change** |
+| Europe | 429 | 437 | 1.78% |
+| North America | 111 | 111 | 0.00% |
+| Asia | 14 | 14 | 0.00% |
+| Other countries | 15 | 15 | 1.08% |
+| **TOTAL** | **569** | **576** | **1.37%** |
+
+### G. Characteristics of the main defined benefit plans and associated risks
+
+The Group's main defined benefit plans are in Switzerland (39% of total benefit obligations at December 31, 2024) and Germany (27% of total benefit obligations at December 31, 2024).
+
+**SWITZERLAND**
+
+The pension plan of Nexans Suisse S.A. is a contribution-based plan with a guaranteed minimum rate of return and a fixed conversion rate on retirement. It offers benefits that comply with the Swiss Federal law on compulsory occupational benefits (the "LPP/BVG" law).
+
+As specified in the LPP/BVG law, the plan has to be fully funded. Therefore, if there is a funding shortfall, measures must be taken to restore the plan to a fully funded position, such as by the employer and/or employees contributing additional financing and/or by reducing the benefits payable under the plan.
+
+The pension fund is established as a separate legal entity. This foundation is responsible for the management of the plan and is composed of an equal number of employer and employee representatives. The strategic allocation of plan assets must comply with the investment guidelines put in place by the Foundation, which are aimed at limiting investment risks.
+
+In addition, Nexans Suisse S.A. is exposed to a lifetime risk concerning the commitment. Indeed, almost three-quarters of commitments relate to retirees.
+
+The life of the plan is approximately 10 years.
+
+**GERMANY**
+
+Nexans Deutschland GmbH's most significant plan is a defined benefit plan that has been closed to new entrants since January 2005. For former employees currently receiving benefits under the plan (and plan members who have not yet retired), pension benefits are calculated based on their vested rights as of the date the plan was closed. This plan is not funded.
+
+Members are also covered against the risk of disability. In general, any disability payments due will be made on top of the amount of future pension benefits. In addition, the plan provides for reversionary benefits.
+
+In addition, Nexans Deutschland GmbH is exposed to a lifetime risk and pension indexation risk concerning the commitment. In fact, nearly 90% of commitments relate to retirees.
+
+The life of the plan is approximately 8 years.
+
+## 41 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+## Consolidated financial statements
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+## Note 25. Provisions
+
+| At December 31, in millions of euros | 2024 | 2023 |
+|:----------------------------------|----:|----:|
+| Accrued contract costs | 85 | 87 |
+| Provisions for reorganization costs | 17 | 22 |
+| Other provisions | 107 | 91 |
+| TOTAL | 208 | 200 |
+
+The movements in these provisions were as follows:
+
+| in millions of euros | Total | Accrued contract costs | Provisions for reorganization | Other provisions |
+|:---------------------|-----:|-----:|-----:|-----:|
+| AT DECEMBER 31, 2022 | 177 | 70 | 25 | 82 |
+| Additions | 78 | 48 | 16 | 14 |
+| Reversals (utilized provisions) | (30) | (11) | (16) | (3) |
+| Reversals (surplus provisions) | (30) | (22) | (2) | (5) |
+| Business combinations | - | - | - | - |
+| Exchange differences and other | 6 | 3 | (0) | 3 |
+| AT DECEMBER 31, 2023 | 200 | 87 | 22 | 91 |
+| Additions | 51 | 37 | 8 | 6 |
+| Reversals (utilized provisions) | (31) | (16) | (12) | (2) |
+| Reversals (surplus provisions) | (24) | (20) | (1) | (3) |
+| Business combinations | 14 | - | - | 14 |
+| Exchange differences and other | (1) | (4) | 0 | 2 |
+| AT DECEMBER 31, 2024 | 208 | 85 | 17 | 107 |
+
+The above provisions have not been discounted as the effect of discounting would not have been generally material.
+
+Provisions for accrued contract costs are primarily set aside by the Group as a result of its contractual responsibilities particularly relating to customer warranties, loss-making contracts, and penalties under commercial contracts (see Note 32). They include provisions for construction contracts in progress where applicable, in accordance with the method described in Note 1.E.a.
+
+The reorganization costs amounted to 17 million euros in 2024. They mainly include social costs and external consultant expenses, including 10 million euros related to the transformation of Electrification activities (7 million euros in 2023) and 3 million euros related to the implementation of operational tools and processes preparing the segregation of the Electrification and non-Electrification activities (9 million euros in 2023).
+
+As was the case in previous years, wherever possible, the reorganization plans implemented by the Group in 2024 included assistance measures negotiated with employee representative bodies as well as measures aimed at limiting lay-offs and facilitating redeployment.
+
+The "Other provisions" column mainly includes provisions set aside for antitrust investigations, which amounted to 62 million euros at December 31, 2024 (62 million euros at December 31, 2023) (see Note 31).
+
+Surplus provisions are reversed when the related contingency no longer exists or has been settled for a lower amount than the estimate made based on information available at the previous period-end (including provisions for expired customer warranties).
+
+NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2024    42
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## 05 Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+### SHORT-TERM FINANCIAL BORROWINGS AND DEBT
+
+| At December 31 | Weighted average EIR(a) (in %) | in millions of euros |
+| --- | --- | --- |
+|  | 2024 | 2023 | 2024 | 2023 |
+| Euro - Ordinary bonds redeemable in 2024 | N/A | 2.87% | N/A | 200 |
+| Euro - Negotiable debt securities program | 4.15% | 3.94% | 120 | 287 |
+| Euro - Other | N/A | 9.41% | N/A | 2 |
+| US dollar | 5.74% | 7.55% | 10 | 25 |
+| Other | 4.52% | 10.23% | 18 | 31 |
+| **TOTAL SHORT-TERM DEBT EXCLUDING ACCRUED INTEREST**(b) | 4.31% | 4.09% | 148 | 545 |
+| Accrued interest (including short-term accrued interest on long-term debt) | N/A | N/A | 45 | 25 |
+| **TOTAL SHORT-TERM DEBT**(b) | 4.31% | 4.09% | 193 | 569 |
+
+(a) Effective interest rate
+(b) Excluding lease liabilities
+
+The vast majority of the Group's short-term debt is at fixed rates.
+
+At December 31, 2023, short-term debt in euros consisted mainly of the ordinary bond to be repaid in 2024 and outstanding commercial papers mentioned in Note 29-A.
+
+US dollar-denominated debt primarily concerns Colombia and Brazil.
+
+Debt denominated in currencies other than euros and US dollars corresponds mainly to borrowings taken out locally by certain Group subsidiaries in Asia (China), Africa and the Middle East (Turkey, Morocco and Côte d'Ivoire) and South America (Brazil). In some cases, such local borrowing is required as the countries concerned do not have access to the Group's centralized financing facilities. However, it may also be set up in order to benefit from a particularly attractive interest rate or to avoid the risk of potentially significant foreign exchange risk depending on the geographic region in question.
+
+### F. Analysis by maturity (including accrued interest)
+
+Nexans Financial and Trading Services, a wholly-owned Nexans subsidiary, is responsible for the Group's centralized cash management. However, in its capacity as parent company, Nexans S.A. still carries out the Group's long-term bond issues.
+
+Nexans Financial and Trading Services monitors changes in the liquidity facilities of the holding companies as well as the Group's overall financing structure on a weekly basis (see Note 29-A).
+
+In view of Nexans' available short-term liquidity facilities and long-term debt structure, the Group's debt maturity schedule set out below is presented on a medium and long-term basis.
+
+#### MATURITY SCHEDULE AT DECEMBER 31, 2024
+
+| in millions of euros | Due within one year | Due in one to five years | Due beyond five years | Total |
+| --- | --- | --- | --- | --- |
+|  | Principal | Interest | Principal | Interest | Principal | Interest | Principal | Interest |
+| Ordinary bonds redeemable in 2028 | - | 22 | 400 | 66 | - | - | 400 | 88 |
+| Ordinary bonds redeemable in 2029 | - | 24 | 575 | 95 | - | - | 575 | 119 |
+| Ordinary bonds redeemable in 2030 | - | 15 | - | 60 | 350 | 15 | 350 | 89 |
+| European Investment Bank (EIB) loan | - | 4 | 200 | 8 | - | - | 200 | 12 |
+| Negotiable debt securities program | 120 | 3 | - | - | - | - | 120 | 3 |
+| Other bank loans and overdrafts | 28 | 1 | 15 | 0 | 46 | 0 | 90 | 1 |
+| Lease liabilities | 34 | 7 | 69 | 21 | 69 | 28 | 172 | 56 |
+| **TOTAL** | 183 | 75 | 1,259 | 250 | 465 | 43 | 1,907 | 367 |
+
+Notes concerning the preparation of the maturity schedule:
+• foreign exchange and interest rate derivatives used to hedge the Group's external debt are not material for the Group as a whole.
+• the euro equivalent amount for borrowings in foreign currencies has been calculated using the year-end exchange rate at December 31, 2024.
+
+## 45 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## 05 Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+## FOREIGN EXCHANGE DERIVATIVES
+
+In 2024, the loss relating to the ineffective portion of the Group's foreign exchange derivatives amounted to 50 million euros. In the consolidated income statement this loss is included in "Other financial income and expenses" for the operations component of the hedge and in "Cost of debt (net)" for the financial component. A 73 million euro net loss on cash flow hedges was recognized in the consolidated statement of comprehensive income and a net loss of 41 million euros was recycled to the income statement.
+
+## METAL DERIVATIVES
+
+In 2024, the ineffective portion of gains or losses arising on the fair value remeasurement of metal derivatives designated as cash flow hedges represented a non-material amount that was recognized in the consolidated income statement on the line "Changes in fair value of non-ferrous metal derivatives" in "Other operating income and expenses".
+
+An aggregate 17 million euro gain was recognized in the consolidated statement of comprehensive income for metal derivatives designated as cash flow hedges and a 13 million euro gain was recycled to the income statement.
+
+## Note 26 - Financial risks
+
+The Treasury, Financing and Metals Department defines the financial risk management policy covering:
+
+* liquidity, foreign exchange, interest rate, credit and banking counterparty risks;
+* risks relating to changes in non-ferrous metal prices, as well as the credit and financial counterparty risks of entities that trade in non-ferrous metals markets;
+* the department is part of the legal entity Nexans Financial and Trading Services.
+
+Where permitted by local regulations, Group subsidiaries' foreign exchange and interest rate risks are managed on a centralized basis and their access to liquidity is managed through a cash pooling system.
+
+Nexans Financial and Trading Services is the counterparty for all hedges of commodities risks, except for those set up by subsidiaries in Brazil, South Korea, China, Australia and New Zealand.
+
+The main subsidiaries that did not have access to the centralized cash management system at December 31, 2024, are located in Morocco, China, South Korea, Peru, Brazil, Chile, Ghana, Colombia and to some extent in Lebanon. These subsidiaries, which have their own banking partners, are nevertheless subject to Group procedures regarding their choice of banks and foreign exchange and interest rate risk management.
+
+Non-ferrous metal risk management policy is also defined and controlled centrally for the entire Group by the Treasury, Financing and Metals Department, which takes centralized positions on the market based on requests from subsidiaries. At December 31, 2024, only subsidiaries in Australia, New Zealand and China had direct access to such markets.
+
+### A. Liquidity risk
+
+#### Monitoring and managing liquidity risk
+
+The Treasury Financing and Metals Department monitors changes in the treasury and liquidity positions of the Group on a weekly basis (encompassing both holding companies and operating entities). As such, subsidiaries are required to provide cash forecasts for the four weeks of the current month as well as for the following two months. These forecasts are then compared to actual cash figures.
+
+Bank borrowings taken out by subsidiaries that are not part of the Nexans Financial and Trading Services centralized cash management system must be approved in advance by the "Financing Committee" and may not have maturity dates exceeding 12 months, unless express authorization is obtained.
+
+The key liquidity indicators that are monitored are the unused amounts of credit facilities granted to the Group and available cash and cash equivalents.
+
+The Group also monitors its net debt position on a monthly basis (see Note 26 for the definition of net debt).
+
+#### Management of cash surpluses
+
+The Group's policy for investing cash surpluses is guided by the overriding principles of ensuring sufficient availability and using safe investment vehicles. The banks considered by the Group as acceptable counterparties must be rated at least A by Standard & Poor's and P2 by Moody's, or must be majority-owned by the government of their home country (which must be either an EU member, Canada or the United States).
+
+At December 31, 2024, the Group's cash surpluses were recognized under "Cash and cash equivalents" in the consolidated balance sheet and were invested in:
+* current accounts with banks considered by the Group as acceptable counterparties;
+* money-market mutual funds (OPCVM) which are not exposed to changes in interest rates and whose underlying assets are investment-grade issues by both corporations and financial institutions; or
+* term deposits and certificates of deposit issued by banks, with an initial investment period of less than one year.
+
+As an exception to the above and due to the crisis in Lebanon, bank deposits in Lebanese banks have been excluded from cash and cash equivalents (see Note 26).
+
+### Main sources of financing
+
+Over the past several years the Group has implemented a strategy of diversifying its sources of financing through:
+* issues of ordinary bonds maturing in 2027, 2029 and 2030 (see Note 26);
+* a medium-term syndicated credit facility renewed on October 25, 2022 and now representing an amount of 800 million euros, lasting for an initial period of five years. In October 2023, the Group activated its second extension option bringing the maturity of the line to 2029;
+* a loan facility granted by the European Investment Bank (EIB) for an amount of 200 million euros, fully drawn in April 2022.
+
+## 47 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+Consolidated financial statements
+
+The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
+
+Consolidated net debt breaks down as follows between variable and fixed interest rates:
+
+| At December 31, in millions of euros | 2024 |  |  | 2023 |  |  |
+|---|---|---|---|---|---|---|
+|  | Current | Non-current | Total | Current | Non-current | Total |
+| **VARIABLE RATES** |  |  |  |  |  |  |
+| Financial liabilities | 149 | 0 | 149 | 346 | 9 | 355 |
+| Cash and cash equivalents | (1,254) | - | (1,254) | (1,131) | - | (1,131) |
+| **NET VARIABLE RATE POSITION** | **(1,106)** | **-** | **(1,106)** | **(785)** | **9** | **(775)** |
+| **FIXED RATES** |  |  |  |  |  |  |
+| Financial liabilities | 80 | 1,706 | 1,785 | 252 | 737 | 989 |
+| Cash and cash equivalents | - | - | - | - | - | - |
+| **NET FIXED RATE POSITION** | **80** | **1,706** | **1,785** | **252** | **737** | **989** |
+| **NET FINANCIAL DEBT** | **(1,026)** | **1,706** | **681** | **(532)** | **746** | **214** |
+
+(a) Including the short-term portion of accrued interest not yet due on long-term debt.
+
+## 6. Foreign exchange and metal price risks
+
+The Group's foreign exchange risk exposure primarily relates to operations-based transactions (purchases and sales).
+
+Due to its international presence, the Group is exposed to foreign currency translation risk on the net assets of subsidiaries whose functional currency is not the euro. It is Group policy not to hedge these risks.
+
+The Group's sensitivity to foreign exchange risk on operating cash flows is considered to be moderate due to its operational structure. Indeed, the majority of Nexans operating subsidiaries have a very strong local presence, except in the high-voltage business. The Group's policy is to hedge its foreign exchange and non-ferrous metal price risks on cash flows relating to foreseeable significant contractual commercial transactions and certain forecast transactions. The operations arising from this hedging activity may result in certain positions being kept open. Where this happens, the positions are limited in terms of amount and term, and they are overseen by the Treasury, Financing and Metal Department.
+
+The risk management policy for non-ferrous metals is defined by the Finance Department. It is implemented by subsidiaries that purchase copper, aluminum and, to a lesser extent, lead. The Group's main exposure to metal price risk arises from fluctuations in copper prices.
+
+### METHODS USED TO MONITOR AND HEDGE EXPOSURE TO FOREIGN EXCHANGE RISK
+
+The Group verifies that its procedures for managing foreign exchange risk are properly applied by means of quarterly reports provided to the Treasury, Financing and Metals Department by all subsidiaries exposed to this type of risk, irrespective of whether or not they are members of the cash pool. The reports contain details on the subsidiaries' estimated future cash flows in each currency and the related hedges that have been set up, as well as a reconciliation between actual figures and previous forecasts.
+
+The Treasury, Financing and Metals Department has developed training materials for the Group's operations teams and carries out ad hoc audits to ensure that the relevant procedures have been properly understood and applied. Lastly, the Internal Audit Department regularly verifies that the procedures for identifying and hedging foreign exchange risks have been properly applied during its audit engagements carried out at the Group's subsidiaries.
+
+In addition, some bids are made in a currency other than that in which the entity concerned operates. Foreign exchange risks arising on these bids are not systematically hedged, which could generate a gain or loss for the Group if there is a significant fluctuation in the exchange rate between the date when the bid is presented and the date it is accepted by the customer. However, in such cases, the Group takes steps to reduce its potential risk by applying expiration dates to its bids and by incorporating the foreign exchange risk into the price proposal.
+
+Foreign exchange risk is identified at the level of the Group's subsidiaries. The subsidiaries' treasurers execute hedges centrally or locally using forward currency transactions. For subsidiaries that are members of the cash pool, these transactions are carried out with the Treasury, Financing and Metals Department. Other subsidiaries enter into forward currency transactions with their local banks. The objective is to reduce flows in the subsidiary's functional currency and/or to avoid open positions in a given currency for a given maturity.
+
+### METHODS USED TO MANAGE AND HEDGE EXPOSURE TO METAL RISK
+
+The exposure of a certain number of subsidiaries to the risk of changes in non-ferrous metal prices is hedged at Group level. To this end, each Group company reports its exposures to the Treasury, Financing and Metals Department.
+
+The Group verifies that its procedures for managing and hedging metal risks are correctly applied by means of each operating subsidiary reporting monthly on its exposure to copper, aluminum and lead risk in both tonnage and value terms. The related reports are analyzed and consolidated at Group level by the Treasury, Financing and Metals Department.
+
+49 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements 05
+
+*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
+
+Cash deposited to meet margin calls on copper forward purchases whose fair value was negative at the year-end (see Note 27) amounted to 25 million euros at December 31, 2024 (19 million euros at December 31, 2023).
+
+In conclusion, the Group has limited exposure to credit risk. The Group considers that its management of counterparty risk is in line with market practices but it cannot totally rule out a significant impact on its consolidated financial statements should it be faced with the occurrence of systemic risk.
+
+### RISK ON DEPOSITS AND INVESTMENTS
+
+Deposits and investments with banks of Nexans Financial Trading Services and Nexans Canada's surplus cash amounted to 824 million euros at December 31, 2024, representing approximately 92% of the Group's total cash and cash equivalents. All of these deposits and investments are with counterparties rated as investment grade by Standard & Poor's, with ratings of between A+ and AA-.
+
+Nexans Financial Trading Services has no SICAV's shares as of December 31, 2024.
+
+For the Group's other subsidiaries, counterparty risk on deposits and investments is managed in accordance with the principles and procedures described in Note 29-A.
+
+### E. Market risk sensitivity analysis
+
+A sensitivity analysis is provided below on the impact that a theoretical change in the above-mentioned main market risks would have on consolidated income and equity.
+
+#### SENSITIVITY TO CHANGES IN COPPER PRICES
+
+Fluctuations in copper prices can impact both consolidated income and equity, as well as the Group's financing needs. Sensitivity calculations are based on an assumed increase in copper prices. A fall in copper prices would have the inverse effect.
+
+A rise in copper prices would result in:
+* a rise in the fair value of the Group's portfolio of cash-settled copper derivatives (the Group is a net buyer).
+* an upward remeasurement of the Group's Core exposure.
+
+At Group level, the impact on working capital is limited and mainly relates to the timing of derivatives settlement. Potential significant variations could occur at local level due to pricing conditions.
+
+An increase in the fair value of cash-settled copper derivatives would positively affect either consolidated operating income or equity, based on the accounting treatment used for these derivative instruments (the derivatives of the Group's main subsidiaries are designated as cash flow hedges within the meaning of IFRS 9).
+
+The simulation below is based on the following assumptions (with all other assumptions remaining constant, notably exchange rates):
+
+* a 10% increase in copper prices at December 31, 2023 and 2024, and translation of this impact evenly across the entire price curve without any distortion of forward point spreads.
+* all working capital components (inventories and the copper component of trade receivables and payables) would be impacted by the increase in copper prices.
+* 47,000 tons and 50,000 tons of copper included in working capital at December 31, 2023 and December 31, 2024, respectively.
+* short-term interest rate (3-month Euribor) of 2.715% in 2024 and 4.291% in 2023. A worst-case scenario in which the increase in working capital would be constant throughout the year, leading to an annualized increase in financial expenses (not taking into account the temporary positive impact of margin calls or the effect of changes in exchange rates).
+* 43,350 tons of copper classified as core exposure at December 31, 2024 and 42,900 tons at December 31, 2023.
+* using a theoretical income tax rate of 25.83% in 2024 as in 2023.
+
+Any impact of changes in copper prices on both impairment in value of the Group's non-current assets (in accordance with IAS 36) and the provision for impairment of inventories has not been taken into account in this simulation, as it is impossible to identify a direct linear effect.
+
+| At December 31, in millions of euros | 2024 | 2023 |
+| ------------------------------------ | ---- | ---- |
+| Impact on operating income | 36 | 33 |
+| Impact on financial income and expenses | (1) | (1) |
+| NET IMPACT ON INCOME (AFTER TAX) | 26 | 23 |
+| IMPACT ON EQUITY* (AFTER TAX) | 24 | 20 |
+
+*(a) Excluding net income (loss) for the period.
+
+NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024 52
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+## Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+## TOTAL COMPENSATION
+
+Total compensation paid to the Group's Key Management Personnel can be analyzed as follows:
+
+| in millions of euros | 2024 | 2023 |
+|:---------------------|-----:|-----:|
+| Compensation for corporate officer positions(a) | 3.2 | 2.7 |
+| Compensation under employment contracts and benefits in kind(a) | 10.5 | 8.3 |
+| Performance shares(b) | 5.1 | 4.1 |
+| Termination benefits(a) | - | - |
+| Long-term incentive plan(b) | 0.2 | 0.2 |
+| Accruals for pensions and other retirement benefit obligations(c) | 1.1 | 1.1 |
+| **TOTAL COMPENSATION** | **20.2** | **16.4** |
+
+(a) Amounts paid during the year, including payroll taxes.
+(b) Amounts expensed in the income statement during the year.
+(c) Payments related to supplementary defined contribution pension plans.
+
+## COMMITMENTS GIVEN TO THE CHIEF EXECUTIVE
+
+All of the commitments given to Christopher Guérin in his capacity as Chief Executive Officer (CEO) are described in detail each year in the Universal Registration Document (section entitled "Commitments given to the Chief Executive Officer (CEO)").
+
+As Chief Executive Officer (CEO), Christopher Guérin has received the following commitments from the Company, which were decided at the Board meeting and approved yearly at the Shareholders' Meeting:
+
+1) If Christopher Guérin is removed from his position as Chief Executive Officer (CEO), he will be entitled to payment of a termination indemnity representing two years' worth of his total fixed and variable compensation. This indemnity will be subject to actual performance in relation to the objectives applicable to his target annual variable compensation being at least equal to 80% of said objectives on average over the three years preceding his removal. This indemnity will be payable only in the event of a forced departure due to a change of control or strategy, which will be deemed to be the case unless specifically decided otherwise by the Board of Directors, notably in the event of serious misconduct.
+
+2) As compensation for an undertaking not to exercise any business that would compete either directly or indirectly with any of the Company's businesses for a period of two years from the end of his term of office as Chief Executive Officer (CEO), Christopher Guérin will receive a non-compete indemnity, regardless of the cause of termination of his duties. Said indemnity will be paid in 24 equal and successive monthly installments and will equal one year of his fixed and variable compensation, i.e., 12 times the amount of his most recent monthly compensation (fixed portion) plus the corresponding percentage of his bonus. The Board could decide to impose a non-competition obligation on the Chief Executive Officer (CEO) for a period shorter than two years. In such a case, the non-competition indemnity would be reduced pro rata temporis.
+
+In accordance with Article 25.3 of the Afep-Medef Code (December 2022 version), in the event of Christopher Guérin's departure the Board of Directors will decide whether or not the non-compete agreement entered into with him will apply and will be entitled to cancel it (in which case no non-compete indemnity will be payable).
+
+In addition, in accordance with Article 25.4 of the Afep-Medef Code, no non-compete indemnity will be due if Christopher Guérin takes retirement upon leaving the Group. In any event, no indemnity shall be paid beyond the age of 65.
+
+Lastly, in accordance with the compensation policy for corporate officers described in Section 4 of this Document, all severance benefits (termination benefits and non-compete benefits) may not exceed two years' worth of actual compensation (fixed and variable).
+
+If Christopher Guérin retired, he would be entitled to benefits under the supplementary defined contribution pension plan set up by the Group in 2019 for certain employees and corporate officers. The annual contribution paid by the Company corresponds to 20% of the Chief Executive Officer's total actual annual compensation (fixed plus variable), i.e., 330,000 euros in 2024.
+
+## Note 30: Disputes and contingent liabilities
+
+### A. Antitrust investigations
+
+In January 2009, antitrust investigations were launched in several countries against various cable manufacturers including Group companies in relation to alleged anticompetitive behavior in the submarine and underground high-voltage power cables sector.
+
+On April 7, 2014, Nexans France SAS and the Company were notified of the European Commission's decision (EC Decision), which found that Nexans France SAS had participated directly in an infringement of European antitrust legislation in the submarine and underground high-voltage power cable sector. The Company was held jointly liable for the payment of a portion of the fine imposed on Nexans France SAS by the European Commission.
+
+In early July 2014, Nexans France SAS paid 70.6 million euro fine imposed on it by the European Commission.
+
+05
+
+56
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## 05 Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+| Companies by geographical area | % control | % interest | Consolidation method(a) |
+|--------------------------------|----------:|----------:|------------------------|
+| **NORTHERN EUROPE** | | | |
+| Nexans Benelux S.A. | 100.00% | 100.00% | |
+| Nexans Network Solutions NV | 100.00% | 100.00% | |
+| Nexans Services | 100.00% | 100.00% | |
+| Nexans Deutschland GmbH | 100.00% | 100.00% | |
+| Metrofunkkabel Union GmbH | 100.00% | 100.00% | |
+| Nexans Auto Electric GmbH(d) | 100.00% | 100.00% | |
+| Nexans Power Accessories Deutschland GmbH | 100.00% | 100.00% | |
+| Nexans Industrial Solutions GmbH | 100.00% | 100.00% | |
+| Nexans Nederland BV | 100.00% | 100.00% | |
+| Nexans Norway A/S | 100.00% | 100.00% | |
+| Nexans Subsea Operations | 100.00% | 100.00% | |
+| Nexans Skagerrak | 100.00% | 100.00% | |
+| Nexans Marine Operations | 100.00% | 100.00% | |
+| Nexans Vessel Management | 100.00% | 100.00% | |
+| Nexans Suisse S.A. | 100.00% | 100.00% | |
+| Nexans Re(e) | 100.00% | 100.00% | |
+| Nexans Logistics Ltd | 100.00% | 100.00% | |
+| Nexans UK Ltd | 100.00% | 100.00% | |
+| Nexans Sweden AB | 100.00% | 100.00% | |
+| REKA Cables | 100.00% | 100.00% | |
+| Nexans Finland Holding | 100.00% | 100.00% | |
+| Nexans Industry Solutions(f) | 100.00% | 100.00% | |
+| **SOUTHERN AND EASTERN EUROPE** | | | |
+| Nexans Iberia SL | 100.00% | 100.00% | |
+| Nexans Industrial Solutions Iberia | 100.00% | 100.00% | |
+| Takami | 100.00% | 100.00% | |
+| Nexans Italia SpA | 100.00% | 100.00% | |
+| Gruppo LTC S.p.A. | 100.00% | 100.00% | |
+| La Triveneta Cavi S.p.A. | 100.00% | 100.00% | |
+| Veneta Trafili S.p.A. | 100.00% | 100.00% | |
+| Nexans Partecipazioni Italia Srl | 100.00% | 100.00% | |
+| Nexans Intercablo SpA | 100.00% | 100.00% | |
+| Nexans Hellas S.A. | 100.00% | 100.00% | |
+| Nexans Power Accessories Czech Republic | 100.00% | 100.00% | |
+| Nexans Turkiye Endustri Ve Ticaret AS | 100.00% | 100.00% | |
+
+61    NEXANS    UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS 05
+
+**Consolidated financial statements**
+
+*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
+
+| Companies by geographical area | % control | % interest | Consolidation method⁽ᵃ⁾ |
+|-------------------------------|-----------|------------|------------------------|
+| **NORTH AMERICA** |  |  |  |
+| Nexans Canada Inc. | 100.00% | 100.00% |  |
+| Nexans USA Inc. | 100.00% | 100.00% |  |
+| AmerCable Inc. | 100.00% | 100.00% |  |
+| Nexans Magnet Wire USA Inc. | 100.00% | 100.00% |  |
+| Nexans Specialty Holdings USA Inc. | 100.00% | 100.00% |  |
+| Nexans Industrial Solutions Inc. | 100.00% | 100.00% |  |
+| Nexans High Voltage USA Inc. | 100.00% | 100.00% |  |
+| **SOUTH AMERICA** |  |  |  |
+| Invercable | 100.00% | 100.00% |  |
+| Nexans Chile S.A. | 100.00% | 100.00% |  |
+| Colada Continua S.A. | 41.00% | 41.00% | Equity method |
+| Nexans Colombie | 100.00% | 100.00% |  |
+| Indeco Peru⁽ᵇ⁾ | 96.73% | 96.73% |  |
+| Cobrecon | 100.00% | 98.37% |  |
+| Nexans Brasil S.A. | 100.00% | 100.00% |  |
+| Alcatek | 100.00% | 100.00% |  |
+| Centelsa | 100.00% | 100.00% |  |
+| Cobres de Colombia | 100.00% | 100.00% |  |
+| Cedetec | 100.00% | 100.00% |  |
+| **AFRICA AND MIDDLE EAST** |  |  |  |
+| Liban Câbles s.a.l | 91.15% | 91.15% |  |
+| Nexans Maroc⁽ᶠ⁾ | 97.56% | 97.56% |  |
+| Nexans Aerospace Maroc | 100.00% | 97.61% |  |
+| Qatar International Cable Company | 30.33% | 30.33% | Equity method |
+| Nexans Kabelmetal Ghana Ltd | 59.13% | 59.13% |  |
+| Nexans Côte d'Ivoire | 60.00% | 59.00% |  |
+| **ASIA-PACIFIC** |  |  |  |
+| Nexans Hong Kong Ltd | 100.00% | 100.00% |  |
+| Nexans Singapore | 100.00% | 100.00% |  |
+| Nexans China Wire & Cables Co. Ltd | 100.00% | 100.00% |  |
+| Nexans (Yanggu) New Rihui Cables Co. Ltd | 100.00% | 100.00% |  |
+| Nexans (Suzhou) Cables Solutions Co. Ltd | 100.00% | 100.00% |  |
+| Nexans Korea Ltd | 99.51% | 99.51% |  |
+| Nexans Korea Cables Co. Ltd | 99.51% | 99.51% |  |
+| Kukdong Electric Wire Co. Ltd | 97.90% | 97.90% |  |
+| Nippon High Voltage Cable Corporation | 100.00% | 100.00% |  |
+| OLEX Australia Pty Ltd | 100.00% | 100.00% |  |
+| OLEX New Zealand Ltd | 100.00% | 100.00% |  |
+
+(a) The companies in this list are fully consolidated unless otherwise specified.
+(b) Listed companies.
+(c) The entity responsible for the Group's cash management.
+(d) Nexans Auto Electric GmbH – a company based in Germany – itself consolidates various sub-subsidiaries located in the United States, Germany, Romania, Ukraine, the Czech Republic, Slovakia, Tunisia, China, Bulgaria and Mexico.
+(e) Nexans Re is the Group's captive reinsurer.
+(f) Nexans Industry Solutions prepares consolidated financial statements that include various subsidiaries located mainly in China and Poland.
+(g) Nexans Maroc itself consolidates a subsidiary located in Morocco.
+
+**NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024 62**
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+05
+Consolidated financial statements
+
+The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.
+
+## Note 35. Statutory Auditors' fees
+
+The total fees paid to the Statutory Auditors for all controlled entities in France and recorded in the income statement for 2024 break down as follows:
+
+| in thousands of euros | Audit of the consolidated financial statements | Audit of the corporate financial statements | Audit of Sustainability report | Other (a) | Total |
+|:---|---:|---:|---:|---:|---:|
+| Forvis Mazars | 312 | 250 | 241 | 17 | 820 |
+| PwC | 307 | 350 | 611 | 908 | 2,176 |
+| **TOTAL** | 619 | 600 | 852 | 925 | 2,995 |
+
+(a) Other non audit-related services include, in particular, fees for due diligence in the context of acquisitions.
+
+## Note 36. Subsequent events
+
+On January 2, 2025, Nexans completed the sale of AmerCable to Mattr for a value of 280 million US dollar. The sale price is expected to be finalized in the first half of 2025 with the establishment of Amercable's financial statements as of December 31, 2024.
+No other significant event has occurred since December 31, 2024.
+
+63 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+### Valuation of defined benefit obligation *in millions of euros*
+
+| | 2024 | 2023 |
+|---|---:|---:|
+| **PRESENT VALUE OF DEFINED BENEFIT OBLIGATION AT JANUARY 1** | **619** | **588** |
+| Service cost | 10 | 10 |
+| Interest expense | 19 | 19 |
+| Employee contributions | 2 | 2 |
+| Plan amendments | (0) | 1 |
+| Business acquisitions and disposals | 2 | 11 |
+| Plan curtailments and settlements | (33) | (0) |
+| Benefits paid | (42) | (49) |
+| Actuarial (gains) losses | (5) | 31 |
+| Exchange differences and other | (4) | 8 |
+| **PRESENT VALUE OF DEFINED BENEFIT OBLIGATION AT DECEMBER 31** | **569** | **619** |
+
+### Plan assets *in millions of euros*^(a)
+
+| | 2024 | 2023 |
+|---|---:|---:|
+| **FAIR VALUE OF PLAN ASSETS AT JANUARY 1** | **464** | **436** |
+| Interest income | 12 | 14 |
+| Actuarial gains (losses) | 25 | 16 |
+| Employer contributions | 5 | 6 |
+| Employee contributions | 2 | 2 |
+| Business acquisitions and disposals | - | 9 |
+| Plan curtailments and settlements | (32) | - |
+| Benefits paid | (25) | (31) |
+| Exchange differences and other | (6) | 12 |
+| **FAIR VALUE OF PLAN ASSETS AT DECEMBER 31** | **445** | **464** |
+
+*a) The coverage of the obligation does not include the unrecognized surplus (due to asset limitation) presented in the funded status table below.*
+
+### Funded status *in millions of euros*
+
+| | 2024 | 2023 |
+|---|---:|---:|
+| Present value of wholly or partially funded benefit obligations | (391) | (423) |
+| Fair value of plan assets | 445 | 465 |
+| **FUNDED STATUS OF BENEFIT OBLIGATION** | **54** | **42** |
+| Present value of unfunded benefit obligation | (178) | (197) |
+| **BENEFIT OBLIGATION NET OF PLAN ASSETS** | **(124)** | **(155)** |
+| Unrecognized surplus (due to asset ceiling) | (5) | (4) |
+| **NET PROVISION RECOGNIZED AT DECEMBER 31** | **(128)** | **(158)** |
+| *of which pension assets* | 84 | 79 |
+
+### Change in net provision *in millions of euros*
+
+| | 2024 | 2023 |
+|---|---:|---:|
+| **NET PROVISION RECOGNIZED AT JANUARY 1** | **158** | **160** |
+| Expense (income) recognized in the income statement | 17 | 15 |
+| Expense (income) recognized in other comprehensive income | (28) | 10 |
+| Utilization | (21) | (23) |
+| Other impacts (exchange differences, acquisitions/disposals, etc.) | 2 | (3) |
+| **NET PROVISION RECOGNIZED AT DECEMBER 31** | **128** | **158** |
+| *of which pension assets* | 84 | 79 |
+
+39 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+### C. Significant events of the year
+
+Over the year actuarial gains are mainly due to the performance of invested funds for an amount of 15 million euros. Actuarial losses are linked to the decrease in discount rates, were offset by experience gains generated over the period. The latter are explained by the non-revaluation of annuities in Germany compared to the assumption of early revaluation. As for actuarial gains for the financial year 2023, they were mainly due to the decrease in discount rates partially offset by the performance of invested funds.
+
+Two specific transactions were carried out in 2024, in Canada and the United States:
+- In Canada, an annuity buyout transaction was carried out for one of the main plans eliminating the risk towards the beneficiaries of this plan. Thus the commitment relating to this plan was transferred almost entirely to an insurance company for a value of 20 million euros. This transfer was fully financed by the assets covering the plan, for a net impact that was not significant on income.
+- In the United States, part of the commitment was settled by a lump sum payment offered to participants for 7 million euros, largely covered by the assets covering the plan. The impact on income is not significant.
+
+The Group's employer contributions relating to defined benefit plans are estimated at 8 million euros for 2025.
+
+Lastly, the other pension plans from which the Group's employees benefit correspond to defined-contribution plans, for which the Group has no commitment beyond the payment of contributions, which are recognized as expenses for the period. Contributions under these plans are recognized immediately as an expense. The amount of contributions paid in relation to these plans amounted to 125 million euros in 2024 (105 million euros in 2023).
+
+### D. Analysis of actuarial gains and losses
+
+Actuarial gains and losses arising on the Group's defined benefit obligation (DBO) can be analyzed as follows:
+
+| | 2024 | | 2023 | |
+|---|---|---|---|---|
+| | in millions of euros | % of plan assets | in millions of euros | % of plan assets |
+| Discount rate | 11 | 2% | 18 | 3% |
+| Salary increases | 0 | 0% | 0 | 0% |
+| Mortality | (0) | 0% | 0 | 0% |
+| Headcount turnover | 0 | 0% | - | 0% |
+| Inflation rate | (2) | 0% | 3 | 0% |
+| Other changes in assumptions | 0 | 0% | 3 | 0% |
+| (GAINS)/LOSSES FROM CHANGES IN ASSUMPTIONS | 10 | 2% | 24 | 4% |
+| (GAINS)/LOSSES FROM PLAN AMENDMENTS | - | 0% | - | 0% |
+| (GAINS)/LOSSES FROM EXPERIENCE ADJUSTMENTS | (14) | -3% | 7 | 1% |
+| OTHER | - | 0% | - | 0% |
+| TOTAL (GAINS)/LOSSES ARISING DURING THE YEAR | (5) | -1% | 31 | 5% |
+
+### E. Breakdown of plan assets by category
+
+The Group's portfolio of plan assets breaks down as follows:
+
+| At December 31 | 2024 | | 2023 | |
+|---|---|---|---|---|
+| | in millions of euros | % of plan assets | in millions of euros | % of plan assets |
+| Shares⁽ᵃ⁾ | 143 | 32% | 153 | 33% |
+| Bonds and other fixed income products⁽ᵃ⁾ | 156 | 35% | 163 | 35% |
+| Real estate | 104 | 23% | 105 | 22% |
+| Cash and cash equivalents | 7 | 2% | 7 | 2% |
+| Other | 34 | 8% | 37 | 8% |
+| FAIR VALUE OF PLAN ASSETS | 445 | 100% | 465 | 100% |
+
+⁽ᵃ⁾ All of the instruments recognized under "Equities" and "Bonds and other fixed income products" are listed.
+
+NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024   40
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## 05 Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+### F. Sensitivity analyses
+
+The present value of the Group's obligation for pensions and other retirement benefits is sensitive to changes in discount rates. A 50 basis-point decrease in the discount rates applied would have had the following impacts on the present value of the Group's defined benefit obligation:
+
+| At December 31 | 2024 |  |  |
+| --- | ---: | ---: | ---: |
+|  | **Actual value in millions of euros** | **Adjusted value in millions of euros** | **% change** |
+| Europe | 429 | 452 | 5.19% |
+| North America | 111 | 116 | 4.70% |
+| Asia | 14 | 14 | 3.36% |
+| Other countries | 15 | 15 | 2.59% |
+| **TOTAL** | **569** | **597** | **4.99%** |
+
+The present value of the Group's obligation for pensions and other retirement benefits is also sensitive to changes in inflation rates. Depending on the type of plan concerned, changes in inflation rates can affect both the level of future salary increases and the amounts of annuity payments. A 50 basis-point increase in the inflation rates used would have had the following impacts on the present value of the Group's defined benefit obligation (assuming that the discount rates applied remain constant):
+
+| At December 31 | 2024 |  |  |
+| --- | ---: | ---: | ---: |
+|  | **Actual value in millions of euros** | **Adjusted value in millions of euros** | **% change** |
+| Europe | 429 | 437 | 1.78% |
+| North America | 111 | 111 | 0.00% |
+| Asia | 14 | 14 | 0.00% |
+| Other countries | 15 | 15 | 1.08% |
+| **TOTAL** | **569** | **576** | **1.37%** |
+
+### G. Characteristics of the main defined benefit plans and associated risks
+
+The Group's main defined benefit plans are in Switzerland (39% of total benefit obligations at December 31, 2024) and Germany (27% of total benefit obligations at December 31, 2024).
+
+#### SWITZERLAND
+The pension plan of Nexans Suisse S.A. is a contribution-based plan with a guaranteed minimum rate of return and a fixed conversion rate on retirement. It offers benefits that comply with the Swiss Federal law on compulsory occupational benefits (the "LPP/BVG" law).
+
+As specified in the LPP/BVG law, the plan has to be fully funded. Therefore, if there is a funding shortfall, measures must be taken to restore the plan to a fully funded position, such as by the employer and/or employees contributing additional financing and/or by reducing the benefits payable under the plan.
+
+The pension fund is established as a separate legal entity. This foundation is responsible for the management of the plan and is composed of an equal number of employer and employee representatives. The strategic allocation of plan assets must comply with the investment guidelines put in place by the Foundation, which are aimed at limiting investment risks.
+
+In addition, Nexans Suisse S.A. is exposed to a lifetime risk concerning the commitment. Indeed, almost three-quarters of commitments relate to retirees.
+
+The life of the plan is approximately 10 years.
+
+#### GERMANY
+Nexans Deutschland GmbH's most significant plan is a defined benefit plan that has been closed to new entrants since January 2005. For former employees currently receiving benefits under the plan (and plan members who have not yet retired), pension benefits are calculated based on their vested rights as of the date the plan was closed. This plan is not funded.
+
+Members are also covered against the risk of disability. In general, any disability payments due will be made on top of the amount of future pension benefits. In addition, the plan provides for reversionary benefits.
+
+In addition, Nexans Deutschland GmbH is exposed to a lifetime risk and pension indexation risk concerning the commitment. In fact, nearly 80% of commitments relate to retirees.
+
+The life of the plan is approximately 8 years.
+
+41 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## 05 Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+## Note 25. Provisions
+
+| In millions of euros | 2024 | 2023 |
+|---|--:|--:|
+| Accrued contract costs | 85 | 87 |
+| Provisions for reorganization costs | 17 | 22 |
+| Other provisions | 107 | 91 |
+| **TOTAL** | **208** | **200** |
+
+The movements in these provisions were as follows:
+
+| in millions of euros | Total | Accrued contract costs | Provisions for reorganization | Other provisions |
+|---|--:|--:|--:|--:|
+| **AT DECEMBER 31, 2022** | **177** | **70** | **25** | **82** |
+| Additions | 78 | 48 | 16 | 14 |
+| Reversals (utilized provisions) | (30) | (11) | (16) | (3) |
+| Reversals (surplus provisions) | (30) | (22) | (2) | (5) |
+| Business combinations | - | - | - | - |
+| Exchange differences and other | 6 | 3 | (0) | 3 |
+| **AT DECEMBER 31, 2023** | **200** | **87** | **22** | **91** |
+| Additions | 51 | 37 | 8 | 6 |
+| Reversals (utilized provisions) | (31) | (16) | (12) | (2) |
+| Reversals (surplus provisions) | (24) | (20) | (1) | (3) |
+| Business combinations | 14 | - | - | 14 |
+| Exchange differences and other | (1) | (4) | 0 | 2 |
+| **AT DECEMBER 31, 2024** | **208** | **85** | **17** | **107** |
+
+The above provisions have not been discounted as the effect of discounting would not have been generally material.
+
+Provisions for accrued contract costs are primarily set aside by the Group as a result of its contractual responsibilities, particularly relating to customer warranties, loss-making contracts, and penalties under commercial contracts (see Note 32). They include provisions for construction contracts in progress where applicable, in accordance with the method described in Note 1.E.a.
+
+The reorganization costs amounted to 17 million euros in 2024. They mainly include social costs and external consultant expenses, including 10 million euros related to the transformation of Electrification activities (15 million euros in 2023) and 5 million euros related to the implementation of operational tools and processes preparing the segregation of the Electrification and non-Electrification activities (7 million euros in 2023).
+
+As was the case in previous years, wherever possible, the reorganization plans implemented by the Group in 2024 included assistance measures negotiated with employee representative bodies as well as measures aimed at limiting lay-offs and facilitating redeployment.
+
+The "Other provisions" column mainly includes provisions set aside for antitrust investigations, which amounted to 85 million euros at December 31, 2024 (65 million euros at December 31, 2023) (see Note 33).
+
+Surplus provisions are reversed when the related contingency no longer exists or has been settled for a lower amount than the estimate made based on information available at the previous period-end (including provisions for expired customer warranties).
+
+NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024       42
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+05. Consolidated financial statements
+
+The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
+
+## Note 26. Net debt
+
+Since February 2024, Standard & Poor's has adjusted its long-term BB rating for the Group from positive to stable outlook.
+
+### A. Analysis by nature
+
+At December 31, in millions of euros | Notes | 2024 | 2023
+--- | --- | --- | ---
+Long-term – ordinary bonds⁽ᵃ⁾ | 26.C | 1,317 | 398
+Other long-term borrowings⁽ᵃ⁾ | 26.D | 252 | 246
+**TOTAL LONG-TERM DEBT⁽ᵇ⁾** | | **1,568** | **644**
+Short-term – ordinary bonds⁽ᵃ⁾ | 26.C | - | 199
+Short-term borrowings and short-term accrued interest not yet due⁽ᵃ⁾ | 26.D | 191 | 354
+Bank loans | | 3 | 16
+**TOTAL SHORT-TERM DEBT⁽ᵇ⁾** | | **194** | **569**
+**TOTAL GROSS DEBT⁽ᵇ⁾** | | **1,762** | **1,213**
+Cash | | (1,202) | (1,056)
+Cash equivalents | | (52) | (75)
+**TOTAL FINANCIAL DEBT (CASH) EXCLUDING LEASE LIABILITIES** | | **508** | **82**
+Lease liabilities | | 172 | 132
+**TOTAL NET FINANCIAL DEBT** | | **681** | **214**
+
+(a) Excluding short-term accrued interest not yet due and lease liabilities.
+(b) Excluding lease liabilities.
+
+At December 31, 2024, the net balance of cash deposits with Lebanese banks amounted to 1 million euros (1 million euros at December 31, 2023). At December 31, 2024, as at December 31, 2023, they were classified as other net receivables excluding cash and cash equivalents.
+
+### B. Change in gross debt
+
+in millions of euros | December 31, 2023 | New borrowings/ repayments | Change in consolidation scope | Change in accrued interest | Transfers from long-term to short-term | Other⁽ᶜ⁾ | December 31, 2024
+--- | --- | --- | --- | --- | --- | --- | ---
+Long-term – ordinary bonds | 398 | 917 | - | 1 | - | - | 1,317
+Other long-term borrowings | 246 | (4) | 3 | - | (23) | 30 | 252
+Short-term – ordinary bonds | 199 | (200) | - | - | - | 1 | -
+Other short-term borrowings | 330 | (206) | - | - | 23 | (2) | 145
+Lease liabilities | 132 | (30) | - | 0 | - | 71 | 172
+Short-term accrued interest not yet due | 24 | N/A | - | 26 | (2) | (3) | 45
+**GROSS DEBT EXCLUDING SHORT-TERM BANK LOANS AND OVERDRAFTS** | **1,328** | **476** | **3** | **28** | **(2)** | **98** | **1,931**
+
+(c) The "Other" column mainly includes the recognition of a call/put option on the "Other non-current borrowings" line (see Note 22.D), as well as the effect of new lease liabilities signed in 2024. As both elements have no impact on the Group's cash flow items.
+
+43 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
+
+### C. Ordinary bonds
+
+| in millions of euros | Carrying amount at end-2024 | Face value at issue date | Maturity date | Nominal interest rate |
+|----------------------|-----------------------------|--------------------------|--------------|----------------------|
+| Ordinary bonds redeemable in 2028 | 415 | 400 | April 5, 2028 | 5.50% |
+| Ordinary bonds redeemable in 2029 | 584 | 575 | May 29, 2029 | 4.13% |
+| Ordinary bonds redeemable in 2030 | 360 | 350 | March 11, 2030 | 4.25% |
+| **TOTAL ORDINARY BONDS**(a) | 1,359 | 1,325 | | |
+
+*(a) Including 22 million euros in short-term accrued interest*
+
+On March 11, 2024, Nexans carried out a first bond issue for an amount of 350 million euros, with a six-year maturity and an annual interest of 4.25%. The bonds were issued at par.
+
+On April 5, 2023, Nexans redeemed the 325-million-euro bond issue subscribed in 2017 for a firm period of seven years.
+
+On May 29, 2023, a second bond issue was carried out for an amount of 575 million euros, with a five-year maturity and an annual interest of 4.125%. The bonds were issued at 100.47% of par.
+
+On April 5, 2022, Nexans completed its first sustainability bond issue for an amount of 400 million euros. This five-year fixed-rate issue (maturing on April 5, 2028) carried an annual coupon of 5.5%. The bonds were issued at par. This first sustainable development bond was part of Nexans' "Sustainable Financing Framework". The bonds issued are linked to the climate objectives that Nexans has set for December 31, 2026, for the reduction of its Scope 1 and 2 greenhouse gas emissions, as well as for the Cradle-to-Shelf portion of Scope 3 emissions products. Failure to comply with any of these obligations would result in an increase of 50 basis points in the coupon rate of the last year.
+
+Refer more generally to Note 2 for the Group's consideration of climate change.
+
+### D. Other borrowings
+
+On October 6, 2021, the European Investment Bank (EIB) granted Nexans a loan facility in the amount of 200 million euros intended to promote its active participation in the global energy transition and its commitment within the framework of the Science Based Targets initiative (SBTi) to achieve "Net-Zero" emissions by 2050.
+
+On April 5, 2022, Nexans drew down the entire financing line, i.e. an amount of 200 million euros. The loan, repayable at maturity, has a maturity of five years (maturing on April 5, 2027) and carries a fixed-rate annual coupon of 1.93%. The accrued interest not yet due amounted to 3 million euros at December 31, 2024.
+
+Short-term borrowings also include 140 million euros in outstanding commercial papers with an average maturity of three months.
+
+### E. Analysis of gross debt by currency and interest rate
+
+#### LONG-TERM FINANCIAL BORROWINGS AND DEBT
+
+| At December 31, excluding short-term accrued interest not yet due | Weighted average EIR (in %) | | in millions of euros | |
+|---|---|---|---|---|
+| | **2024** | **2023** | **2024** | **2023** |
+| Euro – Ordinary bonds redeemable in 2028 | 5.65 % | 5.65% | 398 | 398 |
+| Euro – Ordinary bonds redeemable in 2029 | 4.34 % | N/A | 570 | N/A |
+| Euro – Ordinary bonds redeemable in 2030 | 4.37 % | N/A | 348 | N/A |
+| Euro – European Investment Bank (EIB) loan | 1.93 % | 1.93 % | 200 | 200 |
+| Other | 3.20% | 3.49 % | 51 | 46 |
+| **TOTAL LONG-TERM DEBT**(b) | 4.33 % | 4.34 % | 1,569 | 644 |
+
+*(a) Including 22 million euros in short-term accrued interest*
+*(b) Excluding lease liabilities*
+
+The majority of Nexans' medium and long-term debt is at fixed rates.
+
+The long-term debt includes mainly a debt for a Put call option (see Note 23.D) and a debt in France linked to a sale-leaseback project that did not meet the criteria to be qualified as a sale within the meaning of IFRS 16. They also include financial debts denominated in currencies other than the euro linked to loans granted in China and in Côte d'Ivoire.
+
+NEXANS · UNIVERSAL REGISTRATION DOCUMENT 2024   44
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## 05 Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+### SHORT-TERM FINANCIAL BORROWINGS AND DEBT
+
+| At December 31 | Weighted average EIR(a) (in %) | in millions of euros |
+| --- | --- | --- |
+|  | 2024 | 2023 | 2024 | 2023 |
+| Euro - Ordinary bonds redeemable in 2024 | N/A | 2.87% | N/A | 200 |
+| Euro - Negotiable debt securities program | 4.15% | 3.94% | 120 | 287 |
+| Euro - Other | N/A | 9.41% | N/A | 2 |
+| US dollar | 5.74% | 7.55% | 10 | 25 |
+| Other | 4.52% | 10.23% | 18 | 31 |
+| **TOTAL SHORT-TERM DEBT EXCLUDING ACCRUED INTEREST(b)** | **4.31%** | **4.09%** | **148** | **545** |
+| Accrued interest (including short-term accrued interest on long-term debt) | N/A | N/A | 45 | 25 |
+| **TOTAL SHORT-TERM DEBT(b)** | **4.31%** | **4.09%** | **193** | **569** |
+| (a) Effective interest rate
+| (b) Excluding lease liabilities
+
+The vast majority of the Group's short-term debt is at fixed rates.
+
+At December 31, 2023, short-term debt in euros consisted mainly of the ordinary bond to be repaid in 2024 and outstanding commercial papers mentioned in Note 29-A.
+
+US dollar-denominated debt primarily concerns Colombia and Brazil.
+
+Debt denominated in currencies other than euros and US dollars corresponds mainly to borrowings taken out locally by certain Group subsidiaries in Asia (China), Africa and the Middle East (Turkey, Morocco and Côte d'Ivoire) and South America (Brazil). In some cases, such local borrowing is required as the countries concerned do not have access to the Group's centralized financing facilities. However, it may also be set up in order to benefit from a particularly attractive interest rate or to avoid the risk of potentially significant foreign exchange risk depending on the geographic region in question.
+
+### F. Analysis by maturity (including accrued interest)
+
+Nexans Financial and Trading Services, a wholly-owned Nexans subsidiary, is responsible for the Group's centralized cash management. However, in its capacity as parent company, Nexans S.A. still carries out the Group's long-term bond issues. Nexans Financial and Trading Services monitors changes in the liquidity facilities of the holding companies as well as the Group's overall financing structure on a weekly basis (see Note 29-A).
+
+In view of Nexans' available short-term liquidity facilities and long-term debt structure, the Group's debt maturity schedule set out below is presented on a medium and long-term basis.
+
+#### MATURITY SCHEDULE AT DECEMBER 31, 2024
+
+| in millions of euros | Due within one year | Due in one to five years | Due beyond five years | Total |
+| --- | --- | --- | --- | --- |
+|  | Principal | Interest | Principal | Interest | Principal | Interest | Principal | Interest |
+| Ordinary bonds redeemable in 2028 | - | 22 | 400 | 66 | - | - | 400 | 88 |
+| Ordinary bonds redeemable in 2029 | - | 24 | 575 | 95 | - | - | 575 | 119 |
+| Ordinary bonds redeemable in 2030 | - | 15 | - | 60 | 350 | 15 | 350 | 89 |
+| European Investment Bank (EIB) loan | - | 4 | 200 | 8 | - | - | 200 | 12 |
+| Negotiable debt securities program | 120 | 3 | - | - | - | - | 120 | 3 |
+| Other bank loans and overdrafts | 28 | 1 | 15 | 0 | 46 | 0 | 90 | 1 |
+| Lease liabilities | 34 | 7 | 69 | 21 | 69 | 28 | 172 | 56 |
+| **TOTAL** | **183** | **75** | **1,259** | **250** | **465** | **43** | **1,907** | **367** |
+
+Notes concerning the preparation of the maturity schedule:
+• foreign exchange and interest rate derivatives used to hedge the Group's external debt are not material for the Group as a whole.
+• the euro equivalent amount for borrowings in foreign currencies has been calculated using the year-end exchange rate at December 31, 2024.
+
+## 45 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements
+
+The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.
+
+* It has been assumed that the nominal amounts of short-term borrowings including short-term bank loans and overdrafts will be fully repaid at regular intervals throughout 2024.
+
+* The interest cost has been calculated based on contractual interest rates for fixed-rate borrowings and on weighted average interest rates at December 31, 2024 for variable-rate borrowings (see Note 26 above).
+
+## Note 27. Trade payables and other current liabilities
+
+At December 31, in millions of euros | 2024 | 2023
+---|---|---
+TRADE PAYABLES | 1,622 | 1,601
+Social liabilities | 270 | 256
+Current income tax payables | 66 | 69
+Other tax payables | 39 | 30
+Deferred income | 4 | 1
+Other payables | 129 | 126
+OTHER CURRENT LIABILITIES | 508 | 482
+
+In the context of its copper purchases, market practices allow the Group to take part in financing transactions allowing payment on delivery by the supplier by a banking institution and then payment by the Group on the due date of the banking institutions initial invoice. The cost of financing the transaction is negotiated upstream with the supplier which includes it in its invoices to the Group. These transactions do not result in any extension for the Group of the payment period initially granted by the supplier (which remains unchanged) and do not have the effect of allowing suppliers to be paid before the due date of their invoice (this possibility existed previously and independently). The Group therefore considered that they did not fall within the scope of reverse factoring or any other financing transactions for trade payables within the meaning of the amendment to IFRS 7 published in May 2023.
+
+Trade payables relating to copper purchases have maturities ranging from 30 to 120 days depending on the geographical area in which the purchase transaction takes place and the various contractual agreements. At December 31, 2024, the Group's trade payables included an amount of 341 million euros (270 million euros at December 31, 2023) relating to these negotiated payment terms.
+
+The various tools implemented by the Group, detailed in Note 29 to the consolidated financial statements, would mitigate the liquidity risk that could be induced by the termination of the aforementioned transactions.
+
+The amounts due to suppliers of fixed assets totaled 7 million euros at December 31, 2024 (14 million euros at December 31, 2023).
+
+## Note 28. Derivative instruments
+
+| in millions of euros | December 31, 2024 | | | | | | December 31, 2023 | |
+|---|---|---|---|---|---|---|---|---|
+| | Notional amounts | | | | Market value | Notional amounts | Market value |
+| Foreign exchange derivatives | USD | NOK | EUR | Other | Total | Assets | Liabilities | | Assets | Liabilities |
+| FOREIGN EXCHANGE DERIVATIVES - CASH FLOW HEDGES | | | | | | 72 | 138 | | 86 | 74 |
+| Forward sales | 815 | 3,745 | 4,619 | 313 | 9,492 | | | 6,530 | | |
+| Forward purchases | 871 | 5,333 | 2,876 | 421 | 9,501 | | | 6,561 | | |
+| FOREIGN EXCHANGE DERIVATIVES - ECONOMIC HEDGES | | | | | | (0) | 13 | | 5 | 7 |
+| Forward sales | 375 | 434 | 714 | 729 | 2,252 | | | 1,927 | | |
+| Forward purchases | 634 | 400 | 871 | 341 | 2,247 | | | 1,926 | | |
+| Metal derivatives | Copper | Aluminum | Lead | Other | Total | Assets | Liabilities | Notional amounts | Assets | Liabilities |
+| METAL DERIVATIVES - CASH FLOW HEDGES | | | | | | 14 | 22 | | 13 | 12 |
+| Forward sales | 195 | 21 | 3 | | 219 | | | 297 | | |
+| Forward purchases | 520 | 90 | 59 | | 669 | | | 621 | | |
+| TOTAL FOREIGN EXCHANGE AND METAL DERIVATIVES | | | | | | 86 | 172 | | 104 | 93 |
+
+NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024 46
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## 05 Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+* a negotiable debt securities program signed on December 21, 2018 for a maximum amount of 400 million euros, and increased to 600 million euros on November 10, 2021. Outstandings amounted to 308 million euros at December 31, 2023 (247 million euros at December 31, 2023).
+
+* at December 31, 2023, Nexans France SAS had sold 25 million euros worth of receivables under a program set up in the second half of 2021 (42 million euros at December 31, 2022).
+
+* the other main receivables securitization and factoring programs in 2023 concerned mainly Norway and Sweden:
+  * in Norway receivables sold under the factoring program totaled 38 million euros at December 31, 2023 (45 million euros at December 31, 2022).
+  * in Sweden receivables sold under the factoring program totaled 27 million euros at December 31, 2023 (49 million euros at December 31, 2022).
+  * an analysis of the terms of the contracts and programs showed that rights to the cash flows from the receivables and substantially all of the related risks and benefits were transferred to the factor. The factored receivables were therefore derecognized in accordance with IFRS.
+  * local credit facilities local credit facilities.
+
+### FINANCING AND ACCELERATION CLAUSES
+
+On October 26, 2022, the Group signed a new syndicated credit agreement for an amount of 800 million euros replacing the syndicated credit agreement signed in 2018. Its maturity date was extended to October 26, 2029, following the exercise of the second extension option by the Group.
+
+On October 6, 2022, the European Investment Bank (EIB) granted Nexans a loan facility in the amount of 200 million euros, intended to promote its active participation in the global energy transition and its commitment within the framework of the Science Based Targets initiative (SBTi), to achieve "Net-Zero" emissions by 2050.
+
+In April 2023, the Group drew down this financing for an amount of 200 million euros. The repayment will be made in fine in April 2027.
+
+The renewed syndicated loan and the loan granted by the European Investment Bank (EIB) are subject to the following two financial covenants:
+
+* the consolidated net debt to equity ratio (including non-controlling interests) must not exceed 1.20, and
+* a consolidated debt is capped at 3.2x consolidated EBITDA as defined in Note E.b.
+
+These ratios were well within the specified limits at both December 31, 2023, and at the date the Board of Directors approved the financial statements.
+
+If any of the covenants were breached, the syndicated credit facility or the European Investment Bank (EIB) loan facility would become unavailable and any drawdowns would be repayable, either immediately or after a contractual cure period depending on the nature of the breach.
+
+The Group is not subject to any other financial ratio covenants.
+
+The syndicated loan agreement and the European Investment Bank (EIB) loan contain standard covenants (negative pledge, cross default, pari passu and change of control clauses), which if breached could accelerate repayment of the syndicated loan or the bond debt.
+
+### B. Interest rate risk
+
+The Group structures its financing in such a way as to avoid exposure to the risk of rises in interest rates:
+
+* The Group's medium and long-term debt is predominantly at fixed rates and at December 31, 2023, mainly consisted of the 2023 and 2028 bond issues and the loan from the European Investment Bank (EIB).
+
+* The Group's short-term debt includes commercial paper at fixed rates of interest that is due within 3 months. The remainder of the Group's short-term debt is at a variable rate based on monetary indicators depending on the underlying currency (ESTER, EURIBOR, SOFR, SONIA, etc.).
+
+* Fixed-rate debts with original maturities of less than one year are considered as variable-rate debts. Short-term cash surpluses are invested in instruments which have maturities of less than one year (fixed rate renegotiated at renewal) or variable-rate instruments (ESTER, EURIBOR, SOFR, SONIA, etc.). Consequently, the Group's net exposure to short-term changes in interest rates is limited active net exposure of 420 million euros at December 31, 2023, and 219 million euros at December 31, 2022.
+
+The Group did not have any interest rate hedges in place in either 2023 or 2022.
+
+---
+
+NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2023    48
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+Consolidated financial statements
+
+The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
+
+Consolidated net debt breaks down as follows between variable and fixed interest rates:
+
+| At December 31, in millions of euros | 2024 |  |  | 2023 |  |  |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-|  | Present value of obligation | Fair value of plan assets | Net | Present value of obligation | Fair value of plan assets | Net |
-| Opening balance | 265 | −128 | 137 | 272 | −141 | 131 |
-| Adjustment for previous years | −1 | −2 | −3 | – | – | – |
-| Current service cost | 21 | 2 | 23 | 25 | 1 | 26 |
-| Interest expenses/income | 10 | −5 | 5 | 7 | −4 | 3 |
-|  | 295 | −133 | 162 | 304 | −144 | 160 |
-| Actuarial gains/losses attributable to: |  |  |  |  |  |  |
-| Return on plan assets | – | 6 | 6 | – | 38 | 38 |
-| Changes in financial assumptions | 2 | – | 2 | −54 | – | −54 |
-| Changes in demographic assumptions | – | – | – | 2 | – | 2 |
-| Experience assumptions | – | – | – | 7 | – | 7 |
-| Contributions by employers | – | −14 | −14 | – | −13 | −13 |
-| Contributions by employees | 2 | −2 | – | 2 | −2 | – |
-| Benefit payments | −10 | 3 | −7 | −14 | 5 | −9 |
-| Exchange rate differences | 4 | −5 | −1 | 18 | −12 | 6 |
-| Closing balance | 293 | −145 | 149 | 265 | −128 | 137 |
+|  | Current | Non-current | Total | Current | Non-current | Total |
+| **VARIABLE RATES** |  |  |  |  |  |  |
+| Financial liabilities(a) | 149 | 0 | 149 | 346 | 9 | 355 |
+| Cash and cash equivalents | (1,254) | - | (1,254) | (1,131) | - | (1,131) |
+| **NET VARIABLE RATE POSITION** | (1,106) | 0 | (1,106) | (785) | 9 | (775) |
+| **FIXED RATES** |  |  |  |  |  |  |
+| Financial liabilities(a) | 80 | 1,706 | 1,785 | 252 | 737 | 989 |
+| Cash and cash equivalents | - | - | - | - | - | - |
+| **NET FIXED RATE POSITION** | 80 | 1,706 | 1,785 | 252 | 737 | 989 |
+| **NET FINANCIAL DEBT** | (1,026) | 1,706 | 681 | (532) | 746 | 214 |
 
-## Key assumptions used in the valuation of the pension liability (weighted average)
+(a) Including the short-term portion of accrued interest not yet due on long-term debt.
 
-| | Group | |
-| --- | ---: | ---: |
-| | April 30, 2024 | April 30, 2023 |
-| Discount rate used (%) | 3.2 | 3.5 |
-| Future salary increase, % (weighted average) | 2.9 | 2.7 |
-| Inflation, % | 2.9 | 2.4 |
+## Foreign exchange and metal price risks
 
-## Sensitivity analysis of the most important assumptions affecting the recognized pension liability
+The Group's foreign exchange risk exposure primarily relates to operations-based transactions (purchases and sales).
 
-| | Group | |
-| --- | ---: | ---: |
-| | April 30, 2024 | April 30, 2023 |
-| Discount rate +0.5% | −6.7 | −6.6 |
-| Discount rate –0.5% | 9.4 | 9.1 |
-| Salary increase rate +0.5% | 3.1 | 3.2 |
-| Salary increase rate –0.5% | −1.5 | −1.5 |
-| Inflation, +0,5% | 1.9 | 3.1 |
-| Inflation, –0,5% | −2.2 | −1.4 |
+Due to its international presence, the Group is exposed to foreign currency translation risk on the net assets of subsidiaries whose functional currency is not the euro. It is Group policy not to hedge these risks.
 
-The sensitivity analyses are based on estimated reasonable changes in a significant assumption, keeping all other assumptions constant. The sensitivity analyses may not be representative of an actual change in the defined benefit obligation as it is unlikely that changes in assumptions would occur in isolation from one another.
+The Group's sensitivity to foreign exchange risk on operating cash flows is considered to be moderate due to its operational structure. Indeed, the majority of Nexans operating subsidiaries have a very strong local presence, except in the high-voltage business. The Group's policy is to hedge its foreign exchange and non-ferrous metal price risks on cash flows relating to foreseeable significant contractual commercial transactions and certain forecast transactions. The operations arising from this hedging activity may result in certain positions being kept open. Where this happens, the positions are limited in terms of amount and term, and they are overseen by the Treasury, Financing and Metals Department.
 
-## Plan assets in %
+The risk management policy for non-ferrous metals is defined by the Finance Department. It is implemented by subsidiaries that purchase copper, aluminum, and to a lesser extent, lead. The Group's main exposure to metal price risk arises from fluctuations in copper prices.
 
-| | Group | |
-| --- | ---: | ---: |
-| SEK M | April 30, 2024 | April 30, 2023 |
-| Assets held by insurance company | 95% | 95% |
-| Other | 5% | 5% |
-| | 100% | 100% |
+### METHODS USED TO MANAGE AND HEDGE EXPOSURE TO FOREIGN EXCHANGE RISK
 
-## Discount rate
+The Group verifies that its procedures for managing foreign exchange risk are properly applied by means of quarterly reports provided to the Treasury, Financing and Metals Department by all subsidiaries exposed to this type of risk, irrespective of whether or not they are members of the cash pool. The reports contain details on the subsidiaries' estimated future cash flows in each currency and the related hedges that have been set up, as well as a reconciliation between actual figures and previous forecasts.
 
-The discount rate reflects the estimated timing of benefit payments and is used for measuring the present value of the obligation. A fluctuation in the discount rate will have material effect on the pension obligation but will also impact the interest income and expense reported in the finance net. To determine the discount rate, Elekta considers AA-rated corporate bonds indexes consistent with the currencies of the plans and matching the duration of the pension obligations.
+The Treasury, Financing and Metals Department has developed training materials for the Group's operations teams and carries out ad hoc audits to ensure that the relevant procedures have been properly understood and applied. Lastly, the Internal Audit Department regularly verifies that the procedures for identifying and hedging foreign exchange risks have been properly applied during its audit engagements carried out at the Group's subsidiaries.
 
-[IMAGE_DESCRIPTION:
-Type: Company logo
-Location: Top left corner of the page
-Content: Elekta company logo showing a stylized circular design next to the word "Elekta"
-Text Elements: "Elekta"
-Colors & Style: Blue corporate logo
-Purpose: Brand identification
-]
+In addition, some bids are made in a currency other than that in which the entity concerned operates. Foreign exchange risks arising on these bids are not systematically hedged, which could generate a gain or loss for the Group if there is a significant fluctuation in the exchange rate between the date when the bid is presented and the date it is accepted by the customer. However, in such cases, the Group takes steps to reduce its potential risk by applying expiration dates to its bids and by incorporating the foreign exchange risk into the price proposal.
 
-Annual Report 2023/24    65
+Foreign exchange risk is identified at the level of the Group's subsidiaries. The subsidiaries' treasurers execute hedges centrally or locally using forward currency transactions. For subsidiaries that are members of the cash pool, these transactions are carried out with the Treasury, Financing and Metals Department. Other subsidiaries enter into forward currency transactions with their local banks. The objective is to reduce flows in the subsidiary's functional currency and/or to avoid open positions in a given currency for a given maturity.
 
-## Business overview
-04
+### METHODS USED TO MANAGE AND HEDGE EXPOSURE TO METAL RISK
 
-## Financial reporting
-19
+The exposure of a certain number of subsidiaries to the risk of changes in non-ferrous metal prices is hedged at Group level. To this end, each Group company reports its exposures to the Treasury, Financing and Metals Department.
 
-## Board of Director's report
-21
+The Group verifies that its procedures for managing and hedging metal risks are correctly applied by means of each operating subsidiary reporting monthly on its exposure to copper, aluminum and lead risk in both tonnage and value terms. The related reports are analyzed and consolidated at Group level by the Treasury, Financing and Metals Department.
 
-## Consolidated income statement
-30
-
-## Consolidated statement of comprehensive income
-30
-
-## Consolidated balance sheet
-32
-
-## Changes in consolidated equity
-34
-
-## Consolidated cash flow statement
-35
-
-## Financial statements – Parent Company
-36
-
-## Financial notes
-38
-
-## Signatures of the Board
-70
-
-## Auditor's report
-71
-
-## Sustainability notes
-75
-
-## Auditor's report
-101
-
-## Definitions
-102
-
-## Alternative performance measures
-103
-
-## Five-year review and key figures
-106
-
-## Corporate governance
-108
+49 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
 
 ---
 
-# FINANCIAL NOTES
+# NEXANS 2024 FINANCIAL STATEMENTS
 
-**Note 30: Provisions, cont.**
+## 05 Consolidated financial statements
 
-## Movement in provisions
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
 
-| SEK M | Group |  |  | Parent Company |  |
-| --- | ---: | ---: | ---: | ---: | ---: |
-|  | Restructuring provisions | Warranty provisions | Other provisions | Restructuring provisions | Other provisions |
-| Opening balance May 1, 2022 | 4 | 105 | 132 | - | 13 |
-| Provisions | 80 | 142 | 87 | 14 | 3 |
-| Reversals | −14 | −93 | −37 | - | - |
-| Provisions utilized during the year | −48 | −51 | −24 | −11 | - |
-| Exchange rate differences | 1 | 4 | 1 | - | - |
-| Closing balance April 30, 2023 | 23 | 107 | 159 | 3 | 16 |
-| Opening balance May 1, 2023 | 23 | 107 | 159 | 3 | 16 |
-| Provisions | 54 | 156 | 35 | 19 | 3 |
-| Reversals | −15 | −91 | −25 | - | 0 |
-| Provisions utilized during the year | −45 | −71 | −58 | −22 | −2 |
-| Exchange rate differences | 1 | 5 | −1 | - | - |
-| Closing balance April 30, 2024 | 18 | 106 | 110 | 0 | 16 |
+In addition, the Treasury, Financing and Metals Department regularly provides training sessions and performs controls within the subsidiaries to ensure that the procedures are properly understood and applied. It has also created training modules on the Group intranet for operations teams, including salespeople, buyers, finance staff and "hedging operators" who are in charge of daily hedging activities concerning metal risks. Lastly, the Internal Audit Department systematically checks that the procedures for identifying and hedging metal risks have been properly applied during its audit engagements carried out at the Group's operating subsidiaries.
 
-## Note 31 Customer contract related balances and order backlog
+In order to offset the consequences of the volatility of non-ferrous metal prices (copper and to a lesser extent aluminum and lead), Nexans' policy is to pass on metal prices in its own selling prices and hedge the related risk either by setting up a physical hedge or by entering into futures contracts on the London, New York and to a lesser degree, Shanghai metal exchanges. Nexans does not generate any income from the speculative trading of metals.
 
-### Revenue recognized in the period
+The Group's production units require access at all times to a minimum level of metal inventories for their routine operations, which is referred to as "Core exposure". Core exposure represents the minimum amounts that are necessary for the production units to operate appropriately. Consequently, the quantities of metal corresponding to core exposure are not hedged and are recorded within operating margin based on initial purchase cost. However, as described in Note 1.E.c, at the level of operating income, core exposure is measured at its weighted average cost and therefore the difference between historical cost and weighted average cost is recognized under "Core exposure effect" in the income statement.
 
-| SEK M | Group |  |
-| --- | ---: | ---: |
-|  | April 30, 2024 | April 30, 2023 |
-| Revenue recognized in the year relating to the opening balance of the contract liability balance | 5,141 | 4,553 |
+As a result, any reduction (via sales) in the volume of core exposure due to structural changes in the needed tonnages for the operations of an entity, in the event of structural reorganizations within the Group or a lasting significant change in the business levels of certain operations, can impact the Group's operating margin.
 
-Order backlog was SEK 44,365 M, compared to SEK 43,332 M on April 30, 2023. Order backlog is converted at closing exchange rates which resulted in a positive translation difference of SEK 1,832 M. According to current delivery plans, current order backlog is expected to be recognized as follows: approximately 35 percent in 2024/25, 30 percent in 2025/26 and 35 percent thereafter.
+In addition, the Group's operating margin is still partially exposed to fluctuations in non-ferrous metal prices for certain product lines, such as copper cables for cabling systems and building sector products. In these markets, any changes in non-ferrous metal prices are generally passed on in the selling price, but with a time lag that can impact margins. The fierce competition in these markets also affects the timescale within which price increases are passed on.
 
-| SEK M | Group |  |
-| --- | ---: | ---: |
-|  | April 30, 2024 | April 30, 2023 |
-| **Contract assets** |  |  |
-| Income not invoiced | 2,056 | 2,135 |
-| Doubtful income not invoiced | −6 | −16 |
-| Total | 2,050 | 2,119 |
-| **Contract liabilities** |  |  |
-| Advances from customer | 4,893 | 5,011 |
-| Prepaid service income | 2,562 | 2,286 |
-| Other prepaid income | 383 | 278 |
-| Total | 7,838 | 7,576 |
+In accordance with its risk management policy described above, the Group enters into physical contracts only for operational purposes (for the copper component of customer or supplier orders) and uses futures contracts only for hedging purposes (LME, COMEX or SHFE traded contracts, see Note 27.D "Metals derivatives"). The Group's main subsidiaries document their hedging relationships in compliance with the requirements of IFRS relating to cash flow hedges.
 
-## Note 32 Accrued expenses
+### D. Credit and counterparty risk
 
-| | Group | |
-| --- | ---: | ---: |
-|  | April 30, 2024 | April 30, 2023 |
-| Reserve for additional project costs | 778 | 651 |
-| Accrued commission costs | 37 | 42 |
-| Accrued vacation pay | 277 | 265 |
-| Accrued social costs | 85 | 71 |
-| Accrued interest expenses | 49 | 0 |
-| Accrued bonus costs | 472 | 387 |
-| Accrued expenses GRNI¹⁾ | 131 | 114 |
-| Other items | 383 | 464 |
-| Total | 2,212 | 1,994 |
+In addition to customer credit risk, counterparty risk arises primarily on foreign exchange and non-ferrous metal derivatives as well as on the Group's investments and deposits placed with banks.
 
-¹⁾ Includes liabilities for goods received where the related invoice has not yet been received.
+#### CUSTOMER CREDIT RISK
 
-## Note 33 Other current liabilities
+The Group's diverse business and customer base and wide geographic reach are natural mitigating factors for customer credit risk. At December 31, 2024, no single customer in any country represented more than 5% of the Group's total outstanding receivables except for Svenska Kraftnät (10%).
 
-| SEK M | Group |  |
-| --- | ---: | ---: |
-|  | April 30, 2024 | April 30, 2023 |
-| Value added tax | 419 | 369 |
-| Personnel taxes | 67 | 44 |
-| Other personnel related liabilities | 11 | 10 |
-| Contingent consideration | 45 | 16 |
-| Other items | 54 | 51 |
-| Total | 595 | 490 |
+The Group also applies a proactive policy for managing and reducing its customer credit risk by means of a Group-wide credit management policy which has been rolled out to Nexans' international subsidiaries. A portion of trade receivables is not covered by this Group insurance program and case-by-case studies are carried out to find solutions. The recent economic and political crises around the world have made the market environment difficult. The Group focuses on optimizing credit and collection procedures, to limit the incidence of late payments and disputes. As a result and in view of the current relatively favorable situation of the policy, the credit insurer has confirmed its support and its willingness to support Nexans' future growth strategy.
 
-[IMAGE_DESCRIPTION:
-Type: Logo/header
-Location: Top-left corner
-Content: Elekta company logo
-Text Elements: "Elekta"
-Colors & Style: Blue logo with circular design element
-Purpose: Company branding
-]
+#### FOREIGN EXCHANGE DERIVATIVES
 
-Annual Report 2023/24                66
+In accordance with Group policy to keep counterparty risk as low as possible, entities wishing to hedge the foreign exchange risk on their medium or long-term commercial commitments may only purchase long-term derivatives (expiring in more than one year) from banks that have been assigned medium and long-term ratings of at least A- by Standard & Poor's and A3 by Moody's. For short-term derivatives (expiring in less than one year), the banks must have been assigned short-term ratings of at least A-1 by Standard & Poor's and P-1 by Moody's. Where this requirement cannot be fulfilled due to local banking conditions, the entities in the countries concerned limit their counterparty risk by keeping their exposure to a minimum and spreading it between at least three banks.
+
+For subsidiaries that are not members of the cash pool, the same criteria apply but exceptions may be made, notably for subsidiaries located in countries with sovereign ratings that are below the specified thresholds. In this case, subsidiaries are asked to set up derivatives involving counterparty risk only with branches or subsidiaries of banking groups whose parent company satisfies the above risk criteria.
+
+NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2024 - 50
 
 ---
 
-# FINANCIAL NOTES
+# NEXANS 2024 FINANCIAL STATEMENTS
 
-**Note 33: Other current liabilities, cont.**
+## 05 Consolidated financial statements
 
-| Parent company ||
-|---|---|
-| SEK M | April 30, 2024 | April 30, 2023 |
-| Accounts payable | 5 | 17 |
-| Accrued expenses (see below) | 86 | 61 |
-| Derivative financial instruments | 6 | 9 |
-| Other liabilities | 3 | 4 |
-| Total | 101 | 91 |
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
 
-**Accrued expenses**
+Based on a breakdown by maturity of the notional amounts at December 31, 2024 (the sum of the absolute values of the notional amounts of buyer and seller positions), the Group's main exposure for all subsidiaries (both members and non-members of the cash pool) is to short-term maturities.
 
-| | | |
-|---|---|---|
-| Accrued vacation pay liability | 7 | 10 |
-| Accrued social costs | 3 | 4 |
-| Accrued interest expenses | 46 | 0 |
-| Other items | 30 | 47 |
-| Total | 86 | 61 |
+| At December 31, in millions of euros | 2024 |  | 2023 |  |
+| --- | ---: | ---: | ---: | ---: |
+|  | Buyer position notional amounts | Seller position notional amounts | Buyer position notional amounts | Seller position notional amounts |
+| Within one year | 5,872 | 5,913 | 5,117 | 5,109 |
+| Between one and two years | 1,215 | 1,221 | 1,327 | 1,332 |
+| Between two and three years | 2,252 | 2,236 | 765 | 760 |
+| Between three and four years | 1,314 | 1,295 | 1,278 | 1,256 |
+| Beyond four years | 1,095 | 1,079 | - | - |
+| TOTAL | 11,748 | 11,744 | 8,487 | 8,457 |
 
-# Note 34 Assets pledged
+## METAL DERIVATIVE INSTRUMENTS
 
-| Group ||
-|---|---|
-| SEK M | April 30, 2024 | April 30, 2023 |
-| Bank balances | 8 | 8 |
-| Total | 8 | 8 |
+The Nexans Group hedges its exposure to copper, aluminum and to a lesser extent lead by entering into derivatives transactions in three organized markets: the LME in London, the COMEX in New York and in certain limited cases, the SHFE in Shanghai. Substantially all of the derivatives transactions conducted by the Group are standard buy and sell trades. The Group does not generally use metal options.
 
-Collateral pledged for contingent liabilities.
+The Treasury Financing and Metals Department performs metal derivatives transactions on behalf of substantially all of the Group's subsidiaries apart from, at December 31, 2024, its Australian, New Zealand and Chinese entities. Non-ferrous metal hedging transactions carried out on commodity exchanges may give rise to two different types of counterparty risk:
 
-# Note 35 Contingent liabilities
+- the risk of not recovering cash deposits made (margin calls); and
+- the replacement risk for contracts on which the counterparty defaults (mark-to-market exposure, i.e., the risk that the terms of a replacement contract will be different from those in the initial contract).
 
-| Group | | Parent Company | |
-|---|---|---|---|
-| SEK M | April 30, 2024 | April 30, 2023 | April 30, 2024 | April 30, 2023 |
-| Guarantees | 1,954 | 1,667 | 1,097 | 676 |
-| Total | 1,954 | 1,667 | 1,097 | 676 |
+The Treasury Financing and Metals Department manages counterparty risk on the Group's derivative instruments by applying a procedure that sets ceilings by counterparty and by type of transaction. The level of these ceilings depends notably on the counterparties' ratings. In addition, the transactions carried out are governed by master netting agreements developed by major international Futures and Options Associations that allow for the netting of credit and debit balances on each contract.
 
-For the group the guarantees consist of mainly performance guarantees and advance payment guarantes. For the Parent the guarantees consist of advance payments guarantees.
+The Group's counterparties for these transactions are usually its existing financial partners, provided they have a long-term rating of at least A-/A3. Counterparties rated between BBB-/Baa3 and BBB+/Baa1 can also be approved provided the Group's aggregate exposure to these counterparties does not exceed 20 million US dollars for counterparties rated BBB+/Baa1 or BBB in Australia and New Zealand. Because of the countries' time zone, the Group's subsidiaries carry out metal derivatives transactions with an Australian broker which is not rated. However, the Group only has a low level of exposure to this broker. Subsidiaries in China hedge their metal risks on the Shanghai Futures Exchange (SHFE), which can only be used by local brokers.
 
-# Note 36 Cash flow statement
+The Group's metal derivatives transactions are governed for the most part by master netting agreements developed by major international futures and options associations that in the event of a default allow for the netting of a Group subsidiary's assets and liabilities related to the defaulting counterparty.
 
-| | Group | | Parent Company | |
+The Group's maximum theoretical counterparty risk on its metal derivatives transactions can be measured as the sum of credit balances (including positive mark-to-market adjustments) and cash deposits after contractually permitted asset and liability netting. At December 31, 2024, this maximum theoretical risk was limited to 4 million euros. It amounted to 9 million euros at December 31, 2023.
+
+The notional amounts of metal derivatives (sum of the absolute values of buy and sell positions) at December 31, 2024 are analyzed by maturity in the table below:
+
+| At December 31, in millions of euros | 2024 |  | 2023 |  |
+| --- | ---: | ---: | ---: | ---: |
+|  | Buyer position notional amounts | Seller position notional amounts | Buyer position notional amounts | Seller position notional amounts |
+| Within one year | 507 | 219 | 531 | 289 |
+| Between one and two years | 79 | - | 74 | 8 |
+| Between two and three years | 41 | 0 | 16 | - |
+| Between three and four years | 40 | - | - | - |
+| Beyond four years | 1 | - | - | - |
+| TOTAL | 669 | 219 | 621 | 297 |
+
+51 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements 05
+
+The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.
+
+Cash deposited to meet margin calls on copper forward purchases whose fair value was negative at the year-end (see Note 27) amounted to 5 million euros at December 31, 2024 (8 million euros at December 31, 2023).
+
+In conclusion, the Group has limited exposure to credit risk. The Group considers that its management of counterparty risk is in line with market practices but it cannot totally rule out a significant impact on its consolidated financial statements should it be faced with the occurrence of systemic risk.
+
+### RISK ON DEPOSITS AND INVESTMENTS
+
+Deposits and investments with banks of Nexans Financial Trading Services and Nexans Canada's surplus cash amounted to 824 million euros at December 31, 2024, representing approximately 29% of the Group's total cash and cash equivalents. All of these deposits and investments are with counterparties rated as investment grade by Standard & Poor's, with ratings of between A and AA.
+
+Nexans Financial Trading Services has no SICAV's shares as of December 31, 2024.
+
+For the Group's other subsidiaries, counterparty risk on deposits and investments is managed in accordance with the principles and procedures described in Note 29.A.
+
+### E. Market risk sensitivity analysis
+
+A sensitivity analysis is provided below on the impact that a theoretical change in the above-mentioned main market risks would have on consolidated income and equity.
+
+#### SENSITIVITY TO CHANGES IN COPPER PRICES
+
+Fluctuations in copper prices can impact both consolidated income and equity, as well as the Group's financing needs. Sensitivity calculations are based on an assumed increase in copper prices. A fall in copper prices would have the inverse effect.
+
+A rise in copper prices would result in:
+* a rise in the fair value of the Group's portfolio of cash-settled copper derivatives (the Group is a net buyer);
+* an upward remeasurement of the Group's Core exposure.
+
+At Group level, the impact on working capital is limited and mainly relates to the timing of derivatives settlement. Potential significant variations could occur at local level due to pricing conditions.
+
+An increase in the fair value of cash-settled copper derivatives would positively affect either consolidated operating income or equity, based on the accounting treatment used for these derivative instruments (the derivatives of the Group's main subsidiaries are designated as cash flow hedges within the meaning of IFRS 9).
+
+The simulation below is based on the following assumptions (with all other assumptions remaining constant, notably exchange rates):
+* a 10% increase in copper prices at December 31, 2023 and 2024, and translation of this impact evenly across the entire price curve without any distortion of forward points/spreads
+* all working capital components (inventories and the copper component of trade receivables and payables) would be impacted by the increase in copper prices
+* 47,000 tons and 50,000 tons of copper included in working capital at December 31, 2023 and December 31, 2024, respectively
+* short-term interest rate (3-month Euribor) of 2.715% in 2024 and 3.93% in 2023. A worst-case scenario in which the increase in working capital would be constant throughout the year, leading to an annualized increase in financial expenses (not taking into account the temporary positive impact of margin calls or the effect of changes in exchange rates)
+* 43,350 tons of copper classified as core exposure at December 31, 2024 and 43,750 tons at December 31, 2023
+* using a theoretical income tax rate of 25.83% in 2024 as in 2023
+
+Any impact of changes in copper prices on both impairment in value of the Group's non-current assets (in accordance with IAS 36) and the provision for impairment of inventories has not been taken into account in this simulation, as it is impossible to identify a direct linear effect.
+
+| At December 31, in millions of euros | 2024 | 2023 |
+|-------------------------------------|------|------|
+| Impact on operating income | 36 | 33 |
+| Impact on financial income and expenses | (1) | (1) |
+| NET IMPACT ON INCOME (AFTER TAX) | 26 | 23 |
+| IMPACT ON EQUITY (AFTER TAX) | 24 | 20 |
+
+(a) Excluding net income (loss) for the period.
+
+NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2024 - 52
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+## SENSITIVITY TO THE US DOLLAR (USD) AND NORWEGIAN KRONE (NOK) EXCHANGE RATES
+
+The main impacts on the consolidated financial statements stem from the revaluation of the Group's portfolio of derivative instruments. The impact on equity related to designated cash flow hedges and the impact on income have been separated out. The impact on income is offset by the revaluation of underlying US dollar positions included in the Group's trade receivables and trade payables portfolios, and net debt.
+
+The Group's other financial assets and liabilities are only exceptionally subject to foreign exchange risk. They were not taken into account in this simulation.
+
+The US dollar is the main foreign currency to which the Group is exposed.
+
+The simulation is based on a 10% decrease in the US dollar spot rate against the world's other major currencies compared with the rates prevailing at December 31, 2023 and 2022 (e.g., using USD/EUR exchange rates of 1.10 and 1.07 respectively, without any changes in the forward points curve).
+
+The Norwegian krone (NOK) is an essential counterparty currency used in contracts for subsea high-voltage cables.
+
+The simulation is based on similar assumptions to those used for the US dollar (i.e., a 10% decrease in the Norwegian krone spot rate against the world's other major currencies), e.g., using closing NOK/EUR exchange rates of 11.50 and 10.74 at December 31, 2023 and 2022, respectively, without any changes in the forward points curve.
+
+Foreign currency translation impacts have not been taken into account in the following calculations:
+
+| | 2024 | | 2023 | |
 |---|---|---|---|---|
-| SEK M | 2023/24 | 2022/23 | 2023/24 | 2022/23 |
+| in millions of euros | Net impact on income<br>(after tax)<sup>(a)</sup> | Impact on equity<br>(after tax)<sup>(b)</sup> | Net impact on income<br>(after tax)<sup>(a)</sup> | Impact on equity<br>(after tax)<sup>(b)</sup> |
+| **NET POSITION – UNDERLYINGS<sup>(c)</sup>** | (14) | - | (10) | - |
+| **NET POSITION – DERIVATIVES** | (7) | (9) | 1 | 10 |
+| **USD – NET IMPACT ON THE GROUP** | (21) | (9) | (9) | 10 |
+| **NET POSITION – UNDERLYINGS<sup>(d)</sup>** | 32 | - | 7 | - |
+| **NET POSITION – DERIVATIVES** | (0) | (117) | (0) | (75) |
+| **NOK – NET IMPACT ON THE GROUP** | 32 | (117) | 7 | (75) |
 
-**Interest net**
+(a) Using a theoretical income tax rate of 28.8% in 2023 and 2022.
+(b) Excluding net income for the period, the theoretical income tax rate was 28.8% in 2023 and 2022.
+(c) Impact primarily due to net open positions in countries whose currencies are very closely correlated to the US dollar.
+(d) Impact primarily due to net open positions in countries whose currencies are very closely correlated to the Norwegian krone.
 
-| | | | | |
-|---|---:|---:|---:|---:|
-| Interest income | −108 | −79 | −520 | −302 |
-| Interest expenses | 414 | 226 | 497 | 251 |
-| Interest net | 306 | 147 | −23 | −51 |
-
-**Other non-cash items**
-
-| | | | | |
-|---|---:|---:|---:|---:|
-| Participations in net inocme of associated companies, after tax | 5 | −1 | – | – |
-| Revaluation of participations in other companies | – | – | – | 15 |
-| Cost of incentive programs | 19 | 20 | 4 | 7 |
-| Unrealized exchange rate effects | 107 | 2 | – | 9 |
-| Other items | 102 | 28 | 13 | −13 |
-| Total | 234 | 49 | 17 | 18 |
-
-**Business combinations**
-
-| | | | | |
-|---|---:|---:|---:|---:|
-| Purchase price | −255 | −33 | – | – |
-| Contingent considerations | −12 | −20 | – | – |
-| Total | −267 | −53 | – | – |
-
-**Other investing activities**
-
-| | | | | |
-|---|---:|---:|---:|---:|
-| Shareholders' contributions paid | – | – | −2,022 | −55 |
-| Investments in associated companies | −12 | – | – | – |
-| Dividends from associated companies | 1 | 1 | – | – |
-| Total | −11 | 1 | −2,022 | −55 |
-
-More information on business combinations is presented in **Note 38**.
-
-**Changes in net liabilities related to financing activities 2023/24**
-
-| | | Non cash changes | | |
-|---|---:|---:|---:|---:|
-| SEK M | Opening balance | Cash flow | Other | Foreign exchange movements | Closing balance |
-| Bond loans | 2,496 | – | 2 | – | 2,498 |
-| Financial lease liabilities | 947 | −289 | 615 | 46 | 1,319 |
-| Liabilities to credit institutions | 3,208 | 107 | – | 117 | 3,432 |
-| Other | 14 | 4 | – | – | 18 |
-| Total | 6,665 | −273 | 606 | 270 | 7,267 |
-
-[IMAGE_DESCRIPTION:
-Type: Company logo
-Location: Top-left corner of the document
-Content: Elekta company logo
-Text Elements: "Elekta"
-Colors & Style: Blue logo with circular element
-Purpose: Brand identification
-]
-
-Annual Report 2023/24    67
-
-Business overview    04
-Financial reporting    19
-Board of Director's report    21
-Consolidated income statement    30
-Consolidated statement of comprehensive income    30
-Consolidated balance sheet    32
-Changes in consolidated equity    34
-Consolidated cash flow statement    35
-Financial statements – Parent Company    36
-Financial notes    38
-Signatures of the Board    70
-Auditor's report    71
-Sustainability notes    75
-Auditor's report    101
-Definitions    102
-Alternative performance measures    103
-Five-year review and key figures    106
-Corporate governance    108
+53   NEXANS   UNIVERSAL REGISTRATION DOCUMENT 2024
 
 ---
 
-# FINANCIAL NOTES
+# NEXANS 2024 FINANCIAL STATEMENTS
+## Consolidated financial statements 05
 
-Annual Report 2023/24                   68
+*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
 
-[IMAGE_DESCRIPTION: 
-Type: Logo
-Location: Top left corner of the document
-Content: Elekta company logo - a circular blue icon with the name "Elekta" in dark text
-]
+## Note 30. Additional disclosures concerning financial instruments
 
-## Note 36. Cash flow statement, cont.
+The main types of financial assets and liabilities are divided into the following categories:
 
-### Changes in net liabilities related to financing activities 2022/23
+| At December 31, in millions of euros | IFRS 9 category | Fair value category | 2024 |  | 2023 |  |
+|---|---|---|---|---|---|---|
+| | | | Carrying amount | Fair value | Carrying amount | Fair value |
+| **Assets** | | | | | | |
+| Shares in non‑consolidated companies | Financial assets at fair value through profit or loss | | 16 | 16 | 21 | 21 |
+| | Financial assets at fair value through other comprehensive income | | 3 | 3 | 3 | 3 |
+| Other non‑current financial assets | Loans and receivables | | 96 | 96 | 95 | 95 |
+| Commercial receivables | | | | | | |
+| Contract assets | Loans and receivables | | 194 | 194 | 187 | 187 |
+| Trade receivables | Loans and receivables | | 1,197 | 1,197 | 856 | 856 |
+| Derivatives⁽ᵃ⁾ | Financial assets at fair value through profit or loss | Foreign exchange: 2 | 72 | 72 | 91 | 91 |
+| | | Metal: 1 | 14 | 14 | 13 | 13 |
+| Other current financial assets | Loans and receivables | | 144 | 144 | 175 | 175 |
+| Cash and cash equivalents | Financial assets at fair value through profit or loss | Term deposits: 2 | 52 | 1,254 | 75 | 1,131 |
+| | | Other: 1 | 1,202 | | 1,056 | |
+| **Liabilities** | | | | | | |
+| Gross debt | | | | | | |
+| Ordinary bonds⁽ᵇ⁾ | Financial liabilities at amortized cost | | 1,359 | 1,044 | 618 | 642 |
+| European Investment Bank loan⁽ᵇ⁾ | Financial liabilities at amortized cost | | 200 | 200 | 200 | 200 |
+| Other financial liabilities | Financial liabilities at amortized cost | | 203 | 203 | 395 | 395 |
+| Commercial payables | | | | | | |
+| Contract liabilities | Financial liabilities at amortized cost | | 1,004 | 1,004 | 738 | 738 |
+| Trade payables | Financial liabilities at amortized cost | | 1,622 | 1,622 | 1,601 | 1,601 |
+| Derivatives⁽ᵃ⁾ | Financial liabilities at fair value through profit or loss | Foreign exchange: 2 | 151 | 151 | 81 | 81 |
+| | | Metal: 1 | 21 | 21 | 12 | 12 |
+| Other current financial liabilities | Financial liabilities at amortized cost | | 432 | 432 | 412 | 412 |
 
-| SEK M | Opening balance | Cash flow | Other | Foreign exchange movements | Closing balance |
-|-------|-----------------|-----------|-------|---------------------------|----------------|
-| Bond loans | 2,993 | −500 | 3 | – | 2,496 |
-| Financial lease liabilities | 1,086 | −268 | 84 | 46 | 947 |
-| Liabilities to credit institutions | 1,603 | 1,552 | – | 53 | 3,208 |
-| Other | 9 | 4 | – | – | 14 |
-| Total | 5,692 | 788 | 87 | 99 | 6,666 |
+(a) Derivative instruments designated as cash flow hedges are carried at fair value through other comprehensive income. Any gains or losses previously recognized in equity are reclassified to the income statement in the period in which the hedged item impacts income.
+(b) Including short-term accrued interest (see Note 24.C).
 
-## Note 37 Related party transactions
+The Group's fixed‑rate debt mainly consists of the 2028, 2029 and 2030 bonds, as well as the loan taken out with the European Investment Bank. Their fair value may differ from the carrying amount due to the use of the amortized cost method.
 
-Elekta engages in transactions with some of its related parties. The transactions are normally entered in the ordinary course of business on an arm's length basis and are subject to terms and conditions that are standard in the industry.
+The fair value of the 2028, 2029 and 2030 ordinary bonds was calculated based on a bank valuation provided at December 31, 2024 and included the interest accrued at the year‑end. The same method was used at December 31, 2023.
 
-| | Sales of goods, services and other income | | Purchases of goods, services and other expense | |
-|---|---|---|---|---|
-| SEK M | April 30, 2024 | April 30, 2023 | April 30, 2024 | April 30, 2023 |
-| Associated companies | 73 | 15 | – | 1 |
-| Other related parties | 4 | 6 | 14 | 2 |
-| Total | 77 | 21 | 14 | 3 |
-
-| | Receivables | | Payables | |
-|---|---|---|---|---|
-| SEK M | April 30, 2024 | April 30, 2023 | April 30, 2024 | April 30, 2023 |
-| Associated companies | 23 | 27 | – | 1 |
-| Other related parties | 1 | 2 | 0 | – |
-| Total | 24 | 29 | 0 | 1 |
-
-Associated companies, see also → Note 22.
-
-### Elekta Foundation
-At the Annual General Meeting in August 2023 Elekta's shareholders approved the Board of Directors' proposal of a contribution of maximum SEK 10 M to the philanthropic Elekta Foundation, which was paid in 2023/24. In addition to the contribution, Elekta provides administrative services to the Foundation.
-
-### Board members and key management personnel
-Elekta has entered into consultancy agreements, at an arm's length basis, with two of its board members, Caroline Leksell Cooke and Kelly Londy (left the Board of Directors on March 1, 2024), and their respective companies. Remunerations and benefits to key personnel in management positions are presented in → Note 8.
-
-### Subsidiaries
-Transactions between Elekta AB and its subsidiaries are presented in → Notes 12, 13, 14 and 29. These transactions are eliminated upon consolidation. The acquisitions contain of two assets acquisitions.
-
-## Note 38 Business combinations
-
-### 2023/24
-During 2023/24 Elekta has made two acquisitions to a total preliminary fixed acquisition price of approximately SEK 328 M with a maximum variable amount of approximately SEK 70 M.
-
-On June 30 Elekta acquired the solution and service business from Premier Business Inter company Limited which was Elekta's distributor in Thailand. The consideration amounted to approximately SEK 261 M of which SEK 191 M was paid in cash and SEK 70 M is a contingent consideration. The acquisition is expected to increase the commitment to Elekta's Thai customers while strengthening the position in a strong market with further potential. Goodwill of SEK 197 M was recognized.
-
-On October 23 2023 Elekta acquired the Xoft Axxent Electronic Brachytherapy (eBx) System from iCAD, inc.
-The consideration amounted to approximately SEK 64 M and was paid in cash. With the acquisition Elekta expects to be able to offer electronic brachytherapy technology and provide an expanded range of cancer treatment options. Goodwill of SEK 45 M was recognized.
-
-The goodwill that was recognized in both acquisitions relates to synergies from experienced personnel and management.
-
-### 2022/23
-During 2022/23 Elekta has made some minor acquisitions to a total preliminary fixed acquisition price of approximately SEK 33 M.
+NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024    54
 
 ---
 
-- Business overview        04
-- Financial reporting      19
-- Board of Director's report    21
-- Consolidated income statement     30
-- Consolidated statement of comprehensive income     30
-- Consolidated balance sheet       32
-- Changes in consolidated equity    34
-- Consolidated cash flow statement  35
-- Financial statements – Parent Company    36
-- Financial notes   38
-- Signatures of the Board  70
-- Auditor's report     71
-- Sustainability notes     75
-- Auditor's report     101
-- Definitions     102
-- Alternative performance measures    103
-- Five-year review and key figures    106
-- Corporate governance    108
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## 05 Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+## Note 31. Related party transactions
+
+Related party transactions primarily concern commercial and financial transactions carried out with the Quiñenco Group – Nexans' principal shareholder – as well as with associates, non-consolidated companies, and directors and key management personnel (whose total compensation is presented in a specific table, see Note 31.C).
+
+### A. Related party transactions with associates and non-consolidated companies
+
+**INCOME STATEMENT**
+
+*in millions of euros*
+
+| REVENUE | 2024 | 2023 |
+|:--------|-----:|-----:|
+| • Non-consolidated companies | 37 | 30 |
+| • Associates | 0 | 1 |
+
+| COST OF SALES | 2024 | 2023 |
+|:--------------|-----:|-----:|
+| • Non-consolidated companies | (10) | (12) |
+| • Associates | (2) | (2) |
+
+**BALANCE SHEET**
+
+The main items in the balance sheet concerned were as follows:
+
+*At December 31, in millions of euros*
+
+| ASSETS | 2024 | 2023 |
+|:-------|-----:|-----:|
+| • Non-consolidated companies | 3 | 3 |
+| • Associates | 0 | 0 |
+
+| FINANCIAL LIABILITIES/(RECEIVABLES) | 2024 | 2023 |
+|:-----------------------------------|-----:|-----:|
+| • Non-consolidated companies | (17) | (14) |
+| • Associates | - | - |
+
+| OTHER LIABILITIES | 2024 | 2023 |
+|:-----------------|-----:|-----:|
+| • Non-consolidated companies | 1 | 1 |
+| • Associates | 1 | 0 |
+
+### B. Relations with the Quiñenco Group
+
+At December 31, 2024, the Quiñenco group held approximately 29% of the Company's capital stock through two subsidiaries: Invexans Limited (UK) and Tech Pack (Chile). The Quiñenco group has given the Company a long-term undertaking that it would not request representation on the Board in excess of three non-independent members in a Board of 14 members or if the Board were to be enlarged, in excess of a number of directors proportionate to its shareholding.
+
+At December 31, 2024, the main contractual relations between Nexans and the Quiñenco group concerned agreements related to the contract dated February 21, 2008, for the acquisition of the Quiñenco group's cable business as amended by an addendum signed on September 30, 2008.
+
+The impact of the commercial agreements with the Quiñenco group on the income statement and balance sheet is included in the tables set out in **Note 31.A** above, on the line "Associates".
+
+### C. Compensation of key management personnel
+
+In 2024, as in 2023, key management personnel corresponds to the corporate officers and the members of the Executive Committee.
+
+## 55 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
 
 ---
 
-[IMAGE_DESCRIPTION:
-Type: Company logo
-Location: Top left corner of document
-Content: Elekta company logo - circular blue logo with Elekta text
-Colors & Style: Blue and white corporate logo
-Purpose: Brand identification
-]
+# NEXANS 2024 FINANCIAL STATEMENTS
 
-## FINANCIAL NOTES                                                                                                                        Annual Report 2023/24      69
+Consolidated financial statements
 
-## Note 39  Average number of employees
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
 
-| | Men | | Women | | Total | |
-|---|---:|---:|---:|---:|---:|---:|
-| | 2023/24 | 2022/23 | 2023/24 | 2022/23 | 2023/24 | 2022/23 |
-| Parent company | 27 | 26 | 31 | 30 | 58 | 56 |
-| Subsidiaries: | | | | | | |
-| Sweden | 155 | 164 | 100 | 109 | 255 | 273 |
-| USA | 548 | 559 | 292 | 299 | 839 | 858 |
-| Great Britain | 584 | 583 | 229 | 220 | 813 | 802 |
-| China | 510 | 505 | 217 | 216 | 727 | 721 |
-| Poland | 98 | 96 | 136 | 140 | 234 | 236 |
-| The Netherlands | 182 | 177 | 58 | 59 | 240 | 236 |
-| Japan | 116 | 121 | 24 | 22 | 140 | 143 |
-| India | 132 | 121 | 10 | 10 | 142 | 131 |
-| Germany | 87 | 94 | 16 | 18 | 103 | 111 |
-| Finland | 70 | 74 | 28 | 31 | 98 | 105 |
-| Italy | 74 | 72 | 20 | 19 | 95 | 91 |
-| Canada | 58 | 64 | 25 | 27 | 83 | 91 |
-| France | 60 | 61 | 13 | 16 | 73 | 77 |
-| Australia | 55 | 53 | 20 | 20 | 75 | 73 |
-| Brazil | 52 | 56 | 15 | 15 | 67 | 71 |
-| Turkey | 55 | 55 | 21 | 16 | 76 | 71 |
-| Spain | 47 | 44 | 15 | 18 | 62 | 62 |
-| Hong Kong | 35 | 34 | 10 | 12 | 45 | 46 |
-| Thailand | 26 | - | 19 | - | 44 | - |
-| Mexico | 34 | 34 | 8 | 9 | 42 | 43 |
-| Singapore | 20 | 21 | 13 | 13 | 33 | 34 |
-| South Korea | 27 | 24 | 4 | 4 | 31 | 28 |
-| Egypt | 22 | 22 | 2 | 2 | 25 | 24 |
-| South Africa | 13 | 15 | 6 | 6 | 19 | 21 |
-| Austria | 8 | 14 | 12 | 5 | 20 | 19 |
-| Belgium | 14 | 15 | 2 | 2 | 16 | 17 |
-| Indonesia | 17 | 15 | 3 | 2 | 20 | 17 |
-| Russia | 4 | 9 | 4 | 7 | 8 | 16 |
-| Portugal | 14 | 12 | 4 | 3 | 18 | 15 |
-| Czech Republic | 6 | 10 | 4 | 5 | 10 | 15 |
-| Vietnam | 13 | 13 | 1 | 2 | 14 | 15 |
-| Greece | 14 | 12 | 2 | 2 | 16 | 14 |
-| Romania | 12 | 8 | 4 | 4 | 16 | 12 |
-| Philippines | 14 | 10 | 3 | - | 17 | 10 |
-| Algeria | 8 | 8 | 1 | 1 | 9 | 9 |
-| New Zealand (branch) | 7 | 7 | 1 | 2 | 8 | 9 |
-| Switzerland (branch) | 5 | 7 | 2 | 2 | 7 | 9 |
-| Slovakia | 4 | - | - | - | 4 | - |
-| Serbia | 4 | 3 | 2 | 2 | 6 | 5 |
-| Total average number of employees | 3,231 | 3,216 | 1,377 | 1,370 | 4,607 | 4,587 |
+## TOTAL COMPENSATION
 
-### Specification men/women among Board of Directors and executive committee
-During the financial year, the Board of Directors of Elekta AB consisted of 50 percent (57) men. The Executive Committee consisted of 92 percent (86) men.
+Total compensation paid to the Group's Key Management Personnel can be analyzed as follows:
 
-## Note 40  Significant events after the reporting period
-During ESTRO 2024, Elekta announced the launch of its latest linac, Evo, a CT-Linac with new high-definition AI enhanced imaging, capable of delivering offline and online adaptive radiation therapy as well as improved standard image-guided radiation therapy treatments. This highly versatile CT-Linac will enable clinicians to choose the most suitable radiation therapy technique for each individual patient.
+| in millions of euros | 2024 | 2023 |
+| :--- | ---: | ---: |
+| Compensation for corporate officer positions⁽ᵃ⁾ | 3.2 | 2.7 |
+| Compensation under employment contracts and benefits in kind⁽ᵃ⁾ | 10.5 | 8.3 |
+| Performance shares⁽ᵇ⁾ | 5.1 | 4.1 |
+| Termination benefits⁽ᵃ⁾ | - | - |
+| Long-term incentive plan⁽ᵇ⁾ | 0.2 | 0.2 |
+| Accruals for pensions and other retirement benefit obligations⁽ᶜ⁾ | 1.1 | 1.1 |
+| **TOTAL COMPENSATION** | **20.2** | **16.4** |
+
+(a) Amounts paid during the year, including payroll taxes.
+(b) Amounts expensed in the income statement during the year.
+(c) Payments related to supplementary defined contribution pension plans.
+
+## COMMITMENTS GIVEN TO THE CHIEF EXECUTIVE
+
+All of the commitments given to Christopher Guérin in his capacity as Chief Executive Officer (CEO) are described in detail each year in the Universal Registration Document (section entitled "Commitments given to the Chief Executive Officer (CEO)").
+
+As Chief Executive Officer (CEO), Christopher Guérin has received the following commitments from the Company, which were decided at the Board meeting and approved yearly at the Shareholders' Meeting:
+
+* If Christopher Guérin is removed from his position as Chief Executive Officer (CEO), he will be entitled to payment of a termination indemnity representing two years' worth of his total fixed and variable compensation. This indemnity will be subject to actual performance in relation to the objectives applicable to his target annual variable compensation being at least equal to 80% of said objectives on average over the three years preceding his removal. This indemnity will be payable only in the event of a forced departure due to a change of control or strategy, which will be deemed to be the case unless specifically decided otherwise by the Board of Directors, notably in the event of serious misconduct.
+
+* As compensation for an undertaking not to exercise any business that would compete either directly or indirectly with any of the Company's businesses for a period of two years from the end of his term of office as Chief Executive Officer (CEO), Christopher Guérin will receive a non-compete indemnity, regardless of the cause of termination of his duties. Said indemnity will be paid in 24 equal and successive monthly installments and will equal one year of his fixed and variable compensation, i.e., 12 times the amount of his most recent monthly compensation (fixed portion) plus the corresponding percentage of his bonus. The Board could decide to impose a non-competition obligation on the Chief Executive Officer (CEO) for a period shorter than two years. In such a case, the non-competition indemnity would be reduced pro rata temporis.
+
+In accordance with Article 25.3 of the Afep-Medef Code (December 2022 version), in the event of Christopher Guérin's departure the Board of Directors will decide whether or not the non-compete agreement entered into with him will apply and will be entitled to cancel it (in which case no non-compete indemnity will be payable).
+
+In addition, in accordance with Article 24.4 of the Afep-Medef Code, no non-compete indemnity will be due if Christopher Guérin takes retirement upon leaving the Group. In any event, no indemnity shall be paid beyond the age of 65.
+
+Lastly, in accordance with the compensation policy for corporate officers described in Section 4 of this Document, all severance benefits (termination benefits and non-compete benefits) may not exceed two years' worth of actual compensation (fixed and variable).
+
+If Christopher Guérin retired, he would be entitled to benefits under the supplementary defined contribution pension plan set up by the Group in 2019 for certain employees and corporate officers. The annual contribution paid by the Company corresponds to 20% of the Chief Executive Officer's total actual annual compensation (fixed plus variable), i.e., 300,000 euros in 2024.
+
+## Note 32 - Disputes and contingent liabilities
+
+### A. Antitrust investigations
+
+In January 2009, antitrust investigations were launched in several countries against various cable manufacturers including Group companies in relation to alleged anticompetitive behavior in the submarine and underground high-voltage power cables sector.
+
+On April 7, 2014, Nexans France SAS and the Company were notified of the European Commission's decision (EC Decision), which found that Nexans France SAS had participated directly in an infringement of European antitrust legislation in the submarine and underground high-voltage power cable sector. The Company was held jointly liable for the payment of a portion of the fine imposed on Nexans France SAS by the European Commission.
+
+In early July 2014, Nexans France SAS paid 70.6 million euro fine imposed on it by the European Commission.
 
 ---
 
-• Business overview                                04
-• Financial reporting                              19
-• Board of Director's report                       21
-• Consolidated  
-  income statement                                30
-• Consolidated statement  
-  of comprehensive income                         30
-• Consolidated  
-  balance sheet                                   32
-• Changes in  
-  consolidated equity                             34
-• Consolidated  
-  cash flow statement                             35
-• Financial statements –  
-  Parent Company                                  36
-• Financial notes                                  38
-• Signatures of the Board                          70
-• Auditor's report                                 71
-• Sustainability notes                             75
-• Auditor's report                                101
-• Definitions                                     102
-• Alternative  
-  performance measures                           103
-• Five-year review and  
-  key figures                                    106
-• Corporate governance                           108
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements
+
+*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+
+Subsequently, certain Group entities have received claims from customers filed before the courts in the United Kingdom, the Netherlands, Germany and Italy against Nexans and other defendants relating to the EC Decision.
+
+In the United Kingdom, National Grid, Scottish Power and Vattenfall brought proceedings against Prysmian. Contribution claims were brought by Prysmian against the Company in these cases. Prysmian have now reached a settlement with each of these claimants. The contribution claims in respect of these claims are still pending but are not currently being pursued.
+
+In May 2019, an application for a collective proceedings order was lodged in the UK before the Competition Appeal Tribunal (CAT) by Ms Spottiswoode CBE seeking authorization to bring an action for damages on behalf of certain individuals against Nexans, Prysmian and NKT based on the EC Decision. Ms Spottiswoode claim was certified by the CAT (subject to various conditions) in May 2022 on an "opt-out" basis. She has secured financing from a professional third-party litigation funder. As part of its assessment the CAT will scrutinize the funding agreement to determine inter alia whether the proposed defendants costs would be sufficiently covered in the event that the claimant is unsuccessful in the claim. The Company is defending the claim and a hearing on one aspect of the claim is to be heard in April 2024.
+
+In July 2022, London Array Limited and others commenced a claim in the CAT against Nexans France SAS and the Company in relation to the EC Decision. Nexans France SAS and the Company are defending the claim, which is scheduled for trial in April-May 2024.
+
+In April 2019, Terna S.p.A. launched an antitrust damages claim against Nexans Italia before the Court of Milan based on the EC Decision. Nexans Italia filed a defense in October 2019 focusing on Nexans Italia's lack of standing to be sued. Nexans is defending the claim and a final outcome is not expected before the end of 2024 or 2025.
+
+In April 2019, a claim in Netherlands was made jointly by Electricity & Water Authority of Bahrain, Gulf Cooperation Council Interconnection Authority, Kuwait Ministry of Electricity and Water and Oman Electricity Transmission Company against certain companies of the Prysmian Group and its former shareholders, and companies in the Nexans Group and ABB Group.
+
+This action has been brought before the Court of Amsterdam. In December 2019, Nexans and other defendants filed a motion contesting jurisdiction, in which the defendants were successful. The court issued its judgment in November 2020, declaring itself incompetent with regard to the claims against the non-Dutch defendants, including the non-Dutch subsidiaries of the Company. The court also ordered the claimants to pay the costs of the proceedings. The claimants appealed this ruling and the matter has since been referred to the European Court of Justice (ECJ) for a ruling. A hearing before the ECJ was held in January 2024 and the judgment is awaited.
+
+In November 2017, in Spain, Nexans Iberia and the Company (in its capacity as Nexans Iberia's parent company) were notified of a decision by the Spanish competition authority ("CNMC") which found that Nexans Iberia had participated directly in an infringement of Spanish competition laws in the low and medium voltage cable sectors. The Company was held jointly liable for the payment of part of the fine levied on Nexans Iberia by the CNMC. In January 2018, Nexans Iberia settled the 1.3 million euro fine levied by the CNMC. Nexans Iberia and the Company have appealed the CNMC's decision.
+
+In July 2020 one claim was filed by Iberdrola, followed by four other Spanish claimants in 2022. All claims against Nexans Iberia are based on the CNMC decision in the low/medium voltage case. Nexans is defending these cases.
+
+In January and May 2016, the German Federal Cartel Office (FCO) carried out searches at three of Nexans's sites in Germany. These searches are part of an investigation into cable manufacturers concerning alleged coordination of industry-standard metal surcharges in Germany. The FCO also conducted inspections at the premises of other companies in Germany. Nexans successfully challenged the validity of the search. However, the investigation is ongoing and in February, and July 2018, the FCO carried out searches at other sites in Germany and in France.
+
+In October 2020, Saudi Electricity Company (SEC) brought a claim in Germany against Nexans S.A. and other companies including NKT and Prysmian based on the EC Decision. Nexans did not supply any power cables to SEC and is defending the claim, and in June 2024 succeeded in asking the court to require SEC to provide substantial security if it wished to continue its claim.
+
+An investigation in Brazil by the General Superintendence of the antitrust authority "CADE" in the high-voltage power cable sector was concluded in February 2015. In April 2020, the Administrative Tribunal of CADE fined the Company, together with other cable manufacturers. The Company has paid the 1 million euro (BRL equivalent) fine but has appealed the decision. The case is ongoing.
+
+57    NEXANS    UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## 05. Consolidated financial statements
+
+The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
+
+| Companies by geographical area | % control | % interest | Consolidation method(a) |
+|:---------------------------|:--------:|:--------:|:------------------:|
+| **NORTHERN EUROPE** |  |  |  |
+| Nexans Benelux S.A. | 100.00% | 100.00% |  |
+| Nexans Network Solutions NV | 100.00% | 100.00% |  |
+| Nexans Services | 100.00% | 100.00% |  |
+| Nexans Deutschland GmbH | 100.00% | 100.00% |  |
+| Metrofunkkabel Union GmbH | 100.00% | 100.00% |  |
+| Nexans Auto Electric GmbH(d) | 100.00% | 100.00% |  |
+| Nexans Power Accessories Deutschland GmbH | 100.00% | 100.00% |  |
+| Nexans Industrial Solutions GmbH | 100.00% | 100.00% |  |
+| Nexans Nederland BV | 100.00% | 100.00% |  |
+| Nexans Norway A/S | 100.00% | 100.00% |  |
+| Nexans Subsea Operations | 100.00% | 100.00% |  |
+| Nexans Skagerrak | 100.00% | 100.00% |  |
+| Nexans Marine Operations | 100.00% | 100.00% |  |
+| Nexans Vessel Management | 100.00% | 100.00% |  |
+| Nexans Suisse S.A. | 100.00% | 100.00% |  |
+| Nexans Re(e) | 100.00% | 100.00% |  |
+| Nexans Logistics Ltd | 100.00% | 100.00% |  |
+| Nexans UK Ltd | 100.00% | 100.00% |  |
+| Nexans Sweden AB | 100.00% | 100.00% |  |
+| REKA Cables | 100.00% | 100.00% |  |
+| Nexans Finland Holding | 100.00% | 100.00% |  |
+| Nexans Industry Solutions(f) | 100.00% | 100.00% |  |
+| **SOUTHERN AND EASTERN EUROPE** |  |  |  |
+| Nexans Iberia SL | 100.00% | 100.00% |  |
+| Nexans Industrial Solutions Iberia | 100.00% | 100.00% |  |
+| Takami | 100.00% | 100.00% |  |
+| Nexans Italia SpA | 100.00% | 100.00% |  |
+| Gruppo LTC S.p.A. | 100.00% | 100.00% |  |
+| La Triveneta Cavi S.p.A. | 100.00% | 100.00% |  |
+| Veneta Trafili S.p.A. | 100.00% | 100.00% |  |
+| Nexans Partecipazioni Italia Srl | 100.00% | 100.00% |  |
+| Nexans Intercablo SpA | 100.00% | 100.00% |  |
+| Nexans Hellas S.A. | 100.00% | 100.00% |  |
+| Nexans Power Accessories Czech Republic | 100.00% | 100.00% |  |
+| Nexans Turkiye Endustri Ve Ticaret AS | 100.00% | 100.00% |  |
+
+61 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+
+---
+
+# NEXANS 2024 FINANCIAL STATEMENTS
+
+## Consolidated financial statements
+
+The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.
+
+## Note 35. Statutory Auditors' fees
+
+The total fees paid to the Statutory Auditors for all controlled entities in France and recorded in the income statement for 2024 break down as follows:
+
+| in thousands of euros | Audit of the consolidated financial statements | Audit of the corporate financial statements | Audit of Sustainability report | Other (a) | Total |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Forvis Mazars | 312 | 250 | 241 | 17 | 820 |
+| PwC | 307 | 350 | 611 | 908 | 2,176 |
+| **TOTAL** | **619** | **600** | **852** | **925** | **2,995** |
+
+(a) Other non audit‑related services include, in particular, fees for due diligence in the context of acquisitions.
+
+## Note 36. Subsequent events
+
+On January 2, 2025, Nexans completed the sale of AmerCable to Mattrr for a value of 280 million US dollar. The sale price is expected to be finalized in the first half of 2025 with the establishment of Amercable's financial statements as of December 31, 2024.
+No other significant event has occurred since December 31, 2024.
+
+63 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
