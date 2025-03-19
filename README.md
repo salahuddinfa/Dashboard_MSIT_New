@@ -1,3460 +1,4670 @@
-# NEXANS 2024 FINANCIAL STATEMENTS
+# Group financial statements
 
-## 05 Consolidated financial statements
+## Consolidated income statement
+For the year ended 31 December 2023
 
-The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
+|  | Notes | 2023 £m | 2022 restated¹ £m |
+| --- | ---: | ---: | ---: |
+| Revenue from contracts with customers | 3 | 1,474 | 1,538 |
+| Cost of sales | 3 | (76) | (82) |
+| Net operating revenue |  | 1,398 | 1,456 |
+|  |  |  |  |
+| Restructuring and corporate transaction expenses | 5 | (152) | (214) |
+| Impairment of intangibles acquired in business combinations and through the purchase of customer contracts | 5 | (63) | (369) |
+| Amortisation of intangibles acquired in business combinations and through the purchase of customer contracts | 5 | (126) | (125) |
+| Staff costs and other employee-related costs | 5 | (529) | (549) |
+| Other administrative expenses | 5 | (593) | (662) |
+| Total administrative and other expenses |  | (1,463) | (1,919) |
+|  |  |  |  |
+| Net gains or losses on financial instruments and other income |  |  |  |
+| Fair value movements and dividend income on significant listed investments | 4 | (114) | (119) |
+| Other net gains or losses on financial instruments and other income | 4 | 116 | (3) |
+| Total net gains or losses on financial instruments and other income |  | 2 | (122) |
+| Finance costs |  | (25) | (29) |
+| Profit on disposal of subsidiaries and other operations | 1 | 79 | - |
+| Profit on disposal of interests in associates | 1 | - | 6 |
+| Reversal of impairment/(impairment) of interests in associates and joint ventures | 14 | 2 | (9) |
+| Share of profit or loss from associates and joint ventures | 14 | 1 | 5 |
+| Loss before tax |  | (6) | (612) |
+| Tax credit | 9 | 18 | 66 |
+| Profit/(loss) for the year |  | 12 | (546) |
+| Attributable to: |  |  |  |
+| Equity shareholders of abrdn plc |  | 1 | (558) |
+| Other equity holders | 28 | 11 | 11 |
+| Non-controlling interests - ordinary shares | 28 | - | 1 |
+|  |  | 12 | (546) |
+| Earnings per share |  |  |  |
+| Basic (pence per share) | 10 | 0.1 | (26.6) |
+| Diluted (pence per share) | 10 | 0.1 | (26.6) |
 
-## 5.1 Consolidated financial statements
+¹. Comparatives for 2022 have been restated for the implementation of IFRS 17. Refer Basis of preparation.
 
-### 5.1.1 Consolidated income statement
+The Notes on pages 167 to 270 are an integral part of these consolidated financial statements.
 
-in millions of euros | Notes | 2024 | 2023
---- | --- | --- | ---
-**NET SALES<sup>(a)</sup>** | **1.E.A, 4 AND 5** | **8,546** | **7,790**
-Cost of sales | | (7,373) | (6,795)
-**GROSS PROFIT** | | **1,173** | **995**
-Administrative and selling expenses | | (518) | (474)
-R&D costs | | (89) | (89)
-**OPERATING MARGIN<sup>(b)</sup>** | **1.E.B AND 4** | **566** | **432**
-Core exposure effect<sup>(c)</sup> | 1.E.C | 44 | (12)
-Reorganization costs | 25 | (62) | (49)
-Other operating income and expenses | 7, 8 and 9 | (34) | 1
-Share in net income of associates | | (0) | 1
-**OPERATING INCOME** | **1.E.D** | **513** | **374**
-Cost of debt (net) | 1.E.E | (55) | (59)
-Other financial income and expenses<sup>(d)</sup> | 1.E.E and 10 | (61) | (24)
-**INCOME BEFORE TAXES** | | **398** | **292**
-Income taxes | 1.E.F and 11 | (115) | (68)
-**NET INCOME (LOSS) FROM CONTINUING OPERATIONS** | | **283** | **223**
-Net income from discontinued operations | | - | -
-**CONSOLIDATED NET INCOME (LOSS)** | | **283** | **223**
-• attributable to owners of the parent | | 279 | 221
-• attributable to non-controlling interests | | 3 | 2
-**NET INCOME ATTRIBUTABLE TO OWNERS OF THE PARENT PER SHARE in euros** | **12** | | 
-• basic earnings (loss) per share | | 6.39 | 5.08
-• diluted earnings (loss) per share | | 6.20 | 4.92
-
-(a) In addition to net Sales, The Group uses the indicator Sales at constant metal prices calculated using reference prices. They are presented in the segment information provided in Note 4 and in the activity report in Part 2. Sales at constant copper and aluminum prices are used by the Group to monitor its operational performance, because the effect of changes in non-ferrous metals prices is neutralized to show underlying business growth. Cost of sales is restated on the same basis.  
-(b) Operating margin is one of the business management indicators used to assess the Group's operating performance.  
-(c) Effect relating to the revaluation of core exposure at its weighted average cost.  
-(d) The other financial income and expenses includes the adjustment on the monetary impact of Turkey and Ghana due to the application of IAS 29 standard "Hyperinflation", see Notes 1 and 10.
-
-## 3 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS 05
-## Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-### 5.1.2    Consolidated statement of comprehensive income
-
-*in millions of euros*
-
-| | Notes | 2024 | 2023 |
-|---|:---:|---:|---:|
-| Net income (loss) | | 283 | 223 |
-| Recyclable components of comprehensive income (loss) | | (44) | (91) |
-| • currency translation differences | | 12 | (59) |
-| • cash flow hedges | 28 | (57) | (32) |
-| Tax impacts on recyclable components of comprehensive income (loss) | 11.C | 12 | 4 |
-| Non-recyclable components of comprehensive income (loss) | | 26 | (9) |
-| • actuarial gains and losses on pensions and other long-term employee benefit obligations | 24.B | 26 | (9) |
-| • financial assets at fair value through other comprehensive income | | - | - |
-| Tax impacts on non-recyclable components of comprehensive income (loss) | 11.C | (7) | 2 |
-| TOTAL OTHER COMPREHENSIVE INCOME (LOSS) | | (13) | (94) |
-| TOTAL COMPREHENSIVE INCOME | | 269 | 129 |
-| • attributable to owners of the parent | | 265 | 127 |
-| • attributable to non-controlling interests | | 4 | 2 |
-
-NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024    4
+160 | abrdn.com | Annual report 2023
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-Consolidated financial statements
-
-The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
-
-## 5.1.3 Consolidated balance sheet
-
-At December 31, in millions of euros | Notes | 2024 | 2023
---- | --- | --- | ---
-**ASSETS** |  |  | 
-Goodwill | 8 and 14 | 470 | 293
-Intangible assets | 15 | 320 | 210
-Property, plant and equipment | 16 | 2,196 | 1,854
-Investments in associates | 17 | 18 | 19
-Deferred taxes assets | 11.D | 117 | 129
-Other non-current assets | 18 | 225 | 234
-**NON-CURRENT ASSETS** |  | **3,345** | **2,740**
-Inventories and work in progress | 19 | 1,279 | 1,319
-Contract assets | 5.B | 194 | 187
-Trade receivables | 20 | 1,197 | 856
-Current derivative liabilities | 28 | 61 | 67
-Other current assets | 21 | 211 | 235
-Cash and cash equivalents | 26.A | 1,254 | 1,131
-Assets and groups of assets held for sale | 13 | 131 | -
-**CURRENT ASSETS** |  | **4,327** | **3,796**
-**TOTAL ASSETS** |  | **7,673** | **6,536**
-
-5 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
-
-| At December 31, in millions of euros | Notes | 2024 | 2023 |
-|:----------------------------------|:----:|-----:|-----:|
-| **Liabilities and equity** |  |  |  |
-| Capital, premiums, results and reserves |  | 1,945 | 1,793 |
-| Other components of equity |  | (131) | (98) |
-| **Equity attributable to owners of the parent** |  | 1,813 | 1,695 |
-| Non-controlling interests |  | 19 | 16 |
-| **EQUITY** | 23 | 1,833 | 1,711 |
-| Pensions and other long-term employee benefit obligations | 24 | 213 | 237 |
-| Non-current provisions | 25 | 95 | 82 |
-| Long-term financial borrowings and debt | 26 | 1,706 | 747 |
-| Non-current derivative liabilities | 28 | 60 | 33 |
-| Deferred taxes liabilities | 11.D | 151 | 129 |
-| **NON-CURRENT LIABILITIES** |  | 2,224 | 1,227 |
-| Current provisions | 25 | 113 | 117 |
-| Short-term financial borrowings and debt | 26 | 228 | 598 |
-| Contract liabilities | 5.B | 1,004 | 738 |
-| Current derivative liabilities | 28 | 112 | 61 |
-| Trade payables | 27 | 1,622 | 1,601 |
-| Other current liabilities | 27 | 508 | 482 |
-| Liabilities related to groups of assets held for sale | 13 | 29 | - |
-| **CURRENT LIABILITIES** |  | 3,615 | 3,597 |
-| **TOTAL EQUITY AND LIABILITIES** |  | 7,673 | 6,536 |
-
-NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024  6
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## Consolidated financial statements
-The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.
-
-### 5.1.4    Consolidated statement of changes in equity
-
-| in millions of euros | Number of shares outstanding | Capital stock | Additional paid-in capital | Treasury stock | Retained earnings and other reserves | Changes in fair value and other | Currency translation differences | Equity attributable to owners of the parent | Non-controlling interests | Equity |
-|---|---|---|---|---|---|---|---|---|---|---|
-| **DECEMBER 31, 2022** | 43,460,978 | 44 | 1,604 | (26) | 46 | (29) | 13 | 1,652 | 15 | 1,667 |
-| Net income | - | - | - | - | 221 | - | - | 221 | 2 | 223 |
-| Other comprehensive income (loss) | - | - | - | - | (8) | (27) | (60) | (94) | - | (94) |
-| **TOTAL COMPREHENSIVE INCOME** | - | - | - | - | 214 | (27) | (60) | 127 | 2 | 129 |
-| Dividends paid | - | - | - | - | (92) | - | - | (92) | (1) | (94) |
-| Changes in capital | - | - | - | - | - | - | - | - | - | - |
-| Changes in treasury shares⁽ᵃ⁾ | 172,544 | - | - | 16 | (23) | - | - | (6) | - | (6) |
-| Employee share-based plans: | | | | | | | | | | |
-| • Service cost | - | - | - | - | 13 | - | - | 13 | - | 13 |
-| • Proceeds from share issues | - | - | - | - | - | - | - | - | - | - |
-| Transactions with owners not resulting in a change of control | - | - | - | - | - | - | - | - | - | - |
-| Other | - | - | - | - | 1 | - | - | 1 | - | 1 |
-| **DECEMBER 31, 2023** | 43,633,522 | 44 | 1,604 | (10) | 159 | (56) | (46) | 1,695 | 16 | 1,711 |
-| Net income | - | - | - | - | 279 | - | - | 279 | 3 | 283 |
-| Other comprehensive income (loss) | - | - | - | - | 19 | (43) | 10 | (14) | 1 | (13) |
-| **TOTAL COMPREHENSIVE INCOME** | - | - | - | - | 298 | (43) | 10 | 265 | 4 | 269 |
-| Dividends paid | - | - | - | - | (101) | - | - | (101) | (1) | (102) |
-| Changes in capital | - | - | - | - | - | - | - | - | - | - |
-| Changes in treasury shares⁽ᵃ⁾ | (63,901) | - | - | (11) | (22) | - | - | (33) | - | (33) |
-| Employee share-based plans: | | | | | | | | | | |
-| • Service cost | - | - | - | - | 19 | - | - | 19 | - | 19 |
-| • Proceeds from share issues | - | - | - | - | - | - | - | - | - | - |
-| Transactions with owners not resulting in a change of control | - | - | - | - | (32) | - | - | (32) | - | (32) |
-| Other | - | - | - | - | - | - | - | - | - | - |
-| **DECEMBER 31, 2024** | 43,569,621 | 44 | 1,604 | (21) | 321 | (99) | (36) | 1,813 | 19 | 1,833 |
-
-The number of shares outstanding corresponds to the issued shares less the shares held in treasury, acquisitions and disposals of treasury shares, as well as outstanding shares, are detailed in Note 23.
-
-7 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## 05 Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-### 5.1.5 Consolidated statement of cash flows
-
-| in millions of euros | Notes | 2024 | 2023 |
-|:---------------------|:-----:|-----:|-----:|
-| Net income |  | 283 | 223 |
-| Depreciation, amortization and impairment of assets (including goodwill) | 8, 15 and 16 | 217 | 156 |
-| Cost of debt (gross) |  | 81 | 80 |
-| Core exposure effect⁽ᵃ⁾ |  | (44) | 12 |
-| Current and deferred income tax charge (income) | 11 | 115 | 68 |
-| Net (gains) losses on asset disposals | 9 | 4 | 9 |
-| Net change in provisions and non-current liabilities |  | (11) | (9) |
-| Fair value changes on operational derivatives |  | 46 | (37) |
-| Charges related to the cost of share-based payments |  | 19 | 13 |
-| Other restatements |  | 19 | 4 |
-| **CASH FLOWS FROM OPERATIONS BEFORE GROSS COST OF DEBT AND TAX**⁽ᵇ⁾ |  | **729** | **520** |
-| Decrease (increase) in working capital | 22 | 176 | 262 |
-| Impairment of current assets and accrued contract costs |  | 2 | 24 |
-| Income taxes paid |  | (132) | (107) |
-| **NET CHANGE IN CURRENT ASSETS AND LIABILITIES** |  | **46** | **180** |
-| **NET CASH GENERATED FROM OPERATING ACTIVITIES** |  | **775** | **700** |
-| Proceeds from disposals of property, plant and equipment and intangible assets |  | 2 | 6 |
-| Disbursements on tangible and intangible investments | 15, 16 | (378) | (377) |
-| Decrease (increase) in loans granted and short-term financial assets |  | 2 | (23) |
-| Purchase of shares in consolidated companies, net of cash acquired |  | (528) | (60) |
-| Proceeds from sale of shares in consolidated companies, net of cash transferred |  | (1) | 13 |
-| **NET CASH USED IN INVESTING ACTIVITIES** |  | **(903)** | **(440)** |
-| **NET CHANGE IN CASH AND CASH EQUIVALENTS AFTER INVESTING ACTIVITIES** |  | **(127)** | **260** |
-| Proceeds from (repayments of) long-term and short-term borrowings | 26 | 475 | (58) |
-| • of which proceeds from the 2024-2030 bond |  | 348 | - |
-| • of which proceeds from the 2024-2029 bond |  | 569 | - |
-| • of which repayment of the 2017-2024 bond |  | (200) | - |
-| • of which repayment of the 2018-2023 bond |  | - | (325) |
-| • of which proceeds from the 2023-2028 bond |  | - | 398 |
-| Cash capital increases (reductions)⁽ᶜ⁾ | 23 | (33) | (6) |
-| Interest paid |  | (63) | (59) |
-| Transactions with owners not resulting in a change of control |  | - | - |
-| Dividends paid |  | (102) | (93) |
-| **NET CASH USED IN FINANCING ACTIVITIES** |  | **278** | **(215)** |
-| Impact of hyperinflation⁽ᵈ⁾ |  | (2) | 3 |
-| Net effect of currency translation differences |  | (12) | (62) |
-| **NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS** |  | **(136)** | **(15)** |
-| **CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR** | 26.A | **1,114** | **1,129** |
-| **CASH AND CASH EQUIVALENTS AT YEAR-END** | 26.A | **1,251** | **1,114** |
-| • of which cash and cash equivalents recorded under assets |  | 1,254 | 1,131 |
-| • of which short-term bank loans and overdrafts recorded under liabilities |  | (3) | (16) |
-
-(a) Effect relating to the revaluation of core exposure at its weighted average cost, which has no cash impact (see Note 1.E.C).
-(b) The Group also uses the concept of "operating cash flow", which is obtained after reintegration of disbursements related to reorganizations, see Note 23 and deduction of taxes paid.
-(c) This line includes also inflows and outflows on acquisitions/sales of treasury stocks.
-(d) This line contains the impacts related to the application of IAS 29 "Hyperinflation" rules, see Notes 1 and 3.B.
-
-NEXANS | UNIVERSAL REGISTRATION DOCUMENT 2024   8
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-Consolidated financial statements
-
-The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
-
-## 5.1.6    Notes to the corporate financial statements
-
-| Note 1. | Accounting principles | Note 20. | Trade receivables |
-|---------|----------------------|----------|------------------|
-| Note 2. | Climate issues | Note 21. | Other current assets |
-| Note 3. | Significant events of the year | Note 22. | Change in working capital requirement |
-| Note 4. | Operating segments | Note 23. | Equity |
-| Note 5. | Revenue from contracts with customers | Note 24. | Pensions, retirement bonuses and other long-term benefits |
-| Note 6. | Payroll costs and headcount | Note 25. | Provisions |
-| Note 7. | Other operating income and expenses | Note 26. | Net debt |
-| Note 8. | Net asset impairment | Note 27. | Trade payables and other current liabilities |
-| Note 9. | Net gains (losses) on asset disposals | Note 28. | Derivative instruments |
-| Note 10. | Other financial income and expenses | Note 29. | Financial risks |
-| Note 11. | Income taxes | Note 30. | Additional disclosures concerning financial instruments |
-| Note 12. | Earnings per share | Note 31. | Related party transactions |
-| Note 13. | Assets held for sale and discontinued operations | Note 32. | Disputes and contingent liabilities |
-| Note 14. | Goodwill | Note 33. | Off-balance sheet commitments |
-| Note 15. | Intangible assets | Note 34. | Main consolidated companies |
-| Note 16. | Property, plant and equipment | Note 35. | Statutory Auditors' fees |
-| Note 17. | Investments in associates – Summary of financial data | Note 36. | Subsequent events |
-| Note 18. | Other non-current assets | | |
-| Note 19. | Inventories and work in progress | | |
-
-## Note 1.    Accounting principles
-
-### A.    General principles
-
-Nexans (the Company) is a French joint stock corporation (société anonyme) governed by the laws and regulations applicable to commercial companies in France, notably the French Commercial Code (Code de commerce). The Company was formed on January 7, 1994 (under the corporate name Atalec) and its headquarters is at Le Vinci, 4 allée de l'Arche, 92400 Courbevoie, France.
-
-Nexans is listed on the regulated market of Euronext Paris (Compartment A) and forms part of the SBF 120 index.
-
-The Nexans Group produces electrical cables and provides its customers with innovative energy transport solutions and services. The consolidated financial statements are presented in euros, rounded to the nearest million. Rounding may in some cases lead to non-material discrepancies in the different totals or year-on-year changes. They were approved by the Board of Directors on February 15, 2023 and will become final after approval at the Shareholders' Meeting, which will take place on May 11, 2023, on first call.
-
-Significant information on the accounting methods used in the preparation of these consolidated financial statements is described below. Except where otherwise indicated, these policies have been applied consistently to all the financial years presented.
-
-### BASIS OF PREPARATION OF THE CONSOLIDATED FINANCIAL STATEMENTS
-
-The consolidated financial statements of the Nexans Group have been prepared in accordance with the International Financial Reporting Standards (IFRS) as adopted by the European Union at December 31, 2023.
-
-The Group has applied all standards, interpretations and amendments of mandatory application to fiscal years beginning on or after January 1, 2023, which were as follows:
-• Amendments to IFRS 16 "Rental liabilities in case of sale and leaseback";
-• amendments to IAS 1 "Classification of current and non-current liabilities";
-• amendments to IAS 7 and IFRS 7 concerning reverse factoring.
-
-These publications had no material impact on the Group's consolidated financial statements.
-
-In particular, following the recommendation of "Pillar 2" of the OECD leading to the creation of a minimum tax regime for large international organizations, on December 14, 2022 the European Union adopted a directive making this regime effective on January 1, 2023, transposed by France as part of the 2023 Finance law. The "Pillar 2" rules are therefore applicable to all entities effectively controlled by Nexans, whether consolidated or not.
-
-The Group has been subject to the "Pillar 2" rules since January 1, 2023. The consequences of applying the standard are described in Note 11 "Income taxes".
-
-NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2023
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS 05
-
-Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-## NEW STANDARDS PUBLISHED BUT NOT YET EFFECTIVE
-
-The IASB has issued the following amendment that has been endorsed by the European Union and is applicable from January 1, 2023:
-- amendment to IAS 1: "Non-Convertibility"
-
-The Group does not expect its application of this amendment to have a material impact on its consolidated financial statements.
-
-The IASB has not issued any new standards, amendments or interpretations not yet endorsed by the European Union and potentially applicable to Group.
-
-## ACCOUNTING ESTIMATES AND JUDGEMENTS
-
-The preparation of consolidated financial statements requires Management to exercise its judgment and make estimates and assumptions that could have a material impact on the reported amounts of assets, liabilities, income and expenses.
-
-These assessments are carried out on a regular basis by Management in order to take into account past experience and other factors deemed relevant in view of the economic conditions. In particular, the regulations applicable in the coming years and the foreseeable consequences of the commitments made in favor of carbon neutrality, the forecasts of technological and market developments (raw material costs, changes in customer expectations, etc.) are taken into account and any other change that could have a significant impact on the consolidated financial statements in accordance with IFRS.
-
-The main sources of uncertainty relating to estimates are discussed in the notes specific to these items when necessary and relate to the following items:
-- the recoverable amount of certain items of property, plant and equipment, goodwill and other intangible assets, and determining the groups of cash-generating units (CGU) used for goodwill impairment testing (see Note 1.F.A, Note 1.F.B, Note 1.F.C and Note 8). The Group included in its review of the recoverable amount assumptions related to the consequences of climate change;
-- recognition and recoverability of deferred tax assets for unused tax losses (see Note 1.E.F and Note 11.B);
-- margins to completion and percentage of completion on long-term contracts (see Note 1.E.A);
-- the measurement of pension liabilities and other employee benefits (see Note 1.F.J and Note 24);
-- provisions and contingent liabilities (see Note 1.F.K, Note 25 and Note 32);
-- the measurement of derivative instruments and their qualification as cash flow hedges (see Note 1.F.N and Note 28);
-- cancelable lease terms for real estate leases (see Note 1.F.M).
-
-The estimates and underlying assumptions are based on past experience and other factors considered reasonable under the circumstances. They are reviewed on an ongoing basis. They serve as the basis for determining the carrying amounts of assets and liabilities when such amounts cannot be obtained directly from other sources. Due to the inherent uncertainties of any valuation process, it is possible that actual amounts reported in the Group's future financial statements may differ from the estimates used in these financial statements. The impact of changes in accounting estimates is recognized in the period of the change if it only affects that period or over the period of the change and subsequent periods if they are also affected by the change.
-
-## B. Consolidation methods
-
-The consolidated financial statements include the financial statements of Nexans, the subsidiaries over which Nexans exercises control, and companies accounted for by the equity method (associates).
-
-The financial statements of subsidiaries and associates are prepared for the same period as those of the parent company. Adjustments are made to harmonize any differences in accounting policies that may exist.
-
-Subsidiaries (companies controlled by Nexans) are fully consolidated from the date the Group takes over control through the date on which control is transferred outside the Group. Control is defined as the direct or indirect power to govern the financial and operating policies of a company in order to benefit from its activities.
-
-Other companies over which the Group exercises significant influence are classified as associates and accounted for by the equity method. Significant influence is presumed to exist when the Group's direct or indirect interest is over 20%.
-
-The type of control or influence exercised by the Group is assessed on a case-by-case basis using the presumptions set out in IFRS 10, IFRS 11, and the revised version of IAS 28. A list of the Group's main subsidiaries and associates is provided in Note 34.
-
-Intra-group balances and transactions, including any intra-group profits, are eliminated in consolidation.
-
-## C. Foreign currency translation methods
-
-The Group's financial statements are presented in euros. Consequently:
-- The balance sheets of foreign operations whose functional currency is not the euro are translated into euros at the year-end exchange rate.
-- Income statement items of foreign operations are translated at the average annual exchange rate. This exchange rate is considered as approximating the rate applicable to the underlying transactions.
-- The resulting exchange differences are included in other comprehensive income under "Currency translation differences". The functional currency of an entity is the currency of the primary economic environment in which the entity operates. In the majority of cases, this currency corresponds to the local currency.
-- Cash flow statement items are also translated at the average annual exchange rate.
-
-NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024 10
-
----
-
-# NEXANS 2023 FINANCIAL STATEMENTS
-
-## 05. Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-The Group has applied IAS 29 to Turkey since January 1, 2022, and to Ghana since January 1, 2023.
-
-This standard (IAS 29) requires restatement of the non-monetary items of the assets and liabilities of a country experiencing hyperinflation as well as its income statement to reflect the change in the general purchasing power of its functional currency, resulting in a profit or loss on the net monetary position which is recognized in net income. In addition, the financial statements of this country are translated at the closing rate for the period in question.
-
-The consequences of the application of IAS 29 are described in Note 8 "Other financial income and expenses".
-
-IAS 29 has not been applied to translate the financial statements of any other Group company.
-
-Since 2020, the Lebanese economy was considered as hyperinflationary within the meaning of IAS 29. Nevertheless, the functional currency of the Group entity located in Lebanon is the US dollar and its activities in this country are mainly carried out in this currency. As a result, no restatement is made in the Group's financial statement.
-
-Foreign currency transactions are translated at the exchange rate prevailing at the transaction date. When these transactions are hedged and the hedge concerned is documented as a qualifying hedging relationship for accounting purposes, the gain or loss on the spot portion of the corresponding derivative directly affects the hedged item, so that the overall transaction is recorded at the hedging rate in the income statement.
-
-In accordance with IAS 21, "The Effects of Changes in Foreign Exchange Rates", foreign currency monetary items in the balance sheet are translated at the year-end closing rate. Any exchange gains or losses arising on translation are recorded as financial income or expense except if they form part of the net investment in the foreign operation within the meaning of IAS 21, in which case they are recognized directly in other comprehensive income under "Currency translation differences".
-
-Foreign exchange derivatives are measured and recognized in accordance with the principles described in Note 1.F.n.
-
-## D. Business combinations
-
-Business combinations are accounted for using the acquisition method, whereby the identifiable assets acquired, liabilities assumed and any contingent liabilities are recognized and measured at fair value.
-
-For all business combinations the acquirer must (other than in exceptional cases) recognize any non-controlling interest in the acquiree either at fair value (the "full goodwill" method) or at the non-controlling interest's proportionate share of the recognized amounts of the acquiree's identifiable net assets measured at their acquisition-date fair value. In the latter case, no goodwill is recognized on non-controlling interests (the "partial goodwill" method).
-
-Goodwill, determined as of the acquisition date, corresponds to the difference between:
-- The aggregate of the acquisition price, generally measured at acquisition-date fair value, the amount of any non-controlling interest in the acquiree measured as described above, and for a business combination achieved in stages, the acquisition-date fair value of the acquirer's previously held equity interest in the acquiree; and
-- The net of the acquisition-date amounts of the identifiable assets acquired and the liabilities assumed measured in accordance with IFRS 3.
-
-The Group has a period of 12 months from the acquisition date to complete the initial accounting for a business combination, during which any "measurement period adjustments" may be made. These adjustments are notably made to reflect information obtained subsequent to the acquisition date about facts and circumstances that existed at that date.
-
-The consideration transferred in a business combination must be measured at fair value, which is calculated as the sum of the acquisition date fair values of the assets transferred by the acquirer, the liabilities incurred by the acquirer to former owners of the acquiree and the equity interests issued by the acquirer. Any contingent consideration at the acquisition date is systematically included in the initial fair value measurement of the consideration transferred in exchange for the acquiree based on probability tests.
-
-Any changes in the fair value of contingent consideration that the acquirer recognizes after the acquisition date and which do not correspond to measurement period adjustments as described above – such as meeting an earnings target different from initial expectations – are accounted for as follows:
-- Contingent consideration classified as equity is not remeasured and its subsequent settlement is accounted for within equity.
-- Contingent consideration classified as an asset or liability that is a financial instrument and is within the scope of IFRS 9 is measured at fair value with any resulting gain or loss recognized in the income statement (notably the effect of unwinding the discount) or in other comprehensive income as appropriate.
-
-The Group accounts for acquisition-related costs for subsidiaries as expenses in the periods in which the costs are incurred and the services received. However, if the acquisition of a subsidiary is financed through the issuance of equity or debt instruments, the related costs are recognized in equity or debt respectively in accordance with IFRS 9 and IAS 32.
-
-## E. Income statement items
-
-### a. REVENUE
-
-Net sales represent revenue from sales of goods held for resale, as well as sales of goods and services deriving from the Group's main activities, for which consideration has been promised in contracts drawn up with customers. Net sales correspond to the Net sales at current metal prices in Note 4 related to Operating segments.
-
-The Group's main activities correspond to sales of cables produced in its plants, as well as cable installation services. Cables are sold either separately under specific contracts with customers (see below "Sales of goods"), or together with installation services under contracts that combine both sales of cables and installation services (see below "Goods and services contracts").
-
-## 11 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2023
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## 05 Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-In accordance with IFRS 15, revenue is recognized under sales when the control of goods or services is transferred to the customer. The amount recognized corresponds to the consideration the entity expects to receive in exchange for the goods or services.
-
-For all business the sales amount recognized in revenue corresponds to the amount of consideration to which the entity expects to be entitled based on the terms and conditions of each contract and standard commercial practices. Where applicable, penalties are deducted from contract revenue when a risk is estimated and it is likely to be payable. Revenue also includes certain variable consideration, notably relating to discounts and rebates which are measured using the expected value method or based on the single most likely amount depending on the specific terms and conditions of the contracts concerned.
-
-For all of the Group's activities, the revenue recognized as the consideration promised from customers for the transfer of goods or services takes into account the financial impact of payment deferrals when such deferrals are significant and represent a period of more than one year.
-
-### Sales of goods
-
-Customer contracts covering sales of goods include a single performance obligation for each delivery.
-
-Revenue from sales of goods is recognized at a specific point in time, corresponding to the moment when control of the asset concerned is transferred to the customer, which is generally when the goods are delivered.
-
-In addition, as the delivery of goods also corresponds to the moment when the Group obtains an enforceable right to payment, the contra-entry to the recognized amount of sales is presented in "Trade receivables" on the assets side of the consolidated balance sheet.
-
-### Goods and services contracts
-
-Contracts covering both sales of goods and cable installation services essentially concern the Group's high-voltage cable activities. They are contracts that are specifically negotiated for constructing and installing an asset or a group of assets that are closely interrelated or interdependent in terms of their design, technology and function or their ultimate purpose or use. When the customer cannot use an asset or a group of assets during their production or installation due to the specific features of their design and interdependency as provided for contractually, then a single performance obligation is identified per contract.
-
-Performance obligations under goods and services contracts are considered to be satisfied over time if (i) the asset or group of assets created in connection with a goods and services contract is specific to the requirements of the customer and cannot have an alternative use, and (ii) Nexans has an enforceable right to payment for the services performed up until the date in question.
-
-The input method is used to measure progress towards fulfilling the performance obligation based on costs incurred. The costs taken into account do not include any inefficiencies that were not anticipated and cannot therefore trigger any revenue recognition.
-
-For each goods and services contract, the cumulative amount of revenue recognized in respect of all of the Group's service obligations under the contract, less any advance payments received from customers and trade receivables which are recognized separately, is presented in the consolidated balance sheet under "Contract assets" or "Contract liabilities".
-
-Any expected loss to completion is recognized immediately in cost of sales in the consolidated income statement and under "Short-term provisions" or "Long-term provisions" in the consolidated balance sheet.
-
-### Customer advance payments
-
-The Group may receive partial payments from customers before the corresponding work is performed, which are referred to as customer advance payments. In accordance with IFRS 15, these advance payments are recorded under "Contract liabilities" or "Contract assets" depending on the net balance sheet position of the related goods and services contract.
-
-In the same way as for recognition of consideration promised by customers, when recognizing customer advance payments, the Group takes into account the financial impact of payment deferrals when such deferrals are significant and represent a period of more than one year.
-
-### Sales at constant metal prices
-
-On an operating level, the effects of fluctuations in metal prices are passed on in selling prices.
-
-To neutralize the effect of fluctuations in non-ferrous metal prices and thus measure the underlying trend in its business, the Group also presents its sales figures based on a constant price for copper and aluminum. These reference prices were set at 5,000 EUR/ton for copper and 1,200 EUR/ton for aluminum. They are then broken down in the currencies of each unit, thus incorporating the economic conditions specific to the environment of these units. The sales at constant metal prices are shown in Note A.1.
-
-## B. OPERATING MARGIN
-
-Operating margin, a key indicator, measures the Group's operating performance and comprises gross profit (which includes indirect production costs), administrative and selling expenses, and research and development costs (see Note 1.F.a).
-
-Share-based payments (see Note 1.F.i), pension operating costs (see Note 1.F.j) and employee profit-sharing are allocated by function to the appropriate lines in the income statement based on cost accounting principles.
-
-The operating margin is assessed before the effect of (i) the revaluation of the Core Exposure (see Note 1.E.c), (ii) impairment of property, plant and equipment, intangible assets and goodwill resulting from impairment tests, (iii) changes in fair value of non-ferrous metal derivatives, (iv) capital gains and losses on asset disposals, (v) related acquisition costs for completed acquisitions and expenses and fees related to planned acquisitions, (vi) expenses and provisions for antitrust investigations, (vii) reorganization costs, (viii) of which share in net income of associates, (ix) financial income, (x) taxes, and (xi) net income from discontinued operations.
-
-NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2024    12
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## 05 Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-The Group also uses adjusted EBITDA and ROCE as operating performance indicators.
-
-Adjusted EBITDA is defined as the operating margin before (i) depreciation, amortization and impairment, (ii) share-based expenses and (iii) certain specific operating items that are not representative of the performance of the Company (see Note 5 for more details). ROCE is the return on capital employed. It is calculated by dividing the operating margin by the capital employed.
-
-C. CORE EXPOSURE EFFECT
-
-This line of the consolidated income statement includes the following two components (see also Note 29.C):
-
-* A price effect: In the Group's IFRS financial statements, non-ferrous metal inventories are measured using the weighted average unit cost method, leading to the recognition of a temporary price difference between the accounting value of the copper used in production and the actual value of this copper as allocated to orders through the hedging mechanism. This difference is exacerbated by the existence on a permanent basis of a minimum inventory of metal that is not hedged (called "Core exposure").
-
-The accounting impact related to this difference is not included in operating margin and instead is accounted for in a separate line of the consolidated income statement called "Core exposure effect". Within operating margin – which is a key performance indicator for Nexans – inventories consumed are valued based on the metal price specific to each order, in line with the Group's policy of hedging the price of the metals contained in the cables sold to customers.
-
-* A volume effect: at the level of operating margin – which is a performance indicator – Core exposure is measured at historic cost, whereas at operating income level it is valued at weighted average cost (see Note 1.F.e) in accordance with IFRS. The impact of any changes in volumes of Core exposure during the period is also recorded under "Core exposure effect" in the consolidated income statement. However, this effect is generally limited as the tonnage of Core exposure is usually kept at a stable level from one period to the next, except for any structural change in the event of structural reorganizations within the Group or following a lasting significant contraction or expansion in business volumes, in accordance with the management principles described in Note 29.C.
-
-D. OPERATING INCOME
-
-Operating income includes operating margin (see Note 1.E.b), Core exposure effect (see Note 1.E.c), reorganization costs (see Note 1.F.k), share in net income of associates and other operating income and expenses. Other operating income and expenses are presented in Note 7 and mainly include impairment losses recorded on property, plant and equipment, goodwill and other intangible assets following impairment tests (see Note 1.F.c), gains and losses on asset disposals, and expenses and provisions for antitrust investigations.
-
-E. FINANCIAL INCOME AND EXPENSES
-
-Financial income and expenses include the following:
-
-* Cost of debt, net of financial income from investments of cash and cash equivalents.
-* Other financial income and expenses, which primarily include foreign currency gains and losses on transactions not qualified as cash flow hedges, additions to and reversals of provisions for impairment in value of financial investments, net interest expense on pensions and other long-term benefit obligations, and dividends received from non-consolidated companies.
-
-Details on the majority of these items are provided in Notes 10 and 26.
-
-F. INCOME TAXES
-
-The income tax expense for the year comprises current and deferred taxes.
-
-Deferred taxes are recognized for temporary differences arising between the carrying amount and tax base of assets and liabilities, as well as for tax losses available for carryforward. In accordance with IAS 12, no deferred tax assets or liabilities are recognized for temporary differences resulting from goodwill for which impairment is not deductible for tax purposes, or from the initial recognition of an asset or liability in a transaction which:
-
-* Is not a business combination,
-* At the time of the transaction, affects neither accounting profit nor taxable profit (except in the case of finance leases and actuarial gains or losses on pension benefit obligations),
-* Does not give rise, at the time of the transaction, to a taxable temporary difference and a deductible temporary difference of an equal amount.
-
-Deferred tax assets that are not matched by deferred tax liabilities expected to reverse in the same period are recognized only to the extent that it is probable that taxable profit will be available against which the deductible temporary differences can be utilized, based on medium-term earnings forecasts (generally covering a five-year period) for the company concerned. The Group ensures that the forecasts used for calculating deferred taxes are consistent with those used for impairment testing (see Note 1.F.c).
-
-Deferred tax assets and liabilities are measured at the tax rates that are expected to apply to the period when the asset is realized or the liability is settled. The rates applied reflect Management's intentions of how the underlying assets will be realized or the liabilities settled. All amounts resulting from changes in tax rates are recorded either in equity or in net income in the year in which the tax rate change is enacted or substantively enacted based on the initial recognition method for the corresponding deferred taxes.
-
-A deferred tax liability is recognized for all taxable temporary differences associated with investments in subsidiaries, branches and associates and interests in joint ventures, except to the extent that the Group is able to control the timing of the reversal of the temporary difference and it is probable that the temporary difference will not reverse in the foreseeable future.
-
-Deferred tax assets and liabilities are offset if the entity is legally entitled to offset current tax assets and liabilities and if the deferred tax assets and liabilities relate to taxes levied by the same taxation authority.
-
----
-
-13 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## Consolidated financial statements
-
-05
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-### F. Items recognized in the consolidated statement of financial position
-
-#### A. INTANGIBLE ASSETS
-
-See Notes D and F.c for a description of the Group's accounting treatment of goodwill.
-
-Intangible assets are stated at cost less any accumulated amortization and impairment losses. When they are acquired in a business combination their cost corresponds to their fair value.
-
-The Group applies the cost model for the measurement of intangible assets rather than the allowed alternative method that consists of regularly revaluing categories of assets. Government grants are recognized as a deduction from the gross amount of the assets to which they relate.
-
-Intangible assets primarily correspond to the following:
-
-* Trademarks, customer relationships and certain supply contracts acquired in business combinations. Except in rare cases, trademarks are deemed to have an indefinite useful life. Customer relationships are amortized on a straight-line basis over the period during which the related economic benefits are expected to flow to the Group (between five and 25 years).
-* Supply contracts can be deemed to have an indefinite useful life when they are automatically renewable and where there is evidence, notably based on past experience, indicating that the contractual rights will be renewed. Otherwise their useful lives generally correspond to the term of the contract.
-* The costs for acquired or developed software, usually intended for internal use, and development costs, to the extent that their cost can be reliably measured and it is probable that they will generate future economic benefits. These assets are amortized by the straight-line method over their estimated useful lives (between three and five years).
-* Capitalized development costs that meet the recognition criteria in IAS 38. Capitalized development costs are amortized over the estimated useful life of the project concerned from the date the related product is made available. Research costs as well as development costs that do not meet the recognition criteria in IAS 38 are expensed as incurred. Research and development costs to be rebilled to or by customers under the terms of construction contracts are included in "Contract assets" and "Contract liabilities".
-
-Intangible assets are derecognized when the risks and rewards of ownership of the asset are transferred.
-
-#### B. PROPERTY, PLANT AND EQUIPMENT
-
-Property, plant and equipment are stated at cost less any accumulated depreciation and impairment losses. When they are acquired in a business combination, their cost corresponds to their fair value. In accordance with IAS 23, directly attributable borrowing costs are included in the cost of qualifying assets.
-
-The Group applies the cost model for the measurement of property, plant and equipment rather than the allowed alternative method that consists of regularly revaluing categories of assets. Government grants are recognized as a deduction from the gross amount of the assets to which they relate.
-
-Property, plant and equipment are depreciated by the straight-line method based on the following estimated useful lives:
-
-| Industrial buildings and equipment |  |
-|-----------------------------------|-----------|
-| Industrial buildings | 20 years |
-| Infrastructure and fixtures | 10-20 years |
-| Equipment and machinery |  |
-| Heavy mechanical components | 30 years |
-| Medium mechanical components | 20 years |
-| Light mechanical components | 10 years |
-| Electrical and electronic components | 10 years |
-| Small equipment and tools | 3 years |
-| Buildings for administrative and commercial use | 20-40 years |
-
-The depreciation method and periods applied are reviewed at each year-end where necessary. The residual value of the assets is taken into account in the depreciable amount when it is deemed significant. Replacement costs are capitalized to the extent that they satisfy the criteria in IAS 16.
-
-Property, plant and equipment are derecognized when the risks and rewards of ownership of the asset are transferred.
-
-Property, plant and equipment also include right-of-use assets recognized for leases (see Note F.m).
-
-#### C. ASSET IMPAIRMENT TESTS
-
-At each period-end the Group assesses whether there is an indication that an asset may be impaired. Impairment tests are also carried out whenever events or changes in the market environment indicate that property, plant and equipment or intangible assets (including goodwill) may have suffered impairment. An impairment loss is recognized where necessary for the amount by which the asset's carrying amount exceeds its recoverable amount. The recoverable amount is the higher of an asset's fair value less costs to sell and value in use. Intangible assets with indefinite useful lives and goodwill are tested for impairment at least once a year.
-
-NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024  14
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-For operating assets that the Group intends to hold and use in its operations over the long term, the recoverable amount of a cash-generating unit (CGU) corresponds to the higher of fair value less costs to sell (where determinable) and value in use. Where the Group has decided to sell particular operations, the carrying amount of the related assets is compared with their fair value less costs to sell. Where negotiations in relation to such a sale are in progress, fair value is determined based on the best estimate of the outcome of the negotiations at the reporting date.
-
-Value in use is calculated on the basis of the future operating cash flows determined in the Group's budget process and strategic plan, which represent Management's best estimate of the economic conditions that will prevail during the remainder of the asset's useful life. The assumptions used are made on the basis of past experience and external sources of information, such as discount rates and perpetual growth rates.
-
-When an analysis of the related context reveals that a CGU, intangible asset or item of property, plant and equipment that is in use or ready for use may have become impaired, the asset concerned is tested for impairment in accordance with IAS 36, based on the following:
-
-- CGU: a cash-generating unit is the smallest identifiable group of assets that generates cash inflows that are largely independent of the cash inflows from other assets or groups of assets. The recoverable amount of goodwill is tested at the level of the CGU or group of CGUs to which it is allocated. The structure of the Group's CGUs is aligned with its operational organization and is based on a combined vision of market segments and geographical areas.
-
-- Other intangible assets and property, plant and equipment: groups of assets with finite useful lives are tested for impairment if there is a specific indication that they may be impaired (as defined in IAS 36). Examples of indications that an asset may be impaired include a pronounced decline in profitability, a considerably lower performance than in the original business plan, or a significant loss of customers, market share or product certifications.
-
-- The discount rate applied corresponds to the expected market rate of return for a similar investment, specific to each geographic area, regardless of the sources of financing. The discount rates used are post-tax rates applied to post-tax cash flows. The recoverable amounts determined using these post-tax rates are the same as those that would be obtained by using pre-tax rates applied to pre-tax cash flows.
-
-- Five-year business plans are used, based on the Group's budget process and strategic plan, with an extrapolation calculated in conjunction with local management for the final years of the projection period if appropriate.
-
-- Operational cash flows are extrapolated based on growth rates specific to each geographical area.
-
-Impairment losses (net of reversals) are recorded in the income statement under "Other operating income and expenses" unless they directly relate to a reorganization operation (see Note F.k.).
-
-## D. FINANCIAL ASSETS AT FAIR VALUE THROUGH PROFIT OR LOSS OR THROUGH OTHER COMPREHENSIVE INCOME
-
-Financial assets at fair value through profit or loss or through other comprehensive income relate to the shares in non-consolidated entities. They are initially recognized at fair value. For each of these assets the Group decides whether to measure subsequent changes in fair value either through profit or loss or through other comprehensive income (without any possibility of subsequently being recycled to profit or loss). This choice is made at the initial recognition date and is irreversible.
-
-## E. INVENTORIES AND WORK IN PROGRESS
-
-Inventories and manufacturing work in progress are stated at the lower of cost and net realizable value. The costs incurred in bringing inventories to their present location and conditions are accounted for as follows:
-
-- Raw materials: purchase cost according to the weighted average cost (WAC) method.
-
-- Finished goods and work in progress: cost of materials and direct labor, and share of indirect production costs, according to the WAC method.
-
-In compliance with IAS 23, qualifying inventories include directly attributable borrowing costs.
-
-Inventories include Core exposure:
-
-- In respect of rod mills, core exposure represents the minimum quantity of non-ferrous metal inventories necessary to establish and maintain continuous operation.
-
-- In respect to Nexans cabling activities, the Core exposure represents the amounts of non-ferrous metals required for the Group's cable plants to operate.
-
-Its overall volume is generally kept stable and is constantly replenished, however the level of Core exposure may have to be adapted at times, particularly in the event of a lasting significant contraction or expansion in business volumes. In the event of structural reorganizations within the Group, the level of Core exposure may have to be revised.
-
-The impact of changes in value of this component is shown in a separate line of the income statement and is included as a component of cash flows from operations in the statement of cash flows.
-
-Net realizable value of inventories is the estimated sale price in the ordinary course of business, less estimated completion costs and the costs necessary to carry out the sale. If the carrying amount of non-ferrous metal inventories is higher than their market value at the year-end, an impairment loss is only recognized when the products to which the assets are allocated have a negative production margin. Additional factors may be taken into account in determining inventory impairment losses, such as obsolescence, physical damage, defects or other indications of impairment (short lengths etc.). As stated in Note E.c., impairment losses on Core exposure are recognized under "Core exposure effect" in the consolidated income statement. Any impairment losses related to other categories of inventories are recognized within operating margin.
-
-15 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## 05 Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-### F. TRADE RECEIVABLES AND OTHER RECEIVABLES
-
-Trade receivables are stated at their transaction price determined in accordance with IFRS 15. Interest-free short-term operating receivables are recognized at nominal value as the impact of discounting is not material.
-
-Impairment losses for trade receivables are recognized based on two methods:
-
-- A collective method based on a statistical approach that reflects the expected credit losses over the lifetime of receivables, including receivables not past due, in accordance with IFRS 9.
-
-In order to apply this method, the Group has drawn up a matrix of the rates used to write down its trade receivables that factor in country risks, observed default probabilities and expected losses in the event of default. The base used to calculate these statistical loss allowances also takes into account any contractual guarantees received in relation to the receivables concerned. The carrying amount of the asset is written down and the amount of the loss is recognized in the income statement under "Cost of sales".
-
-- An individual method, whereby an impairment loss is recorded for a trade receivable whenever there is an objective indication that the Group will not be able to collect the full amounts due under the conditions originally provided for at the time of the transaction.
-
-The following are indicators that a receivable may be impaired: major financial difficulties for the debtor, the probability that the debtor will undergo bankruptcy or a financial reorganization, and a payment default. The amount of the impairment loss recorded represents the difference between the carrying amount of the asset and the estimated value of future cash flows discounted at the initial effective interest rate.
-
-Receivables written down by the individual method are excluded from the calculation base for impairment losses determined by the collective method.
-
-In the same way as for the collective method described above, under the individual method, the carrying amount of the asset is written down and the amount of the impairment loss is recognized in the income statement under "Cost of sales".
-
-These impairment methods also apply to "Contract assets" recognized in the consolidated balance sheet.
-
-### G. CASH AND CASH EQUIVALENTS
-
-Cash and cash equivalents, whose changes are shown in the consolidated statement of cash flows, comprise the following:
-
-- Cash and cash equivalents, classified as assets in the balance sheet, which include cash on hand, demand deposits and other short-term highly liquid investments that are readily convertible to a known amount of cash and are subject to an insignificant risk of changes in value.
-
-- Bank overdrafts repayable on demand which form an integral part of the entity's cash management. In the consolidated balance sheet, bank overdrafts are recorded as current financial liabilities.
-
-### H. ASSETS HELD FOR SALE
-
-#### Presentation in the consolidated balance sheet
-Non-current assets or groups of assets held for sale, as defined by IFRS 5, are presented on a separate line on the assets side of the balance sheet. Liabilities related to groups of assets held for sale are shown on the liabilities side, also on a separate line, except those for which the Group will remain liable after the related sale as a result of the applicable sale terms and conditions. Non-current assets classified as held for sale cease to be depreciated from the date on which they fulfill the classification criteria for assets held for sale.
-
-In accordance with IFRS 5, assets and groups of assets held for sale are measured at the lower of their carrying amount and fair value less costs to sell. The potential capital loss arising from this measurement is recognized in the income statement under "Other operating income and expenses" in "Net asset impairment".
-
-#### Presentation in the income statement
-A group of assets sold, held for sale or whose operations have been discontinued is a major component of the Group if:
-
-- It represents a separate major line of business or geographical area of operations;
-- It is part of a single coordinated plan to dispose of a separate major line of business or geographical area of operation; or
-- It is a subsidiary acquired exclusively with a view to resale.
-
-Where a group of assets sold, held for sale or whose operations have been discontinued is a major component of the Group, it is classified as a discontinued operation and its income and expenses for all periods presented are shown on a separate line of the income statement "Net income (loss) from discontinued operations", which comprises the total of:
-
-- The post-tax profit or loss of discontinued operations, and
-- The post-tax gain or loss recognized on the measurement at fair value less costs to sell or on the disposal of assets or groups of assets held for sale constituting the discontinued operation.
-
-When a group of assets previously presented as "held for sale" ceases to satisfy the criteria in IFRS 5, each related asset and liability component – and where appropriate income statement item – is reclassified to the relevant items of the consolidated financial statements.
-
-### I. SHARE-BASED PAYMENTS
-
-Stock options, performance shares and free shares may be granted to senior managers and certain other Group employees. These plans correspond to equity-settled share-based payment transactions and are based on the issue of new shares in the parent company (Nexans).
-
-In accordance with IFRS 2 "Share-based Payment", stock options, performance shares and free shares are measured at fair value at the grant date (corresponding to the date on which the plan is announced) up until the end of the subscription period. The value is fixed at the end of the subscription period. The Group uses different measurement models to calculate this fair value, notably the Black & Scholes and Monte-Carlo pricing models.
-
-The fair value of vested stock options, performance shares and free shares is recorded as a payroll expense on a straight-line basis from the grant date to the end of the vesting period, with a corresponding adjustment to equity recorded under "Retained earnings and other reserves".
-
-NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2024   16
-
-[IMAGE_DESCRIPTION: 
-Type: Page footer/header
-Location: Top of page
-Content: Nexans 2024 Financial Statements header with page number 05
-Text Elements: "NEXANS 2024 FINANCIAL STATEMENTS", "05", "Consolidated financial statements"
-Colors & Style: Professional document header with Nexans branding
-Purpose: Document identification and page numbering
+# Consolidated statement of comprehensive income
+For the year ended 31 December 2023
+
+|  | Notes | 2023<br>£m | 2022<br>restated¹<br>£m |
+|---|---|---|---|
+| Profit/(loss) for the year |  | 12 | (546) |
+| **Items that will not be reclassified subsequently to profit or loss:** |  |  |  |
+| Remeasurement losses on defined benefit pension plans | 31 | (139) | (793) |
+| Share of other comprehensive income of associates and joint ventures | 14 | (4) | - |
+| Total items that will not be reclassified subsequently to profit or loss |  | (143) | (793) |
+|  |  |  |  |
+| **Items that may be reclassified subsequently to profit or loss:** |  |  |  |
+| Fair value (losses)/gains on cash flow hedges | 18 | (40) | 85 |
+| Exchange differences on translating foreign operations |  | (35) | 36 |
+| Share of other comprehensive income of associates and joint ventures | 14 | (27) | (57) |
+| Items transferred to the consolidated income statement |  |  |  |
+| Fair value losses/(gains) on cash flow hedges | 18 | 28 | (78) |
+| Realised foreign exchange (gains) | 1 | (1) | - |
+| Equity holder tax effect of items that may be reclassified subsequently to profit or loss | 9 | 3 | (2) |
+| Total items that may be reclassified subsequently to profit or loss |  | (72) | (16) |
+| Other comprehensive income for the year |  | (215) | (809) |
+| Total comprehensive income for the year |  | (203) | (1,355) |
+|  |  |  |  |
+| **Attributable to:** |  |  |  |
+| Equity shareholders of abrdn plc |  | (214) | (1,367) |
+| Other equity holders | 28 | 11 | 11 |
+| Non-controlling interests – ordinary shares | 28 | - | 1 |
+|  |  | (203) | (1,355) |
+
+1. Comparatives for 2022 have been restated for the implementation of IFRS 17. Refer Basis of preparation.
+
+[IMAGE_DESCRIPTION:
+Type: Small icon/symbol
+Location: Bottom left of the page
+Content: Document/note icon
+Purpose: Indicates a note or reference
 ]
 
-[IMAGE_DESCRIPTION: 
-Type: Page footer
-Location: Bottom of page
-Content: Page number and document identification
-Text Elements: "NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2024   16"
-Colors & Style: Simple text footer with document identification and page number
-Purpose: Document identification and page numbering
+The Notes on pages 167 to 270 are an integral part of these consolidated financial statements.
+
+Annual report 2023    abrdn.com    161
+
+---
+
+# Group financial statements continued
+
+## Consolidated statement of financial position
+As at 31 December 2023
+
+| | Notes | 2023 £m | 2022 restated¹ £m |
+|---|---|---:|---:|
+| **Assets** | | | |
+| Intangible assets | 13 | 1,578 | 1,619 |
+| Pension and other post-retirement benefit assets | 31 | 740 | 831 |
+| Investments in associates and joint ventures accounted for using the equity method | 14 | 229 | 232 |
+| Property, plant and equipment | 15 | 163 | 201 |
+| Deferred tax assets | 9 | 215 | 212 |
+| Financial investments | 17 | 2,047 | 2,939 |
+| Receivables and other financial assets | 19 | 1,071 | 907 |
+| Current tax recoverable | 9 | 10 | 7 |
+| Other assets | 20 | 77 | 92 |
+| Assets of operations held for sale | 21 | 19 | 87 |
+| Cash and cash equivalents | 22 | 1,196 | 1,133 |
+| | | 7,345 | 8,260 |
+| **Assets backing unit linked liabilities** | 23 | | |
+| Financial investments | | 669 | 924 |
+| Receivables and other unit linked assets | | 4 | 5 |
+| Cash and cash equivalents | | 13 | 23 |
+| | | 686 | 952 |
+| **Total assets** | | 8,031 | 9,212 |
+
+162 | abrdn.com | Annual report 2023
+
+---
+
+|  | Notes | 2023 £m | 2022 restated¹ £m |
+|---|---|---|---|
+| **Liabilities** |  |  |  |
+| Third party interest in consolidated funds | 29 | 187 | 242 |
+| Subordinated liabilities | 30 | 599 | 621 |
+| Pension and other post-retirement benefit provisions | 31 | 12 | 12 |
+| Deferred tax liabilities | 9 | 129 | 211 |
+| Current tax liabilities | 9 | 6 | 11 |
+| Derivative financial liabilities | 29 | 9 | 1 |
+| Other financial liabilities² | 32 | 1,241 | 1,201 |
+| Provisions | 33 | 66 | 97 |
+| Other liabilities | 33 | 4 | 8 |
+| Liabilities of operations held for sale | 21 | 2 | 14 |
+|  |  | 2,255 | 2,418 |
+| **Unit linked liabilities** | 23 |  |  |
+| Investment contract liabilities |  | 684 | 773 |
+| Third party interest in consolidated funds |  | – | 173 |
+| Other unit linked liabilities |  | 2 | 6 |
+|  |  | 686 | 952 |
+| **Total liabilities** |  | 2,941 | 3,370 |
+| **Equity** |  |  |  |
+| Share capital | 24 | 257 | 280 |
+| Shares held by trusts | 25 | (141) | (149) |
+| Share premium reserve | 24 | 640 | 640 |
+| Retained earnings | 26 | 4,449 | 4,986 |
+| Other reserves | 27 | (327) | (129) |
+| Equity attributable to equity shareholders of abrdn plc |  | 4,878 | 5,628 |
+| Other equity | 28 | 207 | 207 |
+| Non-controlling interests - ordinary shares | 28 | 5 | 7 |
+| **Total equity** |  | 5,090 | 5,842 |
+| **Total equity and liabilities** |  | 8,031 | 9,212 |
+
+1. Comparatives for 2022 have been restated for the implementation of IFRS 17. Refer Basis of preparation.
+2. The Group has made a presentational change to show Deferred income within Other financial liabilities. Refer Note 32.
+
+The Notes on pages 167 to 270 are an integral part of these consolidated financial statements.
+
+The consolidated financial statements on pages 160 to 270 were approved by the Board and signed on its behalf by the following Directors:
+
+[IMAGE_DESCRIPTION:
+Type: Signatures
+Location: Bottom third of document
+Content: Two handwritten signatures above the typed names and titles
+Text Elements: "Sir Douglas Flint, Chairman, 26 February 2024" and "Jason Windsor, Chief Financial Officer, 26 February 2024"
+Purpose: Official signatures approving the financial statements
 ]
 
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-If stock options or share grants are subject to internal performance conditions, their number is updated at the year-end. For plans that are subject to market performance conditions, changes in fair value after the grant date do not affect the amounts recognized in the financial statements.
-
-### J. PENSIONS, STATUTORY RETIREMENT BONUSES AND OTHER EMPLOYEE BENEFITS
-
-In accordance with the laws and practices of each country where it operates, the Group provides pensions, early retirement benefits and statutory retirement bonuses.
-
-For basic statutory plans and other defined contribution plans, expenses correspond to contributions made. No provision is recognized as the Group has no payment obligation beyond the contributions due for each accounting period.
-
-For defined benefit plans, provisions are determined as described below and recognized under "Pensions and other long-term employee benefit obligations" in the balance sheet (except for early retirement plans which are deemed to form an integral component of a reorganization plan, see Note 'F.k').
-
-* Provisions are calculated using the projected unit credit method which sees each service period as giving rise to an additional unit of benefit entitlement and measures each unit separately to build up the final obligation. These calculations take into account assumptions with respect to mortality, staff turnover, discounting, projections of future salaries and the return on plan assets.
-* Plan assets are measured at fair value at the year-end and deducted from the Group's projected benefit obligation.
-* In accordance with the revised version of IAS 19, actuarial gains and losses – resulting from experience adjustments and the effects of changes in actuarial assumptions – are recognized as components of other comprehensive income that will not be reclassified to the income statement, and are included in "Changes in fair value and other" within equity.
-* The Group analyzes the circumstances in which minimum funding requirements in respect of services already received may give rise to a liability at the year-end.
-
-When the calculation of the net benefit obligation results in an asset for the Group, the recognized amount (which is recorded under "Other non-current assets" in the consolidated balance sheet) cannot exceed the present value of available refunds and reductions in future contributions to the plan, less the present value of any minimum funding requirements.
-
-Provisions for jubilee and other long-service benefits paid during the employees' service period are valued based on actuarial calculations comparable to the calculations used for pension benefit obligations. They are recognized in the consolidated balance sheet under "Pensions and other long-term employee benefit obligations". Actuarial gains and losses on provisions for jubilee benefits are recorded in the income statement.
-
-In the event of an amendment, curtailment or settlement of a defined benefit pension plan, the Group's obligation is remeasured at the date when the plan amendment, curtailment or settlement occurs and the gain or loss on remeasurement is included within operating margin. When a defined benefit pension plan is subject to a reduction in liquidity or an amendment as a result of a reorganization plan, the related impact is presented in "Reorganization costs" in the income statement.
-
-The financial component of the annual expense for pensions and other employee benefits (interest expense after deducting any return on plan assets calculated based on the discount rate applied for determining the benefit obligations) is included in other financial expenses (see Note 9).
-
-### K. PROVISIONS
-
-Provisions are recognized when the Group has a present obligation (legal or constructive) resulting from a past event when it is probable that an outflow of resources embodying economic benefits would be required to settle the obligation and a reliable estimate can be made of the amount of the obligation.
-
-If the effect of discounting is material, the provisions are determined by discounting expected future cash flows applying a pre-tax discount rate that reflects current market assessments of the time value of money and the risks specific to the liabilities concerned. The effect of unwinding the discounting is recognized as a financial expense and the effects of any changes in the discount rate are recognized in the same account as that through which the provision was accrued.
-
-A provision is set aside to fully cover reorganization costs when they relate to an obligation by the Group to another party resulting from a decision made at an appropriate managerial or supervisory level, backed by a detailed formal plan that has been announced before the year-end to the party or parties concerned. Such costs primarily correspond to severance payments, early retirement benefits (except where qualified as employee benefits, see Note 'F.j'), costs for unworked notice periods, training costs of employees whose employment contracts have been terminated, and other costs directly linked to the shutdown of facilities.
-
-Asset retirements and impairment of inventories and other assets as well as other cash outflows directly linked to reorganization measures but which do not meet the criteria for the recognition of a provision are also recorded under reorganization costs in the income statement. In the consolidated balance sheet, this type of impairment is presented as a deduction from the related non-current or current assets. Reorganization costs also include costs directly related to the programs undertaken by the Group transformation strategy.
-
-### L. FINANCIAL LIABILITIES
-
-Financial liabilities are initially recognized at fair value, corresponding to their issue price less transaction costs directly attributable to the acquisition or issue of the financial liability. If the liability is issued at a premium or discount, the premium or discount is amortized over the life of the liability using the effective interest method. The effective interest method calculates the interest rate that is necessary to discount the cash flows associated with the financial liability through maturity to the net carrying amount at initial recognition.
-
-### Convertible bonds and other borrowings
-
-Under IAS 32 "Financial Instruments: Presentation", if a financial instrument has both a liability and an equity component, the issuer must account for these components separately according to their nature.
-
-17 | NEXANS | UNIVERSAL REGISTRATION DOCUMENT 2024
+Annual report 2023 | abrdn.com | 163
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+# Group financial statements continued
 
-## 05 Consolidated financial statements
+## Consolidated statement of changes in equity
+For the year ended 31 December 2023
 
-The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
+| | Notes | Share capital £m | Shares held by trusts £m | Share premium reserve £m | Retained earnings¹ £m | Other reserves £m | Total equity attributable to equity shareholders of abrdn plc¹ £m | Other equity £m | Non-controlling interests - ordinary shares £m | Total equity¹ £m |
+|--------------------------|-------|--------------|-----------------|-------------------|-------------------|-----------------|-------------------------------------------|---------------|--------------------------------|----------------|
+| 31 December 2022 | | 280 | (149) | 640 | 4,986 | (129) | 5,628 | 207 | 7 | 5,842 |
+| Effect of application of IFRS 9 on Investments in associates and joint ventures accounted for using the equity method¹ | | - | - | - | 51 | - | 51 | - | - | 51 |
+| 1 January 2023 | | 280 | (149) | 640 | 5,037 | (129) | 5,679 | 207 | 7 | 5,893 |
+| Profit for the year | | - | - | - | 1 | - | 1 | 11 | - | 12 |
+| Other comprehensive income for the year | | - | - | - | (170) | (45) | (215) | - | - | (215) |
+| Total comprehensive income for the year | 26, 27 | - | - | - | (169) | (45) | (214) | 11 | - | (203) |
+| Issue of share capital | 24 | - | - | - | - | - | - | - | - | - |
+| Dividends paid on ordinary shares | 12 | - | - | - | (279) | - | (279) | - | - | (279) |
+| Interest paid on other equity | 28 | - | - | - | - | - | - | (11) | - | (11) |
+| Share buyback | 24, 26, 27 | (23) | - | - | (302) | 23 | (302) | - | - | (302) |
+| Other movements in non-controlling interests in the year | 28 | - | - | - | - | - | - | - | (2) | (2) |
+| Reserves credit for employee share-based payments | 27 | - | - | - | - | 24 | 24 | - | - | 24 |
+| Transfer to retained earnings for vested employee share-based payments | 26, 27 | - | - | - | 31 | (31) | - | - | - | - |
+| Transfer between reserves on impairment of subsidiaries | 26, 27 | - | - | - | 169 | (169) | - | - | - | - |
+| Shares acquired by employee trusts | 25 | - | (27) | - | - | - | (27) | - | - | (27) |
+| Shares distributed by employee and other trusts and related dividend equivalents | 25, 26 | - | 35 | - | (38) | - | (3) | - | - | (3) |
+| 31 December 2023 | | 257 | (141) | 640 | 4,449 | (327) | 4,878 | 207 | 5 | 5,090 |
 
-This treatment applies, where appropriate, to OCEANE bonds which are convertible into new shares and/or exchangeable for existing shares as the conversion option meets the definition of an equity instrument.
+¹ The Group implemented IFRS 9 in 2019. However, as permitted under a temporary exemption granted to insurers in IFRS 4 Insurance Contracts, the Group's insurance joint venture, Heng An Standard Life Insurance Company Limited, applied IFRS 9 at 1 January 2023 following the implementation of the new insurance standard, IFRS 17. Refer Basis of preparation.
 
-The liability component is measured on the issue date on the basis of contractual future cash flows discounted applying the market rate (taking into account the issuers credit risk) for a similar instrument but which is not convertible/redeemable for shares.
-
-The value of the conversion option is calculated as the difference between the issue price of the bonds and the value of the liability component. This amount is recognized under "Retained earnings and other reserves" in equity.
-
-Following initial measurement of the liability and equity components, the liability component is measured at amortized cost. The interest expense relating to the liability is calculated using the effective interest method.
-
-### Put options given to minority shareholders
-
-Put options given to minority shareholders in subsidiaries are recognized as financial liabilities at their discounted value. The impact of changes in the exercise price of these options is recognized in equity.
-
-### Leases
-
-Leases are recognized in the balance sheet at their inception for an amount corresponding to the present value of the future lease payments. The discount rates used for the present value calculations are based on the Group's incremental borrowing rate to which a spread is added to take into account the economic environments specific to each country.
-
-This amount is recognized under "Lease liabilities" on the liabilities side and "Right-of-use assets" on the assets side. The right-of-use asset recognized for a lease is then depreciated over the term of the lease, which generally corresponds to the non-cancellable period of a lease together with optional periods, i.e. periods where the Group is reasonably certain that it will exercise an extension option or not exercise a termination option.
-
-In the income statement due to the balance sheet treatment referred to above, lease payments are recognized as depreciation of the right-of-use asset included in "Operating margin" and interest on the lease liability included in "Cost of debt (net)". The tax impact of the restatements carried out on consolidation is accounted for via the recognition of deferred taxes.
-
-In the statement of cash flows, lease payments are presented in cash flows from financing activities under "Proceeds from (repayments of) long-term and short-term borrowings" for the portion corresponding to the repayment of lease liabilities and under "Interest paid" for the portion corresponding to the payment of interest on lease liabilities.
-
-Payments under leases corresponding to low value assets or short-term leases are recognized directly as expenses.
-
-### N. DERIVATIVE INSTRUMENTS
-
-Only derivatives negotiated with external counterparties are deemed eligible for hedge accounting.
-
-#### Foreign exchange hedges
-
-The Group uses derivatives (mainly forward purchases and sales of foreign currencies) to hedge the risk of fluctuations in foreign currency exchange rates. These instruments are measured at fair value, calculated by reference to the forward exchange rates prevailing at the year-end for contracts with similar maturity profiles.
-
-#### Foreign exchange cash flow hedges
-
-When foreign exchange derivatives are used to hedge highly probable future transactions (forecast cash flows or firm orders) that have not yet been invoiced and to the extent that they satisfy the conditions for cash flow hedge accounting, the change in the fair value of the derivative comprises two elements:
-
-- The "effective" portion of the unrealized or realized gain or loss on the hedging instrument, which is recognized directly in equity under "Changes in fair value and other". Any gains or losses previously recognized in equity are reclassified to the income statement in the period in which the hedged item impacts income, for example when the forecast sale takes place. These gains or losses are included in operating margin when they relate to commercial transactions.
-
-- The "ineffective" portion of the realized or unrealized gain or loss, which is recognized directly in the income statement as financial income or expense.
-
-#### Foreign exchange derivatives that do not qualify for hedge accounting
-
-Changes in fair value of derivatives that do not qualify for hedge accounting are recognized directly in the income statement as financial income or expense.
-
-These derivatives notably include instruments used as economic hedges that were never or are no longer designated as hedges for accounting purposes.
-
-#### Hedging of risks associated with fluctuations in non-ferrous metal prices
-
-Forward purchases of non-ferrous metals used in the Group's operations and which require physical delivery of the metals concerned are not included within the scope of IFRS 9. The purchases are recognized on the delivery date.
-
-The Group uses futures contracts negotiated primarily on the London Metal Exchange (LME) to hedge its exposure to non-ferrous metal price fluctuations (copper, aluminum and to a lesser extent, lead). These contracts are settled net in cash and constitute derivative instruments falling within the scope of application of IFRS 9.
-
-NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024 18
+164 | abrdn.com | Annual report 2023
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+| | Share capital | Shares held by trusts | Share premium reserve | Retained earnings restated1, 2 | Other reserves2 | Total equity attributable to equity shareholders of abrdn plc restated1 | Other equity | Non-controlling interests - ordinary shares | Total equity restated1 |
+|---|---|---|---|---|---|---|---|---|---|
+| Notes | £m | £m | £m | £m | £m | £m | £m | £m | £m |
+| 1 January 2022 | 305 | (171) | 640 | 5,766 | 1,094 | 7,634 | 207 | 6 | 7,847 |
+| (Loss)/profit for the year | – | – | – | (558) | – | (558) | 11 | 1 | (546) |
+| Other comprehensive income for the year | – | – | – | (850) | 41 | (809) | – | – | (809) |
+| Total comprehensive income for the year | – | – | – | (1,408) | 41 | (1,367) | 11 | 1 | (1,355) |
+| Issue of share capital 24 | – | – | – | – | – | – | – | – | – |
+| Dividends paid on ordinary shares 12 | – | – | – | (307) | – | (307) | – | – | (307) |
+| Interest paid on other equity | – | – | – | – | – | – | (11) | – | (11) |
+| Share buyback 24, 26, 27 | (25) | – | – | (302) | 25 | (302) | – | – | (302) |
+| Cancellation of capital redemption reserve 26, 27 | – | – | – | 1,059 | (1,059) | – | – | – | – |
+| Other movements in non-controlling interests in the year | – | – | – | – | – | – | – | – | – |
+| Reserves credit for employee share-based payments 27 | – | – | – | – | 24 | 24 | – | – | 24 |
+| Transfer to retained earnings for vested employee share-based payments 26, 27 | – | – | – | 63 | (63) | – | – | – | – |
+| Transfer between reserves on disposal of subsidiaries | – | – | – | 1 | (1) | – | – | – | – |
+| Transfer between reserves on impairment of subsidiaries 26, 27 | – | – | – | 207 | (207) | – | – | – | – |
+| Shares acquired by employee trusts 25 | – | (46) | – | – | – | (46) | – | – | (46) |
+| Shares distributed by employee and other trusts and related dividend equivalents 25, 26 | – | 68 | – | (70) | – | (2) | – | – | (2) |
+| Other movements² 26, 27 | – | – | – | (23) | 17 | (6) | – | – | (6) |
+| 31 December 2022 | 280 | (149) | 640 | 4,986 | (129) | 5,628 | 207 | 7 | 5,842 |
 
-## 05 Consolidated financial statements
+1. Comparatives for 2022 have been restated for the implementation of IFRS 17. Refer Basis of preparation.
+2. Other movements for 2022 included the transfer of (£17m) previously recognised in the foreign currency translation reserve (which is part of Other reserves) to Retained earnings. In prior periods we had considered the functional currency of an intermediate subsidiary holding the Group's investment in HDFC Life to be US Dollars. We now consider that the functional currency should have been GBP, resulting in the transfer between reserves. Prior periods were not restated as the impact on prior periods was not considered material. There was no impact on net assets for any period presented.
 
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+The Notes on pages 167 to 270 are an integral part of these consolidated financial statements.
 
-### Cash flow hedges of risks associated with fluctuations in non-ferrous metal prices
-
-Due to the sharp volatility in non-ferrous metal prices over the past several years, the Group has taken measures to enable a large portion of these derivative instruments to be classified as cash flow hedges as defined in IFRS 9. Consequently, whenever these instruments are used to hedge future transactions (mainly purchases of copper wires and cathodes) that are highly probable but not yet invoiced and meet the requirements for cash flow hedge accounting, the Group applies IFRS 9, as follows:
-
-- The "effective" portion of the unrealized gain or loss on the hedging instrument is recognized directly in equity under "Changes in fair value and other". The corresponding realized gain or loss is recognized within operating margin.
-- The "ineffective" portion of the unrealized gain or loss is recognized in the consolidated income statement under "Other operating income and expenses". The corresponding realized gain or loss is recognized within operating margin, which, in accordance with the Group's management model, includes all of the realized impacts relating to non-ferrous metals.
-
-The scope of entities eligible for hedge accounting covers most of the Group's metal derivatives.
-
-### Hedges of risks associated with fluctuations in non-ferrous metal prices that do not qualify for hedge accounting
-
-Changes in fair value of derivatives that do not qualify for hedge accounting are recognized directly within operating income under "Changes in fair value of non-ferrous metal derivatives". Any realized gains or losses are recorded in operating margin when the derivatives expire.
-
-These derivatives notably include instruments used as economic hedges that were never or are no longer designated as hedges for accounting purposes.
-
-### Note 2 - Climate issues
-
-Nexans closely monitors the challenges and potential consequences of climate change on its business strategy and investments.
-
-As detailed in Chapter 3 "Corporate Social Responsibility" Section 3.1, the Group has included the Environment in its E³ performance model. It is designing, developing and selling low-carbon solutions and has set targets for reducing carbon emissions by 2030 and 2050 set on the basis of the Paris Agreement.
-
-In line with the Science Based Target initiative (SBTi) rules, Nexans has committed itself to:
-- achieve "Net-Zero" emissions by 2050;
-- reduce its absolute Scopes 1 & 2 greenhouse gas (GHG) emissions by 46% and its Scope 3 GHG emissions by 30%, with a baseline year of 2019.
-
-These commitments involve an ambitious approach to reducing its greenhouse gas emissions by 4.2% per year.
-
-To this end, Nexans has implemented concrete actions such as the development of the circular economy since 2008 through Recycable (Joint Venture with Suez) or through the use, for example, of a new material based on recycled aluminum or by proposing the launch in 2023 of a low-carbon offer of distribution network cables.
-
-The Group has also chosen to invest in a targeted manner in the renovation or purchase of equipment. By making incremental investments, the Group can limit its recurring investments in maintenance and optimization. These investments include, for example, the installation of photovoltaic panels to improve the share of renewable and low-carbon energy while securing its supply.
-
-On the financing side, as part of the Sustainable Financing Framework, the Group carried out its first sustainable development bond issue for an amount of 500 million euros. This fixed-rate issue maturing on April 5, 2028 is linked to the climate objectives that Nexans hope to achieve by December 31, 2030, for the reduction of its Scope 1 and 2 greenhouse gas emissions, as well as for its Cradle-to-Shelf approach relating to the CO₂ content of Scope 3 emissions products. Failure to comply with any of these obligations would result in an increase in the coupon rate of the last year (see Note 26).
-
-The consequences in terms of investments, costs and other impacts on cash flows are taken into account when preparing accounting estimates. In particular, the impairment tests carried out include the following items:
-- the incremental investments related to the commitments made in terms of objectives for the contribution to carbon neutrality are insignificant and have no consequences on the review of the valuation of the Group's assets;
-- Forecasts of tensions on the copper market led the Group to include in its sensitivity tests the consequences of a possible reduction in the volume of copper.
-
-It is also possible that in the future the carrying amount of the assets or liabilities recognized in the Group's financial statements will be subject to different impacts as the climate change management strategy evolves or as the consequences of climate change materialize in the form of, for instance, rising sea levels or more frequent and severe droughts.
-
-In this context, Nexans is working to identify the risks on these assets in particular through the completion in 2023 of a study by Axa Climate on the challenges of the physical risks related to climate change for the Group's assets. Alongside the actions and protections already in place, this study enables the Group to determine its exposure and the future action plans to be put in place. The review of the conclusions of this study had no impact on the valuation of the assets in the financial statements. Any future action plans will be included in the assumptions for impairment tests as they are realized.
-
-For more details on the impairment tests, please refer to Note 8.
-
-## 19 NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2023
-
-AI: I've fully transcribed the document content while maintaining all formatting and structure. The document appears to be page 19 from Nexans' 2023 Universal Registration Document, specifically focused on their 2024 financial statements regarding consolidated financial statements, cash flow hedges related to metal price fluctuations, and climate issues (Note 2).
+Annual report 2023 | abrdn.com | 165
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+# Group financial statements continued
 
-**Consolidated financial statements** 05
+## Consolidated statement of cash flows
+### For the year ended 31 December 2023
 
-*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
+|  | Notes | 2023<br>£m | 2022<br>restated¹<br>£m |
+|---|---|---:|---:|
+| **Cash flows from operating activities** |  |  |  |
+| Loss before tax |  | (6) | (612) |
+| Change in operating assets | 37 | 157 | 916 |
+| Change in operating liabilities | 37 | (109) | (725) |
+| Adjustment for non-cash movements in investment income |  | 3 | - |
+| Other non-cash and non-operating items | 37 | 210 | 567 |
+| Taxation paid² |  | (34) | (36) |
+| **Net cash flows from operating activities** |  | **221** | **110** |
+| **Cash flows from investing activities** |  |  |  |
+| Purchase of property, plant and equipment |  | (18) | (21) |
+| Acquisition of subsidiaries and unincorporated businesses net of cash acquired | 1(b) | (108) | (1,378) |
+| Disposal of subsidiaries net of cash disposed of | 37 | 139 | - |
+| Acquisition of investments in associates and joint ventures | 14 | (2) | (20) |
+| Proceeds in relation to contingent consideration | 36 | 21 | 18 |
+| Payments in relation to contingent consideration | 36 | (12) | (7) |
+| Disposal of investments in associates and joint ventures | 1(c) | - | 6 |
+| Purchase of financial investments |  | (445) | (297) |
+| Proceeds from sale or redemption of financial investments | 17 | 1,029 | 1,633 |
+| Taxation paid on sale or redemption of financial investments² |  | (41) | (28) |
+| Prepayment in respect of potential acquisition of customer contracts | 39(b) | 20 | 14 |
+| Acquisition of intangible assets |  | (41) | (6) |
+| **Net cash flows from investing activities** |  | **542** | **(86)** |
+| **Cash flows from financing activities** |  |  |  |
+| Repayment of subordinated liabilities | 30 | - | (92) |
+| Payment of lease liabilities - principal |  | (24) | (46) |
+| Payment of lease liabilities - interest |  | (6) | (6) |
+| Shares acquired by trusts |  | (27) | (46) |
+| Interest paid on subordinated liabilities and other equity |  | (20) | (34) |
+| Other interest paid |  | (3) | (2) |
+| Cash received relating to collateral held in respect of derivatives hedging subordinated liabilities |  | (50) | 74 |
+| Share buyback | 24 | (302) | (302) |
+| Ordinary dividends paid | 12 | (279) | (307) |
+| **Net cash flows from financing activities** |  | **(711)** | **(761)** |
+| **Net increase/(decrease) in cash and cash equivalents** |  | **52** | **(737)** |
+| Cash and cash equivalents at the beginning of the year |  | 1,166 | 1,875 |
+| Effects of exchange rate changes on cash and cash equivalents |  | (8) | 28 |
+| **Cash and cash equivalents at the end of the year** | 22 | **1,210** | **1,166** |
+| **Supplemental disclosures on cash flows from operating activities** |  |  |  |
+| Interest received |  | 85 | 38 |
+| Dividends received |  | 91 | 110 |
+| Rental income received on investment property |  | 3 | 2 |
 
-## Note 2. Significant events of the year
+1. Comparatives for 2022 have been restated for the implementation of IFRS 17. Refer Basis of preparation.
+2. Total taxation paid was £75m in 2023 (2022: £64m).
 
-### A. Changes in Group structure
+The Notes on pages 167 to 270 are an integral part of these consolidated financial statements.
 
-**ACQUISITION OF THE LA TRIVENETA CAVI GROUP**
+166 | abrdn.com | Annual report 2023
 
-In early 2024, Nexans entered into an agreement for the acquisition of the La Triveneta Cavi Group, one of the leaders in the medium and low-voltage cable sector.
+---
 
-Founded in Italy in 1965, and now present in 55 countries, La Triveneta Cavi primarily manufactures low-voltage cables for building, infrastructure, fire-retardant cable systems and renewable energy applications. The company operates a best-in-class vertically integrated network with three cable production units featuring highly efficient logistic capabilities in addition to a world class "in-house" copper drawing facility. The company has almost 700 skilled employees and has generated current revenue of more than €405 million euros over the last twelve months.
+# Presentation of consolidated financial statements
 
-Nexans successfully completed this acquisition after obtaining the authorization from the Italian competition authority at the end of May 2024.
+The Group's significant accounting policies are included at the beginning of the relevant notes to the consolidated financial statements. This section sets out the basis of preparation, a summary of the Group's critical accounting estimates and judgements in applying accounting policies, and other significant accounting policies which have been applied to the financial statements as a whole.
 
-The details and conditions of this transaction as well as the provisional goodwill are presented in **Note 14**.
+**(a) Basis of preparation**
 
-The entities of the La Triveneta Cavi Group have been fully consolidated since June 1, 2024 and their activities contributed to the Group's consolidated financial statements for 2024 for revenue at current metal prices of 425 million euros and an operating margin of 35 million euros.
+These consolidated financial statements have been prepared in accordance with UK-adopted international accounting standards. The consolidated financial statements have been prepared on a going concern basis and under the historical cost convention, as modified by the revaluation of owner-occupied property, derivative instruments and other financial assets and financial liabilities at fair value through profit or loss (FVTPL).
 
-On a 12-month basis, considering, for example, an acquisition made on January 1, 2024, the contribution to the recurring revenue and the operating margin can be estimated at 730 million euros and 41 million euros respectively.
+Climate risks have been taken into consideration in the preparation of the consolidated financial statements, primarily in relation to fair value calculations and impairment assessments. Refer Note 34(a) for further details of our consideration of climate impact including our current assessment that the impact on the consolidated financial statements is not material.
 
-### B. Assets held for sale
+The current inflationary environment has also been taken into consideration in the preparation of the consolidated financial statements. Again this primarily relates to fair value calculations and impairment assessments. The impact of inflation has been factored into budgeted cash flows used in these calculations and assessment. However, terminal growth rates are still based on longer term inflation expectations which are largely unchanged.
 
-As of December 31, 2024, a divestment program is undertaken for the entity Amercable, based in the United States and whose activity concerns resource cables (oil and gas, mines).
+The principal accounting policies set out in these consolidated financial statements have been consistently applied to all financial reporting periods presented except as described below.
 
-The sale has been finalized on January 12, 2025, refer to post-closing events in **Note 15**.
+**(a)(i) New standards, interpretations and amendments to existing standards that have been adopted by the Group**
 
-As a result, these items are presented in "Assets and groups of assets held for sale" as of December 31, 2024 in application of IFRS 5, see **Note 13**
+The Group has adopted the following new International Financial Reporting Standards (IFRSs), interpretations and amendments to existing standards, which are effective for annual periods beginning on or after 1 January 2023.
 
-The details of this presentation to the Group's accounts are also detailed in this note.
+**IFRS 17 Insurance Contracts**
 
-### C. Financing
+On 1 January 2023, the Group adopted IFRS 17 Insurance Contracts. IFRS 17 replaces IFRS 4 Insurance Contracts which was an interim standard which permitted the continued application of accounting policies, for insurance contracts and contracts with discretionary participation features, which were being used at transition to IFRS except where a change satisfied criteria set out in IFRS 4. IFRS 17 introduces new required measurement and presentation accounting policies for such contracts which reflect the view that these contracts combine features of a financial instrument and a service contract.
 
-Nexans issued 2 new bonds during this first semester 2024:
-- a first issue, on March 11, 2024, for 350 million euros, with a six-year maturity and an annual interest rate of a 4.25%.
-- a second issue on May 17, 2024, for 300 million euros, with a five-year maturity and an annual interest rate of 4.125%. This bond loan partly financed the acquisition of the La Triveneta Cavi Group.
+IFRS 17's measurement model, which applies to groups of contracts, combines a risk-adjusted present value of future cash flows and an amount representing unearned profit. IFRS 17 introduces a new approach to presentation in the income statement and statement of comprehensive income in relation to direct exposure to insurance contracts.
 
-Nexans redeemed the 200 million euros bond on its maturing date of April 5 2024.
+The Group has no material direct exposure to insurance contracts and contracts with discretionary participating features and the adoption of this standard has had no significant direct impact on the measurement or presentation of insurance contracts and therefore no restatement of prior periods was required in relation to direct exposure.
 
-## Note 4. Operating segments
+However, the results of the Group's joint venture Heng An Standard Life Insurance Company Limited (HASL) have been impacted by the adoption of IFRS 17 on 1 January 2023. HASL has also applied IFRS 9 Financial Instruments on 1 January 2023. While the Group had adopted IFRS 9 on 1 January 2019 following the sale of its UK and European insurance in 2018, HASL had continued to take the permitted temporary exemption granted to insurers in IFRS 4 to defer the implementation of IFRS 9 until the implementation of IFRS 17.
 
-Beginning of 2024, the Group announced a change in its organization and in the label of its businesses, without any impact on IFRS 8 segmentation. The Group has thus the following reportable segments within the meaning of IFRS 8 (after taking into account the aggregations authorized by the standard). These segments reflect the managerial organization of the Group and are defined on the basis of products and applications specific to different markets, all geographical areas combined:
+IFRS 17 must be applied retrospectively, however as permitted by the standard, HASL has applied IFRS 9 prospectively. Consequently, the combined impact of the change of accounting policy comes through at 1 January 2023. The net impact of the changes is an increase in the carrying value of HASL, the Group's retained earnings and net assets of £16m, comprising a decrease of £35m for IFRS 17 offset by an increase of £51m for IFRS 9.
 
-- **"PWR-Grid & Connect"** formerly "Buildings & Territories":  
-this segment provides reliable cabling systems and smart energy solutions enabling buildings and territories to be more efficient, sustainable and people-friendly. It covers the following markets: building, smart cities/grids, e-mobility, local infrastructure, decentralized energy systems and rural electrification. It has two components:
-  - **"PWR-Grid"** (ex-Distribution) which covers the cables intended for the energy distribution networks managed by the electricity suppliers within the territories.
-  - **"PWR-Connect"** (ex-Usages) corresponding to all the equipment cables of the various buildings.
+IFRS 17 has three main measurement models: the general measurement model; the variable fee approach and the premium allocation approach. HASL is primarily using the general measurement model for its traditional insurance business and the variable fee approach for its direct participating contracts and investment contracts with direct participation features with some use of the premium allocation approach. The results reflect the election to take the other comprehensive income (OCI) options under IFRS 17 to take elements of the movements in the measurement of insurance contract through OCI to minimise income statement volatility.
 
-- **"PWR-Transmission"** (ex-Generation & Transmission) this segment partners its customers from the start of the cycle (design, engineering, financing, asset management) right through to the end (systems management) to help them find the cabling solution that is the best suited to their needs in terms of efficiency and reliability. It includes the following markets: offshore wind farms, subsea interconnections, onshore high voltage, subsea data transmissions (closely related to high voltage submarine projects), as well as the finalization of ongoing projects for smart solutions for the oil and gas sector.
+Annual report 2023 | abrdn.com | 167
 
-- **"Industry & Solutions"** this segment provides support to OEMs and industrial infrastructure project managers in personalizing their cabling and connection solutions to enable them being powered and meet their electrification, digitization and automation requirements. It covers the following markets: transport (aeronautics, rail, shipbuilding, automotive), automatic devices, renewable energy (solar and wind power), resources (oil and gas, mining) and other sectors (nuclear, medical, handling).
+---
 
-The Group's segment information also includes a column entitled **"Other"** which corresponds to certain specific or centralized activities carried out for the Group as a whole which give rise to expenses that are not allocated between the various segments and the Electrical Wires business, comprising wire rods, electrical wires and winding wire production operations.
+# Group financial statements continued
 
-NEXANS | UNIVERSAL REGISTRATION DOCUMENT 2024 | 20
+The impact of the restatement in 2022 below partly reflects that the measurement of investment contracts under the variable fee approach reflect the fair value of the underlying assets from 1 January 2022 but a number of these assets were not accounted for at fair value until 1 January 2023 upon HASL's adoption of IFRS 9 (see below). The measurement of the insurance contracts is also impacted by the use of lower discount rates to discount liabilities under IFRS 17 as compared to those used under IFRS 4 and higher liabilities for financial related guarantees within some products.
 
-[Note: The text appears to show page 20 of Nexans' 2024 Universal Registration Document]
+In relation to IFRS 9, the largest impact relates to its debt investments which were classified as held to maturity under IAS 39 and subsequently accounted for at amortised cost but are now classified as fair value through OCI under IFRS 9.
 
-[IMAGE_DESCRIPTION: 
-Type: Document page
-Location: Full page
-Content: Page 20 of Nexans 2024 Financial Statements showing consolidated financial statements with notes about significant events of the year (Note 2) and operating segments (Note 4)
-Text Elements: All text has been transcribed above
-Colors & Style: Red Nexans logo at top right corner, red headings for notes, black text on white background
-Purpose: Financial reporting document page showing company restructuring, acquisition details, and segment reporting
+As noted above, IFRS 17 is applied retrospectively. However, it was not practicable for HASL to apply a full retrospective approach. Depending on the nature and start date of the insurance contract, HASL has applied either a modified retrospective approach or a fair value approach. The choice of transition approach is not expected to have a significant impact on future periods.
+
+The carrying value of the joint venture and opening retained earnings as at 1 January 2022 have been restated for IFRS 17.
+
+| | 31 December 2021 as previously presented £m | Impact of IFRS 17 £m | 1 January 2022 as restated £m |
+|---|---|---|---|
+| **Consolidated statement of financial position** | | | |
+| Carrying value of HASL | 258 | (9) | 249 |
+| Investments in associates and joint ventures accounted for using the equity method | 274 | (9) | 265 |
+| Total assets | 11,418 | (9) | 11,409 |
+| | | | |
+| Retained earnings | 5,775 | (9) | 5,766 |
+| Total equity attributable to equity shareholders of abrdn plc | 7,643 | (9) | 7,634 |
+| Total equity | 7,856 | (9) | 7,847 |
+| Total equity and liabilities | 11,418 | (9) | 11,409 |
+
+168 | abrdn.com | Annual report 2023
+
+---
+
+# The carrying value of HASL and the movements in the carrying value as at 31 December 2022 have also been restated.
+
+| | 2022 as previously presented £m | Impact of IFRS 17 £m | 2022 as restated £m |
+|---|---:|---:|---:|
+| **Consolidated income statement** | | | |
+| Share of profit or loss from associates and joint ventures | 2 | 3 | 5 |
+| Loss before tax | (615) | 3 | (612) |
+| Loss for the year | (549) | 3 | (546) |
+| | | | |
+| **Attributable to:** | | | |
+| Equity shareholders of abrdn plc | (561) | 3 | (558) |
+| | | | |
+| **Earnings per share** | | | |
+| Basic (pence per share) | (26.8) | 0.2 | (26.6) |
+| Diluted (pence per share) | (26.8) | 0.2 | (26.6) |
+| | | | |
+| **Consolidated statement of comprehensive income** | | | |
+| Loss for the year | (549) | 3 | (546) |
+| | | | |
+| Share of other comprehensive income of associates and joint ventures | (28) | (29) | (57) |
+| Total items that may be reclassified subsequently to profit or loss | 13 | (29) | (16) |
+| Other comprehensive income for the year | (780) | (29) | (809) |
+| Total comprehensive income for the year | (1,329) | (26) | (1,355) |
+| | | | |
+| **Attributable to:** | | | |
+| Equity shareholders of abrdn plc | (1,341) | (26) | (1,367) |
+| | | | |
+| **Analysis of adjusted profit** | | | |
+| **Adjusted for the following items** | | | |
+| Share of profit or loss from associates and joint ventures | 2 | 3 | 5 |
+| Total adjusting items including results of associates and joint ventures | (868) | 3 | (865) |
+| | | | |
+| Loss for the year attributable to equity shareholders of abrdn plc | (561) | 3 | (558) |
+| Loss for the year | (549) | 3 | (546) |
+
+Annual report 2023 | abrdn.com | 169
+
+---
+
+# Group financial statements continued
+
+| | 31 December 2022 as previously presented £m | Impact of IFRS 17 £m | 31 December 2022 as restated £m |
+|---|---|---|---|
+| **Consolidated statement of financial position** | | | |
+| Carrying value of HASL | 245 | (35) | 210 |
+| Investments in associates and joint ventures accounted for using the equity method | 267 | (35) | 232 |
+| Total assets | 9,247 | (35) | 9,212 |
+| | | | |
+| Retained earnings | 5,021 | (35) | 4,986 |
+| Total equity attributable to equity shareholders of abrdn plc | 5,663 | (35) | 5,628 |
+| Total equity | 5,877 | (35) | 5,842 |
+| Total equity and liabilities | 9,247 | (35) | 9,212 |
+| | | | |
+| **Consolidated statement of changes in equity** | | | |
+| Opening retained earnings | 5,775 | (9) | 5,766 |
+| Loss for the year | (561) | 3 | (558) |
+| Other comprehensive income for the year | (821) | (29) | (850) |
+| Total comprehensive income for the year | (1,382) | (26) | (1,408) |
+| Closing retained earnings | 5,021 | (35) | 4,986 |
+| | | | |
+| Opening total equity attributable to equity shareholders of abrdn plc | 7,643 | (9) | 7,634 |
+| Loss for the year | (561) | 3 | (558) |
+| Other comprehensive income for the year | (780) | (29) | (809) |
+| Total comprehensive income for the year | (1,341) | (26) | (1,367) |
+| Closing total equity attributable to equity shareholders of abrdn plc | 5,663 | (35) | 5,628 |
+| | | | |
+| Opening total equity | 7,856 | (9) | 7,847 |
+| Loss for the year | (549) | 3 | (546) |
+| Other comprehensive income for the year | (780) | (29) | (809) |
+| Total comprehensive income for the year | (1,329) | (26) | (1,355) |
+| Closing total equity | 5,877 | (35) | 5,842 |
+
+The restatement has no overall impact on the cash flows of the Group but does impact certain line items in the consolidated statement of cash flows:
+
+| | 31 December 2022 as previously presented £m | Impact of IFRS 17 £m | 31 December 2022 as restated £m |
+|---|---|---|---|
+| **Consolidated statement of cash flows** | | | |
+| Loss before tax | (615) | 3 | (612) |
+| Other non-cash and non-operating items | 570 | (3) | 567 |
+
+170 | abrdn.com | Annual report 2023
+
+---
+
+In line with the approach adopted by the Group on its implementation of IFRS 9 on 1 January 2019 and as permitted by IFRS 9, the comparatives have not been restated for HASL's adoption of IFRS 9. The impact of HASL adopting IFRS 9 is recognised in retained earnings at 1 January 2023.
+
+| | 31 December 2022 as restated for IFRS 17 | Impact of IFRS 9 | 1 January 2023 |
+| --- | ---: | ---: | ---: |
+| **Consolidated statement of financial position** | | | |
+| Carrying value of HASL | 210 | 51 | 261 |
+| Investments in associates and joint ventures accounted for using the equity method | 232 | 51 | 283 |
+| Total assets | 9,212 | 51 | 9,263 |
+| | | | |
+| Retained earnings | 4,986 | 51 | 5,037 |
+| Total equity attributable to equity shareholders of abrdn plc | 5,628 | 51 | 5,679 |
+| Total equity | 5,842 | 51 | 5,893 |
+| Total equity and liabilities | 9,212 | 51 | 9,263 |
+
+## Amendments to existing standards
+**International Tax Reform – Organization for Economic Cooperation and Development (OECD) Pillar Two Model Rules - Amendments to IAS 12**  
+In May 2023, amendments to IAS 12 were issued which were endorsed by the UK endorsement board on 19 July 2023. The amendments were effective immediately.
+
+The amendments clarify that IAS 12 applies to income taxes arising from tax law enacted or substantively enacted to implement the Pillar Two Model Rules published by the OECD, including tax law that implements qualified domestic minimum top-up taxes. However, the amendments also introduce a mandatory exception in IAS 12 from recognising and disclosing deferred tax assets and liabilities related to Pillar Two income taxes which the Group has applied.
+
+The amendments introduce new disclosure requirements in relation to Pillar Two income taxes including qualitative and quantitative information about Group's exposure to Pillar Two income taxes in relation to Pillar Two legislation enacted or substantively enacted but not yet effective at the end of the reporting period. Refer Note 9(e) for the information on this exposure.
+
+**Other amendments**
+- Disclosure of Accounting Policies - Amendments to IAS 1 and IFRS Practice Statement 2.
+- Definition of Accounting Estimates - Amendments to IAS 8.
+- Deferred Tax related to Assets and Liabilities arising from a Single Transaction – Amendments to IAS 12.
+
+The Group's accounting policies have been updated to reflect these other amendments. Management considers the implementation of the above amendments to existing standards has had no significant impact on the Group's financial statements.
+
+**(a)(ii) Standards, interpretations and amendments to existing standards that are not yet effective and have not been early adopted by the Group**
+
+Certain new standards, interpretations and amendments to existing standards have been published that are mandatory for the Group's annual accounting periods beginning after 1 January 2023. The Group has not early adopted the standards, amendments and interpretations described below.
+
+There are no other new standards, interpretations and amendments to existing standards that have been published that are expected to have a significant impact on the consolidated financial statements of the Group.
+
+Annual report 2023 | abrdn.com | 171
+
+---
+
+# Group financial statements continued 
+
+(a)(iii) Critical accounting estimates and judgements in applying accounting policies
+The preparation of financial statements requires management to exercise judgements in applying accounting policies and make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses arising during the year. Judgements and sources of estimation uncertainty are continually evaluated and based on historical experience and other factors, including expectations of future events that are believed to be reasonable under the circumstances.
+
+The areas where judgements have the most significant effect on the amounts recognised in the consolidated financial statements are as follows:
+
+| Financial statement area | Critical judgements in applying accounting policies | Related note |
+|-------------------------|---------------------------------------------------|-------------|
+| Defined benefit pension plans | Assessment of whether the Group has an unconditional right to a refund of the surplus. Treatment of tax relating to the surplus. | Note 31 |
+| Intangible assets | Identification and valuation of intangible assets arising from business combinations, and the determination of useful lives. | Note 13 |
+
+The following changes have been made to the Group's critical judgements:
+- In addition to identification and valuation of the intangible assets, the allocation to cash generating units of goodwill arising from the acquisition was considered a critical judgement during 2022 in relation to the acquisition of ii (refer Note 1(b)(ii)). This is not considered as a critical judgement in relation to the 2023 acquisition of the healthcare fund management capabilities of Tekla Capital Management LLC (Tekla) (refer Note 1(b)(i)).
+- Following the final release of the Group's separation costs provision (refer Note 33 for further details), determining whether a provision is required for separation costs is not considered as a critical judgement.
+
+There are no other changes to critical judgements in applying accounting policies from the prior year.
+
+The areas where assumptions and other sources of estimation uncertainty at the end of the reporting period have a significant risk of resulting in a material adjustment to the carrying amounts of assets and liabilities within the next financial year are as follows:
+
+| Financial statement area | Critical accounting estimates and assumptions | Related note |
+|-------------------------|---------------------------------------------|-------------|
+| Intangible assets | Determination of the recoverable amount in relation to the impairment of goodwill. | Note 13 |
+| Financial instruments at fair value through profit or loss | Determination of the fair value of contingent consideration liabilities relating to the acquisition of Tritax. | Notes 34 and 36 |
+| Defined benefit pension plans | Determination of principal UK pension plan assumptions for mortality, discount rate and inflation. | Note 31 |
+
+All other critical accounting estimates and assumptions are the same as the prior year.
+
+Further detail on critical accounting estimates and assumptions is provided in the relevant note.
+
+172 | abrdn.com | Annual report 2023
+
+---
+
+# (a)(iv) Foreign currency translation
+The consolidated financial statements are presented in million pounds Sterling.
+
+The statements of financial position of Group entities, including associates and joint ventures accounted for using the equity method, that have a different functional currency than the Group's presentation currency are translated into the presentation currency at the year end exchange rate and their income statements and cash flows are translated at average exchange rates for the year. All resulting exchange differences arising are recognised in other comprehensive income and the foreign currency translation reserve in equity. On disposal of a Group entity the cumulative amount of any such exchange differences recognised in other comprehensive income is reclassified to profit or loss.
+
+Foreign currency transactions are translated into the functional currency at the exchange rate prevailing at the date of the transaction. Gains and losses arising from such transactions and from the translation at year end exchange rates of monetary assets and liabilities denominated in foreign currencies are recognised in the relevant line in the consolidated income statement.
+
+Translation differences on non-monetary items, such as equity securities held at fair value through profit or loss, are reported as part of the fair value gain or loss within Net gains or losses on financial instruments and other income in the consolidated income statement. Translation differences on financial assets and liabilities held at amortised cost are included in the relevant line in the consolidated income statement.
+
+# (a)(v) Going concern
+The Group's business activities, together with the factors likely to affect its future development, performance and financial position, are set out in the Strategic report. This includes details on our liquidity and capital management and our viability statement in the Chief Financial Officer's overview section and our principal risks in the Risk management section including the impacts of the macroeconomic environment and global and regional geopolitical events on these principal risks. In addition, these financial statements include notes on the Group's subordinated liabilities (Note 30), management of its risks including market, credit and liquidity risk (Note 34), its contingent liabilities and commitments (Notes 38 and 39), and its capital structure and position (Note 42).
+
+In preparing these financial statements on a going concern basis, the Directors have considered the following matters and have taken into account market uncertainty.
+– The Group has cash and liquid resources of £1.8bn at 31 December 2023. In addition, the Company has a revolving credit facility of £400m as part of our contingency funding plans which is due to mature in 2026 and remains undrawn.
+– The Group's indicative regulatory Common Equity Tier 1 (CET1) capital surplus on an IFPR basis was £876m in excess of capital requirements at 31 December 2023. The regulatory CET1 capital surplus does not include the value of the Group's significant listed investment in Phoenix Group Holdings (Phoenix).
+– The Group performs regular stress and scenario analysis as described in the Annual report and accounts 2023 Viability statement. The diverse range of management actions available meant the Group was able to withstand these extreme stresses.
+– The Group's operational resilience processes have operated effectively during the period including the provision of services by key outsource providers.
+
+Based on a review of the above factors the Directors are satisfied that the Group and Company have and will maintain sufficient resources to enable them to continue operating for at least 12 months from the date of approval of the financial statements. Accordingly, the financial statements have been prepared on a going concern basis. There were no material uncertainties relating to this going concern conclusion.
+
+Annual report 2023 | abrdn.com | 173
+
+---
+
+# Group financial statements continued
+
+## (b) Basis of consolidation
+
+The Group's financial statements consolidate the financial statements of the Company and its subsidiaries.
+
+Subsidiaries are all entities (including investment vehicles) over which the Group has control. Control arises when the Group is exposed, or has rights, to variable returns from its involvement with the entity and has the ability to affect those returns through its power over the entity. For operating entities this generally accompanies a shareholding of 50% or more in the entity. For investment vehicles, including structured entities, the control assessment also considers the removal rights of other investors and whether the Group acts as principal or agent in assessing the link between power and variable returns. In determining whether the Group acts as principal, and therefore controls the entity, the removal rights of other investors and the magnitude of the variability associated with the returns are also taken into account. As a result, the Group often is considered to control investment vehicles in which its shareholding is less than 50%.
+
+Where the Group is considered to control an investment vehicle, such as an open-ended investment company, a unit trust or a limited partnership, and it is therefore consolidated, the interests of parties other than the Group are assessed to determine whether they should be classified as liabilities or as non-controlling interests. The liabilities are recognised in the third party interest in consolidated funds line in the consolidated statement of financial position and any movements are recognised in the consolidated income statement. The financial liability is designated at fair value through profit or loss (FVTPL) as it is implicitly managed on a fair value basis as its value is directly linked to the market value of the underlying portfolio of assets. The interests of parties other than the Group in all other types of entities are recorded as non-controlling interests.
+
+All intra-group transactions, balances, income and expenses are eliminated in full.
+
+The Group uses the acquisition method to account for acquisitions of businesses. At the acquisition date the assets and liabilities of the business acquired and any non-controlling interests are identified and initially measured at fair value on the consolidated statement of financial position.
+
+When the Group acquires or disposes of a subsidiary, the profits and losses of the subsidiary are included from the date on which control was transferred to the Group until the date on which it ceases, with consistent accounting policies applied across all entities throughout.
+
+174 | abrdn.com | Annual report 2023
+
+---
+
+# Notes to the Group financial statements
+1. Group structure
+(a) Composition
+The following diagram is an extract of the Group structure at 31 December 2023 and gives an overview of the composition of the Group.
+
+[IMAGE_DESCRIPTION:
+Type: Organizational chart/diagram
+Location: Center of document
+Content: Corporate structure hierarchy showing parent company at top (abrdn plc) with multiple subsidiary levels beneath it. The chart shows various holdings and subsidiary companies organized in hierarchical tiers.
+Text Elements: Multiple company names including "abrdn plc", "Aberdeen Asset Management Limited", "abrdn Holdings Limited", "abrdn Investment Management Limited", and numerous other subsidiary entities.
+Colors & Style: Black and white organizational chart with connecting lines showing ownership relationships
+Purpose: Illustrates the corporate structure and ownership hierarchy of the Group
 ]
 
----
+A full list of the Company's subsidiaries is provided in Note 44.
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+(b) Acquisitions
+(b)(i) Current year acquisitions of subsidiaries and other operations
+Healthcare fund management capabilities of Tekla Capital Management
+On 27 October 2023, abrdn Inc. purchased the healthcare fund management capabilities of Tekla Capital Management LLC (Tekla) through a purchase agreement. Tekla's investment team transferred to the Group as part of the agreement. The assets under management at the acquisition date were £2.3bn. The acquisition further strengthens abrdn's closed-end fund business and allows the Group to draw on Tekla's expertise in investing in the healthcare sector as it looks to build out its offering in this area.
 
-## 05 Consolidated financial statements
+At the acquisition date the consideration, net assets acquired and resulting goodwill were as follows:
 
-*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
+| 27 October 2023 | £m |
+|---|---|
+| Cash consideration | 108 |
+| Fair value of deferred and contingent consideration | 11 |
+| Consideration | 119 |
+| Fair value of net assets acquired | |
+| Intangible assets | |
+| Customer relationships and investment management contracts | 78 |
+| Total assets | 78 |
+| Total liabilities | – |
+| Goodwill | 41 |
 
-Thus, among the items that principally contribute to the **"Other"** item, the following facts should be mentioned:
-- At December 31, 2023, 83% of the sales at constant metal prices recorded under this segment were generating by the Group's "Electrical Wires" business (compared with 76% in 2022), with the remainder being generated almost entirely by the Telecom/Data residual business.
-- the operating margin for "Other Activities" was a 61 million euros at December 31, 2023. It includes the combined impact of profit generated from sales of copper wires and certain centralized Group costs that are not allocated between the segments (such as holding company expenses).
+The fair value of the deferred and contingent consideration of £11m comprises:
+- A guaranteed deferred consideration of £7m which is payable in equal instalments on the first, second and third anniversaries of the closing date.
+- A contingent consideration with a fair value at acquisition of £4m. This has been calculated by reference to fee revenue and could range from US$nil to US$20m. It is measured on the first, second and third anniversaries of the closing date.
 
-Transfer prices between the various operating segments are generally the same as those applied for transactions with parties outside the Group.
-
-The segments presented in the segment information correspond to product families that are similar in nature, customer type, distribution methods and manufacturing processes.
-
-Adjusted EBITDA is defined as the operating margin before (i) depreciation, amortization and provisions, (ii) share-based expenses and (iii) certain other specific operating items that are not representative of the Company's performance.
-
-Revenue at constant metal prices for 2023 and 2024 have been calculated using the reference prices of 5,000 EUR/ton for copper and 1,500 EUR/ton for aluminum. They are then broken down in the currencies of each unit, thus incorporating the economic conditions specific to the environment of these units.
-
-### A. Information by operating segment
-
-| 2024 in millions of euros | PWR Connect (ex-Usages) | PWR Grid (ex-Distribution) | PWR Transmission | Industry and Solutions | Other | Total Group |
-|---------------------------|-------------------------|---------------------------|------------------|------------------------|-------|------------|
-| Net revenue at current metal prices | 2,746 | 1,457 | 1,315 | 1,853 | 1,174 | 8,546 |
-| Net revenue at constant metal prices | 2,073 | 1,243 | 1,287 | 1,701 | 774 | 7,078 |
-| Adjusted EBITDA | 283 | 170 | 142 | 207 | 2 | 804 |
-| Specific operational items(a) | - | - | (3) | - | (19) | (22) |
-| Depreciation and amortization | (39) | (27) | (66) | (41) | (44) | (217) |
-| Operating margin | 245 | 142 | 73 | 166 | (61) | 566 |
-| Net impairment of non-current assets (including goodwill) (see Note 8) | - | - | (1) | - | 0 | (0) |
-
-(a) The specific operating items include principally 19 million euros related to the share-based payment tagged as "Other", and 3 million euros in PWR-Transmission in relation with additional costs on long term projects impacted by past reorganizations. These additional costs led to subsequent losses at completion which are not representative of the actual business performance and has initially been booked end 2023.
-
-| 2023 in millions of euros | PWR Connect (ex-Usages) | PWR Grid (ex-Distribution) | PWR Transmission | Industry and Solutions | Other | Total Group |
-|---------------------------|-------------------------|---------------------------|------------------|------------------------|-------|------------|
-| Net revenue at current metal prices | 2,214 | 1,366 | 896 | 1,886 | 1,428 | 7,790 |
-| Net revenue at constant metal prices | 1,679 | 1,186 | 870 | 1,750 | 1,026 | 6,512 |
-| Net revenue at constant metal prices and scope, and 2024 exchange rates(a) | 1,733 | 1,185 | 856 | 1,743 | 893 | 6,411 |
-| Adjusted EBITDA | 229 | 156 | 83 | 185 | 13 | 665 |
-| Specific operational items(a) | - | - | (40) | - | (13) | (53) |
-| Depreciation and amortization | (24) | (25) | (52) | (38) | (40) | (179) |
-| Operating margin | 205 | 131 | (9) | 147 | (41) | 432 |
-| Net impairment of non-current assets (including goodwill) (see Note 8) | - | - | (0) | 7 | 16 | 23 |
-
-(a) The specific operating items included 13 million euros related to the share-based payment tagged as "Other", and 40 million euros in PWR-Transmission in relation with additional costs on long term projects impacted by past reorganizations. These additional costs led to subsequent losses at completion which are not representative of the actual business performance.
-
-The segments presented in the segment information correspond to product families that are similar in nature, customer type, distribution methods and manufacturing processes.
-
-## 21 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+Annual report 2023 | abrdn.com | 175
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
-## Consolidated financial statements 05
+# Group financial statements continued
 
-*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
+The seller has elected that a portion of deferred and contingent consideration will be payable to employees that transferred from Tekla to abrdn who are still employed by the Group at each anniversary date. Any consideration that was allocated to employees that have left revert to the seller so this arrangement has no impact on the total value of the consideration for the business acquired.
 
-## B. Information by main countries
+Intangible assets acquired in the business combination consist of investment management contract intangibles for the four NYSE listed funds which were managed by Tekla. Refer Note 13 for details of the key assumptions used in measuring the fair value of these intangibles at the acquisition date.
 
-| in millions of euros | Norway | Canada | France | Germany | Other (b) | TOTAL GROUP |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| Net revenue at current metal prices(a) | 1,281 | 1,113 | 1,002 | 950 | 4,200 | 8,546 |
-| Net revenue at constant metal prices | 1,242 | 783 | 792 | 936 | 3,325 | 7,078 |
-| Non-current assets IFRS 8 (at December 31)(a) | 746 | 37 | 195 | 227 | 1,798 | 3,003 |
+The goodwill arising on acquisition is mainly attributable to:
+– The ability to develop and evolve the acquired product suite through the launch of other vehicles.
+– The specialist knowledge in the equities and fixed income healthcare sector that the Tekla's investment team brings to the Group. This will generate market leading research and insights, which can be used by portfolio managers across our Investments segment.
 
-(a) Based on the location of the assets of the Group's subsidiaries.
-(b) Countries that do not individually account for more than 10% of the Group's net sales at constant metal prices.
+The goodwill has been allocated to the abrdn Inc. cash generating unit. The goodwill is expected to be deductible for tax purposes.
 
-| 2023 in millions of euros | Norway | Canada | France | Germany | Other (b) | TOTAL GROUP |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| Net revenue at current metal prices(a) | 899 | 1,182 | 987 | 1,000 | 3,721 | 7,790 |
-| Net revenue at constant metal prices | 866 | 864 | 803 | 981 | 2,998 | 6,512 |
-| Net revenue at constant metal prices and scope, and 2024 exchange rates | 850 | 851 | 768 | 973 | 2,968 | 6,411 |
-| Non-current assets IFRS 8 (at December 31)(a) | 651 | 37 | 189 | 188 | 1,312 | 2,377 |
+The amounts of revenue from contracts with customers and profit after tax contributed to the Group's consolidated income statement for the year ended 31 December 2023 from the acquired Tekla business were £4m and £2m respectively. The profit contributed excludes amortisation of intangible assets acquired through business combinations. If the acquisition had occurred on 1 January 2023, the Group's total revenue from contracts with customers for the year would have increased by £21m to £1,495m and the profit after tax would have increased by £13m to £25m.
 
-(a) Based on the location of the assets of the Group's subsidiaries.
-(b) Countries that do not individually account for more than 10% of the Group's net revenue at constant metal prices.
+Corporate transaction deal costs amounted to £2m of which were included within Restructuring and corporate transaction expenses in the year ended 31 December 2023.
 
-## C. Information by major customer
+## (b)(ii) Prior year acquisitions of subsidiaries
+### Interactive Investor (ii)
+On 27 May 2022, abrdn plc purchased 100% of the issued share capital of Antler Holdco Limited (Antler), the parent company for the Interactive Investor group of companies. The cash outflow at the completion of the acquisition was £1,496m, which comprised consideration of £1,485m and payments of £11m made by abrdn to fund the settlement of ii transaction liabilities as part of the transaction. The acquisition of ii provides abrdn with direct entry to the high-growth digitally enabled direct investing market, accessing new customer segments and capabilities. This allows abrdn customers to choose from a wide spectrum of wealth services, spanning self-directed investing through to high-touch financial advice, depending on their specific needs over their financial life.
 
-The Group did not have any customers that individually accounted for over 10% of its revenue in 2024 or 2023.
+On 1 September 2022, Antler made a dividend in specie to abrdn plc of its investment in Interactive Investor Limited which is now a direct subsidiary of abrdn plc. Refer Note A of the Company financial statements for further details.
 
-## Note 5. Revenue from contracts with customers
+## (c) Disposals
+### (c)(i) Current year disposal of subsidiaries and other operations
+During 2023, the Group made two material disposals of subsidiaries and other operations:
+– On 1 September 2023, the Group completed the sale of abrdn Capital Limited (aCL), its discretionary fund management business, to LGT UK Holdings Limited.
+– On 2 October 2023, the Group completed the sale of its US Private Equity and Venture Capital capabilities to HighVista Strategies LLC.
 
-### A. Consolidated revenue
+aCL and the Group's US Private Equity and Venture Capital capabilities were reported in the ii (previously named Personal) and Investments segments respectively.
 
-Consolidated revenue can be analyzed as follows:
+Other disposals included the sale of abrdn Australia Ltd to Melbourne Securities Corporation Limited on 1 July 2023. The disposal is not considered material to the Group.
 
-| 2024 Revenue, in millions of euros | PWR Connect (ex-Usages) | PWR Grid (ex-Distribution) | PWR Transmission | Industry and Solutions | Other | Total Group |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| Performance obligations satisfied at a point in time | 2,746 | 1,457 | 183 | 1,853 | 1,174 | 7,414 |
-| Performance obligations satisfied over time | - | - | 1,132 | - | - | 1,132 |
-| NET REVENUE | 2,746 | 1,457 | 1,315 | 1,853 | 1,174 | 8,546 |
+Profit on disposal of subsidiaries and other operations for the year ended 31 December 2023 have been summarised below.
 
-| 2023 Revenue, in millions of euros | PWR Connect (ex-Usages) | PWR Grid (ex-Distribution) | PWR Transmission | Industry and Solutions | Other | Total Group |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| Performance obligations satisfied at a point in time | 2,214 | 1,366 | 110 | 1,886 | 1,428 | 7,005 |
-| Performance obligations satisfied over time | - | - | 786 | - | - | 786 |
-| NET REVENUE | 2,214 | 1,366 | 896 | 1,886 | 1,428 | 7,790 |
+| | 2023 £m |
+|---|---|
+| Disposal of aCL | 58 |
+| Disposal of US Private Equity and Venture Capital capabilities | 22 |
+| Other disposals | (1) |
+| Profit on disposal of subsidiaries and other operations for the year ended 31 December 2023 | 79 |
 
-NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2024    22
+176 | abrdn.com | Annual report 2023
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+On disposal, a net gain of £1m was recycled from the translation reserve and was included in determining the profit on disposal of subsidiaries and other operations for the year ended 31 December 2023.
 
-## 05 Consolidated financial statements
+aCL
+The gain on sale, which is included in profit on disposals of subsidiaries and other operations in the consolidated income statement for the year ended 31 December 2023 for aCL was calculated as follows:
 
-The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
+| 1 September 2023 | £m |
+|---|---|
+| Total assets of operations disposed of | (85) |
+| Total liabilities of operations disposed of | 10 |
+| Net assets of operations disposed of | (75) |
+| Cash consideration (less transaction costs) and amount receivable from aCL¹ | 133 |
+| Gain on sale before tax | 58 |
 
-### B. Contract assets and contract liabilities
+¹. Following the completion of the sale, an intercompany receivable due from aCL to abrdn Investments (Holdings) Limited of £3m which previously eliminated on consolidation is now recognised as an asset of the Group.
 
-Contract assets and contract liabilities can be analyzed as follows:
+Prior to the completion of the sale, aCL was classified as an operation held for sale (refer Note 21).
 
-| in millions of euros | December 31, 2024 | December 31, 2023 |
-| --- | --- | --- |
-| | Sales of goods | Goods and services contracts | Sales of goods | Goods and services contracts |
-| Contract assets | - | 194 | - | 187 |
-| Contract liabilities | (193) | (810) | (130) | (608) |
-| TOTAL | (193) | (616) | (130) | (421) |
+US Private Equity and Venture Capital capabilities
+The gain on sale, which is included in profit on disposals of subsidiaries and other operations in the consolidated income statement for the year ended 31 December 2023 for US Private Equity and Venture Capital capabilities was calculated as follows:
 
-#### SALES OF GOODS
+| 2 October 2023 | £m |
+|---|---|
+| Total assets of operations disposed of | (1) |
+| Total liabilities of operations disposed of | 2 |
+| Net assets of operations disposed of | 1 |
+| Cash consideration (less transaction costs) | 17 |
+| Fair value of earn-out payments and retained interest¹ | 2 |
+| Gain recycled from the translation reserve | 2 |
+| Gain on sale before tax | 22 |
 
-Contract liabilities correspond to customer advance payments. The related performance obligation is satisfied within two years of receipt of the advance payment. The majority of the amounts reported at December 31, 2023 are included in revenue in 2024.
+¹. Following the sale, the Group has retained certain carried interest entitlements which was been recognised in the consolidated statement of financial position at fair value.
 
-#### GOODS AND SERVICES CONTRACTS
+(c)(ii) Prior year disposal of associates
+Profit on disposal of interests in associates for the year ended 31 December 2022 of £6m relates to the sale of the Group's interest in Origo Services Limited in May 2022.
 
-Among the contract assets and liabilities for goods and services contracts, the assets correspond mainly to revenue recognized in respect of services rendered but not yet invoiced at the period-end. Amounts recorded in "Contract assets" are transferred to "Trade receivables" when the Group obtains an enforceable right to payment.
-
-The liabilities relate to customer advance payments yet to be recognized in revenue as the related performance obligation is satisfied.
-
-The 195 million euros negative change in contract assets and liabilities reflects:
-- 120 million euros positive change corresponding to outstanding contract liabilities at December 31, 2023 that were recognized in revenue in 2024.
-- 120 million euros negative effect of timing differences between 2024 billings and revenues recognized using the percentage completion method.
-- 60 million euros negative change corresponding to outstanding contract assets at December 31, 2023 that were billed in 2024.
-- 35 million euros negative change for the net increase in advances received.
-- 20 million euros positive change related to differences in foreign currencies values between 2023 and 2024.
-
-### C. Unsatisfied performance obligations
-
-#### SALES OF GOODS
-
-Due to the nature of the business, performance obligations related to sales of goods are satisfied within the short term. Consequently, the amount of the benefits corresponding to unsatisfied performance obligations is not detailed.
-
-#### GOODS AND SERVICES CONTRACTS
-
-Goods and services contracts mainly concern the Group's high-voltage cable and umbilical cable activities. Unsatisfied performance obligations for these activities amount to 3,853 million euros and should be almost entirely satisfied by 2031.
-
-### Note 6. Payroll costs and headcount
-
-| | 2024 | 2023 |
-| --- | ---: | ---: |
-| Payroll costs (including payroll taxes) in millions of euros | 1,221 | 1,171 |
-| Average headcount of consolidated companies in number of employees | 28,498 | 28,541 |
-
-Payroll costs in the above table include share-based payments within the meaning of IFRS 2. These payments totaled 22 million euros in 2024 (including payroll taxes). See Note 24 for further details.
-
-Compensation paid to employees affected by reorganization plans in progress is not included in the above table.
-
-### 23 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+Annual report 2023 | abrdn.com | 177
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
-Consolidated financial statements
+# Group financial statements continued
 
-*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
+## 2. Segmented analysis
 
-## Note 7. Other operating income and expenses
+The Group's reportable segments have been identified in accordance with the way in which the Group is structured and managed. IFRS 8 Operating Segments requires that the information presented in the financial statements is based on information provided to the 'Chief Operating Decision Maker' which for the Group is the executive leadership team.
 
-| in millions of euros | Notes | 2024 | 2023 |
-|----------------------|-------|------|------|
-| Net asset impairment | 8 | (0) | 23 |
-| Changes in fair value of non‑ferrous metal derivatives |  | (2) | (1) |
-| Net gains (losses) on asset disposals | 9 | (4) | (9) |
-| Acquisition‑related costs (completed and planned acquisitions) |  | (22) | (10) |
-| Expenses and provisions for antitrust investigations |  | (6) | (2) |
-| **OTHER OPERATING INCOME AND EXPENSES** |  | **(34)** | **1** |
+### (a) Basis of segmentation
+### (a)(i) Current reportable segments
 
-Acquisition‑related costs are mainly related to the acquisition in 2024 of the La Triveneta group in Italy, see Note 14.
+**Investments**  
+Our global asset management business which provides investment solutions for Institutional, Retail Wealth (previously named Wholesale) and Insurance Partners (previously named Insurance) clients.
 
-## Note 8. Net asset impairment
+**Adviser**  
+Our UK financial adviser business which provides platform services to wealth managers and advisers.
 
-| in millions of euros | 2024 | 2023 |
-|----------------------|------|------|
-| Impairment losses – non‑current assets | (0) | |
-| Reversals of impairment losses – non‑current assets | | 23 |
-| Impairment losses – goodwill | | |
-| Impairment losses – assets and groups of assets held for sale | | |
-| **NET ASSET IMPAIRMENT** | **(0)** | **23** |
+**ii (previously named Personal)**  
+ii, our direct investing platform, following its acquisition in 2022 (refer Note 1(b)(ii) for further details) and our financial planning business, abrdn Financial Planning and Advice. It also included the Group's discretionary fund management business until the completion of the sale of aCL on 1 September 2023. Refer Note 1 (c)(i) for further details.
 
-The Group carries out impairment tests on goodwill at least once a year, on intangible assets with an indefinite useful life at least once a year, and on other intangible assets and property, plant and equipment whenever there is an indication that they may be impaired (see Note 1.F.c).
+These are all reported to the level of adjusted operating profit.
 
-The valuation of the Group's goodwill is carried out at the level of the Cash-Generating Units (CGU) to which they are allocated. In the event of an unfavorable difference between the carrying amount and the recoverable amount, an impairment loss is recognized.
+In addition to the Group's reportable segments above, the analysis of adjusted profit in Section b(i) below also reports the following:
 
-Since 2022, the Group has integrated the challenges associated with the consequences of climate change and the commitments taken for the contribution to carbon neutrality in its approach to the review of the valuation of its assets, in particular via the following elements:
+**Other business operations and corporate costs (Other)**  
+Other comprises of Finimize and our digital innovation group along with certain corporate costs.
 
-• the investments related to the commitments made in terms of objectives for the contribution to carbon neutrality are insignificant and have no consequences on the review of the valuation of the Group's assets.
+### (a)(ii) Changes to basis of segmentation
+As noted above, the Group now reports Other in addition to its reportable segments. Previously the Group only reported certain corporate costs in addition to its reportable segments (reported as Corporate/strategic). These costs are now reported within Other along with Finimize and our digital innovation group which were previously reported within Investments. Including Finimize and our digital innovation group within Other rather than the Investments reportable segment is considered to provide a clearer depiction of business structure and performance. Comparative amounts for the year ended 31 December 2022 have been prepared on a consistent basis.
 
-• the forecasts of tensions on the copper market led the Group to include in its sensitivity tests the consequences of a possible 10% reduction in volume for the P&T‑Connect business within the P&T‑Grid & Connect segment from 2026. The other activities were not subject to a sensitivity test on this point: they are not affected by such a shortage either because they are considered as a strategic activity or because they are not very exposed to a potential reduction in the availability of copper.
+In addition, from January 2023 and May 2023 respectively, threesixty and our Managed Portfolio Service (MPS) business have been reported within Adviser, both of which were previously reported within ii. Moving threesixty to Adviser brings together our businesses which provide services to wealth managers and advisers and prior to the completion of the sale of aCL, our MPS business, which was retained, moved from aCL to the Adviser business in order to maximise opportunities available through the Adviser distribution model. The impact of these changes on the Adviser and ii segments is not material and comparative amounts for the year ended 31 December 2022 have not been restated.
 
-• In 2023, the Group also commissioned a study by Axa Climate on the challenges of physical risks related to climate change for the Group's assets. This study identified six sites with high ISO risks regarding climate change. Following this, actions were put in place to reduce the risks identified.
-
-End 2024, like 2023, the Group has not identified any element related to this work that could lead to the recognition of an impairment loss on one of its assets. Any future action plans will be included in the impairment test assumptions as they are realized.
-
-In addition, the Group also associated the challenges of climate change with its last sustainable development bond issue (see Note 26).
-
-### A. Results of the impairment tests performed over the year
-
-As described in Note 1.F.c and in accordance with IAS 36, impairment tests were first carried out on individual assets when an indication of impairment was identified.
-
-As part of the closing of the financial statements at December 31, 2024, the Group conducted a review of the main impairment issues to identify any indications of impairment that appeared during the period both on individual assets and on Cash‑Generating Units (CGU).
-
-Following the identification of indicators linked to the slowdown in the "electromobility" branch within the automotive harness business, and to the economic and geopolitical situation in Lebanon and Ukraine, the Group carried out impairment tests which did not reveal any loss of value to be recognized.
-
-In 2023, the performance improvement of the North America Industry & Solutions CGU and the improvement in the Asia‑Pacific P&T‑Grid & Connect CGU led the Group to record impairment reversals of €7 million and €17 million respectively on intangible assets (customer relations, brands).
-
-NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024   24
+178 | abrdn.com | Annual report 2023
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+# (b) Reportable segments – adjusted profit and revenue information
 
-## Consolidated financial statements
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+(b)(i) Analysis of adjusted profit  
+Adjusted operating profit is presented by reportable segment in the table below.
 
-The review of the valuations at the CGU level did not lead to the recognition of any impairments losses or reversals on the CGUs in 2024 or 2023, other than those mentioned above.
+| 31 December 2023 | Notes | Investments £m | Adviser £m | ii¹ £m | Other £m | Total £m |
+|------------------|-------|---------------|-----------|-------|---------|---------|
+| Net operating revenue | | 878 | 224 | 287 | 9 | 1,398 |
+| Adjusted operating expenses | | (828) | (106) | (173) | (42) | (1,149) |
+| Adjusted operating profit | | 50 | 118 | 114 | (33) | 249 |
+| Adjusted net financing costs and investment return | | | | | | 81 |
+| Adjusted profit before tax | | | | | | 330 |
+| Tax on adjusted profit | | | | | | (50) |
+| Adjusted profit after tax | | | | | | 280 |
+| Adjusted for the following items | | | | | | |
+| Restructuring and corporate transaction expenses | 5 | | | | | (152) |
+| Amortisation and impairment of intangible assets acquired in business combinations and through the purchase of customer contracts | 5 | | | | | (189) |
+| Profit on disposal of subsidiaries and other operations | 1 | | | | | 79 |
+| Change in fair value of significant listed investments | 4 | | | | | (178) |
+| Dividends from significant listed investments | 4 | | | | | 64 |
+| Share of profit or loss from associates and joint ventures² | 14 | | | | | 1 |
+| Reversal of impairment of interests in joint ventures | 14 | | | | | 2 |
+| Other | 11 | | | | | 37 |
+| Total adjusting items including results of associates and joint ventures | | | | | | (336) |
+| Tax on adjusting items | | | | | | 68 |
+| Profit attributable to other equity holders | | | | | | (11) |
+| Profit attributable to non-controlling interests – ordinary shares | | | | | | – |
+| Profit for the year attributable to equity shareholders of abrdn plc | | | | | | 1 |
+| Profit attributable to other equity holders | | | | | | 11 |
+| Profit attributable to non-controlling interests – ordinary shares | | | | | | – |
+| Profit for the year | | | | | | 12 |
 
-## B. Goodwill breakdown
+1. Previously named Personal.
+2. Share of associates' and joint ventures' profit or loss primarily comprises the Group's share of results of HASL, Virgin Money Unit Trust Managers (Virgin Money UTM) and Tenet Group Limited (Tenet).
 
-Goodwill balances and movements in goodwill can be analyzed as follows by CGU:
+Net operating revenue is reported as the measure of revenue in the analysis of adjusted operating profit and relates to revenues generated from external customers.
 
-*in millions of euros*
+In the year ended 31 December 2023, transactions with one external customer amounted to more than 10% of net operating revenue (2022: one). This net operating revenue of £150m (2022: £180m) is included in the Investments and Adviser segments.
 
-| | South America PWR-Grid Connect CGU (a) | Asia-Pacific PWR-Grid Connect CGU (a) | Europe PWR-Grid Connect CGU (a) | Europe Industry and Solutions CGU | Other CGUs | TOTAL |
-|---|---|---|---|---|---|---|
-| **DECEMBER 31, 2023** | 104 | 66 | 41 | 31 | 51 | 293 |
-| Business combinations | - | - | 201 | - | - | 201 |
-| Disposals/acquisitions | - | - | - | - | - | - |
-| Impairment losses | - | - | - | - | - | - |
-| Exchange differences and other | 4 | (1) | (0) | (0) | (28) | (25) |
-| **DECEMBER 31, 2024** | 108 | 64 | 243 | 31 | 24 | 470 |
+Adjusted operating expenses includes depreciation and amortisation of £33m (2022: £41m); £26m (2022: £36m) for the Investments segment; £2m (2022: £2m) for the Adviser segment; and £5m (2022: £3m) for the ii segment. Interest income, interest expense and income tax expense are not analysed by segment in the information provided to the executive leadership team.
 
-(a) "PWR-Grid Connect" is the new denomination of the "Buildings and Territories" segment (cf. Note 4)
+Assets and liabilities by segment is not required to be presented as such information is not presented on a regular basis to the executive leadership team.
 
-The goodwill of the Europe PWR-Grid Connect CGU increased by 201 million euros due to the acquisition of the Group La Triveneta Cavi (see Note 14).
-
-The goodwill of the Other CGUs decreased by 28 million euros due to principally, the presentation of Amercable entity in Assets and groups of assets held for sale (see Note 1).
-
-No impairment loss on goodwill was recognized by the Group in 2024 or 2023.
-
-## C. Key assumptions
-
-The discount rates in the Group's main monetary areas and the perpetuity growth rates applied when preparing the business plans used in connection with impairment testing are presented below by geographic area:
-
-| | Discount rates (after tax) of future flows | | Infinite growth rate | |
-|---|---|---|---|---|
-| | **2024** | **2023** | **2024** | **2023** |
-| Europe (Euro Zone) | 8.7% | 9.0% | 1.2% | 1.2% |
-| Chile | 11.0% | 11.5% | 2.3% | 2.4% |
-| United States of America | 10.0% | 10.3% | 2.1% | 2.1% |
-| Brazil | 13.8% | 15.0% | 2.5% | 2.0% |
-| China | 10.8% | 11.0% | 3.3% | 3.4% |
-| Peru | 12.0% | 12.5% | 2.3% | 3.0% |
-| Norway | 9.6% | 10.0% | 1.4% | 1.4% |
-| Australia | 10.2% | 10.3% | 2.3% | 2.3% |
-| Ukraine | 35.0% | 35.0% | 1.2% | 1.2% |
-| Lebanon | 35.0% | 35.0% | 2.7% | 2.7% |
-
-The cash flow assumptions used for impairment calculations were based on the latest projections approved by Group Management and therefore factor in Management's most recent estimates of the Group's future business levels (as contained in the 2025 Budget and the new Strategic Plan). Cash flows are projected over a five-year period for the purpose of these assumptions.
-
-## Sensitivity analyses
-
-The main assumptions described above are used for measuring the CGUs that are tested for impairment. Sensitivity analyses are performed to assess the effect on the calculations of changes in the assumptions. The method used consists of testing the effect of the following changes in assumptions:
-
-- 50-basis point increase in the discount rate compared to the assumptions used.
-- 50-basis point decrease in the perpetuity growth rate compared to the assumptions used.
-- 50-basis point decrease in EBITDA margin (measure of business performance) compared to the assumptions used.
-- 10% reduction in the volume of PWR-Connect business within the PWR-Grid & Connect segment to reflect a potential shortage of copper.
-
-An increase in the discount rate of 50 basis points compared to the assumptions used would lead to a depreciation of 9 million euros on the automotive harness business.
-
-The other sensitivity tests did not reveal any potential need to recognize additional impairment losses.
-
-215 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+Annual report 2023 | abrdn.com | 179
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+# Group financial statements continued
 
-Consolidated financial statements
+| 31 December 2022 | Notes | Investments restated¹ £m | Adviser £m | ii² £m | Other restated¹ £m | Total restated³ £m |
+|-----------------|-------|------------------------|-----------|-------|-----------------|-----------------|
+| Net operating revenue | | 1,060 | 185 | 201 | 10 | 1,456 |
+| Adjusted operating expenses | | (930) | (99) | (129) | (35) | (1,193) |
+| Adjusted operating profit | | 130 | 86 | 72 | (25) | 263 |
+| Adjusted net financing costs and investment return | | | | | | (10) |
+| Adjusted profit before tax | | | | | | 253 |
+| Tax on adjusted profit | | | | | | (22) |
+| Adjusted profit after tax | | | | | | 231 |
+| Adjusted for the following items | | | | | | |
+| Restructuring and corporate transaction expenses | 5 | | | | | (214) |
+| Amortisation and impairment of intangible assets acquired in business combinations and through the purchase of customer contracts | 5 | | | | | (494) |
+| Profit on disposal of interests in associates | 1 | | | | | 6 |
+| Change in fair value of significant listed investments | 4 | | | | | (187) |
+| Dividends from significant listed investments | 4 | | | | | 68 |
+| Share of profit or loss from associates and joint ventures³,⁴ | 14 | | | | | 5 |
+| Impairment of interests in associates | 14 | | | | | (9) |
+| Other | 11 | | | | | (40) |
+| Total adjusting items including results of associates and joint ventures | | | | | | (865) |
+| Tax on adjusting items | | | | | | 88 |
+| Profit attributable to other equity holders | | | | | | (11) |
+| Profit attributable to non-controlling interests - ordinary shares | | | | | | (1) |
+| Loss for the year attributable to equity shareholders of abrdn plc | | | | | | (558) |
+| Profit attributable to other equity holders | | | | | | 11 |
+| Profit attributable to non-controlling interests – ordinary shares | | | | | | 1 |
+| Loss for the year | | | | | | (546) |
 
-05
+1. The breakdown of net operating revenue, adjusted operating expenses and adjusted operating profit for the year ended 31 December 2022 have been restated in line with the changes to the Group's reportable segments (refer Section (a)(ii) above).
+2. Previously named Personal.
+3. Comparatives for 2022 have been restated for the implementation of IFRS 17 (refer Basis of preparation).
+4. Share of associates' and joint ventures' profit or loss comprises the Group's share of results of HASL, Virgin Money UTM and Tenet.
 
-The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.
+(b)(ii) Reconciliation to the Consolidated income statement
 
-## Note 9. Net gains (losses) on asset disposals
+Net operating revenue  
+The reconciliation of net operating revenue, as presented in the analysis of Group adjusted profit by segment to revenue from contracts with customers, as presented in the Consolidated income statement, is included in Note 3.
 
-| in millions of euros | 2024 | 2023 |
-| --- | ---: | ---: |
-| Net gains (losses) on disposals of fixed assets | (7) | 4 |
-| Net gains (losses) on disposals of investments | 2 | (13) |
-| Other | | |
-| **NET GAINS (LOSSES) ON ASSET DISPOSALS** | **(4)** | **(9)** |
+Adjusted operating expenses  
+The following table provides a reconciliation of adjusted operating expenses, as presented in the analysis of Group adjusted profit by segment, to total administrative and other expenses, as presented in the Consolidated income statement.
 
-In 2024, the Group recognized a gain on disposals of investments mainly thanks to a profit made in relation with the liquidation of a non-consolidated entity.
-
-In 2023, the Group recognized capital gains (losses) on disposals of 13 million euros which included:
-- The sale of the Telecom Systems business for 57 million euros, leading to a net capital loss of EB million. The sale price of 57 million euros was paid in cash for 24 million euros, the balance corresponding to five-year loans, with most of which carrying an interest rate of 12%. The sale price was subject to a non-significant adjustment in 2024.
-- The sale contract also includes an "earn-out" clause calculated at 30% of the potential gain from the resale of the business by the purchaser. This clause is capped at 40 million euros.
-- The sale of all shares held in the equity-accounted company IES Energy, i.e. 27.8% of the capital. This sale resulted in a net capital loss of 1 million euros.
-
-## Note 10. Other financial income and expenses
-
-| in millions of euros | 2024 | 2023 |
-| --- | ---: | ---: |
-| Dividends received from non-consolidated companies | 3 | 2 |
-| Provisions | (4) | (1) |
-| Net foreign exchange gain (loss) | (48) | (10) |
-| Net interest expense on pensions and other long-term employee benefit obligations | (6) | (5) |
-| Hyperinflation | (2) | (3) |
-| Other | (4) | (7) |
-| **OTHER FINANCIAL INCOME AND EXPENSES** | **(61)** | **(24)** |
-
-In 2023, the impairment recorded on cash deposits in Lebanon was reversed in full for 1 million euros following the change in the conversion rate used to convert deposits into Lebanese currencies. The balance of these deposits of 3 million euros remains classified in other net receivables excluding cash and cash equivalents (see Notes 21 and 26).
-
-Foreign exchange gains and losses (net) correspond to realized or unrealized foreign exchange gains and losses on commercial transactions recorded in the balance sheet or in the backlog. These exchange gains and losses may vary significantly from one year to the next.
-
-### Effects of the application of IAS 29 "Hyperinflation" in Turkey and in Ghana
-
-As indicated in Note 1, the Group applied IAS 29 for its Turkish and Ghanaian subsidiaries and used the indicators published by the IMF to revalue the income statement, cash flows and non-monetary assets and liabilities.
-
-The consequences of the treatment of hyperinflation in the income statement for the fiscal year are reflected in:
-- In Turkey, the indicator increased by 44% in the 2024 fiscal year (67% in 2023). The EUR/TRY exchange rate used for the translation of the income statement was 35.73 at December 31, 2024 (33.15 at December 31, 2023).
-- In Ghana, the indicator increased by 24% in the 2024 fiscal year (27% in 2023). The EUR/GHC exchange rate used for the translation of the income statement was 15.51 at December 31, 2024 (11.16 at December 31, 2023).
-- for the Turkish subsidiary, an increase in consolidated revenue for the period of around 21 million euros (up 13 million euros in 2023), an increase in operating margin of around 4 million euros (increase of 2 million euros in 2023), while other financial income and expenses include an insignificant expense reflecting the consequence of hyperinflation on the net monetary position (expense of 2 million euros in 2023).
-- for the Ghanaian subsidiary, an increase in consolidated revenue for the period of around 5 million euros (up 2 million euros in 2023), an insignificant increase in the operating margin, while other financial income and expenses included an expense of 2 million euros reflecting the impact of hyperinflation on the net monetary position (expense of 1 million euros in 2023).
-
-NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024 26
+180 | abrdn.com | Annual report 2023
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+| | 2023 | 2022 |
+|---|---|---|
+| | £m | £m |
+| Total administrative and other expenses as presented in the Consolidated income statement | (1,463) | (1,919) |
+| Restructuring and corporate transaction expenses included in adjusting items | 152 | 214 |
+| Amortisation and impairment of intangible assets acquired in business combinations and through the purchase of customer contracts included in adjusting items | 189 | 494 |
+| Administrative and other expenses relating to the unit linked business | 1 | 1 |
+| Other differences | (28) | 17 |
+| Adjusted operating expenses as presented in the analysis of Group adjusted profit by segment | (1,149) | (1,193) |
 
-05 Consolidated financial statements
+Other differences relate to items presented in adjusted net financing costs and investment return for segment reporting (see commentary under table below) and other items classified as adjusting items (refer Note 11).
 
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+Adjusted net financing costs and investment return  
+The following table provides a reconciliation of adjusted net financing costs and investment return, as presented in the analysis of Group adjusted profit by segment, to Net gains or losses on financial instruments and other income, as presented in the Consolidated income statement.
 
-## Note 11. Income taxes
+| | 2023 | 2022 |
+|---|---|---|
+| | £m | £m |
+| Net gains or losses on financial instruments and other income as presented in the Consolidated income statement | 2 | (122) |
+| Finance costs separately disclosed in the Consolidated income statement | (25) | (29) |
+| Change in fair value of significant listed investments included in adjusting items | 178 | 187 |
+| Dividends from significant listed investments included in adjusting items | (64) | (68) |
+| Net gains or losses on financial instruments and other income relating to the unit linked business | (4) | (5) |
+| Other differences | (6) | 27 |
+| Adjusted net financing costs and investment return as presented in the analysis of Group adjusted profit by segment | 81 | (10) |
 
-### A. Analysis of the income tax charge
+Other differences primarily relate to amounts presented in a different line item of the Consolidated income statement and other items classified as adjusting items. This includes the net interest credit relating to the staff pension schemes of £34m (2022: £29m) which is presented in total administrative and other expenses in the Consolidated income statement and in adjusted net financing costs and investment return in the analysis of Group adjusted profit by segment.
 
-(in millions of euros) | 2024 | 2023
---- | --- | ---
-Current income tax charge | (119) | (93)
-Deferred income tax (charge)/benefit, net | 4 | 24
-**INCOME TAXES** | **(115)** | **(68)**
+**(c) Total net operating revenue by geographical location**  
+Total net operating revenue¹ split by geographical location is as follows:
 
-In 2024, Nexans headed up a tax group in France that comprised 14 companies. Other tax groups have been set up where possible in other countries, including Germany, the United States, Italy and South Korea.
+| | 2023 | 2022 |
+|---|---|---|
+| | £m | £m |
+| UK | 1,037 | 1,041 |
+| Europe, Middle East and Africa | 107 | 114 |
+| Asia Pacific | 137 | 164 |
+| Americas | 117 | 137 |
+| Total | 1,398 | 1,456 |
 
-The 2024 income tax charge included a non-material expense below 1 million euro in relation with Pillar II (in line with preparatory work).
+¹. Net operating revenue is allocated based on legal entity revenue recognition.
 
-### B. Effective income tax rate
+**(d) Non-current non-financial assets by geographical location**
 
-The effective income tax rate was as follows:
+| | 2023 | 2022 |
+|---|---|---|
+| | £m | £m |
+| UK | 1,565 | 1,745 |
+| Europe, Middle East and Africa | 33 | 10 |
+| Asia Pacific | 13 | 8 |
+| Americas | 130 | 57 |
+| Total | 1,741 | 1,820 |
 
-Tax proof in millions of euros | 2024 | 2023
---- | --- | ---
-Income before taxes | 398 | 292
-of which share in net income of associates | (0) | 1
-**INCOME BEFORE TAXES AND SHARE IN NET INCOME OF ASSOCIATES** | **398** | **290**
-Standard tax rate applicable in France (in %)(a) | 25.83% | 25.83%
-**THEORETICAL INCOME TAX CHARGE** | **(103)** | **(75)**
-Effect of:  |  | 
-• Difference between foreign and French tax rates | 2 | (7)
-• Change in tax rates for the period | (0) | (0)
-• Unrecognized deferred tax assets | (7) | 20
-• Taxes calculated on a basis different from "Income before taxes" | (12) | (14)
-• Other permanent differences | 5 | 7
-**ACTUAL INCOME TAX CHARGE REPORTED** | **(115)** | **(68)**
-**EFFECTIVE TAX RATE (in %)** | **28.94%** | **23.57%**
+Non-current non-financial assets for this purpose consist of property, plant and equipment and intangible assets.
 
-(a) For the purpose of simplicity, the Group has elected to only use the standard tax rate for France i.e. including surtaxes.
-
-The theoretical income tax charge is calculated by applying the parent company's tax rate to consolidated income before taxes and share in net income of associates.
-
-27 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+Annual report 2023 | abrdn.com | 181
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+# Group financial statements continued
 
-Consolidated financial statements
+## 3. Net operating revenue
 
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+Net operating revenue represents revenue from contracts with customers after deduction of cost of sales.
 
-## C. Taxes recognized directly in other comprehensive income
+Revenue from contracts with customers is recognised as services are provided i.e. as the performance obligation is satisfied. Performance fees and carried interest are only recognised once it is highly probable that a significant reversal will not occur in future periods. Where revenue is received in advance (front-end fees), this income is deferred and recognised as a deferred income liability (refer Note 32) and released to the Consolidated income statement over the period services are provided.
 
-The taxes recognized directly in other comprehensive income at December 31, 2024, can be analyzed as follows:
+Where revenue received relates to performance obligations whose fulfilment involves another external party, for example fund accounting or custodian services, the Group assesses if it is acting as a principal with full responsibility for the performance obligation and control over its fulfilment or solely responsible for arranging for the third party to fulfil the performance obligation i.e. acting as an agent. Where the Group is acting as an agent, only its share of the revenue for the arrangement of the relevant service is recognised within revenue from contracts from customers, therefore the revenue is recognised net of the revenue passed on to the third party.
 
-| in millions of euros | December 31, 2023 | Gains (losses) generated during the year(a) | Amounts recycled to the income statement(a) | Total other comprehensive income (loss) | December 31, 2024 |
+Commission and other fee expenses which relate directly to revenue are presented as cost of sales. These expenses include ongoing commission expenses payable to financial institutions, investment platform providers and financial advisers that distribute the Group's products which are generally based on an agreed percentage of AUM and are recognised in the income statement as the service is received. Other cost of sales also includes amounts payable to employees and others relating to carried interest and performance fee revenue.
+
+### (a) Revenue from contracts with customers
+
+The following table provides a breakdown of total revenue from contracts with customers.
+
+| | 2023<br>£m | 2022<br>restated¹<br>£m |
+|---|---|---|
+| **Investments** | | |
+| Management fee income – Institutional and Retail Wealth²,³ | 769 | 901 |
+| Management fee income – Insurance Partners²,⁴ | 132 | 167 |
+| Performance fees and carried interest | 18 | 41 |
+| Other revenue from contracts with customers | 27 | 28 |
+| Revenue from contracts with customers for the Investments segment | 946 | 1,137 |
+| **Adviser** | | |
+| Platform charges | 184 | 176 |
+| Treasury income | 31 | 11 |
+| Other revenue from contracts with customers | 11 | - |
+| Revenue from contracts with customers for the Adviser segment | 226 | 187 |
+| **ii⁵** | | |
+| Fee income – Advice and Discretionary | 57 | 87 |
+| Account fees | 54 | 32 |
+| Trading transactions | 48 | 27 |
+| Treasury income | 134 | 58 |
+| Revenue from contracts with customers for the ii segment⁵ | 293 | 204 |
+| Revenue from contracts with customers for Other | 9 | 10 |
+| **Total revenue from contracts with customers** | 1,474 | 1,538 |
+
+1. The breakdown of revenue from contracts with customers for the year ended 31 December 2022 has been restated in line with the changes to the Group's reportable segments. Refer Note 2 for further details.
+2. In addition to revenues earned as a percentage of AUM, management fee income includes certain other revenues not based on a percentage of AUM.
+3. Previously named Institutional and Wholesale.
+4. Previously named Insurance.
+5. Previously named Personal.
+
+182 | abrdn.com | Annual report 2023
+
+---
+
+# Investments
+
+Through a number of its subsidiaries, the Group provides asset management services to its customers. This performance obligation is performed over time with the revenue recognised as the obligation is performed. The Group generally receives asset management fees based on the percentage of the assets under management. The percentage varies depending on the level and nature of assets under management. Asset management fees are either deducted from assets or invoiced. Deducted fees are generally calculated, recognised and collected on a daily basis. Other asset management fees are invoiced to the customer either monthly or quarterly with receivables recognised for unpaid invoices. The payment terms for invoiced revenue vary but are typically 30 days from receipt of invoice. Accrued income is recognised to account for income earned but not yet invoiced which is not dependent on any future performance.
+
+There is also some use of performance fees and carried interest arrangements. Performance fees and carried interest are earned from some investment mandates when contractually agreed performance levels are exceeded within specified performance measurement periods. Performance fees and carried interest are only recognised once it is highly probable that a significant reversal will not occur in future periods. Given the unpredictability of future performance, the risk of a significant reversal occurring will typically only be considered low enough to make recognition appropriate upon the crystallisation event occurring.
+
+## Adviser
+
+Through a number of its subsidiaries, the Group offers customers access to fund platforms. The platforms give customers the ongoing functionality to manage and administer their investments. This performance obligation is performed over time with the revenue recognised as the obligation is performed. Customers pay a platform charge which is generally calculated as a percentage of their assets. The percentage varies depending on the level of assets on the specific platform. The main platform charges are calculated either daily or monthly and are collected and recognised monthly. The charges are collected directly from assets on the platform. There are no significant payment terms.
+
+In addition, Adviser receives treasury income for providing management and administration of cash held in platform cash accounts. The performance obligation for cash management and administration is performed over time with the revenue recognised as the obligation is performed. The customer receives interest on their cash balances after deduction of a cash management administration charge which is generally calculated as a percentage of their cash held in relevant accounts. The percentage varies depending on the interest received from the banks used to provide the cash accounts. There are no significant payment terms.
+
+## ii
+
+Through a number of its subsidiaries, the Group also offers financial planning and discretionary fund management services. The sale of the Group's primary discretionary fund management business completed on 1 September 2023 (refer Note 1(c)(i) for further details) and the Managed Portfolio Service business has been reported within Adviser from May 2023 since its transfer from aCL.
+
+Financial planning is either provided on a one-off basis or on an ongoing basis. The performance obligation for one-off advice is performed at a point in time with the revenue recognised when the advice is provided. The performance obligation for ongoing financial planning is performed over time with the revenue recognised as the obligation is performed. The Group generally receives ongoing financial planning fees based on the percentage of the assets under advice. One-off financial planning fees are invoiced to the customer following delivery of the advice. Ongoing financial planning fees are invoiced to the customer or a designated financial provider either monthly or quarterly. Receivables are recognised for unpaid invoices. The payment terms for invoiced revenue vary but are typically 30 days from receipt of invoice. Accrued income is recognised to account for income earned but not yet invoiced which is not dependent on any future performance. The performance obligation for discretionary fund management services is also performed over time with the revenue recognised as the obligation is performed. The Group generally receives discretionary fund management services fees based on the percentage of the assets under management. The percentage varies depending on the level and nature of assets under management. Discretionary fund management services fees are deducted from assets. Deducted fees are generally calculated, recognised and collected on a daily basis.
+
+Through its subsidiary Interactive Investor Services Limited (ii), the Group offers a subscription-based trading and direct investing platform. The services that ii offers are provided on both a point in time and an over time basis.
+
+Customers pay monthly account fees as part of ii's subscription model. Account fees are invoiced monthly and are payable immediately from the customer's account, with receivables recognised if there are insufficient funds available. The account fees cover the performance obligation to provide the customer with access to the platform and custody services. For certain subscription levels, the account fee also entitles the customer to receive trading credits which can be redeemed against future trades. For these subscription levels, the account fees also cover ii's performance obligation to perform these future trades. In accordance with IFRS 15, the account fees are allocated to the two performance obligations. Access to the platform and custody services is provided over time and the account fees revenue allocated to this performance obligation is recognised over the calendar month as the customer receives the benefit of these services. Trading credits need to be used by the customer within 31 days of the credit arising, therefore the revenue is recognised over the calendar month as a reasonable approximation of when the performance obligation is satisfied at a point in time within the month.
+
+Annual report 2023 | abrdn.com | 183
+
+---
+
+# Group financial statements continued
+
+In addition, ii performs additional trades and foreign exchange transactions for its customers. These are performed at a point in time with the revenue recognised at the trade date of the transaction. Trading fees for transactions not covered by trading credits are generally charged on a flat fee basis with larger international share trades charged based on a percentage of the trade value. These are added to the cost of purchasing shares or deducted from the proceeds from the sale of shares with receivables recognised for unsettled trades. For foreign exchange trades, ii receives a margin (varying depending on the size of the transaction) via a third party in the month following the transaction, with receivables recognised prior to the payment.
+
+In addition, ii is entitled to receive treasury income in relation to its performance obligations to the customer. Treasury income is the interest earned on cash balances less the interest paid to customers based on the client money balances held with third party banks and by reference to the applicable interest rates. Treasury income is recognised on an over time basis with accrued income recognised for unpaid interest.
+
+## (b) Cost of sales
+The following table provides a breakdown of total cost of sales.
+
+| | 2023<br>£m | 2022<br>£m |
+|---|---|---|
+| **Cost of sales** | | |
+| Commission expenses | 64 | 66 |
+| Other cost of sales | 12 | 16 |
+| **Total cost of sales** | 76 | 82 |
+
+Other cost of sales includes amounts payable to employees and others relating to carried interest and performance fee revenue. Cost of sales for each of the Group's reportable segments is disclosed in Section (c) below.
+
+## (c) Reconciliation of revenue from contracts with customers to net operating revenue as presented in the analysis of adjusted operating profit
+The following table provides a reconciliation of revenue from contracts with customers as presented in the consolidated income statement to net operating revenue as presented in the analysis of adjusted operating profit (see Note 2(b) for each of the Group's reportable segments).
+
+| 2023 | Investments<br>£m | Adviser<br>£m | ii<br>£m | Other<br>£m | Total<br>£m |
 |---|---|---|---|---|---|
-| Currency translation differences | (9) | (1) | - | (1) | (10) |
-| Cash flow hedges | 16 | (0) | 13 | 13 | 29 |
-| **TAX IMPACTS ON RECYCLABLE COMPONENTS OF COMPREHENSIVE INCOME**(b) | **6** | **(1)** | **13** | **12** | **19** |
-| Financial assets at fair value through other comprehensive income | (0) | - | N/A | - | (0) |
-| Actuarial gains and losses on post‑employment benefits | 26 | (7) | N/A | (7) | 19 |
-| **TAX IMPACTS ON NON‑RECYCLABLE COMPONENTS OF COMPREHENSIVE INCOME** | **26** | **(7)** | **-** | **(7)** | **19** |
+| Revenue from contracts with customers | 946 | 226 | 293 | 9 | 1,474 |
+| Cost of sales | (68) | (2) | (6) | - | (76) |
+| Net operating revenue | 878 | 224 | 287 | 9 | 1,398 |
 
-## D. Deferred taxes recognized in the consolidated balance sheet
+| 2022 | Investments<br>restated¹<br>£m | Adviser<br>£m | ii<br>£m | Other<br>restated¹<br>£m | Total<br>£m |
+|---|---|---|---|---|---|
+| Revenue from contracts with customers | 1,137 | 187 | 204 | 10 | 1,538 |
+| Cost of sales | (77) | (2) | (3) | - | (82) |
+| Net operating revenue | 1,060 | 185 | 201 | 10 | 1,456 |
 
-Deferred taxes break down as follows by type:
+1. The breakdown for the year ended 31 December 2022 has been restated in line with the changes to the Group's reportable segments. Refer Note 2 for further details.
 
-| in millions of euros | December 31, 2023 | Impact on income | Impact on equity | Change in consolidation scope | Exchange differences and other | December 31, 2024 |
-|---|---|---|---|---|---|---|
-| Fixed assets | (67) | 6 | - | (54) | 5 | (111) |
-| Other assets | (79) | (27) | - | (1) | 4 | (104) |
-| Employee benefit obligations | 22 | (0) | (7) | - | 0 | 15 |
-| Provisions for contingencies and charges | 23 | 13 | - | 4 | (2) | 38 |
-| Other payables | 8 | 18 | - | - | 0 | 27 |
-| Derivatives (metal exchange) | (5) | 6 | 14 | - | 0 | 15 |
-| Unused tax losses, non‑deductible interest and tax credits | 643 | (12) | - | - | (9) | 622 |
-| **DEFERRED TAX ASSETS (GROSS) AND DEFERRED TAX LIABILITIES** | **545** | **4** | **7** | **(52)** | **(1)** | **503** |
-| Unrecognized deferred tax assets | (545) | 1 | (0) | - | 8 | (536) |
-| **NET DEFERRED TAXES** | **0** | **4** | **7** | **(52)** | **6** | **(33)** |
-| ➔ of which recognized deferred tax assets | 129 | - | - | - | - | 117 |
-| ➔ of which deferred tax liabilities | 129 | - | - | - | - | 151 |
-| **NET DEFERRED TAXES EXCLUDING ACTUARIAL GAINS AND LOSSES** | **(22)** | - | - | - | - | **(48)** |
+There are no differences between net operating revenue as presented in the Consolidated income statement and the analysis of Group adjusted profit by segment.
 
-At December 31, 2024, deferred tax assets in an amount of 536 million euros were not recognized as the Group deemed that their recovery was not sufficiently probable (545 million euros at December 31, 2023). These mainly concern the tax losses described in Note 11.E below.
-
-## E. Unused tax losses
-
-For countries in a net deferred tax asset position after offsetting deferred tax assets and deferred tax liabilities arising from temporary differences, the net deferred tax asset recognized in the consolidated balance sheet is determined based on updated business plans (see Note 1.E.f).
-
-The line "Unused tax losses, deductible interest and tax credits" (see Note D) consisted of 508 million euros in unused tax losses, 95 million euros in non‑deductible interest and 19 million euros in tax credits at December 31, 2024.
-
-Unused tax losses carried forward represented potential tax benefits for the Group of 508 million euros at December 31, 2024 (532 million euros at December 31, 2023). The main entities concerned are:
-
-• French subsidiaries, in an amount of 271 million euros (254 million euros at December 31, 2023), of which 9 million euros were recognized in deferred tax assets at December 31, 2024 (8 million euros at December 31, 2023).
-
-• German subsidiaries, in an amount of 179 million euros (184 million euros at December 31, 2023), of which 30 million euros were recognized in deferred tax assets at December 31, 2024 (26 million euros at December 31, 2023).
-
-Deferred tax assets recognized in France and Germany are consistent with the Group's analysis based on the latest business plans and the reorganization measures implemented in the subsidiaries concerned.
-
-(a) The tax effects relating to cash flow hedges as well as the gains and losses generated during the year and amounts recycled to the income statement are presented in the consolidated statement of changes in equity in the "Changes in fair value and other" column.
-(b) These taxes will be recycled to the income statement in the same periods as the underlying transactions to which they relate (see Notes 1.C and F.N).
-
-NEXANS | UNIVERSAL REGISTRATION DOCUMENT 2024 | 28
+184 | abrdn.com | Annual report 2023
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+# (d) Contract receivables, assets and liabilities
+The Group has recognised the following receivables, assets and liabilities in relation to contracts with customers:
 
-## Consolidated financial statements
-
-The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
-
-The potential tax benefits deriving from unused tax losses carried forward break down as follows by expiration date:
-
-| At December 31, in millions of euros | 2024 | 2023 |
-| --- | ---: | ---: |
-| Year Y+1 | 3 | 2 |
-| Years Y+2 to Y+4 | 7 | 11 |
-| Year Y+5 and subsequent years | 598 | 620 |
-| **TOTAL** | **608** | **633** |
-
-(a) This line includes the potential tax benefits derived from unused tax losses that may be carried forward indefinitely.
-
-## Taxable temporary differences relating to interests in subsidiaries, joint ventures and associates
-
-No deferred tax liabilities have been recognized in relation to temporary differences where the Group is able to control the timing of the reversal of the temporary difference and it is probable that the temporary difference will not reverse in the foreseeable future or where the reversal of the temporary difference will not give rise to a significant tax payment.
-
-## Note 12. Earnings per share
-
-The following table presents a reconciliation of basic earnings per share and diluted earnings per share:
-
-| | 2024 | 2023 |
-| --- | ---: | ---: |
-| **NET INCOME ATTRIBUTABLE TO OWNERS OF THE PARENT**(a) | 279 | 221 |
-| Average number of shares outstanding | 43,682,327 | 43,601,217 |
-| Average number of dilutive instruments(b) | 1,336,584 | 1,358,282 |
-| Average number of diluted shares | 45,018,910 | 44,959,499 |
-| **NET INCOME ATTRIBUTABLE TO OWNERS OF THE PARENT PER SHARE** | | |
-| Basic earnings per share(c) | 6.39 | 5.08 |
-| Diluted earnings per share(c) | 6.20 | 4.92 |
-
-(a) In millions of euros. In 2024 and 2023, attributable net income corresponded to adjusted net income attributable to owners of the parent.
-(b) Dilutive instruments in 2024 and 2023 corresponded to free share and performance share rights.
-(c) In euros.
-
-29 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS 05
-
-Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
-
-## Note 13.    Assets held for sale and discontinued operations
-
-In November 2023, the Group entered into an sale agreement for AmerCable entity, a North American power instrumentation and control cable entity in the resources sector (oil and gas, mining) to Mattb based on a value of 140 million US dollar.
-
-With its completion expected within the next twelve months, this program meets the criteria for Assets held for sale within the meaning of IFRS 5.
-
-As a result, the balance sheet contribution of the Amercable entity is presented in Assets and asset groups held for sale as of December 31, (states in euro).
-
-December 31, 2024: 
-Its activities are presented in the "Industry & Solutions" section of the segment reporting, and contribute 256 million euros to net sales at current metal prices and 21 million euros to adjusted EBITDA in 2024.
-
-In accordance with IFRS 5, the Group has valued these asset groups at the lower of their carrying amount and fair value less costs, without recognition of an impairment loss for the disposal.
-
-| (At December 31, in millions of euros) | 2024 |
-|---------------------------------------|------|
-| Net property, plant and equipment and intangible assets | 79 |
-| Inventories and work in progress | 38 |
-| Trade receivables | 13 |
-| Other assets | 1 |
-| TOTAL ASSETS AND GROUPS OF ASSETS HELD FOR SALE | 131 |
-| Trade payables | (12) |
-| Other liabilities | (18) |
-| LIABILITIES RELATED TO GROUPS OF ASSETS HELD FOR SALE | (29) |
-
-As of December 31, 2024, the conversion reserves related to these entities represent a loss of 25 million euros.
-The sale of Amercable was finalized on January 2, 2025, see Note 30.
-
-## Note 14.    Goodwill
-
-The evolution of goodwill in 2024 (490 million euros at December 31, 2024, versus 294 million euros at December 31, 2023) was primarily attributable to the acquisition of the groupe La Triveneta Cavi and to a lesser extent to changes in exchange rates over the period as several of the Group's goodwill items are expressed in foreign currencies as they relate to the Australian (Olex), South American (Madeco, Centelsa) and North American (AmerCable) acquisitions.
-
-All goodwill are tested for impairment as soon as there is an indication of impairment and at least once a year according to the methods and assumptions described in Note 7. No impairment was recognized under goodwill at December 31, 2024 and December 31, 2023.
-
-### Goodwill associated with the acquisition of the La Triveneta Cavi Group
-
-The acquisition was paid mainly by proceeds of the bonds issued in May 2024, for an acquisition cost of the shares of 577 million euros.
-
-The amount paid net of the cash acquired amounted to 514 million euros at December 31, 2024.
-
-The provisional goodwill recognized before allocation to identifiable assets and liabilities amounted to 334 million euros on the date of entry into the scope of consolidation.
-
-NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024   30
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-**Consolidated financial statements**
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-The table below shows the main elements used to determine the goodwill before allocation:
-
-| in millions of euros | La Triveneta Cavi Acquisition 2024 |
-|----------------------|-----------------------------------|
-| Purchase price (a) | 577 |
-| Purchase price of shares (1) | 577 |
-| **Assets** | |
-| Non-current assets (including financial assets) | 72 |
-| Inventories | 82 |
-| Receivables | 169 |
-| Cash and cash equivalents | 66 |
-| Deferred taxes assets | - |
-| Other assets | (4) |
-| **Liabilities** | |
-| Provisions | 2 |
-| Deferred taxes liabilities | - |
-| Financial liabilities | 3 |
-| Other liabilities | 138 |
-| Net attributable assets acquired (2) | 243 |
-| **GOODWILL (1) - (2)** | **334** |
-
-(a) The entire acquisition price was paid in cash and cash equivalents.
-
-The corresponding acquisition costs amounted to 12 million euros in 2024 and were recognized in the income statement in accordance with IFRS 3. In accordance with the Group's accounting principles (see Note 1.D), they are presented on the specific "Acquisition-related costs (completed and planned acquisitions)" line within "Other operating income and expenses" (see Note 7).
-
-| in millions of euros | References | La Triveneta Cavi Acquisition 2024 |
-|----------------------|------------|-----------------------------------|
-| **GOODWILL BEFORE PURCHASE PRICE ALLOCATION AS OF MAY 31, 2024** | | **334** |
-| Allocation to property, plant and equipment | (1) | 63 |
-| Allocation to trademarks | (2) | 33 |
-| Allocation to customer relationships | (2) | 102 |
-| Allocation to inventories | (3) | 4 |
-| Provisions | (4) | (18) |
-| Net deferred tax liabilities | (5) | (52) |
-| **GOODWILL AFTER PURCHASE PRICE ALLOCATION AS OF MAY 31, 2024** | | **201** |
-
-(1) During the 2024 financial year, the Group carried out an assessment at the acquisition date of the fair value of all tangible assets of the group: land, buildings and industrial equipment in the various countries of establishment. This assessment was carried out in particular with the assistance of consulting firms specializing in the real estate sector.
-
-(2) Nexans also carried out an assessment of the intangible assets of the La Triveneta Cavi group over the same period. Two significant categories of intangible assets were identified and valued with the assistance of specialist consulting firms:
-- Brands, which were considered to have a defined life of 20 years
-- Customer relationships, considered to have a defined life of 14 years
-
-(3) Valuation of inventories at their fair value at the date of acquisition.
-
-(4) The Group has identified the fair value of liabilities and contingent liabilities at the acquisition date, taking into account the risks shared by the purchaser and the seller, in particular based on liability guarantee clauses.
-
-(5) Deferred taxes recognized as part of the allocation of the purchase price: they cover deferred taxes recognized on the allocations of goodwill to tangible and intangible assets acquired as well as to liabilities and contingent liabilities identified at the acquisition date.
-
-Please note that this provisional goodwill will become definitive at the end of a period of 12 months following the acquisition, i.e. May 31, 2025.
-
-31 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## Consolidated financial statements                                              05
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-### Note 15. Intangible assets
-
-| in millions of euros | Trademarks | Customer relationships | Software | Intangible assets in progress | Other | Total |
-|:---------------------|:----------:|:----------------------:|:--------:|:----------------------------:|:-----:|:-----:|
-| Gross value | 80 | 257 | 119 | 16 | 66 | 537 |
-| Accumulated amortization and impairment | (8) | (181) | (106) | - | (32) | (327) |
-| **NET VALUE AT JANUARY 1, 2024** | **71** | **76** | **13** | **16** | **34** | **210** |
-| Acquisitions and capitalizations | - | - | 2 | 21 | 0 | 24 |
-| Disposals | - | - | - | - | (0) | (0) |
-| Amortization expense | (2) | (13) | (8) | - | (4) | (26) |
-| Impairment losses, net of reversals⁽ᵃ⁾ | - | - | - | - | - | - |
-| Changes in Group structure | 33 | 102 | 0 | 0 | (0) | 136 |
-| Exchange differences and other | (21) | (4) | 6 | (5) | 1 | (23) |
-| **NET VALUE AT DECEMBER 31, 2024** | **82** | **161** | **13** | **32** | **31** | **320** |
-| Gross value | 95 | 316 | 131 | 32 | 68 | 642 |
-| Accumulated amortization and impairment | (13) | (154) | (117) | - | (37) | (322) |
-
-⁽ᵃ⁾ See Note 7
-
-The line "Exchange differences and others" includes in particular the presentation in IFRS 5 of Amercable's intangible assets cf. **Note 13.**
-
-### Note 16. Property, plant and equipment
-
-| in millions of euros | Land and buildings | Technical installations and tools | Rights of use | Property, plant and equipment in progress | Other | Total |
-|:---------------------|:------------------:|:-------------------------------:|:-------------:|:----------------------------------------:|:-----:|:-----:|
-| Gross value | 1,005 | 2,369 | 204 | 492 | 300 | 4,370 |
-| Accumulated amortization and impairment | (582) | (1,699) | (76) | (1) | (158) | (2,516) |
-| **NET VALUE AT JANUARY 1, 2024** | **423** | **670** | **128** | **491** | **143** | **1,854** |
-| Acquisitions and capitalizations | 4 | 42 | 89 | 296 | 16 | 446 |
-| Disposals | (0) | (10) | 0 | (1) | (0) | (12) |
-| Amortization expense | (36) | (103) | (33) | - | (15) | (188) |
-| Impairment losses, net of reversals⁽ᵃ⁾ | - | 3 | - | - | - | 3 |
-| Changes in Group structure | 43 | 77 | - | 10 | 5 | 135 |
-| Exchange differences and other | 14 | 54 | (16) | (108) | 12 | (44) |
-| **NET VALUE AT DECEMBER 31, 2024** | **448** | **732** | **168** | **689** | **159** | **2,196** |
-| Gross value | 1,058 | 2,515 | 252 | 690 | 332 | 4,847 |
-| Accumulated amortization and impairment | (610) | (1,783) | (83) | (1) | (172) | (2,651) |
-
-⁽ᵃ⁾ See Note 7
-
-Right-of-use assets primarily concern real estate leases for 150 million euros at December 31, 2024 (114 million euros at December 31, 2023).
-
-NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024    32
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-Consolidated financial statements
-
-The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.
-
-## Note 17. Investments in associates – Summary of financial data
-
-### A. Equity value
-
-| At December 31, in millions of euros | % control | 2024 | 2023 |
-|:----------------------------------|:--------:|-----:|-----:|
-| Qatar International Cable Company | 30.33% | 14 | 12 |
-| Colada Continua | 41.00% | 5 | 4 |
-| RecyCâbles | 36.50% | (0) | 4 |
-| **TOTAL** | | **19** | **19** |
-
-### B. Financial data relating to associates
-
-The information below is presented in accordance with the local GAAP of each associate as full balance sheets and income statements prepared in accordance with IFRS were not available at the date on which the Group's consolidated financial statements were published.
-
-#### CONDENSED BALANCE SHEET
-
-| At December 31, in millions of euros | 2024 | 2023 |
-|:----------------------------------|-----:|-----:|
-| Property, plant and equipment and intangible assets | 51 | 48 |
-| Current assets | 91 | 77 |
-| **TOTAL CAPITAL EMPLOYED** | **142** | **125** |
-| Equity | 59 | 65 |
-| Net financial debt | (29) | (18) |
-| Other payables | 111 | 78 |
-| **TOTAL FINANCING** | **142** | **125** |
-
-#### CONDENSED INCOME STATEMENT
-
-| in millions of euros | 2024 | 2023 |
-|:-------------------|-----:|-----:|
-| Revenue at current metal prices | 392 | 386 |
-| Operating income | (1) | 5 |
-| Net income | (7) | 3 |
-
-## Note 18. Other non-current assets
-
-| At December 31, in millions of euros, net of impairment | 2024 | 2023 |
-|:--------------------------------------------------|-----:|-----:|
-| Long-term loans and receivables | 83 | 79 |
-| Shares in non-consolidated companies | 19 | 24 |
-| Pension plan assets | 85 | 79 |
-| Derivative instruments | 25 | 36 |
-| Other | 13 | 17 |
-| **TOTAL** | **225** | **234** |
-
-33 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-## Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-The maturity schedule for non-current assets at December 31, 2024 is presented below, excluding shares in non-consolidated companies and pension plan assets:
-
-| At December 31, in millions of euros | Value in the consolidated balance sheet | One to five years | Due beyond five years |
-|--------------------------------------|---------------------------------------|-------------------|----------------------|
-| Long-term loans and receivables      | 83                                    | 78                | 5                    |
-| Derivative instruments               | 25                                    | 25                |                      |
-| Other                                | 13                                    | 3                 | 11                   |
-| **TOTAL**                            | **121**                               | **105**           | **16**               |
-
-Movements in impairment losses recognized for other non-current assets carried at net realizable value were as follows:
-
-| in millions of euros | Long-term loans and receivables | Other |
-|----------------------|--------------------------------|-------|
-| **DECEMBER 31, 2023**| 17                             | 0     |
-| Additions            | 3                              | -     |
-| Disposals/reversals  | -                              | -     |
-| Other                | -                              | (0)   |
-| **DECEMBER 31, 2024**| 20                             | 0     |
-
-*(a) The "Other" line corresponds to reclassifications that had no income statement impact and changes in Group structure.*
-
-## Note 19. Inventories and work in progress
-
-| At December 31, in millions of euros | 2024  | 2023  |
-|--------------------------------------|-------|-------|
-| Raw materials and supplies           | 579   | 653   |
-| Industrial work in progress          | 368   | 317   |
-| Finished products                    | 392   | 418   |
-| **GROSS VALUE**                      | **1,339** | **1,387** |
-| Impairment                           | (60)  | (68)  |
-| **NET VALUE**                        | **1,279** | **1,319** |
-
-## Note 20. Trade receivables
-
-| At December 31, in millions of euros | 2024  | 2023  |
-|--------------------------------------|-------|-------|
-| Gross value                          | 1,227 | 882   |
-| Impairment                           | (30)  | (25)  |
-| **NET VALUE**                        | **1,197** | **856** |
-
-Receivables securitization and factoring programs are discussed in **Note 29.A**.
-Changes in provisions for impairment of trade receivables can be analyzed as follows (see **Note 29.D** for details on the Group's policy for managing customer credit risk):
-
-| in millions of euros | At January 1 | Additions | Utilizations | Reversals | Changes in Group structure | Other (currency exchange differences…) | At December 31 |
-|----------------------|--------------|-----------|--------------|-----------|----------------------------|---------------------------------------|---------------|
-| 2024                 | 25           | 4         | (1)          | (5)       | 8                          | (1)                                   | 30            |
-| 2023                 | 23           | 6         | (0)          | (1)       | (2)                        | (1)                                   | 25            |
-
-NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024 34
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## Consolidated financial statements
-
-The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
-
-Receivables more than 30 days past due at the year-end but not written down were as follows:
-
-in millions of euros | Between 31 and 90 days past due | More than 90 days past due
---- | --- | ---
-**DECEMBER 31, 2024** | 9 | 7
-December 31, 2023 | 10 | 9
-
-At December 31, 2024 and 2023, the remaining receivables past due but not written down mainly related to leading industrial groups, major public and private electricity companies and telecommunications operators, and major resellers.
-
-## Note 21. Other current assets
-
-At December 31, in millions of euros | 2024 | 2023
---- | --- | ---
-Prepaid and recoverable income taxes | 43 | 34
-Other tax receivables | 91 | 84
-Cash deposits paid | 8 | 8
-Prepaid expenses | 23 | 26
-Other receivables, net | 45 | 84
-**NET VALUE** | **211** | **235**
-
-Cash deposited to meet margin calls on copper forward purchases traded on the LME whose fair value was negative at the year-end (see Note 29.C) is presented under "Cash deposits paid" in the above table and amounted to 5 million euros at December 31, 2024 (6 million euros at December 31, 2023).
-
-Since December 31, 2020, other receivables net include cash deposits placed by the Group's entity in Lebanon with local banks due to the crisis situation in the country, see Note 26.
-
-## Note 22. Change in working capital requirement
-
-The change in working capital mentioned in the statement of cash flows in 2024 is detailed below:
-
-At December 31, in millions of euros | 2024 | 2023
---- | --- | ---
-Inventories and work in progress | 129 | 70
-Trade receivables and other receivables | (184) | 42
-Trade payables and other debts | 231 | 151
-**DECREASE (INCREASE) IN WORKING CAPITAL REQUIREMENT** | **176** | **262**
-
-## Note 23. Equity
-
-### A. Composition of the share capital
-
-At December 31, 2024, Nexans S.A.'s capital stock comprised 43,753,380 fully paid-up shares, each with a par value of 1 euro and a single voting right (43,753,380 shares at December 31, 2023).
-
-Nexans manages its equity with a long-term perspective aimed at ensuring the Group's liquidity, optimizing its financial structure and allowing its shareholders to benefit from strong cash flow generation.
-
-The decision elements may be net profit per share targets, future cash flow forecasts or balance sheet balance in order to meet net debt criteria (leverage & gearing ratios).
-
-### B. Distribution
-
-At the Shareholders' Meeting, shareholders will be invited to vote on the distribution of a dividend of 2.60 euros per share, which taking into account the 43,753,380 ordinary shares comprising the Company's share capital at December 31, 2024, will represent a total distribution of 114 million euros.
-
-If the Company holds any treasury shares at the time the dividend is paid, the amount corresponding to unpaid dividends on these shares will be allocated to retained earnings. The total amount of the dividend could be increased in order to reflect the number of additional shares that may be issued between January 1, 2025 and the date on which the Shareholders' Meeting is called to approve the dividend payment.
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## Consolidated financial statements
-
-The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
-
-## B. CHANGE IN OUTSTANDING FREE SHARES AND PERFORMANCE SHARES
-
-| | Number of shares |
-|---|---:|
-| **SHARES OUTSTANDING AT BEGINNING OF YEAR** | **1,325,345** |
-| Shares granted during the year | 330,200 |
-| Shares canceled during the year | (92,241) |
-| Shares vested during the year(a) | (261,099) |
-| **SHARES OUTSTANDING AT THE YEAR-END** | **1,302,205** |
-
-(a) Including 253,409 shares allocated from treasury stock
-
-## C. VALUATION OF FREE SHARES AND PERFORMANCE SHARES
-
-The assumptions applied to value the shares impacting income for 2024 and 2023 were as follows:
-
-| Grant date | Share price at grant date (in euros) | Vesting period | Volatility (in %)(a) | Risk-free interest rate (in %) | Dividend rate (in %) | Fair value of each share (in euros) |
-|---|---:|---|---:|---:|---:|---|
-| March 19, 2019 | 28.22 | 4 years | 35.00 % | -0.22 % | 2.00 % | 10.90-26.05 |
-| March 17, 2020 | 24.77 | 4 years | 37.63 % | -0.32 % | 2.00 % | 7.11-22.87 |
-| March 18, 2021 | 70.85 | 4 years | 44.03 % | -0.55 % | 2.00 % | 42.40-65.40 |
-| September 30, 2021 | 79.60 | 3-4 years | 41.31 % | -0.58 % | 2.00 % | 45.46-74.28 |
-| November 8, 2021 | 87.20 | 4 years | 41.11 % | -0.58 % | 2.00 % | 51.70-80.50 |
-| March 17, 2022 | 84.50 | 4 years | 40.74 % | 0.03 % | 2.00 % | 48.87-78.00 |
-| October 25, 2022 | 98.80 | 3-4 years | 40.74 % | 2.30 % | 2.00 % | 70.44-92.32 |
-| March 16, 2023 | 65.30 | 4 years | 36.33 % | 3.16 % | 2.00 % | 21.03-61.50 |
-| October 24, 2023 | 65.30 | 3-4 years | 36.33 % | 3.16 % | 2.00 % | 21.03-61.50 |
-| March 20, 2024 | 95.00 | 4 years | 35.41 % | 2.81 % | 2.00 % | 54.58-87.70 |
-| October 29, 2024 | 138.80 | 3-4 years | 37.62 % | 2.43 % | 2.00 % | 105.22-129.70 |
-
-(a) Only for shares subject to a stock market performance condition
-
-The fair value of free shares and performance shares is recorded as a payroll expense from the grant date to the end of the vesting period, with a corresponding adjustment to equity. In the income statement, this expense amounted to 19 million euros in 2024 (compared to an expense of 18 million euros in 2023) including the expense related to the employee share ownership plan.
-
-## E. Put options granted to non-controlling interests
-
-In September 2024, Nexans made a commitment to acquire the shares of the minority shareholders of Nexans Continuous Copper Casting and Refining, a company dedicated to the manufacture of copper wire from cathodes and recycled copper. This commitment is considered as a financial liability in accordance with IAS 32. This call / put option on 30% of the shares has an estimated maturity of 4y. It was recognized in financial liabilities in the amount of 30 million euros, against the Group's consolidated reserves.
-
-At December 31, 2024, the financial debt represented 30 million euros.
-
-The dividends paid on shares covered by this call / put option granted to non-controlling interests are analyzed as earn-outs and increase the amount of goodwill.
-
-## 37 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-Consolidated financial statements 05
-
-The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.
-
-## C. Significant events of the year
-
-Over the year actuarial gains are mainly due to the performance of invested funds for an amount of 14 million euros. Actuarial losses are linked to the decrease in discount rates, were offset by experience gains generated over the period. The latter are explained by the non-revaluation of annuities in Germany compared to the assumption of early revaluation. As for actuarial gains for the financial year 2023, they were mainly due to the decrease in discount rates partially offset by the performance of invested funds.
-
-Two specific transactions were carried out in 2024, in Canada and the United States:
-* In Canada, an annuity buyout transaction was carried out for one of the main plans eliminating the risk towards the beneficiaries of this plan. Thus the commitment relating to this plan was transferred almost entirely to an insurance company for a value of 30 million euros. This transfer was fully financed by the assets covering the plan, for a net impact that was not significant on income.
-* In the United States, part of the commitment was settled by a lump sum payment offered to participants for 7 million euros, largely covered by the assets covering the plan. The impact on income is not significant.
-
-The Group's employer contributions relating to defined benefit plans are estimated at 9 million euros for 2025.
-
-Lastly, the other pension plans from which the Group's employees benefit correspond to defined-contribution plans, for which the Group has no commitment beyond the payment of contributions, which are recognized as expenses for the period. Contributions under these plans are recognized immediately as an expense. The amount of contributions paid in relation to these plans amounted to 126 million euros in 2024 (105 million euros in 2023).
-
-## D. Analysis of actuarial gains and losses
-
-Actuarial gains and losses arising on the Group's defined benefit obligation (DBO) can be analyzed as follows:
-
-| | 2024 | | 2023 | |
-|---|---|---|---|---|
-| | in millions of euros | % of plan assets | in millions of euros | % of plan assets |
-| Discount rate | 11 | 2% | 18 | 3% |
-| Salary increases | 0 | 0% | 0 | 0% |
-| Mortality | (0) | 0% | 0 | 0% |
-| Headcount turnover | 0 | 0% | - | 0% |
-| Inflation rate | (2) | 0% | 3 | 0% |
-| Other changes in assumptions | 0 | 0% | 3 | 0% |
-| (GAINS)/LOSSES FROM CHANGES IN ASSUMPTIONS | 10 | 2% | 24 | 4% |
-| (GAINS)/LOSSES FROM PLAN AMENDMENTS | - | 0% | - | 0% |
-| (GAINS)/LOSSES FROM EXPERIENCE ADJUSTMENTS | (14) | -3% | 7 | 1% |
-| OTHER | - | 0% | - | 0% |
-| TOTAL (GAINS)/LOSSES ARISING DURING THE YEAR | (5) | -1% | 31 | 5% |
-
-## E. Breakdown of plan assets by category
-
-The Group's portfolio of plan assets breaks down as follows:
-
-| At December 31 | 2024 | | 2023 | |
-|---|---|---|---|---|
-| | in millions of euros | % of plan assets | in millions of euros | % of plan assets |
-| Shares(a) | 143 | 32% | 153 | 33% |
-| Bonds and other fixed income products(a) | 156 | 35% | 163 | 35% |
-| Real estate | 104 | 23% | 105 | 22% |
-| Cash and cash equivalents | 7 | 2% | 7 | 2% |
-| Other | 34 | 8% | 37 | 8% |
-| FAIR VALUE OF PLAN ASSETS | 445 | 100% | 465 | 100% |
-
-(a) All of the instruments recognized under "Equities" and "Bonds and other fixed income products" are listed.
-
-NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024 40
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## 05 Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-### F. Sensitivity analyses
-
-The present value of the Group's obligation for pensions and other retirement benefits is sensitive to changes in discount rates. A 50 basis-point decrease in the discount rates applied would have had the following impacts on the present value of the Group's defined benefit obligation:
-
-| At December 31 | 2024 |  |  |
-| --- | :---: | :---: | :---: |
-|  | **Actual value in millions of euros** | **Adjusted value in millions of euros** | **% change** |
-| Europe | 429 | 452 | 5.19% |
-| North America | 111 | 116 | 4.70% |
-| Asia | 14 | 14 | 3.36% |
-| Other countries | 15 | 15 | 2.59% |
-| **TOTAL** | **569** | **597** | **4.99%** |
-
-The present value of the Group's obligation for pensions and other retirement benefits is also sensitive to changes in inflation rates. Depending on the type of plan concerned, changes in inflation rates can affect both the level of future salary increases and the amounts of annuity payments. A 50 basis-point increase in the inflation rates used would have had the following impacts on the present value of the Group's defined benefit obligation (assuming that the discount rates applied remain constant):
-
-| At December 31 | 2024 |  |  |
-| --- | :---: | :---: | :---: |
-|  | **Actual value in millions of euros** | **Adjusted value in millions of euros** | **% change** |
-| Europe | 429 | 437 | 1.78% |
-| North America | 111 | 111 | 0.00% |
-| Asia | 14 | 14 | 0.00% |
-| Other countries | 15 | 15 | 1.08% |
-| **TOTAL** | **569** | **576** | **1.37%** |
-
-### G. Characteristics of the main defined benefit plans and associated risks
-
-The Group's main defined benefit plans are in Switzerland (39% of total benefit obligations at December 31, 2024) and Germany (27% of total benefit obligations at December 31, 2024).
-
-**SWITZERLAND**
-
-The pension plan of Nexans Suisse S.A. is a contribution-based plan with a guaranteed minimum rate of return and a fixed conversion rate on retirement. It offers benefits that comply with the Swiss Federal law on compulsory occupational benefits (the "LPP/BVG" law).
-
-As specified in the LPP/BVG law, the plan has to be fully funded. Therefore, if there is a funding shortfall, measures must be taken to restore the plan to a fully funded position, such as by the employer and/or employees contributing additional financing and/or by reducing the benefits payable under the plan.
-
-The pension fund is established as a separate legal entity. This foundation is responsible for the management of the plan and is composed of an equal number of employer and employee representatives. The strategic allocation of plan assets must comply with the investment guidelines put in place by the Foundation, which are aimed at limiting investment risks.
-
-In addition, Nexans Suisse S.A. is exposed to a lifetime risk concerning the commitment. Indeed, almost three-quarters of commitments relate to retirees.
-
-The life of the plan is approximately 10 years.
-
-**GERMANY**
-
-Nexans Deutschland GmbH's most significant plan is a defined benefit plan that has been closed to new entrants since January 2005. For former employees currently receiving benefits under the plan (and plan members who have not yet retired), pension benefits are calculated based on their vested rights as of the date the plan was closed. This plan is not funded.
-
-Members are also covered against the risk of disability. In general, any disability payments due will be made on top of the amount of future pension benefits. In addition, the plan provides for reversionary benefits.
-
-In addition, Nexans Deutschland GmbH is exposed to a lifetime risk and pension indexation risk concerning the commitment. In fact, nearly 90% of commitments relate to retirees.
-
-The life of the plan is approximately 8 years.
-
-## 41 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-## Consolidated financial statements
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-## Note 25. Provisions
-
-| At December 31, in millions of euros | 2024 | 2023 |
-|:----------------------------------|----:|----:|
-| Accrued contract costs | 85 | 87 |
-| Provisions for reorganization costs | 17 | 22 |
-| Other provisions | 107 | 91 |
-| TOTAL | 208 | 200 |
-
-The movements in these provisions were as follows:
-
-| in millions of euros | Total | Accrued contract costs | Provisions for reorganization | Other provisions |
-|:---------------------|-----:|-----:|-----:|-----:|
-| AT DECEMBER 31, 2022 | 177 | 70 | 25 | 82 |
-| Additions | 78 | 48 | 16 | 14 |
-| Reversals (utilized provisions) | (30) | (11) | (16) | (3) |
-| Reversals (surplus provisions) | (30) | (22) | (2) | (5) |
-| Business combinations | - | - | - | - |
-| Exchange differences and other | 6 | 3 | (0) | 3 |
-| AT DECEMBER 31, 2023 | 200 | 87 | 22 | 91 |
-| Additions | 51 | 37 | 8 | 6 |
-| Reversals (utilized provisions) | (31) | (16) | (12) | (2) |
-| Reversals (surplus provisions) | (24) | (20) | (1) | (3) |
-| Business combinations | 14 | - | - | 14 |
-| Exchange differences and other | (1) | (4) | 0 | 2 |
-| AT DECEMBER 31, 2024 | 208 | 85 | 17 | 107 |
-
-The above provisions have not been discounted as the effect of discounting would not have been generally material.
-
-Provisions for accrued contract costs are primarily set aside by the Group as a result of its contractual responsibilities particularly relating to customer warranties, loss-making contracts, and penalties under commercial contracts (see Note 32). They include provisions for construction contracts in progress where applicable, in accordance with the method described in Note 1.E.a.
-
-The reorganization costs amounted to 17 million euros in 2024. They mainly include social costs and external consultant expenses, including 10 million euros related to the transformation of Electrification activities (7 million euros in 2023) and 3 million euros related to the implementation of operational tools and processes preparing the segregation of the Electrification and non-Electrification activities (9 million euros in 2023).
-
-As was the case in previous years, wherever possible, the reorganization plans implemented by the Group in 2024 included assistance measures negotiated with employee representative bodies as well as measures aimed at limiting lay-offs and facilitating redeployment.
-
-The "Other provisions" column mainly includes provisions set aside for antitrust investigations, which amounted to 62 million euros at December 31, 2024 (62 million euros at December 31, 2023) (see Note 31).
-
-Surplus provisions are reversed when the related contingency no longer exists or has been settled for a lower amount than the estimate made based on information available at the previous period-end (including provisions for expired customer warranties).
-
-NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2024    42
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## 05 Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-### SHORT-TERM FINANCIAL BORROWINGS AND DEBT
-
-| At December 31 | Weighted average EIR(a) (in %) | in millions of euros |
-| --- | --- | --- |
-|  | 2024 | 2023 | 2024 | 2023 |
-| Euro - Ordinary bonds redeemable in 2024 | N/A | 2.87% | N/A | 200 |
-| Euro - Negotiable debt securities program | 4.15% | 3.94% | 120 | 287 |
-| Euro - Other | N/A | 9.41% | N/A | 2 |
-| US dollar | 5.74% | 7.55% | 10 | 25 |
-| Other | 4.52% | 10.23% | 18 | 31 |
-| **TOTAL SHORT-TERM DEBT EXCLUDING ACCRUED INTEREST**(b) | 4.31% | 4.09% | 148 | 545 |
-| Accrued interest (including short-term accrued interest on long-term debt) | N/A | N/A | 45 | 25 |
-| **TOTAL SHORT-TERM DEBT**(b) | 4.31% | 4.09% | 193 | 569 |
-
-(a) Effective interest rate
-(b) Excluding lease liabilities
-
-The vast majority of the Group's short-term debt is at fixed rates.
-
-At December 31, 2023, short-term debt in euros consisted mainly of the ordinary bond to be repaid in 2024 and outstanding commercial papers mentioned in Note 29-A.
-
-US dollar-denominated debt primarily concerns Colombia and Brazil.
-
-Debt denominated in currencies other than euros and US dollars corresponds mainly to borrowings taken out locally by certain Group subsidiaries in Asia (China), Africa and the Middle East (Turkey, Morocco and Côte d'Ivoire) and South America (Brazil). In some cases, such local borrowing is required as the countries concerned do not have access to the Group's centralized financing facilities. However, it may also be set up in order to benefit from a particularly attractive interest rate or to avoid the risk of potentially significant foreign exchange risk depending on the geographic region in question.
-
-### F. Analysis by maturity (including accrued interest)
-
-Nexans Financial and Trading Services, a wholly-owned Nexans subsidiary, is responsible for the Group's centralized cash management. However, in its capacity as parent company, Nexans S.A. still carries out the Group's long-term bond issues.
-
-Nexans Financial and Trading Services monitors changes in the liquidity facilities of the holding companies as well as the Group's overall financing structure on a weekly basis (see Note 29-A).
-
-In view of Nexans' available short-term liquidity facilities and long-term debt structure, the Group's debt maturity schedule set out below is presented on a medium and long-term basis.
-
-#### MATURITY SCHEDULE AT DECEMBER 31, 2024
-
-| in millions of euros | Due within one year | Due in one to five years | Due beyond five years | Total |
+| | Notes | 31 December 2023 £m | 31 December 2022 £m | 1 January 2022 £m |
 | --- | --- | --- | --- | --- |
-|  | Principal | Interest | Principal | Interest | Principal | Interest | Principal | Interest |
-| Ordinary bonds redeemable in 2028 | - | 22 | 400 | 66 | - | - | 400 | 88 |
-| Ordinary bonds redeemable in 2029 | - | 24 | 575 | 95 | - | - | 575 | 119 |
-| Ordinary bonds redeemable in 2030 | - | 15 | - | 60 | 350 | 15 | 350 | 89 |
-| European Investment Bank (EIB) loan | - | 4 | 200 | 8 | - | - | 200 | 12 |
-| Negotiable debt securities program | 120 | 3 | - | - | - | - | 120 | 3 |
-| Other bank loans and overdrafts | 28 | 1 | 15 | 0 | 46 | 0 | 90 | 1 |
-| Lease liabilities | 34 | 7 | 69 | 21 | 69 | 28 | 172 | 56 |
-| **TOTAL** | 183 | 75 | 1,259 | 250 | 465 | 43 | 1,907 | 367 |
-
-Notes concerning the preparation of the maturity schedule:
-• foreign exchange and interest rate derivatives used to hedge the Group's external debt are not material for the Group as a whole.
-• the euro equivalent amount for borrowings in foreign currencies has been calculated using the year-end exchange rate at December 31, 2024.
-
-## 45 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## 05 Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-## FOREIGN EXCHANGE DERIVATIVES
-
-In 2024, the loss relating to the ineffective portion of the Group's foreign exchange derivatives amounted to 50 million euros. In the consolidated income statement this loss is included in "Other financial income and expenses" for the operations component of the hedge and in "Cost of debt (net)" for the financial component. A 73 million euro net loss on cash flow hedges was recognized in the consolidated statement of comprehensive income and a net loss of 41 million euros was recycled to the income statement.
-
-## METAL DERIVATIVES
-
-In 2024, the ineffective portion of gains or losses arising on the fair value remeasurement of metal derivatives designated as cash flow hedges represented a non-material amount that was recognized in the consolidated income statement on the line "Changes in fair value of non-ferrous metal derivatives" in "Other operating income and expenses".
-
-An aggregate 17 million euro gain was recognized in the consolidated statement of comprehensive income for metal derivatives designated as cash flow hedges and a 13 million euro gain was recycled to the income statement.
-
-## Note 26 - Financial risks
-
-The Treasury, Financing and Metals Department defines the financial risk management policy covering:
-
-* liquidity, foreign exchange, interest rate, credit and banking counterparty risks;
-* risks relating to changes in non-ferrous metal prices, as well as the credit and financial counterparty risks of entities that trade in non-ferrous metals markets;
-* the department is part of the legal entity Nexans Financial and Trading Services.
-
-Where permitted by local regulations, Group subsidiaries' foreign exchange and interest rate risks are managed on a centralized basis and their access to liquidity is managed through a cash pooling system.
-
-Nexans Financial and Trading Services is the counterparty for all hedges of commodities risks, except for those set up by subsidiaries in Brazil, South Korea, China, Australia and New Zealand.
-
-The main subsidiaries that did not have access to the centralized cash management system at December 31, 2024, are located in Morocco, China, South Korea, Peru, Brazil, Chile, Ghana, Colombia and to some extent in Lebanon. These subsidiaries, which have their own banking partners, are nevertheless subject to Group procedures regarding their choice of banks and foreign exchange and interest rate risk management.
-
-Non-ferrous metal risk management policy is also defined and controlled centrally for the entire Group by the Treasury, Financing and Metals Department, which takes centralized positions on the market based on requests from subsidiaries. At December 31, 2024, only subsidiaries in Australia, New Zealand and China had direct access to such markets.
-
-### A. Liquidity risk
-
-#### Monitoring and managing liquidity risk
-
-The Treasury Financing and Metals Department monitors changes in the treasury and liquidity positions of the Group on a weekly basis (encompassing both holding companies and operating entities). As such, subsidiaries are required to provide cash forecasts for the four weeks of the current month as well as for the following two months. These forecasts are then compared to actual cash figures.
-
-Bank borrowings taken out by subsidiaries that are not part of the Nexans Financial and Trading Services centralized cash management system must be approved in advance by the "Financing Committee" and may not have maturity dates exceeding 12 months, unless express authorization is obtained.
-
-The key liquidity indicators that are monitored are the unused amounts of credit facilities granted to the Group and available cash and cash equivalents.
-
-The Group also monitors its net debt position on a monthly basis (see Note 26 for the definition of net debt).
-
-#### Management of cash surpluses
-
-The Group's policy for investing cash surpluses is guided by the overriding principles of ensuring sufficient availability and using safe investment vehicles. The banks considered by the Group as acceptable counterparties must be rated at least A by Standard & Poor's and P2 by Moody's, or must be majority-owned by the government of their home country (which must be either an EU member, Canada or the United States).
-
-At December 31, 2024, the Group's cash surpluses were recognized under "Cash and cash equivalents" in the consolidated balance sheet and were invested in:
-* current accounts with banks considered by the Group as acceptable counterparties;
-* money-market mutual funds (OPCVM) which are not exposed to changes in interest rates and whose underlying assets are investment-grade issues by both corporations and financial institutions; or
-* term deposits and certificates of deposit issued by banks, with an initial investment period of less than one year.
-
-As an exception to the above and due to the crisis in Lebanon, bank deposits in Lebanese banks have been excluded from cash and cash equivalents (see Note 26).
-
-### Main sources of financing
-
-Over the past several years the Group has implemented a strategy of diversifying its sources of financing through:
-* issues of ordinary bonds maturing in 2027, 2029 and 2030 (see Note 26);
-* a medium-term syndicated credit facility renewed on October 25, 2022 and now representing an amount of 800 million euros, lasting for an initial period of five years. In October 2023, the Group activated its second extension option bringing the maturity of the line to 2029;
-* a loan facility granted by the European Investment Bank (EIB) for an amount of 200 million euros, fully drawn in April 2022.
-
-## 47 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-Consolidated financial statements
-
-The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
-
-Consolidated net debt breaks down as follows between variable and fixed interest rates:
-
-| At December 31, in millions of euros | 2024 |  |  | 2023 |  |  |
-|---|---|---|---|---|---|---|
-|  | Current | Non-current | Total | Current | Non-current | Total |
-| **VARIABLE RATES** |  |  |  |  |  |  |
-| Financial liabilities | 149 | 0 | 149 | 346 | 9 | 355 |
-| Cash and cash equivalents | (1,254) | - | (1,254) | (1,131) | - | (1,131) |
-| **NET VARIABLE RATE POSITION** | **(1,106)** | **-** | **(1,106)** | **(785)** | **9** | **(775)** |
-| **FIXED RATES** |  |  |  |  |  |  |
-| Financial liabilities | 80 | 1,706 | 1,785 | 252 | 737 | 989 |
-| Cash and cash equivalents | - | - | - | - | - | - |
-| **NET FIXED RATE POSITION** | **80** | **1,706** | **1,785** | **252** | **737** | **989** |
-| **NET FINANCIAL DEBT** | **(1,026)** | **1,706** | **681** | **(532)** | **746** | **214** |
-
-(a) Including the short-term portion of accrued interest not yet due on long-term debt.
-
-## 6. Foreign exchange and metal price risks
-
-The Group's foreign exchange risk exposure primarily relates to operations-based transactions (purchases and sales).
-
-Due to its international presence, the Group is exposed to foreign currency translation risk on the net assets of subsidiaries whose functional currency is not the euro. It is Group policy not to hedge these risks.
-
-The Group's sensitivity to foreign exchange risk on operating cash flows is considered to be moderate due to its operational structure. Indeed, the majority of Nexans operating subsidiaries have a very strong local presence, except in the high-voltage business. The Group's policy is to hedge its foreign exchange and non-ferrous metal price risks on cash flows relating to foreseeable significant contractual commercial transactions and certain forecast transactions. The operations arising from this hedging activity may result in certain positions being kept open. Where this happens, the positions are limited in terms of amount and term, and they are overseen by the Treasury, Financing and Metal Department.
-
-The risk management policy for non-ferrous metals is defined by the Finance Department. It is implemented by subsidiaries that purchase copper, aluminum and, to a lesser extent, lead. The Group's main exposure to metal price risk arises from fluctuations in copper prices.
-
-### METHODS USED TO MONITOR AND HEDGE EXPOSURE TO FOREIGN EXCHANGE RISK
-
-The Group verifies that its procedures for managing foreign exchange risk are properly applied by means of quarterly reports provided to the Treasury, Financing and Metals Department by all subsidiaries exposed to this type of risk, irrespective of whether or not they are members of the cash pool. The reports contain details on the subsidiaries' estimated future cash flows in each currency and the related hedges that have been set up, as well as a reconciliation between actual figures and previous forecasts.
-
-The Treasury, Financing and Metals Department has developed training materials for the Group's operations teams and carries out ad hoc audits to ensure that the relevant procedures have been properly understood and applied. Lastly, the Internal Audit Department regularly verifies that the procedures for identifying and hedging foreign exchange risks have been properly applied during its audit engagements carried out at the Group's subsidiaries.
-
-In addition, some bids are made in a currency other than that in which the entity concerned operates. Foreign exchange risks arising on these bids are not systematically hedged, which could generate a gain or loss for the Group if there is a significant fluctuation in the exchange rate between the date when the bid is presented and the date it is accepted by the customer. However, in such cases, the Group takes steps to reduce its potential risk by applying expiration dates to its bids and by incorporating the foreign exchange risk into the price proposal.
-
-Foreign exchange risk is identified at the level of the Group's subsidiaries. The subsidiaries' treasurers execute hedges centrally or locally using forward currency transactions. For subsidiaries that are members of the cash pool, these transactions are carried out with the Treasury, Financing and Metals Department. Other subsidiaries enter into forward currency transactions with their local banks. The objective is to reduce flows in the subsidiary's functional currency and/or to avoid open positions in a given currency for a given maturity.
-
-### METHODS USED TO MANAGE AND HEDGE EXPOSURE TO METAL RISK
-
-The exposure of a certain number of subsidiaries to the risk of changes in non-ferrous metal prices is hedged at Group level. To this end, each Group company reports its exposures to the Treasury, Financing and Metals Department.
-
-The Group verifies that its procedures for managing and hedging metal risks are correctly applied by means of each operating subsidiary reporting monthly on its exposure to copper, aluminum and lead risk in both tonnage and value terms. The related reports are analyzed and consolidated at Group level by the Treasury, Financing and Metals Department.
-
-49 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## Consolidated financial statements 05
-
-*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
-
-Cash deposited to meet margin calls on copper forward purchases whose fair value was negative at the year-end (see Note 27) amounted to 25 million euros at December 31, 2024 (19 million euros at December 31, 2023).
-
-In conclusion, the Group has limited exposure to credit risk. The Group considers that its management of counterparty risk is in line with market practices but it cannot totally rule out a significant impact on its consolidated financial statements should it be faced with the occurrence of systemic risk.
-
-### RISK ON DEPOSITS AND INVESTMENTS
-
-Deposits and investments with banks of Nexans Financial Trading Services and Nexans Canada's surplus cash amounted to 824 million euros at December 31, 2024, representing approximately 92% of the Group's total cash and cash equivalents. All of these deposits and investments are with counterparties rated as investment grade by Standard & Poor's, with ratings of between A+ and AA-.
-
-Nexans Financial Trading Services has no SICAV's shares as of December 31, 2024.
-
-For the Group's other subsidiaries, counterparty risk on deposits and investments is managed in accordance with the principles and procedures described in Note 29-A.
-
-### E. Market risk sensitivity analysis
-
-A sensitivity analysis is provided below on the impact that a theoretical change in the above-mentioned main market risks would have on consolidated income and equity.
-
-#### SENSITIVITY TO CHANGES IN COPPER PRICES
-
-Fluctuations in copper prices can impact both consolidated income and equity, as well as the Group's financing needs. Sensitivity calculations are based on an assumed increase in copper prices. A fall in copper prices would have the inverse effect.
-
-A rise in copper prices would result in:
-* a rise in the fair value of the Group's portfolio of cash-settled copper derivatives (the Group is a net buyer).
-* an upward remeasurement of the Group's Core exposure.
-
-At Group level, the impact on working capital is limited and mainly relates to the timing of derivatives settlement. Potential significant variations could occur at local level due to pricing conditions.
-
-An increase in the fair value of cash-settled copper derivatives would positively affect either consolidated operating income or equity, based on the accounting treatment used for these derivative instruments (the derivatives of the Group's main subsidiaries are designated as cash flow hedges within the meaning of IFRS 9).
-
-The simulation below is based on the following assumptions (with all other assumptions remaining constant, notably exchange rates):
-
-* a 10% increase in copper prices at December 31, 2023 and 2024, and translation of this impact evenly across the entire price curve without any distortion of forward point spreads.
-* all working capital components (inventories and the copper component of trade receivables and payables) would be impacted by the increase in copper prices.
-* 47,000 tons and 50,000 tons of copper included in working capital at December 31, 2023 and December 31, 2024, respectively.
-* short-term interest rate (3-month Euribor) of 2.715% in 2024 and 4.291% in 2023. A worst-case scenario in which the increase in working capital would be constant throughout the year, leading to an annualized increase in financial expenses (not taking into account the temporary positive impact of margin calls or the effect of changes in exchange rates).
-* 43,350 tons of copper classified as core exposure at December 31, 2024 and 42,900 tons at December 31, 2023.
-* using a theoretical income tax rate of 25.83% in 2024 as in 2023.
-
-Any impact of changes in copper prices on both impairment in value of the Group's non-current assets (in accordance with IAS 36) and the provision for impairment of inventories has not been taken into account in this simulation, as it is impossible to identify a direct linear effect.
-
-| At December 31, in millions of euros | 2024 | 2023 |
-| ------------------------------------ | ---- | ---- |
-| Impact on operating income | 36 | 33 |
-| Impact on financial income and expenses | (1) | (1) |
-| NET IMPACT ON INCOME (AFTER TAX) | 26 | 23 |
-| IMPACT ON EQUITY* (AFTER TAX) | 24 | 20 |
-
-*(a) Excluding net income (loss) for the period.
-
-NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024 52
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-## Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-## TOTAL COMPENSATION
-
-Total compensation paid to the Group's Key Management Personnel can be analyzed as follows:
-
-| in millions of euros | 2024 | 2023 |
-|:---------------------|-----:|-----:|
-| Compensation for corporate officer positions(a) | 3.2 | 2.7 |
-| Compensation under employment contracts and benefits in kind(a) | 10.5 | 8.3 |
-| Performance shares(b) | 5.1 | 4.1 |
-| Termination benefits(a) | - | - |
-| Long-term incentive plan(b) | 0.2 | 0.2 |
-| Accruals for pensions and other retirement benefit obligations(c) | 1.1 | 1.1 |
-| **TOTAL COMPENSATION** | **20.2** | **16.4** |
-
-(a) Amounts paid during the year, including payroll taxes.
-(b) Amounts expensed in the income statement during the year.
-(c) Payments related to supplementary defined contribution pension plans.
-
-## COMMITMENTS GIVEN TO THE CHIEF EXECUTIVE
-
-All of the commitments given to Christopher Guérin in his capacity as Chief Executive Officer (CEO) are described in detail each year in the Universal Registration Document (section entitled "Commitments given to the Chief Executive Officer (CEO)").
-
-As Chief Executive Officer (CEO), Christopher Guérin has received the following commitments from the Company, which were decided at the Board meeting and approved yearly at the Shareholders' Meeting:
-
-1) If Christopher Guérin is removed from his position as Chief Executive Officer (CEO), he will be entitled to payment of a termination indemnity representing two years' worth of his total fixed and variable compensation. This indemnity will be subject to actual performance in relation to the objectives applicable to his target annual variable compensation being at least equal to 80% of said objectives on average over the three years preceding his removal. This indemnity will be payable only in the event of a forced departure due to a change of control or strategy, which will be deemed to be the case unless specifically decided otherwise by the Board of Directors, notably in the event of serious misconduct.
-
-2) As compensation for an undertaking not to exercise any business that would compete either directly or indirectly with any of the Company's businesses for a period of two years from the end of his term of office as Chief Executive Officer (CEO), Christopher Guérin will receive a non-compete indemnity, regardless of the cause of termination of his duties. Said indemnity will be paid in 24 equal and successive monthly installments and will equal one year of his fixed and variable compensation, i.e., 12 times the amount of his most recent monthly compensation (fixed portion) plus the corresponding percentage of his bonus. The Board could decide to impose a non-competition obligation on the Chief Executive Officer (CEO) for a period shorter than two years. In such a case, the non-competition indemnity would be reduced pro rata temporis.
-
-In accordance with Article 25.3 of the Afep-Medef Code (December 2022 version), in the event of Christopher Guérin's departure the Board of Directors will decide whether or not the non-compete agreement entered into with him will apply and will be entitled to cancel it (in which case no non-compete indemnity will be payable).
-
-In addition, in accordance with Article 25.4 of the Afep-Medef Code, no non-compete indemnity will be due if Christopher Guérin takes retirement upon leaving the Group. In any event, no indemnity shall be paid beyond the age of 65.
-
-Lastly, in accordance with the compensation policy for corporate officers described in Section 4 of this Document, all severance benefits (termination benefits and non-compete benefits) may not exceed two years' worth of actual compensation (fixed and variable).
-
-If Christopher Guérin retired, he would be entitled to benefits under the supplementary defined contribution pension plan set up by the Group in 2019 for certain employees and corporate officers. The annual contribution paid by the Company corresponds to 20% of the Chief Executive Officer's total actual annual compensation (fixed plus variable), i.e., 330,000 euros in 2024.
-
-## Note 30: Disputes and contingent liabilities
-
-### A. Antitrust investigations
-
-In January 2009, antitrust investigations were launched in several countries against various cable manufacturers including Group companies in relation to alleged anticompetitive behavior in the submarine and underground high-voltage power cables sector.
-
-On April 7, 2014, Nexans France SAS and the Company were notified of the European Commission's decision (EC Decision), which found that Nexans France SAS had participated directly in an infringement of European antitrust legislation in the submarine and underground high-voltage power cable sector. The Company was held jointly liable for the payment of a portion of the fine imposed on Nexans France SAS by the European Commission.
-
-In early July 2014, Nexans France SAS paid 70.6 million euro fine imposed on it by the European Commission.
-
-05
-
-56
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## 05 Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-| Companies by geographical area | % control | % interest | Consolidation method(a) |
-|--------------------------------|----------:|----------:|------------------------|
-| **NORTHERN EUROPE** | | | |
-| Nexans Benelux S.A. | 100.00% | 100.00% | |
-| Nexans Network Solutions NV | 100.00% | 100.00% | |
-| Nexans Services | 100.00% | 100.00% | |
-| Nexans Deutschland GmbH | 100.00% | 100.00% | |
-| Metrofunkkabel Union GmbH | 100.00% | 100.00% | |
-| Nexans Auto Electric GmbH(d) | 100.00% | 100.00% | |
-| Nexans Power Accessories Deutschland GmbH | 100.00% | 100.00% | |
-| Nexans Industrial Solutions GmbH | 100.00% | 100.00% | |
-| Nexans Nederland BV | 100.00% | 100.00% | |
-| Nexans Norway A/S | 100.00% | 100.00% | |
-| Nexans Subsea Operations | 100.00% | 100.00% | |
-| Nexans Skagerrak | 100.00% | 100.00% | |
-| Nexans Marine Operations | 100.00% | 100.00% | |
-| Nexans Vessel Management | 100.00% | 100.00% | |
-| Nexans Suisse S.A. | 100.00% | 100.00% | |
-| Nexans Re(e) | 100.00% | 100.00% | |
-| Nexans Logistics Ltd | 100.00% | 100.00% | |
-| Nexans UK Ltd | 100.00% | 100.00% | |
-| Nexans Sweden AB | 100.00% | 100.00% | |
-| REKA Cables | 100.00% | 100.00% | |
-| Nexans Finland Holding | 100.00% | 100.00% | |
-| Nexans Industry Solutions(f) | 100.00% | 100.00% | |
-| **SOUTHERN AND EASTERN EUROPE** | | | |
-| Nexans Iberia SL | 100.00% | 100.00% | |
-| Nexans Industrial Solutions Iberia | 100.00% | 100.00% | |
-| Takami | 100.00% | 100.00% | |
-| Nexans Italia SpA | 100.00% | 100.00% | |
-| Gruppo LTC S.p.A. | 100.00% | 100.00% | |
-| La Triveneta Cavi S.p.A. | 100.00% | 100.00% | |
-| Veneta Trafili S.p.A. | 100.00% | 100.00% | |
-| Nexans Partecipazioni Italia Srl | 100.00% | 100.00% | |
-| Nexans Intercablo SpA | 100.00% | 100.00% | |
-| Nexans Hellas S.A. | 100.00% | 100.00% | |
-| Nexans Power Accessories Czech Republic | 100.00% | 100.00% | |
-| Nexans Turkiye Endustri Ve Ticaret AS | 100.00% | 100.00% | |
-
-61    NEXANS    UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS 05
-
-**Consolidated financial statements**
-
-*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
-
-| Companies by geographical area | % control | % interest | Consolidation method⁽ᵃ⁾ |
-|-------------------------------|-----------|------------|------------------------|
-| **NORTH AMERICA** |  |  |  |
-| Nexans Canada Inc. | 100.00% | 100.00% |  |
-| Nexans USA Inc. | 100.00% | 100.00% |  |
-| AmerCable Inc. | 100.00% | 100.00% |  |
-| Nexans Magnet Wire USA Inc. | 100.00% | 100.00% |  |
-| Nexans Specialty Holdings USA Inc. | 100.00% | 100.00% |  |
-| Nexans Industrial Solutions Inc. | 100.00% | 100.00% |  |
-| Nexans High Voltage USA Inc. | 100.00% | 100.00% |  |
-| **SOUTH AMERICA** |  |  |  |
-| Invercable | 100.00% | 100.00% |  |
-| Nexans Chile S.A. | 100.00% | 100.00% |  |
-| Colada Continua S.A. | 41.00% | 41.00% | Equity method |
-| Nexans Colombie | 100.00% | 100.00% |  |
-| Indeco Peru⁽ᵇ⁾ | 96.73% | 96.73% |  |
-| Cobrecon | 100.00% | 98.37% |  |
-| Nexans Brasil S.A. | 100.00% | 100.00% |  |
-| Alcatek | 100.00% | 100.00% |  |
-| Centelsa | 100.00% | 100.00% |  |
-| Cobres de Colombia | 100.00% | 100.00% |  |
-| Cedetec | 100.00% | 100.00% |  |
-| **AFRICA AND MIDDLE EAST** |  |  |  |
-| Liban Câbles s.a.l | 91.15% | 91.15% |  |
-| Nexans Maroc⁽ᶠ⁾ | 97.56% | 97.56% |  |
-| Nexans Aerospace Maroc | 100.00% | 97.61% |  |
-| Qatar International Cable Company | 30.33% | 30.33% | Equity method |
-| Nexans Kabelmetal Ghana Ltd | 59.13% | 59.13% |  |
-| Nexans Côte d'Ivoire | 60.00% | 59.00% |  |
-| **ASIA-PACIFIC** |  |  |  |
-| Nexans Hong Kong Ltd | 100.00% | 100.00% |  |
-| Nexans Singapore | 100.00% | 100.00% |  |
-| Nexans China Wire & Cables Co. Ltd | 100.00% | 100.00% |  |
-| Nexans (Yanggu) New Rihui Cables Co. Ltd | 100.00% | 100.00% |  |
-| Nexans (Suzhou) Cables Solutions Co. Ltd | 100.00% | 100.00% |  |
-| Nexans Korea Ltd | 99.51% | 99.51% |  |
-| Nexans Korea Cables Co. Ltd | 99.51% | 99.51% |  |
-| Kukdong Electric Wire Co. Ltd | 97.90% | 97.90% |  |
-| Nippon High Voltage Cable Corporation | 100.00% | 100.00% |  |
-| OLEX Australia Pty Ltd | 100.00% | 100.00% |  |
-| OLEX New Zealand Ltd | 100.00% | 100.00% |  |
-
-(a) The companies in this list are fully consolidated unless otherwise specified.
-(b) Listed companies.
-(c) The entity responsible for the Group's cash management.
-(d) Nexans Auto Electric GmbH – a company based in Germany – itself consolidates various sub-subsidiaries located in the United States, Germany, Romania, Ukraine, the Czech Republic, Slovakia, Tunisia, China, Bulgaria and Mexico.
-(e) Nexans Re is the Group's captive reinsurer.
-(f) Nexans Industry Solutions prepares consolidated financial statements that include various subsidiaries located mainly in China and Poland.
-(g) Nexans Maroc itself consolidates a subsidiary located in Morocco.
-
-**NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024 62**
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-05
-Consolidated financial statements
-
-The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.
-
-## Note 35. Statutory Auditors' fees
-
-The total fees paid to the Statutory Auditors for all controlled entities in France and recorded in the income statement for 2024 break down as follows:
-
-| in thousands of euros | Audit of the consolidated financial statements | Audit of the corporate financial statements | Audit of Sustainability report | Other (a) | Total |
-|:---|---:|---:|---:|---:|---:|
-| Forvis Mazars | 312 | 250 | 241 | 17 | 820 |
-| PwC | 307 | 350 | 611 | 908 | 2,176 |
-| **TOTAL** | 619 | 600 | 852 | 925 | 2,995 |
-
-(a) Other non audit-related services include, in particular, fees for due diligence in the context of acquisitions.
-
-## Note 36. Subsequent events
-
-On January 2, 2025, Nexans completed the sale of AmerCable to Mattr for a value of 280 million US dollar. The sale price is expected to be finalized in the first half of 2025 with the establishment of Amercable's financial statements as of December 31, 2024.
-No other significant event has occurred since December 31, 2024.
-
-63 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-### Valuation of defined benefit obligation *in millions of euros*
-
-| | 2024 | 2023 |
-|---|---:|---:|
-| **PRESENT VALUE OF DEFINED BENEFIT OBLIGATION AT JANUARY 1** | **619** | **588** |
-| Service cost | 10 | 10 |
-| Interest expense | 19 | 19 |
-| Employee contributions | 2 | 2 |
-| Plan amendments | (0) | 1 |
-| Business acquisitions and disposals | 2 | 11 |
-| Plan curtailments and settlements | (33) | (0) |
-| Benefits paid | (42) | (49) |
-| Actuarial (gains) losses | (5) | 31 |
-| Exchange differences and other | (4) | 8 |
-| **PRESENT VALUE OF DEFINED BENEFIT OBLIGATION AT DECEMBER 31** | **569** | **619** |
-
-### Plan assets *in millions of euros*^(a)
-
-| | 2024 | 2023 |
-|---|---:|---:|
-| **FAIR VALUE OF PLAN ASSETS AT JANUARY 1** | **464** | **436** |
-| Interest income | 12 | 14 |
-| Actuarial gains (losses) | 25 | 16 |
-| Employer contributions | 5 | 6 |
-| Employee contributions | 2 | 2 |
-| Business acquisitions and disposals | - | 9 |
-| Plan curtailments and settlements | (32) | - |
-| Benefits paid | (25) | (31) |
-| Exchange differences and other | (6) | 12 |
-| **FAIR VALUE OF PLAN ASSETS AT DECEMBER 31** | **445** | **464** |
-
-*a) The coverage of the obligation does not include the unrecognized surplus (due to asset limitation) presented in the funded status table below.*
-
-### Funded status *in millions of euros*
-
-| | 2024 | 2023 |
-|---|---:|---:|
-| Present value of wholly or partially funded benefit obligations | (391) | (423) |
-| Fair value of plan assets | 445 | 465 |
-| **FUNDED STATUS OF BENEFIT OBLIGATION** | **54** | **42** |
-| Present value of unfunded benefit obligation | (178) | (197) |
-| **BENEFIT OBLIGATION NET OF PLAN ASSETS** | **(124)** | **(155)** |
-| Unrecognized surplus (due to asset ceiling) | (5) | (4) |
-| **NET PROVISION RECOGNIZED AT DECEMBER 31** | **(128)** | **(158)** |
-| *of which pension assets* | 84 | 79 |
-
-### Change in net provision *in millions of euros*
-
-| | 2024 | 2023 |
-|---|---:|---:|
-| **NET PROVISION RECOGNIZED AT JANUARY 1** | **158** | **160** |
-| Expense (income) recognized in the income statement | 17 | 15 |
-| Expense (income) recognized in other comprehensive income | (28) | 10 |
-| Utilization | (21) | (23) |
-| Other impacts (exchange differences, acquisitions/disposals, etc.) | 2 | (3) |
-| **NET PROVISION RECOGNIZED AT DECEMBER 31** | **128** | **158** |
-| *of which pension assets* | 84 | 79 |
-
-39 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-### C. Significant events of the year
-
-Over the year actuarial gains are mainly due to the performance of invested funds for an amount of 15 million euros. Actuarial losses are linked to the decrease in discount rates, were offset by experience gains generated over the period. The latter are explained by the non-revaluation of annuities in Germany compared to the assumption of early revaluation. As for actuarial gains for the financial year 2023, they were mainly due to the decrease in discount rates partially offset by the performance of invested funds.
-
-Two specific transactions were carried out in 2024, in Canada and the United States:
-- In Canada, an annuity buyout transaction was carried out for one of the main plans eliminating the risk towards the beneficiaries of this plan. Thus the commitment relating to this plan was transferred almost entirely to an insurance company for a value of 20 million euros. This transfer was fully financed by the assets covering the plan, for a net impact that was not significant on income.
-- In the United States, part of the commitment was settled by a lump sum payment offered to participants for 7 million euros, largely covered by the assets covering the plan. The impact on income is not significant.
-
-The Group's employer contributions relating to defined benefit plans are estimated at 8 million euros for 2025.
-
-Lastly, the other pension plans from which the Group's employees benefit correspond to defined-contribution plans, for which the Group has no commitment beyond the payment of contributions, which are recognized as expenses for the period. Contributions under these plans are recognized immediately as an expense. The amount of contributions paid in relation to these plans amounted to 125 million euros in 2024 (105 million euros in 2023).
-
-### D. Analysis of actuarial gains and losses
-
-Actuarial gains and losses arising on the Group's defined benefit obligation (DBO) can be analyzed as follows:
-
-| | 2024 | | 2023 | |
-|---|---|---|---|---|
-| | in millions of euros | % of plan assets | in millions of euros | % of plan assets |
-| Discount rate | 11 | 2% | 18 | 3% |
-| Salary increases | 0 | 0% | 0 | 0% |
-| Mortality | (0) | 0% | 0 | 0% |
-| Headcount turnover | 0 | 0% | - | 0% |
-| Inflation rate | (2) | 0% | 3 | 0% |
-| Other changes in assumptions | 0 | 0% | 3 | 0% |
-| (GAINS)/LOSSES FROM CHANGES IN ASSUMPTIONS | 10 | 2% | 24 | 4% |
-| (GAINS)/LOSSES FROM PLAN AMENDMENTS | - | 0% | - | 0% |
-| (GAINS)/LOSSES FROM EXPERIENCE ADJUSTMENTS | (14) | -3% | 7 | 1% |
-| OTHER | - | 0% | - | 0% |
-| TOTAL (GAINS)/LOSSES ARISING DURING THE YEAR | (5) | -1% | 31 | 5% |
-
-### E. Breakdown of plan assets by category
-
-The Group's portfolio of plan assets breaks down as follows:
-
-| At December 31 | 2024 | | 2023 | |
-|---|---|---|---|---|
-| | in millions of euros | % of plan assets | in millions of euros | % of plan assets |
-| Shares⁽ᵃ⁾ | 143 | 32% | 153 | 33% |
-| Bonds and other fixed income products⁽ᵃ⁾ | 156 | 35% | 163 | 35% |
-| Real estate | 104 | 23% | 105 | 22% |
-| Cash and cash equivalents | 7 | 2% | 7 | 2% |
-| Other | 34 | 8% | 37 | 8% |
-| FAIR VALUE OF PLAN ASSETS | 445 | 100% | 465 | 100% |
-
-⁽ᵃ⁾ All of the instruments recognized under "Equities" and "Bonds and other fixed income products" are listed.
-
-NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024   40
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## 05 Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-### F. Sensitivity analyses
-
-The present value of the Group's obligation for pensions and other retirement benefits is sensitive to changes in discount rates. A 50 basis-point decrease in the discount rates applied would have had the following impacts on the present value of the Group's defined benefit obligation:
-
-| At December 31 | 2024 |  |  |
-| --- | ---: | ---: | ---: |
-|  | **Actual value in millions of euros** | **Adjusted value in millions of euros** | **% change** |
-| Europe | 429 | 452 | 5.19% |
-| North America | 111 | 116 | 4.70% |
-| Asia | 14 | 14 | 3.36% |
-| Other countries | 15 | 15 | 2.59% |
-| **TOTAL** | **569** | **597** | **4.99%** |
-
-The present value of the Group's obligation for pensions and other retirement benefits is also sensitive to changes in inflation rates. Depending on the type of plan concerned, changes in inflation rates can affect both the level of future salary increases and the amounts of annuity payments. A 50 basis-point increase in the inflation rates used would have had the following impacts on the present value of the Group's defined benefit obligation (assuming that the discount rates applied remain constant):
-
-| At December 31 | 2024 |  |  |
-| --- | ---: | ---: | ---: |
-|  | **Actual value in millions of euros** | **Adjusted value in millions of euros** | **% change** |
-| Europe | 429 | 437 | 1.78% |
-| North America | 111 | 111 | 0.00% |
-| Asia | 14 | 14 | 0.00% |
-| Other countries | 15 | 15 | 1.08% |
-| **TOTAL** | **569** | **576** | **1.37%** |
-
-### G. Characteristics of the main defined benefit plans and associated risks
-
-The Group's main defined benefit plans are in Switzerland (39% of total benefit obligations at December 31, 2024) and Germany (27% of total benefit obligations at December 31, 2024).
-
-#### SWITZERLAND
-The pension plan of Nexans Suisse S.A. is a contribution-based plan with a guaranteed minimum rate of return and a fixed conversion rate on retirement. It offers benefits that comply with the Swiss Federal law on compulsory occupational benefits (the "LPP/BVG" law).
-
-As specified in the LPP/BVG law, the plan has to be fully funded. Therefore, if there is a funding shortfall, measures must be taken to restore the plan to a fully funded position, such as by the employer and/or employees contributing additional financing and/or by reducing the benefits payable under the plan.
-
-The pension fund is established as a separate legal entity. This foundation is responsible for the management of the plan and is composed of an equal number of employer and employee representatives. The strategic allocation of plan assets must comply with the investment guidelines put in place by the Foundation, which are aimed at limiting investment risks.
-
-In addition, Nexans Suisse S.A. is exposed to a lifetime risk concerning the commitment. Indeed, almost three-quarters of commitments relate to retirees.
-
-The life of the plan is approximately 10 years.
-
-#### GERMANY
-Nexans Deutschland GmbH's most significant plan is a defined benefit plan that has been closed to new entrants since January 2005. For former employees currently receiving benefits under the plan (and plan members who have not yet retired), pension benefits are calculated based on their vested rights as of the date the plan was closed. This plan is not funded.
-
-Members are also covered against the risk of disability. In general, any disability payments due will be made on top of the amount of future pension benefits. In addition, the plan provides for reversionary benefits.
-
-In addition, Nexans Deutschland GmbH is exposed to a lifetime risk and pension indexation risk concerning the commitment. In fact, nearly 80% of commitments relate to retirees.
-
-The life of the plan is approximately 8 years.
-
-41 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## 05 Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-## Note 25. Provisions
-
-| In millions of euros | 2024 | 2023 |
-|---|--:|--:|
-| Accrued contract costs | 85 | 87 |
-| Provisions for reorganization costs | 17 | 22 |
-| Other provisions | 107 | 91 |
-| **TOTAL** | **208** | **200** |
-
-The movements in these provisions were as follows:
-
-| in millions of euros | Total | Accrued contract costs | Provisions for reorganization | Other provisions |
-|---|--:|--:|--:|--:|
-| **AT DECEMBER 31, 2022** | **177** | **70** | **25** | **82** |
-| Additions | 78 | 48 | 16 | 14 |
-| Reversals (utilized provisions) | (30) | (11) | (16) | (3) |
-| Reversals (surplus provisions) | (30) | (22) | (2) | (5) |
-| Business combinations | - | - | - | - |
-| Exchange differences and other | 6 | 3 | (0) | 3 |
-| **AT DECEMBER 31, 2023** | **200** | **87** | **22** | **91** |
-| Additions | 51 | 37 | 8 | 6 |
-| Reversals (utilized provisions) | (31) | (16) | (12) | (2) |
-| Reversals (surplus provisions) | (24) | (20) | (1) | (3) |
-| Business combinations | 14 | - | - | 14 |
-| Exchange differences and other | (1) | (4) | 0 | 2 |
-| **AT DECEMBER 31, 2024** | **208** | **85** | **17** | **107** |
-
-The above provisions have not been discounted as the effect of discounting would not have been generally material.
-
-Provisions for accrued contract costs are primarily set aside by the Group as a result of its contractual responsibilities, particularly relating to customer warranties, loss-making contracts, and penalties under commercial contracts (see Note 32). They include provisions for construction contracts in progress where applicable, in accordance with the method described in Note 1.E.a.
-
-The reorganization costs amounted to 17 million euros in 2024. They mainly include social costs and external consultant expenses, including 10 million euros related to the transformation of Electrification activities (15 million euros in 2023) and 5 million euros related to the implementation of operational tools and processes preparing the segregation of the Electrification and non-Electrification activities (7 million euros in 2023).
-
-As was the case in previous years, wherever possible, the reorganization plans implemented by the Group in 2024 included assistance measures negotiated with employee representative bodies as well as measures aimed at limiting lay-offs and facilitating redeployment.
-
-The "Other provisions" column mainly includes provisions set aside for antitrust investigations, which amounted to 85 million euros at December 31, 2024 (65 million euros at December 31, 2023) (see Note 33).
-
-Surplus provisions are reversed when the related contingency no longer exists or has been settled for a lower amount than the estimate made based on information available at the previous period-end (including provisions for expired customer warranties).
-
-NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024       42
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-05. Consolidated financial statements
-
-The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
-
-## Note 26. Net debt
-
-Since February 2024, Standard & Poor's has adjusted its long-term BB rating for the Group from positive to stable outlook.
-
-### A. Analysis by nature
-
-At December 31, in millions of euros | Notes | 2024 | 2023
---- | --- | --- | ---
-Long-term – ordinary bonds⁽ᵃ⁾ | 26.C | 1,317 | 398
-Other long-term borrowings⁽ᵃ⁾ | 26.D | 252 | 246
-**TOTAL LONG-TERM DEBT⁽ᵇ⁾** | | **1,568** | **644**
-Short-term – ordinary bonds⁽ᵃ⁾ | 26.C | - | 199
-Short-term borrowings and short-term accrued interest not yet due⁽ᵃ⁾ | 26.D | 191 | 354
-Bank loans | | 3 | 16
-**TOTAL SHORT-TERM DEBT⁽ᵇ⁾** | | **194** | **569**
-**TOTAL GROSS DEBT⁽ᵇ⁾** | | **1,762** | **1,213**
-Cash | | (1,202) | (1,056)
-Cash equivalents | | (52) | (75)
-**TOTAL FINANCIAL DEBT (CASH) EXCLUDING LEASE LIABILITIES** | | **508** | **82**
-Lease liabilities | | 172 | 132
-**TOTAL NET FINANCIAL DEBT** | | **681** | **214**
-
-(a) Excluding short-term accrued interest not yet due and lease liabilities.
-(b) Excluding lease liabilities.
-
-At December 31, 2024, the net balance of cash deposits with Lebanese banks amounted to 1 million euros (1 million euros at December 31, 2023). At December 31, 2024, as at December 31, 2023, they were classified as other net receivables excluding cash and cash equivalents.
-
-### B. Change in gross debt
-
-in millions of euros | December 31, 2023 | New borrowings/ repayments | Change in consolidation scope | Change in accrued interest | Transfers from long-term to short-term | Other⁽ᶜ⁾ | December 31, 2024
---- | --- | --- | --- | --- | --- | --- | ---
-Long-term – ordinary bonds | 398 | 917 | - | 1 | - | - | 1,317
-Other long-term borrowings | 246 | (4) | 3 | - | (23) | 30 | 252
-Short-term – ordinary bonds | 199 | (200) | - | - | - | 1 | -
-Other short-term borrowings | 330 | (206) | - | - | 23 | (2) | 145
-Lease liabilities | 132 | (30) | - | 0 | - | 71 | 172
-Short-term accrued interest not yet due | 24 | N/A | - | 26 | (2) | (3) | 45
-**GROSS DEBT EXCLUDING SHORT-TERM BANK LOANS AND OVERDRAFTS** | **1,328** | **476** | **3** | **28** | **(2)** | **98** | **1,931**
-
-(c) The "Other" column mainly includes the recognition of a call/put option on the "Other non-current borrowings" line (see Note 22.D), as well as the effect of new lease liabilities signed in 2024. As both elements have no impact on the Group's cash flow items.
-
-43 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
-
-### C. Ordinary bonds
-
-| in millions of euros | Carrying amount at end-2024 | Face value at issue date | Maturity date | Nominal interest rate |
-|----------------------|-----------------------------|--------------------------|--------------|----------------------|
-| Ordinary bonds redeemable in 2028 | 415 | 400 | April 5, 2028 | 5.50% |
-| Ordinary bonds redeemable in 2029 | 584 | 575 | May 29, 2029 | 4.13% |
-| Ordinary bonds redeemable in 2030 | 360 | 350 | March 11, 2030 | 4.25% |
-| **TOTAL ORDINARY BONDS**(a) | 1,359 | 1,325 | | |
-
-*(a) Including 22 million euros in short-term accrued interest*
-
-On March 11, 2024, Nexans carried out a first bond issue for an amount of 350 million euros, with a six-year maturity and an annual interest of 4.25%. The bonds were issued at par.
-
-On April 5, 2023, Nexans redeemed the 325-million-euro bond issue subscribed in 2017 for a firm period of seven years.
-
-On May 29, 2023, a second bond issue was carried out for an amount of 575 million euros, with a five-year maturity and an annual interest of 4.125%. The bonds were issued at 100.47% of par.
-
-On April 5, 2022, Nexans completed its first sustainability bond issue for an amount of 400 million euros. This five-year fixed-rate issue (maturing on April 5, 2028) carried an annual coupon of 5.5%. The bonds were issued at par. This first sustainable development bond was part of Nexans' "Sustainable Financing Framework". The bonds issued are linked to the climate objectives that Nexans has set for December 31, 2026, for the reduction of its Scope 1 and 2 greenhouse gas emissions, as well as for the Cradle-to-Shelf portion of Scope 3 emissions products. Failure to comply with any of these obligations would result in an increase of 50 basis points in the coupon rate of the last year.
-
-Refer more generally to Note 2 for the Group's consideration of climate change.
-
-### D. Other borrowings
-
-On October 6, 2021, the European Investment Bank (EIB) granted Nexans a loan facility in the amount of 200 million euros intended to promote its active participation in the global energy transition and its commitment within the framework of the Science Based Targets initiative (SBTi) to achieve "Net-Zero" emissions by 2050.
-
-On April 5, 2022, Nexans drew down the entire financing line, i.e. an amount of 200 million euros. The loan, repayable at maturity, has a maturity of five years (maturing on April 5, 2027) and carries a fixed-rate annual coupon of 1.93%. The accrued interest not yet due amounted to 3 million euros at December 31, 2024.
-
-Short-term borrowings also include 140 million euros in outstanding commercial papers with an average maturity of three months.
-
-### E. Analysis of gross debt by currency and interest rate
-
-#### LONG-TERM FINANCIAL BORROWINGS AND DEBT
-
-| At December 31, excluding short-term accrued interest not yet due | Weighted average EIR (in %) | | in millions of euros | |
-|---|---|---|---|---|
-| | **2024** | **2023** | **2024** | **2023** |
-| Euro – Ordinary bonds redeemable in 2028 | 5.65 % | 5.65% | 398 | 398 |
-| Euro – Ordinary bonds redeemable in 2029 | 4.34 % | N/A | 570 | N/A |
-| Euro – Ordinary bonds redeemable in 2030 | 4.37 % | N/A | 348 | N/A |
-| Euro – European Investment Bank (EIB) loan | 1.93 % | 1.93 % | 200 | 200 |
-| Other | 3.20% | 3.49 % | 51 | 46 |
-| **TOTAL LONG-TERM DEBT**(b) | 4.33 % | 4.34 % | 1,569 | 644 |
-
-*(a) Including 22 million euros in short-term accrued interest*
-*(b) Excluding lease liabilities*
-
-The majority of Nexans' medium and long-term debt is at fixed rates.
-
-The long-term debt includes mainly a debt for a Put call option (see Note 23.D) and a debt in France linked to a sale-leaseback project that did not meet the criteria to be qualified as a sale within the meaning of IFRS 16. They also include financial debts denominated in currencies other than the euro linked to loans granted in China and in Côte d'Ivoire.
-
-NEXANS · UNIVERSAL REGISTRATION DOCUMENT 2024   44
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## 05 Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-### SHORT-TERM FINANCIAL BORROWINGS AND DEBT
-
-| At December 31 | Weighted average EIR(a) (in %) | in millions of euros |
-| --- | --- | --- |
-|  | 2024 | 2023 | 2024 | 2023 |
-| Euro - Ordinary bonds redeemable in 2024 | N/A | 2.87% | N/A | 200 |
-| Euro - Negotiable debt securities program | 4.15% | 3.94% | 120 | 287 |
-| Euro - Other | N/A | 9.41% | N/A | 2 |
-| US dollar | 5.74% | 7.55% | 10 | 25 |
-| Other | 4.52% | 10.23% | 18 | 31 |
-| **TOTAL SHORT-TERM DEBT EXCLUDING ACCRUED INTEREST(b)** | **4.31%** | **4.09%** | **148** | **545** |
-| Accrued interest (including short-term accrued interest on long-term debt) | N/A | N/A | 45 | 25 |
-| **TOTAL SHORT-TERM DEBT(b)** | **4.31%** | **4.09%** | **193** | **569** |
-| (a) Effective interest rate
-| (b) Excluding lease liabilities
-
-The vast majority of the Group's short-term debt is at fixed rates.
-
-At December 31, 2023, short-term debt in euros consisted mainly of the ordinary bond to be repaid in 2024 and outstanding commercial papers mentioned in Note 29-A.
-
-US dollar-denominated debt primarily concerns Colombia and Brazil.
-
-Debt denominated in currencies other than euros and US dollars corresponds mainly to borrowings taken out locally by certain Group subsidiaries in Asia (China), Africa and the Middle East (Turkey, Morocco and Côte d'Ivoire) and South America (Brazil). In some cases, such local borrowing is required as the countries concerned do not have access to the Group's centralized financing facilities. However, it may also be set up in order to benefit from a particularly attractive interest rate or to avoid the risk of potentially significant foreign exchange risk depending on the geographic region in question.
-
-### F. Analysis by maturity (including accrued interest)
-
-Nexans Financial and Trading Services, a wholly-owned Nexans subsidiary, is responsible for the Group's centralized cash management. However, in its capacity as parent company, Nexans S.A. still carries out the Group's long-term bond issues. Nexans Financial and Trading Services monitors changes in the liquidity facilities of the holding companies as well as the Group's overall financing structure on a weekly basis (see Note 29-A).
-
-In view of Nexans' available short-term liquidity facilities and long-term debt structure, the Group's debt maturity schedule set out below is presented on a medium and long-term basis.
-
-#### MATURITY SCHEDULE AT DECEMBER 31, 2024
-
-| in millions of euros | Due within one year | Due in one to five years | Due beyond five years | Total |
+| Amounts receivable from contracts with customers | 19 | 110 | 161 | 135 |
+| Accrued income from contracts with customers | 19 | 306 | 273 | 260 |
+| Cost of obtaining customer contracts | 13 | 48 | 27 | 37 |
+| Deferred acquisition costs | 20 | – | 1 | 3 |
+| Total contract receivables and assets | | 464 | 462 | 435 |
+
+| | Notes | 31 December 2023 £m | 31 December 2022 £m | 1 January 2022 £m |
 | --- | --- | --- | --- | --- |
-|  | Principal | Interest | Principal | Interest | Principal | Interest | Principal | Interest |
-| Ordinary bonds redeemable in 2028 | - | 22 | 400 | 66 | - | - | 400 | 88 |
-| Ordinary bonds redeemable in 2029 | - | 24 | 575 | 95 | - | - | 575 | 119 |
-| Ordinary bonds redeemable in 2030 | - | 15 | - | 60 | 350 | 15 | 350 | 89 |
-| European Investment Bank (EIB) loan | - | 4 | 200 | 8 | - | - | 200 | 12 |
-| Negotiable debt securities program | 120 | 3 | - | - | - | - | 120 | 3 |
-| Other bank loans and overdrafts | 28 | 1 | 15 | 0 | 46 | 0 | 90 | 1 |
-| Lease liabilities | 34 | 7 | 69 | 21 | 69 | 28 | 172 | 56 |
-| **TOTAL** | **183** | **75** | **1,259** | **250** | **465** | **43** | **1,907** | **367** |
+| Deferred income | 32 | 4 | 3 | 5 |
+| Total contract liabilities | | 4 | 3 | 5 |
 
-Notes concerning the preparation of the maturity schedule:
-• foreign exchange and interest rate derivatives used to hedge the Group's external debt are not material for the Group as a whole.
-• the euro equivalent amount for borrowings in foreign currencies has been calculated using the year-end exchange rate at December 31, 2024.
-
-## 45 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+Annual report 2023 | abrdn.com | 185
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+# Group financial statements continued 
 
-## Consolidated financial statements
+## 4. Net gains or losses on financial instruments and other income
 
-The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.
+Gains and losses resulting from changes in both market value and foreign exchange on investments classified as fair value through profit or loss are recognised in the consolidated income statement in the period in which they occur. The gains and losses include investment income received such as interest payments and dividend income. Dividend income is recognised when the right to receive payment is established.
 
-* It has been assumed that the nominal amounts of short-term borrowings including short-term bank loans and overdrafts will be fully repaid at regular intervals throughout 2024.
+Interest income on financial instruments measured at amortised cost is separately recognised in the consolidated income statement using the effective interest rate method. The effective interest rate method allocates interest and other finance costs at a constant rate over the expected life of the financial instrument, or where appropriate a shorter period, by using as the interest rate the rate that exactly discounts the future cash receipts over the expected life to the net carrying value of the instrument.
 
-* The interest cost has been calculated based on contractual interest rates for fixed-rate borrowings and on weighted average interest rates at December 31, 2024 for variable-rate borrowings (see Note 26 above).
+Other income includes income related to vacant property and fair value movements in contingent consideration.
 
-## Note 27. Trade payables and other current liabilities
+|  | Notes | 2023 £m | 2022 £m |
+| --- | --- | --- | --- |
+| Fair value movements and dividend income on significant listed investments |  |  |  |
+| Fair value movements on significant listed investments (other than dividend income) |  | (178) | (187) |
+| Dividend income from significant listed investments |  | 64 | 68 |
+| Total fair value movements and dividend income on significant listed investments |  | (114) | (119) |
+|  |  |  |  |
+| Non-unit linked business – excluding significant listed investments |  |  |  |
+| Net gains or losses on financial instruments at fair value through profit or loss |  | 6 | (83) |
+| Interest and similar income from financial instruments at amortised cost |  | 76 | 25 |
+| Foreign exchange gains or losses on financial instruments at amortised cost |  | (7) | 9 |
+| Other income |  | 37 | 41 |
+| Net gains or losses on financial instruments and other income – non-unit linked business – excluding significant listed investments |  | 112 | (8) |
+| Unit linked business |  |  |  |
+| Net gains or losses on financial instruments at fair value through profit or loss |  |  |  |
+| Net gains or losses on financial assets at fair value through profit or loss |  | 69 | (130) |
+| Change in non-participating investment contract financial liabilities |  | (65) | 112 |
+| Change in liability for third party interests in consolidated funds |  | (1) | 23 |
+| Total net gains or losses on financial instruments at fair value through profit or loss |  | 3 | 5 |
+| Interest and similar income from financial instruments at amortised cost |  | 1 | - |
+| Net gains or losses on financial instruments and other income – unit linked business¹ | 23 | 4 | 5 |
+| Total other net gains or losses on financial instruments and other income |  | 116 | (3) |
+|  |  |  |  |
+| Total net gains or losses on financial instruments and other income |  | 2 | (122) |
 
-At December 31, in millions of euros | 2024 | 2023
----|---|---
-TRADE PAYABLES | 1,622 | 1,601
-Social liabilities | 270 | 256
-Current income tax payables | 66 | 69
-Other tax payables | 39 | 30
-Deferred income | 4 | 1
-Other payables | 129 | 126
-OTHER CURRENT LIABILITIES | 508 | 482
+1. In addition to the Net gains or losses on financial instruments and other income – unit linked business of £4m (2022: £5m), there are administrative expenses and policyholder tax of £1m (2022: £1m) and £3m (2022: £4m) respectively relating to unit linked business for the account of policyholders so the result attributable to unit linked business for the year is £nil (2022: £nil). Refer Note 23 for further details.
 
-In the context of its copper purchases, market practices allow the Group to take part in financing transactions allowing payment on delivery by the supplier by a banking institution and then payment by the Group on the due date of the banking institutions initial invoice. The cost of financing the transaction is negotiated upstream with the supplier which includes it in its invoices to the Group. These transactions do not result in any extension for the Group of the payment period initially granted by the supplier (which remains unchanged) and do not have the effect of allowing suppliers to be paid before the due date of their invoice (this possibility existed previously and independently). The Group therefore considered that they did not fall within the scope of reverse factoring or any other financing transactions for trade payables within the meaning of the amendment to IFRS 7 published in May 2023.
+Fair value movements on significant listed investments (other than dividend income) of losses of £178m (2022: losses of £187m) comprises: losses of £5m relating to HDFC Life (2022: losses of £38m), losses of £96m relating to HDFC Asset Management (2022: losses of £105m) and losses of £77m relating to Phoenix (2022: losses of £44m).
 
-Trade payables relating to copper purchases have maturities ranging from 30 to 120 days depending on the geographical area in which the purchase transaction takes place and the various contractual agreements. At December 31, 2024, the Group's trade payables included an amount of 341 million euros (270 million euros at December 31, 2023) relating to these negotiated payment terms.
+Dividend income from significant listed investments of £64m (2022: £68m) comprises £54m (2022: £52m) relating to Phoenix, £10m (2022: £15m) relating to HDFC Asset Management and £nil (2022: £1m) relating to HDFC Life.
 
-The various tools implemented by the Group, detailed in Note 29 to the consolidated financial statements, would mitigate the liquidity risk that could be induced by the termination of the aforementioned transactions.
+186 | abrdn.com | Annual report 2023
 
-The amounts due to suppliers of fixed assets totaled 7 million euros at December 31, 2024 (14 million euros at December 31, 2023).
+---
 
-## Note 28. Derivative instruments
+# 5. Administrative and other expenses
 
-| in millions of euros | December 31, 2024 | | | | | | December 31, 2023 | |
+|  | Notes | 2023 £m | 2022 £m |
+| --- | --- | --- | --- |
+| Restructuring and corporate transaction expenses | 8 | 152 | 214 |
+| Impairment of intangibles acquired in business combinations and through the purchase of customer contracts |  |  |  |
+| Impairment of intangibles acquired in business combinations | 13 | 63 | 368 |
+| Impairment of intangibles acquired through the purchase of customer contracts | 13 | - | 1 |
+| Total impairment of intangibles acquired in business combinations and through the purchase of customer contracts |  | 63 | 369 |
+| Amortisation of intangibles acquired in business combinations and through the purchase of customer contracts |  |  |  |
+| Amortisation of intangibles acquired in business combinations | 13 | 115 | 115 |
+| Amortisation of intangibles acquired through the purchase of customer contracts | 13 | 11 | 10 |
+| Total amortisation of intangibles acquired in business combinations and through the purchase of customer contracts |  | 126 | 125 |
+| Staff costs and other employee-related costs | 6 | 529 | 549 |
+| Other administrative expenses^1,2^ |  | 593 | 662 |
+| Total administrative and other expenses^3^ |  | 1,463 | 1,919 |
+
+1. Other administrative expenses in 2022 included expense relating to a single process execution event provision. Other administrative expenses in 2023 includes a related credit for the recovery from the Group's liability insurance for this provision which was received in 2023. Refer Note 33 for further details.
+2. Other administrative expenses includes interest expense of £4m (2022: £2m). In addition, interest expense of £19m (2022: £23m) was incurred in respect of subordinated liabilities and the related cash flow hedge (refer Note 18) and interest expense of £6m (2022: £6m) in respect of lease liabilities (refer Note 16) which are included in Finance costs in the consolidated income statement.
+3. Total administrative and other expenses includes £1m (2022: £1m) relating to unit linked business. Refer Note 23 for further details.
+
+# 6. Staff costs and other employee-related costs
+
+|  | Notes | 2023 £m | 2022 £m |
+| --- | --- | --- | --- |
+| The aggregate remuneration payable in respect of employees: |  |  |  |
+| Wages and salaries |  | 443 | 452 |
+| Social security costs |  | 51 | 50 |
+| Pension costs |  |  |  |
+| Defined benefit plans |  | (39) | (29) |
+| Defined contribution plans |  | 55 | 56 |
+| Employee share-based payments and deferred fund awards | 40 | 19 | 20 |
+| Total staff costs and other employee-related costs |  | 529 | 549 |
+
+In addition, wages and salaries of £18m (2022: £25m), social security costs of £4m (2022: £3m), pension costs – defined benefit plans of £nil (2022: less than £1m), pension costs – defined contribution plans of less than £1m (2022: £1m), employee share-based payments and deferred fund awards relating to transformation, leavers and corporate transactions of £12m (2022: £6m) and termination benefits of £44m (2022: £53m) have been included in restructuring and corporate transaction expenses. Refer Note 8. A further £4m (2022: £11m) of expenses are included in other cost of sales in relation to amounts payable to employees and former employees relating to carried interest and performance fee revenue. Refer Note 3.
+
+The following table provides an analysis of the average number of staff employed by the Group during the year.
+
+|  | 2023 | 2022 |
+| --- | --- | --- |
+| Investments | 2,132 | 2,344 |
+| Adviser | 536 | 658 |
+| ii (previously named Personal) | 1,138 | 928 |
+| IT and support functions^1^ | 1,252 | 1,369 |
+| Total employees | 5,058 | 5,299 |
+
+1. Previously named Operations, IT and support functions. All roles classified as Operations have been allocated directly to the reportable segment since 2022.
+
+Annual report 2023 | abrdn.com | 187
+
+---
+
+# Group financial statements continued
+
+Information in respect of Directors' remuneration is provided in the Directors' remuneration report on pages 115 to 134. In addition to the total remuneration disclosed as paid to the Director for the prior year are amounts paid to those Directors who stepped down from the Board during 2022 being £50,000 to Martin Pike, £42,000 to Jutta af Rosenberg and £81,000 to Cecilia Reyes. This is as disclosed in the 2022 Directors' remuneration report.
+
+## 7. Auditors' remuneration
+
+The following table shows the auditors' remuneration during the year.
+
+| | 2023<br>£m | 2022<br>£m |
+|---|---|---|
+| Fees payable to the Company's auditors for the audit of the Company's individual and consolidated financial statements | 2.1 | 1.5 |
+| Fees payable to the Company's auditors for other services | | |
+| The audit of the Company's consolidated subsidiaries pursuant to legislation | 5.1 | 4.7 |
+| Audit related assurance services | 2.8 | 2.3 |
+| **Total audit and audit related assurance fees** | **10.0** | **8.5** |
+| Other assurance services | 1.0 | 1.0 |
+| Other non-audit fee services | - | 0.3 |
+| **Total non-audit fees** | **1.0** | **1.3** |
+| **Total auditors' remuneration** | **11.0** | **9.8** |
+
+Auditors' remuneration disclosed above excludes audit and non-audit fees payable to the Group's principal auditor by Group managed funds which are not controlled by the Group, and therefore not consolidated in the Group's financial statements.
+
+During the year ended 31 December 2023 no audit fees were payable in respect of defined benefit plans to the Group's principal auditor (2022: £nil).
+
+For more information on non-audit services, refer to the Audit Committee report in the Corporate governance statement.
+
+## 8. Restructuring and corporate transaction expenses
+
+Total restructuring and corporate transaction expenses during the year were £152m (2022: £214m). Restructuring expenses of £121m (2022: £169m) mainly consisting of property related impairments, severance, platform transformation and specific costs to effect savings in Investments. This was partly offset by a £32m release of the provision for separation costs. Refer Note 33 for further details. Corporate transaction expenses were £31m (2022: £45m) and include deal costs relating to acquisitions for the year ended 31 December 2023 of £2m (2022: £14m). Further information on restructuring and corporate transaction expenses can be found in Section 1.1 of Supplementary information.
+
+188 | abrdn.com | Annual report 2023
+
+---
+
+# 9. Taxation
+
+The Group's tax expense comprises both current tax and deferred tax expense.
+
+Current tax is the expected tax payable on taxable profit for the year and is calculated using tax rates and laws substantively enacted at the balance sheet date.
+
+A deferred tax asset represents a tax deduction that is expected to arise in a future period. It is only recognised to the extent that it is probable that the tax deduction will be capable of being offset against taxable profits and gains in future periods. A deferred tax liability represents taxes which will become payable in a future period as a result of a current or prior year transaction. Where local tax law allows, deferred tax assets and liabilities are netted off on the statement of financial position. The tax rates used to determine deferred tax are those enacted or substantively enacted at the balance sheet date that are expected to apply when the deferred tax asset or liability are realised. Any tax consequences of distributions on other equity instruments are credited to the statement in which the profit distributed originally arose.
+
+Deferred tax is recognised on temporary differences arising from investments in subsidiaries and associates unless the timing of the reversal is in our control and it is expected that the temporary difference will not reverse in the foreseeable future.
+
+The Group applies the exception to recognising and disclosing information about deferred tax assets and liabilities related to Pillar Two income taxes.
+
+Current tax and deferred tax are recognised in the consolidated income statement except when it relates to items recognised in other comprehensive income or directly in equity, in which case it is credited or charged to other comprehensive income or directly to equity respectively.
+
+The Group operates in a number of territories and during the normal course of business will be subject to audit or enquiry by local tax authorities. At any point in time the Group will also be engaged in commercial transactions the tax outcome of which may be uncertain due to their complexity or uncertain application of tax law. Tax provisions, therefore, are subjective by their nature and require management judgement based on the interpretation of legislation, management experience and professional advice. As such, this may result in the Group recognising provisions or disclosing contingent liabilities for uncertain tax positions. Management will provide for uncertain tax positions where they judge that it is probable there will be a future outflow of economic benefits from the Group to settle the obligation. Where a future outflow of economic benefits is judged as less than probable but more than remote, a contingent liability will be disclosed, where material. In assessing uncertain tax positions management considers each issue on its own merits using their judgement as to the estimate of the most likely outcome. When making estimates, management considers all available evidence. This may include forecasts of future profitability, the frequency and severity of any losses, and statutory carry forward and carry back provisions as well as management experience of tax attributes expiring without use. Where the final outcome differs from the amount provided this difference will impact the tax charge in future periods. Management re-assesses provisions at each reporting date based upon latest available information.
+
+## (a) Tax charge in the consolidated income statement
+### (a)(i) Current year tax expense
+
+| | 2023<br>£m | 2022<br>£m |
+|---|---:|---:|
+| **Current tax:** | | |
+| UK | 17 | 5 |
+| Overseas | 51 | 45 |
+| Adjustment to tax expense in respect of prior years | (2) | (8) |
+| **Total current tax** | 66 | 42 |
+| **Deferred tax:** | | |
+| Deferred tax credit arising from the current year | (69) | (104) |
+| Adjustment to deferred tax in respect of prior years | (15) | (4) |
+| **Total deferred tax** | (84) | (108) |
+| **Total tax credit¹** | (18) | (66) |
+
+1. The tax credit of £18m (2022: £66m) includes a tax expense of £3m (2022: £4m) relating to unit linked business. Refer Note 23 for further details.
+
+In 2023 unrecognised tax losses from previous years were used to reduce the current tax expense by £2m (2022: £3m).
+
+Current tax recoverable and current tax liabilities at 31 December 2023 were £10m (2022: £7m) and £6m (2022: £11m) respectively. In addition current tax recoverable and current tax liabilities in relation to unit linked business were £nil (2022: less than £1m) and £nil (2022: less than £1m) respectively. Current tax assets and liabilities are expected to be recoverable or payable in less than 12 months at both 31 December 2023 and 31 December 2022.
+
+Annual report 2023 | abrdn.com | 189
+
+---
+
+# Group financial statements continued
+
+(a)(ii) Reconciliation of tax expense
+
+| | 2023<br>£m | 2022<br>restated¹<br>£m |
+|---|---|---|
+| Loss before tax | (6) | (612) |
+| Tax at 23.5% (2022: 19%) | (1) | (116) |
+| Remeasurement of deferred tax due to rate changes | (5) | (15) |
+| Permanent differences | 1 | 1 |
+| Non-taxable dividends from significant listed investments | (13) | (13) |
+| Non-taxable fair value movements on significant listed investments | 18 | 21 |
+| Tax effect of accounting for Share of profit or loss from associates and joint ventures | – | (2) |
+| Tax effect of distributions on other equity instruments | (3) | (2) |
+| Impairment losses on goodwill | 15 | 65 |
+| Impairment of investment in associates and joint ventures | – | 2 |
+| Differences in overseas tax rates | 4 | 5 |
+| Adjustment to current tax expense in respect of prior years | (2) | (8) |
+| Recognition of previously unrecognised deferred tax credit | (1) | (3) |
+| Deferred tax not recognised | 2 | 4 |
+| Adjustment to deferred tax expense in respect of prior years | (15) | (4) |
+| Non-taxable profit or loss on sale of subsidiaries, associates and significant listed investments | (18) | (5) |
+| Other | - | 4 |
+| Total tax credit for the year | (18) | (66) |
+
+1. Comparatives for 2022 have been restated for the implementation of IFRS 17. Refer Basis of preparation.
+
+The standard UK Corporation Tax rate for the accounting period is 23.5%. The rate of UK Corporation Tax increased from 19% to 25% with effect from 1 April 2023.
+
+The accounting for certain items in the consolidated income statement results in certain reconciling items in the table above, the values of which vary from year to year depending upon the underlying accounting values.
+
+Details of significant reconciling items are as follows:
+– Dividend income and fair value movements from our investments in Phoenix not being subject to tax.
+– Movements in the fair value of our investment in HDFC Asset Management being tax effected at the Indian long-term capital gains tax rate, which is lower than the UK Corporation Tax rate.
+– Profit on the sale of abrdn Capital not being subject to tax.
+– Goodwill impairments not deductible for tax purposes.
+– Prior year adjustments to deferred tax liabilities on intangibles.
+
+(b) Tax relating to components of other comprehensive income
+
+Tax relating to components of other comprehensive income is as follows:
+
+| | 2023<br>£m | 2022<br>£m |
+|---|---|---|
+| Tax relating to fair value gains and losses recognised on cash flow hedges | (10) | 21 |
+| Tax relating to cash flow hedge gains and losses transferred to consolidated income statement | 7 | (19) |
+| Equity holder tax effect relating to items that may be reclassified subsequently to profit or loss | (3) | 2 |
+| Tax relating to other comprehensive income | (3) | 2 |
+
+All of the amounts presented above are in respect of equity holders of abrdn plc.
+
+190 | abrdn.com | Annual report 2023
+
+---
+
+# (c) Deferred tax assets and liabilities
+
+## (c)(i) Analysis of recognised deferred tax
+
+|  | 2023 | 2022 |
+| --- | --- | --- |
+|  | £m | £m |
+| **Deferred tax assets comprise:** |  |  |
+| Losses carried forward | 160 | 170 |
+| Depreciable assets | 35 | 33 |
+| Employee benefits | 20 | 26 |
+| Provisions and other temporary timing differences | 7 | 5 |
+| **Gross deferred tax assets** | 222 | 234 |
+| Less: Offset against deferred tax liabilities | (7) | (22) |
+| **Deferred tax assets** | 215 | 212 |
+| **Deferred tax liabilities comprise:** |  |  |
+| Unrealised gains on investments | 4 | 60 |
+| Deferred tax on intangible assets acquired through business combinations | 124 | 162 |
+| Other | 8 | 11 |
+| **Gross deferred tax liabilities** | 136 | 233 |
+| Less: Offset against deferred tax assets | (7) | (22) |
+| **Deferred tax liabilities** | 129 | 211 |
+| **Net deferred tax asset at 31 December** | 86 | 1 |
+
+A deferred tax asset of £160m (2022: £170m) has been recognised by the Group in respect of losses of the parent company and various subsidiaries. The decrease in this deferred tax asset in 2023 reflects the utilisation of brought forward losses against taxable profits in the year.
+
+Deferred tax assets are recognised to the extent that it is probable that the losses will be capable of being offset against taxable profits and gains in future periods. The value attributed to them takes into account the certainty or otherwise of their recoverability. Their recoverability is measured against the reversal of deferred tax liabilities and anticipated taxable profits and gains based on business plans. The deferred tax asset recognised on losses relates to UK entities where there is currently no restriction on the period of time over which losses can be utilised. Recognition of this deferred tax asset requires that management must consider if it is more likely than not that this asset will be recoverable in future periods against future profits arising in the UK. In making this assessment management have considered future operating plans and forecast taxable profits and are satisfied that, following completion of transformation activities, forecast taxable profits will be sufficient to enable recovery of the UK tax losses. The financial forecasts considered were consistent with those used for the assessment of the Group's intangible assets (refer Note 13). Based upon the level of forecast taxable profits management do not consider there is significant risk of a material adjustment to the carrying amount of the deferred tax asset on UK tax losses within the next financial year. Management expect the deferred tax asset to be utilised over a period of between five and seven years.
+
+Deferred tax liabilities relating to unrealised gains on investments at 31 December 2022 of £60m included £52m relating to the Group's investment in HDFC Asset Management. This investment was sold in 2023 (refer Note 11(a) for further details).
+
+Deferred tax assets of £215m (2022: £212m) and liabilities of £129m (2022: £211m) are expected to be recovered or settled after more than 12 months.
+
+## (c)(ii) Movements in deferred tax assets and liabilities
+
+| | Losses carried forward | Depreciable assets | Employee benefits | Provisions and other temporary timing differences | Unrealised gains on investments | Deferred tax on intangible assets acquired through business combinations | Other | Net deferred tax asset |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | £m | £m | £m | £m | £m | £m | £m | £m |
+| At 1 January 2023 | 170 | 33 | 26 | 5 | (60) | (162) | (11) | 1 |
+| Amounts (expensed) in/credited to the consolidated income statement | (10) | 2 | (6) | 2 | 56 | 38 | 2 | 84 |
+| Tax on cash flow hedge | – | – | – | – | – | – | 3 | 3 |
+| Other | – | – | – | – | – | – | (2) | (2) |
+| At 31 December 2023 | 160 | 35 | 20 | 7 | (4) | (124) | (8) | 86 |
+
+Annual report 2023 | abrdn.com | 191
+
+---
+
+# Group financial statements continued
+
+|  | Losses carried forward | Depreciable assets | Employee benefits | Provisions and other temporary timing differences | Unrealised gains on investments | Deferred tax on intangible assets acquired through business combinations | Other | Net deferred tax asset |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | £m | £m | £m | £m | £m | £m | £m | £m |
+| At 1 January 2022 | 129 | 25 | 30 | 4 | (104) | (72) | (9) | 3 |
+| Acquired through business combinations | – | 5 | – | – | – | (114) | – | (109) |
+| Amounts (expensed) in/credited to the consolidated income statement | 41 | 3 | (5) | 1 | 44 | 24 | – | 108 |
+| Tax on cash flow hedge | – | – | – | – | – | – | (2) | (2) |
+| Other | – | – | 1 | – | – | – | – | 1 |
+| At 31 December 2022 | 170 | 33 | 26 | 5 | (60) | (162) | (11) | 1 |
+
+## (d) Unrecognised deferred tax
+Due to uncertainty regarding recoverability, deferred tax assets have not been recognised in respect of the following:
+– Cumulative losses carried forward of £91m (2022: £81m) in the UK and losses and other temporary differences of £360m (2022: £275m) in the US, losses of £10m in China (2022: £11m), losses of £10m in Japan (2022: £13m) and losses of £9m (2022: £19m) in other overseas jurisdictions.
+
+Of these unrecognised deferred tax assets, certain losses have expiry dates as follows:
+– US losses of £140m with expiry dates between 2035-2037 (2022: £79m).
+– Other overseas losses of £21m with expiry dates between 2024-2033 (2022: £27m).
+
+The following table provides an analysis of the losses with expiry dates for unrecognised deferred tax assets.
+
+| | 2023 | 2022 |
+| --- | --- | --- |
+| | £m | £m |
+| Less than 1 year | 4 | 5 |
+| Greater than or equal to 1 year and less than 5 years | 9 | 11 |
+| Greater than or equal to 5 years and less than 10 years | 8 | 11 |
+| Greater than 10 years | 140 | 79 |
+| Total losses with expiry dates | 161 | 106 |
+
+There is unrecognised deferred tax of £18m (2022: £nil) relating to temporary timing differences associated with investments in subsidiaries, branches and associates and interests in joint arrangements.
+
+## (e) Pillar Two taxes
+The Group is within the scope of the OECD Pillar Two model rules. Pillar Two legislation was enacted in the UK, the jurisdiction in which abrdn plc is incorporated, and came into effect from 1 January 2024. The Group expects to be subject to top-up taxes in relation to its operations in Guernsey, where the statutory rate is below 15% and in Singapore where certain qualifying income is subject to a concessionary tax rate of 10% under the Singapore Financial Sector Incentive for Fund Managers. The Group also expects to be subject to top up taxes in the UK, in relation to its overseas joint ventures with a local effective tax rate below 15%. However, since the newly enacted tax legislation is only effective from 1 January 2024, there is no current tax impact for the year ended 31 December 2023.
+
+As noted above, the Group has applied a temporary mandatory relief from deferred tax accounting for the impacts of the top-up tax and accounts for it as a current tax when it is incurred.
+
+If the top-up tax had applied in 2023, then the associated profits relating to the Group's operations for the year ended 31 December 2023 that would be subject to it amount to £48.6m, with the average effective tax rate applicable to those profits during 2023 being 12 percent.
+
+192 | abrdn.com | Annual report 2023
+
+---
+
+# 10. Earnings per share
+
+Basic earnings per share is calculated by dividing profit or loss attributable to ordinary equity holders by the weighted average number of ordinary shares in issue during the period excluding shares owned by the employee trusts that have not vested unconditionally to employees.
+
+Diluted earnings per share is calculated by adjusting the weighted average number of ordinary shares in issue during the period to assume the conversion of all dilutive potential ordinary shares, such as share options granted to employees. Details of the share options and awards issued under the Group's employee plans are provided in Note 40.
+
+Adjusted earnings per share is calculated on adjusted profit after tax attributable to ordinary equity holders of the Company.
+
+Basic earnings per share was 0.1p (2022: 26.6p) and diluted earnings per share was 0.1p (2022: 26.6p) for the year ended 31 December 2023. The following table shows details of basic, diluted and adjusted earnings per share.
+
+| | 2023 | 2022 restated¹ |
+|---|---:|---:|
+| Adjusted profit before tax | 330 | 253 |
+| Tax on adjusted profit | (50) | (22) |
+| Adjusted profit after tax | 280 | 231 |
+| **Attributable to:** | | |
+| Other equity holders | (11) | (11) |
+| Non-controlling interests – ordinary shares | – | (1) |
+| **Adjusted profit after tax attributable to equity shareholders of abrdn plc** | 269 | 219 |
+| Total adjusting items including results of associates and joint ventures | (336) | (865) |
+| Tax on adjusting items | 68 | 88 |
+| **Profit/(loss) attributable to equity shareholders of abrdn plc** | 1 | (558) |
+
+| | 2023 Millions | 2022 Millions |
+|---|---:|---:|
+| Weighted average number of ordinary shares outstanding | 1,902 | 2,094 |
+| Dilutive effect of share options and awards | 28 | 16 |
+| Weighted average number of diluted ordinary shares outstanding | 1,930 | 2,110 |
+
+In accordance with IAS 33, no share options and awards were treated as dilutive for the year ended 31 December 2022 due to the loss attributable to equity holders of abrdn plc in that period. This resulted in the diluted earnings per share and adjusted diluted earnings per share being calculated using the weighted average number of ordinary shares of 2,094 million.
+
+| | 2023 Pence | 2022 restated¹ Pence |
+|---|---:|---:|
+| Basic earnings per share | 0.1 | (26.6) |
+| Diluted earnings per share | 0.1 | (26.6) |
+| Adjusted earnings per share | 14.1 | 10.5 |
+| Adjusted diluted earnings per share | 13.9 | 10.5 |
+
+¹. Comparatives for 2022 have been restated for the implementation of IFRS 17. Refer Basis of preparation.
+
+Annual report 2023 | abrdn.com | 193
+
+---
+
+# Group financial statements continued
+
+## 11. Adjusted profit and adjusting items
+
+Adjusted profit excludes the impact of the following items:
+- Restructuring and corporate transaction expenses. Restructuring includes the impact of major regulatory change.
+- Amortisation and impairment of intangible assets acquired in business combinations and through the purchase of customer contracts.
+- Profit or loss arising on the disposal of a subsidiary, joint venture or equity accounted associate.
+- Change in fair value of/dividends from significant listed investments (see (a) below).
+- Share of profit or loss from associates and joint ventures.
+- Impairment loss/reversal of impairment loss recognised on investments in associates and joint ventures accounted for using the equity method.
+- Fair value movements in contingent consideration.
+- Items which are one-off and, due to their size or nature, are not indicative of the long-term operating performance of the Group.
+
+The tax charge or credit allocated to adjusting items is based on the tax treatment of each adjusting item.
+
+The operating, investing and financing cash flows presented in the consolidated statement of cash flows are for both adjusting and non-adjusting items.
+
+### (a) Significant listed investments
+
+During 2020 and 2021, the Group's investments in HDFC Life, Phoenix and HDFC Asset Management were reclassified from associates to equity securities and considered significant listed investments of the Group. Fair value movements on these investments are included as adjusting items, which is aligned with our treatment of gains on disposal for these holdings when they were classified as associates. Dividends from significant listed investments are also included as adjusting items, as these result in fair value movements.
+
+During the year ended 31 December 2023:
+- The Group's holding in HDFC Life reduced by 1.7% following the sale of 35,694,105 equity shares through a Bulk Sale on 31 May 2023 and the Group now has no remaining shareholding in HDFC Life. The total consideration net of taxes, expenses and related foreign exchange hedging was £198m.
+- The Group's holding in HDFC Asset Management reduced by 10.2% following the sale of 21,778,305 equity shares through a Bulk Sale on 20 June 2023 and the Group now has no remaining shareholding in HDFC Asset Management. The total consideration net of taxes, expenses and related foreign exchange hedging was £337m.
+
+Following the sales, the Group has one remaining significant listed investment, Phoenix.
+
+### (b) Other
+
+Other adjusting items for the year ended 31 December 2023 include:
+- £36m for an insurance liability recovery in relation to the single process execution event in 2022. The £41m provision expense was included in other adjusting items for the year ended 31 December 2022. Refer Note 33.
+- A £23m gain (2022: £35m gain) for net fair value movements in contingent consideration.
+- £21m for provision expense relating to a potential tax liability. Refer Note 33.
+- A £5m fair value loss (2022: £11m loss) on a financial instrument liability related to a prior period acquisition.
+- A gain of £4m (2022: loss of £13m) in relation to market gains and losses on the investments held by the abrdn Financial Fairness Trust which is consolidated by the Group. The assets of the abrdn Financial Fairness Trust are restricted to be used for charitable purposes.
+
+194 | abrdn.com | Annual report 2023
+
+## 12. Dividends on ordinary shares
+
+Dividends are distributions of profit to holders of abrdn plc's share capital and as a result are recognised as a deduction in equity. Final dividends are announced with the Annual report and accounts and are recognised when they have been approved by shareholders. Interim dividends are announced with the Half year results and are recognised when they are paid.
+
+| | 2023 | | 2022 | |
+|---|---|---|---|---|
+| | Pence per share | £m¹ | Pence per share | £m |
+| Prior year's final dividend paid | 7.30 | 142 | 7.30 | 154 |
+| Interim dividend paid | 7.30 | 137 | 7.30 | 153 |
+| Total dividends paid on ordinary shares | | 279 | | 307 |
+| | | | | |
+| Current year final recommended dividend | 7.30 | 130 | 7.30 | 142 |
+
+1. Estimated for current year final recommended dividend.
+
+The final recommended dividend will be paid on 30 April 2024 to shareholders on the Company's register as at 15 March 2024, subject to approval at the 2024 Annual General Meeting. After the current year final recommended dividend, the total dividend in respect of the year ended 31 December 2023 is 14.60p (2022: 14.60p).
+
+Annual report 2023                  abrdn.com                  195
+
+---
+
+# Group financial statements continued
+
+## 13. Intangible assets
+
+Goodwill is created when the Group acquires a business and the consideration exceeds the fair value of the net assets acquired. In determining the net assets acquired in business combinations, intangible assets are recognised where they are separable or arise from contractual or legal rights. Intangible assets acquired by the Group through business combinations consist mainly of customer relationships and investment management contracts, technology and brands. Any remaining value that cannot be identified as a separate intangible asset on acquisition forms part of goodwill.
+
+In addition to intangible assets acquired through business combinations, the Group recognises as intangible assets software which has been developed internally and other purchased technology which is used in managing and executing our business. Costs to develop software internally are capitalised after the research phase and when it has been established that the project is technically feasible and the Group has both the intention and ability to use the completed asset.
+
+Intangible assets are recognised at cost and amortisation is charged to the income statement over the length of time the Group expects to derive benefits from the asset. The allocation of the income statement charge to each reporting period is dependent on the expected pattern over which future benefits are expected to be derived. Where this pattern cannot be determined reliably the charge is allocated on a straight-line basis.
+
+Goodwill is not charged to the income statement unless it becomes impaired.
+
+The Group also recognises the cost of obtaining customer contracts (refer Note 3) as an intangible asset. These costs primarily relate to the cost of acquiring existing investment management contracts from other asset managers and commission costs for initial investors into new closed-end funds where these are borne by the Group. For the cost of obtaining customer contracts, the intangible asset is amortised on the same basis as the transfer to the customer of the services to which the intangible asset relates.
+
+| | | Acquired through business combinations | | | | | |
+|---|---|---|---|---|---|---|---|
+| | Goodwill | Brand | Customer relationships and investment management contracts | Technology and other | Internally developed software¹ | Purchased software and other | Cost of obtaining customer contracts | Total |
+| | £m | £m | £m | £m | £m | £m | £m | £m |
+| **Gross amount** | | | | | | | | |
+| At 1 January 2022 | 3,721 | 94 | 1,088 | 69 | 131 | 5 | 104 | 5,212 |
+| Reclassified as held for sale during the year | (49) | – | (28) | – | – | – | – | (77) |
+| Disposals and adjustments | – | – | 2 | – | – | – | 1 | 3 |
+| Additions – ii | 993 | 16 | 421 | 32 | – | – | – | 1,462 |
+| Additions – other | – | – | – | – | 6 | – | – | 6 |
+| At 31 December 2022 | 4,665 | 110 | 1,483 | 101 | 137 | 5 | 105 | 6,606 |
+| Disposals and adjustments | – | 1 | (4) | – | 2 | – | – | (1) |
+| Additions | 41 | – | 78 | – | 8 | – | 33 | 160 |
+| Foreign exchange adjustment | (2) | – | (4) | – | – | – | (1) | (7) |
+| At 31 December 2023 | 4,704 | 111 | 1,553 | 101 | 147 | 5 | 137 | 6,758 |
+| **Accumulated amortisation and impairment** | | | | | | | | |
+| At 1 January 2022 | (3,390) | (82) | (774) | (64) | (127) | (4) | (67) | (4,508) |
+| Reclassified as held for sale during the year | – | – | 19 | – | – | – | – | 19 |
+| Amortisation charge for the year² | – | (14) | (91) | (10) | (3) | (1) | (10) | (129) |
+| Impairment losses recognised³ | (340) | – | (28) | – | – | – | (1) | (369) |
+| At 31 December 2022 | (3,730) | (96) | (874) | (74) | (130) | (5) | (78) | (4,987) |
+| Amortisation charge for the year² | – | (4) | (99) | (12) | (2) | – | (11) | (128) |
+| Impairment losses recognised³ | (62) | – | (1) | – | (2) | – | – | (65) |
+| At 31 December 2023 | (3,792) | (100) | (974) | (86) | (134) | (5) | (89) | (5,180) |
+| **Carrying amount** | | | | | | | | |
+| At 1 January 2022 | 331 | 12 | 314 | 5 | 4 | 1 | 37 | 704 |
+| At 31 December 2022 | 935 | 14 | 609 | 27 | 7 | – | 27 | 1,619 |
+| At 31 December 2023 | 912 | 11 | 579 | 15 | 13 | – | 48 | 1,578 |
+
+1. Included in the internally developed software of £13m (2022: £7m) is £10m (2022: £5m) relating to intangible assets not yet ready for use.
+2. For the year ended 31 December 2023, £126m (2022: £125m) of the amortisation charge is recognised in Amortisation of intangibles acquired in business combinations and through the purchase of customer contracts with £2m (2022: £4m) recognised in Other administrative expenses.
+3. For the year ended 31 December 2023, £63m (2022: £369m) of impairment is recognised in Impairment of intangibles acquired in business combinations and through the purchase of customer contracts with £2m (2022: £nil) recognised in Restructuring and corporate transaction expenses.
+
+196        abrdn.com        Annual report 2023
+
+---
+
+# FINANCIAL INFORMATION
+
+At 31 December 2023, there was:
+– £39m (2022: £nil) of goodwill attributable to the abrdn Inc. cash-generating unit (CGU) in the Investments segment in relation to the acquisition of the healthcare fund management capabilities of Tekla (refer Note 1(b)(i) for further details).
+– £819m (2022: £819m) and £24m (2022: £60m) of goodwill attributable to the ii CGU and abrdn financial planning business CGU respectively in the ii segment (previously named Personal). At 31 December 2022 goodwill of £49m relating to the ii segment was classified as held for sale in relation to the sale of aCL which completed in 2023 (refer Note 1(c)(i) for further details).
+– £25m (2022: £25m) of goodwill is attributable to an Adviser segment CGU. Prior to January 2023, this goodwill which relates to the acquisition of threesixty was attributable to a CGU in the ii segment.
+– £5m (2022: £31m) of goodwill attributable to the Finimize CGU which is reported within Other business operations and corporate costs. Finimize was previously included within the Investments segment.
+
+## Tekla investment management contract intangible assets
+On acquisition of the healthcare fund management capabilities of Tekla, £78m of customer relationships and investment management contract intangibles were recognised. These assets primarily relate to investment management contracts with the four NYSE listed funds. The description of the individually material intangible assets including the estimated useful life at the acquisition date of 27 October 2023 were as follows:
+
+| Investment management contract intangible asset | Description | Useful life at acquisition date | Fair value on acquisition date | Carrying value 2023 | Carrying value 2022 |
+|---|---|---|---|---|---|
+| Tekla Healthcare Opportunities Fund | Investment management contract with Tekla Healthcare Opportunities Fund | 12.1 years | 28 | 26 | N/A |
+| Tekla Healthcare Investors | Investment management contract with Tekla Healthcare Investors | 12.1 years | 25 | 23 | N/A |
+
+The key assumptions, other than the useful life, in measuring the fair value of the investment contract intangible assets at acquisition date were as follows:
+– Revenue growth – this assumption was based on past experience of growth for each fund in prior periods before reverting to a long term growth in line with inflation estimates. Management fee rates are assumed to stay in line with current rates.
+– Operating margin – this assumption was based on the expected EBITDA of each acquired investment management contract.
+– Discount rate – this assumption was based on a risk adjusted internal rate of return (IRR) of the transaction.
+
+As with prior significant acquisitions, the Group made use of assistance from a third-party valuation specialist in determining the value of the customer intangibles.
+
+As the investment management contracts relate to closed-end funds, the straight-line method of amortisation is considered appropriate for these intangibles. There has been no change to the useful lives and therefore the residual useful life of these investment management contract intangible assets is 11.9 years.
+
+## ii intangible assets
+On acquisition of ii, customer relationships, brand and technology and other intangibles of £421m, £16m and £32m respectively were recognised. Identification and valuation of intangible assets acquired in business combinations is a key judgement. The description of the individually material intangible asset including the estimated useful life at the acquisition date of 27 May 2022 was as follows:
+
+| Customer relationship intangible asset | Description | Useful life at acquisition date | Fair value on acquisition date | Carrying value 2023 | Carrying value 2022 |
+|---|---|---|---|---|---|
+| Customer base | ii's customer base at the date of acquisition | 15 years | 421 | 340 | 390 |
+
+The key assumptions in measuring the fair value of this intangible asset at acquisition date were as follows:
+– Revenue per customer growth – comprises expected growth in account fees, treasury income and trading transactions revenue from ii business plans. Treasury income is the interest earned on cash balances less the interest paid to customers and was assumed to grow in line with assets under administration. Market interest rates were assumed to remain at or above 1%.
+– Customer attrition – customer attrition represents the expected rate of existing customers leaving ii. This assumption was primarily based on historical attrition rates and was assumed to remain constant over time.
+– Operating margin - this assumption was based on the current operating margins adjusted for marketing costs which are not attributable to the servicing of existing customers. Expected future operating margins are adjusted to take into account that increased treasury income does not result in higher costs.
+– Discount rate - this assumption was based on a market participant weighted average cost of capital.
+
+Annual report 2023 | abrdn.com | 197
+
+---
+
+# Group financial statements continued
+
+The above assumptions, and in particular the customer attrition assumption, were also used to determine the 15 year useful economic life at the acquisition date. There has been no change to the useful life and therefore the residual useful life of the customer relationships intangible asset is 13.4 years. The reducing balance method of amortisation is considered appropriate for this intangible, consistent with the attrition rate being constant over time.
+
+The technology intangible asset relates to ii's internally generated technology which has been valued based on the replacement cost method. The brand intangible asset relates to the ii brand and has been valued based on applying an assumed royalty rate to revenue forecasts.
+
+Following the valuation of the ii intangibles discussed above goodwill of £993m was recognised. The allocation of this goodwill to cash-generating units was a key judgement in 2022. The goodwill was allocated to cash-generating units based on expected earnings contribution, including in relation to revenue synergies, at the time of the transaction. We considered an earnings contribution method of allocation to be appropriate as earnings multiples are a primary valuation method for businesses such as ii. This resulted in the goodwill being primarily allocated to the ii cash-generating unit in the ii segment (£819m), with £132m and £42m allocated to the asset management group of cash-generating units in the Investments segment and a cash-generating unit in the ii segment respectively. As noted below, the £132m allocated to the asset management group of cash-generating units was subsequently impaired in 2022. The £42m allocated to a cash-generating unit in the ii segment was transferred to held for sale at 31 December 2022 and disposed of during 2023. Refer Note 21 for further details.
+
+## Tritax investment management contract intangible assets
+On acquisition of Tritax, £71m of customer relationships and investment management contracts intangibles were recognised. These assets primarily relate to Tritax's investment management contracts with Tritax Big Box REIT plc and Tritax Euro Box plc which are listed closed-end real estate funds. The description of the individually material intangible asset including the estimated useful life at the acquisition date of 1 April 2021 was as follows:
+
+| Investment management contract intangible asset | Description | Useful life at acquisition date | Fair value on acquisition date £m | Carrying value 2023 £m | Carrying value 2022 £m |
+|---|---|---|---|---|---|
+| Tritax Big Box REIT plc | Investment management contract with Tritax Big Box REIT plc | 13 years | 50 | 40 | 43 |
+
+The key assumptions, other than the useful life, in measuring the fair value of the investment contract intangible assets at acquisition date were as follows:
+– Revenue growth – this assumption was based on the fund growth (from markets and investment performance) included in the Tritax business plan as adjusted for the impact of fund raisings which commenced prior to the acquisition date. Management fee rates are assumed to stay in line with current rates.
+– Operating margin – this assumption was based on the current operating margins adjusted for expected cost synergies.
+– Discount rate – this assumption was based on a market participant weighted average cost of capital.
+
+As the investment management contracts relate to closed-end funds, the straight-line method of amortisation is considered appropriate for these intangibles. There has been no change to the useful lives and therefore the residual useful life of these investment management contract intangible assets is 10.25 years.
+
+## abrdn Holdings Limited (aHL) intangibles
+On the acquisition of aHL in 2017, we identified intangible assets in relation to customer relationships, brand and technology as being separable from goodwill. Identification and valuation of intangible assets acquired in business combinations is a key judgement.
+
+The customer relationships acquired through aHL were grouped where the customer groups have similar economic characteristics and similar useful economic lives. This gave rise to three separate intangible assets which we termed Lloyds Banking Group, Open ended funds, and Segregated and similar.
+
+In relation to the Open ended funds we considered that it was most appropriate to recognise an intangible asset relating to customer relationships between aHL and open ended fund customers, rather than an intangible asset relating to investment management agreements between aHL and aHL's open ended funds. Our judgement was that the value associated with the open ended fund assets under management was predominantly derived from the underlying customer relationships, taking into account that a significant proportion of these assets under management are from institutional clients.
+
+198 | abrdn.com | Annual report 2023
+
+---
+
+The intangible asset for Lloyds Banking Group had a carrying value of £nil at the end of 2019. The description of the remaining two separate intangible assets including their estimated useful life at the acquisition date of 14 August 2017 was as follows:
+
+| Customer relationship intangible asset | Description | Useful life at acquisition date | Fair value on acquisition date | Carrying value 2023 | Carrying value 2022 |
+| --- | --- | --- | --- | --- | --- |
+| Open ended funds | Separate vehicle group - open ended investment vehicles | 11 years | 223 | 30 | 45 |
+| Segregated and similar | All other vehicle groups dominated by segregated mandates which represent 75% of this group | 12 years | 427 | 43 | 63 |
+
+Measuring the fair value of intangible assets acquired in business combinations required further assumptions and judgements. Customer relationships were valued using discounted cash flow projections. The key assumptions in measuring the fair value of the customer relationships at the acquisition date were as follows:
+- Net attrition - net attrition represents the expected rate of outflows of assets under management net of inflows from existing customers. This assumption was primarily based on recent experience.
+- Market growth - a market growth adjustment was applied based on the asset class.
+- Operating margin - this assumption was consistent with forecast margins and included the impact of synergies that would be expected by any market participant and impacted the customer relationship cash flows.
+- Discount rate - this assumption was based on the internal rate of return (IRR) of the transaction and is consistent with a market participant discount rate.
+
+The above assumptions, and in particular the net attrition assumption, were also used to determine the useful economic life at the acquisition date of each asset used for amortisation. The reducing balance method of amortisation is considered appropriate for these intangibles, consistent with the attrition pattern on customer relationships which means that the economic benefits delivered from the existing customer base will reduce disproportionately over time.
+
+There has been no change to the useful lives of the Open ended funds and Segregated and similar customer relationship intangible assets. Therefore the residual useful life of the Open ended funds customer relationship intangible asset is 4.6 years and the residual life of the Segregated and similar customer relationship intangible asset is 5.6 years.
+
+Annual report 2023 | abrdn.com | 199
+
+---
+
+# Group financial statements continued
+
+## Estimates and assumptions
+The key estimates and assumptions in relation to intangible assets are:
+– Determination of the recoverable amount of goodwill and customer intangibles.
+– Determination of useful lives.
+
+The determination of the recoverable amount of the interactive investor CGU is a key area of estimation uncertainty at 31 December 2023, and further details of assumptions and sensitivities are disclosed in this section.
+
+## Determination of the recoverable amount of goodwill and customer intangibles
+For all intangible assets including goodwill, an assessment is made at each reporting date as to whether there is an indication that the goodwill or intangible asset has become impaired. If any indication of impairment exists then the recoverable amount of the asset is determined. In addition, the recoverable amount for goodwill must be assessed annually.
+
+The recoverable amounts are defined as the higher of fair value less costs of disposal (FVLCD) and the value in use (VIU) where the value in use is based on the present value of future cash flows. Where the carrying value exceeds the recoverable amount then the carrying value is written down to the recoverable amount.
+
+In assessing value in use or FVLCD measured using a discounted cash flow approach, expected future cash flows are discounted to their present value using a pre-tax discount rate for VIU or a post-tax discount rate for FVLCD. Judgement is required in assessing both the expected cash flows and an appropriate discount rate which is based on current market assessments of the time value of money and the risks associated with the asset.
+
+## Goodwill
+In 2023 impairments of goodwill of £62m (2022: £340m) have been recognised. The goodwill impairment for the year ended 31 December 2023 comprises £36m relating to the abrdn Financial Planning Limited (aFPL) CGU which is included in the ii segment and £26m relating to the Finimize CGU which is reported within Other business operations and corporate costs. The goodwill impairment for the year ended 31 December 2022 comprised £299m relating to the asset management group of CGUs and £41m relating to the Finimize CGU. Both impairments relate to assets which were included in the Investments segment. As noted above, the Finimize CGU is now reported within Other business operations and corporate costs.
+
+The impairments are included within Impairment of intangibles acquired in business combinations and through the purchase of customer contracts in the consolidated income statement.
+
+## aFPL
+The aFPL CGU comprises the Group's financial planning business. A total impairment of £36m has been recognised in the year ended 31 December 2023 of which £23m was initially recognised at 30 June 2023. The impairments resulted from lower projected revenues as a result of lower markets and macroeconomic conditions and the impact of business restructuring. Following the impairment, the goodwill allocated to the aFPL CGU was £24m (2022: £60m).
+
+The recoverable amount of the aFPL CGU which was its FVLCD at 31 December 2023 was £45m. This was also the carrying value of the CGU at 31 December 2023. The FVLCD considered a number of valuation approaches, with the primary approach being a multiples approach based on price to revenue and price to assets under advice (AUAdv). Multiples were based on trading multiples for aFPL's peer companies, adjusted to take into account profitability where appropriate, and were benchmarked against recent transactions. Revenue was based on actual 2023 and forecast 2024 revenue and AUAdv were based on forecast 2024 AUAdv. The expected cost of disposal was based on past experience of previous transactions. This is a level 3 measurement as they are measured using inputs which are not based on observable market data.
+
+As the carrying value of the CGU is equal to the recoverable amount any downside sensitivity will lead to a further future impairment loss. A 20% reduction in recurring revenue and AUAdv would result in a further impairment of £11m. A 20% reduction in multiples would result in a further impairment of £11m.
+
+No impairment of this goodwill was recognised in 2022. At 31 December 2022, the carrying value of this CGU was equal to the recoverable amount. As above, the recoverable amount was based on FVLCD which similarly considered a number of valuation approaches, with the primary approach being a multiples approach based on price to revenue and price to AUAdv.
+
+200 | abrdn.com | Annual report 2023
+
+---
+
+# Finimize
+
+The Finimize CGU comprises the Finimize business. A total impairment of £26m has been recognised in the year ended 31 December 2023 of which £14m was initially recognised at 30 June 2023. The impairments resulted from lower short-term projected growth following a strategic shift that prioritises profitability over revenue growth in the pursuit of a sustainable, resilient if lower growing business in the short term and broader market conditions. Following the impairment, the goodwill allocated to the Finimize CGU was £5m (2022: £31m).
+
+The recoverable amount of the Finimize CGU at 31 December 2023 was £10m which was based on FVLCD. This was also the carrying value of the CGU at 31 December 2023. The FVLCD considered a number of valuation approaches, with the primary approach being a revenue multiple approach. The key assumptions used in determining the revenue multiple valuation were future revenue projections, which were based on management forecasts and assumed a continued level of revenue growth, and market multiples. Market multiples were based on broadly comparable listed companies, with appropriate discounts applied to take into account profitability, track record, revenue growth potential, and net premiums for control. This is a level 3 measurement as they are measured using inputs which are not based on observable market data.
+
+The residual goodwill allocated to the Finimize CGU is not significant in comparison to the total carrying amount of goodwill.
+
+The goodwill allocated to the Finimize CGU was also impaired in 2022 by £41m. The recoverable amount of the Finimize CGU at 31 December 2022 was £35m which was based on FVLCD. As above, the FVLCD considered a number of valuation approaches, with the primary approach being a revenue multiple approach.
+
+## Asset management
+
+At 31 December 2023, there is no goodwill allocated to the asset management group of CGUs (2022: none). The goodwill of £41m in relation to the acquisition of healthcare fund management capabilities of Tekla has been allocated to the abrdn Inc. CGU (see below).
+
+As noted above, an impairment of £299m was recognised in 2022 in relation to goodwill allocated to the asset management group of CGUs. The asset management group of CGUs comprised the Investments segment (excluding Finimize) which was the lowest group of CGUs to which the asset management goodwill had been allocated at this time. The goodwill prior to impairment of £299m included additions in 2022 of £132m allocated to the asset management group of CGUs for revenue synergies in our Investments segment in relation to the acquisition of ii. The recoverable amount of this group of CGUs at 31 December 2022 was £1,532m which was based on FVLCD. The FVLCD considered a number of valuation approaches, with the primary approach being a discounted cash flow approach.
+
+## interactive investor
+
+Goodwill of £819m (2022: £819m) is allocated to the interactive investor CGU which comprises the interactive investor business in the ii segment. The recoverable amount of this CGU was determined based on FVLCD. The FVLCD was based on an earnings multiple approach. This is a level 3 measurement as it is measured using inputs which are not based on observable market data.
+
+The key assumptions used in determining the earnings multiple valuation were future post tax adjusted earnings, which were based on management's business plan projections and reflected past experience and market price to earnings multiples, which were based on multiples of a peer group of comparable listed direct-to-consumer investment platform providers.
+
+## Sensitivities of key assumptions
+
+The business plan projections used to determine the future earnings are based on macroeconomic forecasts including interest rates and inflation, and forecast levels of client activity, market pricing, the percentage of client funds held in cash and expenses. The projections are therefore sensitive to these assumptions. Given current macroeconomic uncertainties a 20% reduction in forecast earnings has been provided as a sensitivity.
+
+The market price to earnings multiple used in the valuation is 16x based on multiples of a peer group of comparable listed direct-to-consumer investment platform providers. This assumption is sensitive to general equity market fluctuations and to market views on UK direct-to-consumer investment platform companies. Taking into account historic equity market fluctuations a 25% sensitivity to an earnings multiple has been provided as a sensitivity.
+
+The recoverable amount at 31 December 2023 exceeds the carrying amount of the cash-generating unit by £398m. The impact of sensitivities to a single variable and the change required to reduce headroom to zero are shown in the tables below.
+
+[IMAGE_DESCRIPTION:
+Type: Corporate document page
+Location: Right side of the document
+Content: Dark image that appears to be part of the page design/layout
+Text Elements: None visible in the image portion
+Colors & Style: Dark/black background
+Purpose: Part of the document layout
+]
+
+Annual report 2023 | abrdn.com | 201
+
+---
+
+# Group financial statements continued
+
+## Reduction in headroom for illustrative sensitivities
+|   | £m |
+|---|---|
+| 20% reduction in forecast post tax adjusted earnings | (346) |
+| 25% reduction in market multiple | (433) |
+
+## Change required to reduce headroom to zero
+|   | % |
+|---|---|
+| Change in forecast post tax adjusted earnings | (24) |
+| Reduction in market multiple | (24) |
+
+We consider the 24% reduction in market multiple assumption to 12x to reduce the headroom to zero to be a reasonably possible change.
+
+## Other goodwill
+Goodwill of £39m (2022: £nil) is attributable to the abrdn Inc. CGU in the Investments segment. As noted above, this relates to the acquisition of healthcare fund management capabilities of Tekla. Refer Note 1(b)(i) for further details. No impairment of this goodwill has been identified since acquisition.
+
+Goodwill of £25m (2022: £25m) is attributable to an Adviser segment CGU (included in an ii segment CGU in 2022).
+
+These goodwill balances are not significant in comparison to the total carrying amount of goodwill.
+
+## Customer relationship and investment management contract intangibles
+An impairment of customer relationship and investment management contract intangibles of £1m has been recognised in 2023.
+
+In 2022, an impairment of £28m was recognised in relation to customer relationship and investment management contract intangibles. The impairment was included within Impairment of intangibles acquired in business combinations and through the purchase of customer contracts in the consolidated income statement. The impairment related to the Phoenix Life business intangible asset which was recognised on the acquisition of Ignis Asset Management in 2014, and was part of the Investments segment. The recoverable of this intangible asset at 31 December 2022 was £nil which was based on its FVLCD, based on a discounted cash flow approach based on expected future cashflows for the Phoenix Life business.
+
+## Determination of useful lives
+The determination of useful lives requires judgement in respect of the length of time that the Group expects to derive benefits from the asset and considers for example expected duration of customer relationships and when technology is expected to become obsolete for technology based assets. The amortisation period and method for each of the Group's intangible asset categories is as follows:
+- Customer relationships acquired through business combinations – generally between 7 and 15 years, generally reducing balance method.
+- Investment management contracts acquired through business combinations – between 10 and 17 years, straight-line.
+- Brand acquired through business combinations – between 2 and 5 years, straight-line.
+- Technology and other intangibles acquired through business combinations – between 1 and 6 years, straight-line.
+- Internally developed software – between 2 and 6 years. Amortisation is on a straight-line basis and commences once the asset is available for use.
+- Purchased software – between 2 and 6 years, straight-line.
+- Costs of obtaining customer contracts – between 3 and 12 years, generally reducing balance method.
+
+## Internally developed software
+There was an impairment of internally developed software of £2m in 2023 (2022: £nil).
+
+202 | abrdn.com | Annual report 2023
+
+---
+
+# 14. Investments in associates and joint ventures
+
+Associates are entities where the Group can significantly influence decisions made relating to the financial and operating policies of the entity but does not control the entity. For entities where voting rights exist, significant influence is presumed where the Group holds between 20% and 50% of the voting rights. Where the Group holds less than 20% of voting rights, consideration is given to other indicators and entities are classified as associates where it is judged that these other indicators result in significant influence.
+
+Joint ventures are strategic investments where the Group has agreed to share control of an entity's financial and operating policies through a shareholders' agreement and decisions can only be taken with unanimous consent.
+
+Associates, other than those accounted for at fair value through profit or loss, and joint ventures are accounted for using the equity method from the date that significant influence or shared control, respectively, commences until the date this ceases with consistent accounting policies applied throughout.
+
+Under the equity method, investments in associates and joint ventures are initially recognised at cost. When an interest is acquired at fair value from a third party, the value of the Group's share of the investee's identifiable assets and liabilities is determined applying the same valuation criteria as for a business combination at the acquisition date. This is compared to the cost of the investment in the investee. Where cost is higher the difference is identified as goodwill and the investee is initially recognised at cost which includes this component of goodwill. Where cost is lower a bargain purchase has arisen and the investee is initially recognised at the Group's share of the investee's identifiable assets and liabilities unless the recoverable amount for the purpose of assessing impairment is lower, in which case the investee is initially recognised at the recoverable amount.
+
+Subsequently the carrying value is adjusted for the Group's share of post-acquisition profit or loss and other comprehensive income of the associate or joint venture, which are recognised in the consolidated income statement and other comprehensive income respectively. The Group's share of post-acquisition profit or loss includes amortisation charges based on the valuation exercise at acquisition. The carrying value is also adjusted for any impairment losses.
+
+On partial disposal of an associate, a gain or loss is recognised based on the difference between the proceeds received and the equity accounted value of the portion disposed of. Indicators of significant influence are reassessed based on the remaining voting rights. Where significant influence is judged to have been lost, the investment in associate is reclassified to interests in equity securities and pooled investment funds measured at fair value. If an entity is reclassified, the difference between the fair value and the remaining equity accounted value is accounted for as a reclassification gain or loss on disposal.
+
+Where the Group has an investment in an associate, a portion of which is held by, or is held indirectly through, a mutual fund, unit trust or similar entity, including investment-linked insurance funds, that portion of the investment is measured at FVTPL. In general, investment vehicles which are not subsidiaries are considered to be associates where the Group holds more than 20% of the voting rights.
+
+The level of future dividend payments and other transfers of funds to the Group from associates and joint ventures accounted for using the equity method could be restricted by the regulatory solvency and capital requirements of the associate or joint venture, certain local laws or foreign currency transaction restrictions.
+
+Annual report 2023 | abrdn.com | 203
+
+---
+
+# Group financial statements continued
+
+(a) Investments in associates and joint ventures accounted for using the equity method
+
+|  | 2023 |  |  | 2022 |  |  |
+|--|--|--|--|--|--|--|
+|  | Associates | Joint ventures | Total | Associates | Joint ventures | Total |
+|  | £m | £m | £m | £m | £m<sup>restated1</sup> | £m<sup>restated1</sup> |
+| Opening balance carried forward | 14 | 218 | 232 | 10 | 255 | 265 |
+| Effect of application of IFRS 9<sup>2</sup> | - | 51 | 51 | - | - | - |
+| Opening balance at 1 January | 14 | 269 | 283 | 10 | 255 | 265 |
+| Reclassified as held for sale during the year | - | (9) | (9) | - | - | - |
+| Exchange translation adjustments | - | (19) | (19) | - | 8 | 8 |
+| Additions | 2 | - | 2 | 18 | 2 | 20 |
+| Profit/(loss) after tax | (1) | 2 | 1 | (5) | 10 | 5 |
+| Other comprehensive income | - | (31) | (31) | - | (57) | (57) |
+| Reversal of impairment/(impairment) | - | 2 | 2 | (9) | - | (9) |
+| At 31 December | 15 | 214 | 229 | 14 | 218 | 232 |
+
+1. Comparatives for 2022 have been restated for the implementation of IFRS 17. Refer Basis of preparation.
+2. The Group implemented IFRS 9 in 2019. However, as permitted under a temporary exemption granted to insurers in IFRS 4 Insurance Contracts, HASL applied IFRS 9 at 1 January 2023 following the implementation of the new insurance standard, IFRS 17. Refer Basis of preparation.
+
+The following joint venture is considered to be material to the Group as at 31 December 2023.
+
+| Name | Nature of relationship | Principal place of business | Measurement method | Interest held by the Group at 31 December 2023 | Interest held by the Group at 31 December 2022 |
+|--|--|--|--|--|--|
+| Heng An Standard Life Insurance Company Limited (HASL) | Joint venture | China | Equity accounted | 50.00% | 50.00% |
+
+The country of incorporation or registration is the same as the principal place of business. The interest held by the Group is the same as the proportion of voting rights held. HASL is not listed.
+
+(b) Investments in associates accounted for using the equity method
+
+|  | 2023 | 2022 |
+|--|--|--|
+|  | £m | £m |
+| Carrying value of associates accounted for using the equity method | 15 | 14 |
+| Share of profit/(loss) after tax | (1) | (5) |
+
+Investments in associates accounted for using the equity method primarily relates to the Group's interests in Archax Holdings Limited (Archax) and Tenet Group Limited (Tenet).
+
+During the year ended 31 December 2023, the Group increased its interest in Archax from 9.8% to 11% following a further £2m investment. The classification of Archax as an associate reflects the Group's additional rights under Archax's articles of association as a large external investor. There are no indicators of impairment in relation to Archax at 31 December 2023.
+
+During the year ended 31 December 2022, the Group recognised an impairment of £9m in relation to its interest in Tenet which reduced its value to £nil. There has been no further investment into Tenet in 2023 and no further impairment has been recognised.
+
+(c) Investments in joint ventures
+
+|  | HASL |  | Other |  | Total |  |
+|--|--|--|--|--|--|--|
+|  | 2023 | 2022 | 2023 | 2022 | 2023 | 2022 |
+|  | £m | £m<sup>restated1</sup> | £m | £m | £m | £m<sup>restated1</sup> |
+| Carrying value of joint ventures accounted for using the equity method | 214 | 210 | - | 8 | 214 | 218 |
+| Dividends received | - | - | - | - | - | - |
+| Share of profit/(loss) after tax | 3 | 10 | (1) | - | 2 | 10 |
+
+1. Comparatives for 2022 have been restated for the implementation of IFRS 17. Refer Basis of preparation.
+
+204 | abrdn.com | Annual report 2023
+
+---
+
+# HASL
+The Group has a 50% share in HASL, one of China's leading life insurance companies offering life and health insurance products. HASL is an investment which gives the Group access to one of the world's largest markets. The table below provides summarised financial information for HASL, the joint venture which is considered to be material to the Group. HASL's year-end date is 31 December, however, HASL is not required to adopt IFRS 17 and IFRS 9 for its local reporting until 2026. Consequently, HASL has provided additional financial information on an IFRS 17 and IFRS 9 basis for the purposes of the preparation of the Group's consolidated financial statements.
+
+For further details of HASL's implementation of IFRS 17 and IFRS 9, refer Basis of Preparation.
+
+| | HASL ||
+|---|---|---|
+| | 2023 | 2022 |
+| | | restated¹ |
+| | £m | £m |
+|**Summarised financial information of joint venture:** | | |
+|Revenue | 154 | 162 |
+|Depreciation and amortisation | 6 | 6 |
+|Interest income | 97 | 93 |
+|Interest expense | 2 | 2 |
+|Income tax (expense)/credit | (1) | 6 |
+|Profit after tax | 6 | 20 |
+|Other comprehensive income | (62) | (114) |
+|Total comprehensive income | (56) | (94) |
+|Total assets² | 5,267 | 4,348 |
+|Total liabilities² | 4,839 | 3,928 |
+|Cash and cash equivalents | 179 | 130 |
+|Net assets | 428 | 420 |
+|Attributable to investee's shareholders | 428 | 420 |
+|Interest held | 50% | 50% |
+|Share of net assets | 214 | 210 |
+
+1. Comparatives for 2022 have been restated for the implementation of IFRS 17. Refer Basis of preparation.
+2. As a liquidity presentation is used by insurance companies when presenting their statement of financial position, an analysis of total assets and total liabilities between current and non-current has not been provided for HASL.
+
+In relation to HASL, there are no indicators that the recoverable amount of the Group's investment in HASL is less than the Group's share of net assets.
+
+## Virgin Money UTM
+The carrying value of joint ventures accounted for using the equity method for Other at 31 December 2022 primarily related to the Group's interest in Virgin Money UTM. As detailed in Note 43, the agreed sale of the Group's interest in Virgin Money UTM to its joint venture partner, Clydesdale Bank, has been announced. At 31 December 2023, a sale was considered as highly probable and the Group's interest in Virgin Money UTM was transferred to held for sale at this date at a carrying value of £9m (refer Note 21).
+
+The sale was also considered as an indicator that there was a small reversal of the £45m impairment of the interest that was recognised in 2020. The carrying value prior to reversal of impairment was £7m. The recoverable amount of Virgin Money UTM prior to transfer was £20m which was based on FVLCD and determined based on the agreed sale price. However, as the Group had recognised £11m for its share of Virgin Money UTM's losses since the previous impairment, the reversal of impairment recognised prior to the transfer was limited to £2m. The reversal of impairment is included in Reversal of impairment/(impairment) of interests in associates and joint ventures in the consolidated income statement. The interest in Virgin Money UTM does not form part of the Group's reportable segments.
+
+## (d) Investments in associates measured at FVTPL
+The aggregate fair value of associates accounted for at FVTPL included in equity securities and interests in pooled investment funds (refer Note 17) at 31 December 2023 is £10m (2022: £46m) none of which are considered individually material to the Group.
+
+Annual report 2023 | abrdn.com | 205
+
+---
+
+# Group financial statements continued
+
+## 15. Property, plant and equipment
+
+Property, plant and equipment consists primarily of property owned and occupied by the Group and the computer equipment used to carry out the Group's business along with right-of-use assets for leased property and equipment.
+
+**Owner occupied property:** Owner occupied property is initially recognised at cost and subsequently revalued to fair value at each reporting date. Depreciation, being the difference between the carrying amount and the residual value of each significant part of a building, is charged to the consolidated income statement over its useful life. The useful life of each significant part of a building is estimated as being between 30 and 50 years. A revaluation surplus is recognised in other comprehensive income unless it reverses a revaluation deficit which has been recognised in the consolidated income statement.
+
+**Equipment:** Equipment is initially recognised at cost and subsequently measured at cost less depreciation. Depreciation is charged to the income statement over 2 to 15 years depending on the length of time the Group expects to derive benefit from the asset.
+
+**Right-of-use asset:** Refer Note 16 below for the accounting policies for right-of-use assets.
+
+| | Owner occupied property | Equipment | Right-of-use assets – property | Right-of-use assets – equipment | Total |
+|---|---|---|---|---|---|
+| | £m | £m | £m | £m | £m |
+| **Cost or valuation** | | | | | |
+| At 1 January 2022 | 2 | 104 | 322 | 3 | 431 |
+| Reclassified as held for sale during the year | – | – | (1) | – | (1) |
+| Additions | – | 24 | 36 | 1 | 61 |
+| Disposals and adjustments¹ | – | (11) | (41) | – | (52) |
+| Derecognition of right-of-use assets relating to subleases classified as finance leases | – | – | (6) | – | (6) |
+| Foreign exchange adjustment | – | 3 | 11 | – | 14 |
+| At 31 December 2022 | 2 | 120 | 321 | 4 | 447 |
+| Additions | – | 18 | 30 | 1 | 49 |
+| Disposals and adjustments¹ | – | (8) | (10) | (1) | (19) |
+| Derecognition of right-of-use assets relating to subleases classified as finance leases | – | – | (24) | – | (24) |
+| Foreign exchange adjustment | – | (2) | (4) | – | (6) |
+| At 31 December 2023 | 2 | 128 | 313 | 4 | 447 |
+| **Accumulated depreciation and impairment** | | | | | |
+| At 1 January 2022 | (1) | (54) | (187) | (2) | (244) |
+| Reclassified as held for sale during the year | – | – | 1 | – | 1 |
+| Depreciation charge for the year² | – | (18) | (20) | (1) | (39) |
+| Disposals and adjustments¹ | – | 10 | 38 | – | 48 |
+| Derecognition of right-of-use assets relating to subleases classified as finance leases | – | – | 3 | – | 3 |
+| Impairment³ | – | – | (7) | – | (7) |
+| Foreign exchange adjustment | – | (3) | (5) | – | (8) |
+| At 31 December 2022 | (1) | (65) | (177) | (3) | (246) |
+| Depreciation charge for the year² | – | (15) | (16) | (1) | (32) |
+| Disposals and adjustments¹ | – | 7 | 9 | – | 16 |
+| Derecognition of right-of-use assets relating to subleases classified as finance leases | – | – | 20 | – | 20 |
+| Impairment³ | – | (11) | (39) | – | (50) |
+| Reversal of impairment³ | - | – | 3 | – | 3 |
+| Foreign exchange adjustment | – | 2 | 2 | 1 | 5 |
+| At 31 December 2023 | (1) | (82) | (198) | (3) | (284) |
+| **Carrying amount** | | | | | |
+| At 1 January 2022 | 1 | 50 | 135 | 1 | 187 |
+| At 31 December 2022 | 1 | 55 | 144 | 1 | 201 |
+| At 31 December 2023 | 1 | 46 | 115 | 1 | 163 |
+
+1. For the year ended 31 December 2023, £5m (2022: £1m) of disposals and adjustments relates to equipment with net book value of £nil which is no longer in use.
+2. Included in other administrative expenses.
+3. Included in restructuring and corporate transaction expenses.
+
+206 | abrdn.com | Annual report 2023
+
+---
+
+Included in property right-of-use assets, are right-of-use assets that meet the definition of investment property. Their carrying amount at 31 December 2023 is £31m (2022: £14m). This comprises a gross carrying value of £134m (2022: £49m) and accumulated depreciation and impairment of £103m (2022: £35m). Rental income received and direct operating expenses incurred to generate that rental income in the year to 31 December 2023 were £3m (2022: £3m) and £2m (2022: £3m) respectively. In addition, there were direct expenses of £1m (2022: £1m) in relation to investment properties not currently generating income.
+
+The movements during the period of the carrying value of the Group's investment property is analysed below.
+
+| | 2023 £m | 2022 £m |
+| --- | --- | --- |
+| At start of period | 14 | 21 |
+| Transfers to investment property | 63 | - |
+| Transfers from investment property | (3) | - |
+| Depreciation | (4) | (2) |
+| Derecognition related to new subleases classified as finance leases | (3) | (1) |
+| Impairments | (39) | (3) |
+| Reversal of impairment | 3 | - |
+| Disposals and adjustments | - | (1) |
+| At end of period | 31 | 14 |
+
+The transfers to investment property relate to a number of properties in the UK and the US that will no longer be used operationally by the Group. The right-of-use assets were assessed for impairment at the point of transfer. Impairments of £39m have been recognised in the year ended 31 December 2023 in relation to these properties and one other property in the UK previously transferred to investment property. The right-of-use assets are related to the Investments segment (£27m impairment) ii segment (£1m impairment) and Other business operations and corporate costs (£11m impairment).
+
+The recoverable amount for the properties in the UK, which was based on value in use, was £27m using a pre-tax discount rate of 6%. The recoverable amount for the properties in the US, which was based on value in use, was £4m using a pre-tax discount rate of 7%. The cash flows were based on the rental income expected to be received under subleases during the term of the lease and the direct expenses expected to be incurred in managing the leased property, discounted using a discount rate that reflects the risks inherent in the cash flow estimates. The assessment of the cash flows takes into consideration climate related factors such as the energy efficiency of the buildings. It is not based on valuations by an independent valuer.
+
+The transfers from investment property relate to a property in the UK which was not being used operationally but following the review of properties in the UK is being brought back into operational use. The right-of-use asset was assessed for reversal of impairment at the point of transfer. The Group has recognised a reversal of impairment of £3m in the year ended 31 December 2023 in relation to this property. The recoverable amount for this property was its carrying value at 30 June 2023 if it had not previously been impaired. The right-of-use asset is also related to the Investments segment.
+
+The fair value of investment property included within right-of-use assets at 31 December 2023 is £36m (2022: £14m). The valuation technique used to determine the fair value considers the rental income expected to be received under subleases during the term of the lease and the direct expenses expected to be incurred in managing the leased property, discounted using a discount rate that reflects the risks inherent in the cash flow estimates. It is not based on valuations by an independent valuer. This is a Level 3 valuation technique as defined in Note 36.
+
+If owner occupied property was measured using the cost model, the historical cost before impairment would be £1m (2022: £1m). As the expected residual value of owner occupied property is in line with the current fair value, no depreciation is currently charged.
+
+Further details on the leases under which the Group's right-of-use assets are recognised are provided in Note 16 below.
+
+Annual report 2023 | abrdn.com | 207
+
+---
+
+# Group financial statements continued
+
+## 16. Leases
+
+A contract is, or contains, a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for consideration. At inception of a contract, the Group assesses whether a contract is, or contains, a lease. In 2019, on adoption of IFRS 16 the Group used the practical expedient permitted to apply the new standard at transition solely to leases previously identified in accordance with IAS 17 and IFRIC 4 Determining whether an Arrangement Contains a Lease.
+
+Right-of-use assets are measured at cost less accumulated depreciation and impairment losses and are presented in property, plant and equipment (refer Note 15). The Group does not revalue its right-of-use assets. This applies to all right-of-use assets, including those that are assessed as meeting the definition of investment property. The cost comprises the amount of the initial measurement of the lease liability plus any initial direct costs and expected restoration costs not relating to wear and tear. Costs relating to wear and tear are expensed over the term of the lease. Depreciation is charged on right-of-use assets on a straight-line basis from the lease commencement date to the earlier of the end of the useful life of the right-of-use asset or the end of the lease term. The Group assesses right-of-use assets for impairment when such indicators exist, and where required, reduces the value of the right-of-use asset accordingly.
+
+The related lease liability (included in other financial liabilities – refer Note 32) is calculated as the present value of the future lease payments. The lease payments are discounted using the rate implicit within the lease where readily available or the Group's incremental borrowing rate where the implicit rate is not readily available. Interest is calculated on the liability using the discount rate and is charged to the consolidated income statement under finance costs.
+
+In determining the value of the right-of-use assets and lease liabilities, the Group considers whether any leases contain lease extensions or termination options that the Group is reasonably certain to exercise.
+
+Where a leased property has been sublet, the Group assesses whether the sublease has transferred substantially all the risk and rewards of the right-of-use asset to the lessee under the sublease. Where this is the case, the right-of-use asset is derecognised and a net investment in finance leases (included in Receivables and other financial assets – refer Note 19) is recognised, calculated as the present value of the future lease payments receivable under the sublease. Where a property is only partially sublet, only the portion of the right-of-use asset relating to the sublet part of the property is derecognised and recognised as a net investment in finance leases.
+
+Any difference between the initial value of the net investment in finance leases and the right-of-use asset derecognised is recognised in the consolidated income statement (within other income or expenses). Interest is calculated on the net investment in finance lease using the discount rate and is recognised in the consolidated income statement as interest income.
+
+Where the sublease does not transfer substantially all the risk and rewards of the right-of-use assets to the lessee under the sublease, the Group continues to recognise the right-of-use asset. The sublease is accounted for as an operating lease with the lease payments received recognised as property rental income in other income in the consolidated income statement. Lease incentives granted are recognised as an integral part of the property rental income and are spread over the term of the lease.
+
+The Group does not recognise right-of-use assets and lease liabilities for short-term leases (less than one year from inception) and leases where the underlying asset is of low value.
+
+208 | abrdn.com | Annual report 2023
+
+---
+
+# (a) Leases where the Group is lessee
+
+The Group leases various offices and equipment used to carry out its business. Leases are generally for fixed periods but may be subject to extensions or early termination clauses. The remaining periods for current leases range from less than 1 year to 15 years (2022: less than 1 year to 16 years). A number of leases which are due to end in 2031 contain options that would allow the Group to extend the lease term. The Group reviews its property use on an ongoing basis and these extensions have not been included in the right-of-use asset or lease liability calculations. The Group has committed to one lease at 31 December 2023 which had not commenced at this date. The expected lease liability for these leases is not significant to the Group.
+
+The Group has recognised the following assets and liabilities in relation to these leases where the Group is a lessee:
+
+| | 2023<br>£m | 2022<br>£m |
+|---|---|---|
+| Right-of-use assets: | | |
+| Property | 115 | 144 |
+| Equipment | 1 | 1 |
+| Total right-of-use assets | 116 | 145 |
+| | | |
+| Lease liabilities | (223) | (224) |
+
+Details of the movements in the Group's right-of-use assets including additions and depreciation are included in Note 15.
+
+The interest on lease liabilities is as follows:
+
+| | 2023<br>£m | 2022<br>£m |
+|---|---|---|
+| Interest on lease liabilities | 6 | 6 |
+
+The total cash outflow for lease liabilities recognised in the consolidated statement of cash flows for the year ended 31 December 2023 was £30m (2022: £52m). Refer Note 37(f) for further details.
+
+The following table provides a maturity analysis of the contractual undiscounted cash flows for the lease liabilities.
+
+| | 2023<br>£m | 2022<br>£m |
+|---|---|---|
+| Less than 1 year | 26 | 29 |
+| Greater than or equal to 1 year and less than 2 years | 25 | 24 |
+| Greater than or equal to 2 years and less than 3 years | 26 | 23 |
+| Greater than or equal to 3 years and less than 4 years | 26 | 24 |
+| Greater than or equal to 4 years and less than 5 years | 25 | 23 |
+| Greater than or equal to 5 years and less than 10 years | 91 | 99 |
+| Greater than or equal to 10 years and less than 15 years | 32 | 38 |
+| Greater than or equal to 15 years | – | 4 |
+| Total undiscounted lease liabilities | 251 | 264 |
+
+The Group does not recognise right-of-use assets and lease liabilities for short-term leases and leases where the underlying asset is of low value. The expenses for these leases for the year ended 31 December 2023 were £1m (2022: £3m). The Group has no lease commitments for short-term leases at 31 December 2023 (2022: none).
+
+# (b) Leases where the Group is lessor (subleases)
+
+Where the Group no longer requires a leased property, the property may be sublet to a third party. The sublease may be for the full remaining term of the Group's lease or only part of the remaining term.
+
+At 31 December 2023, the Group had a net investment in finance leases asset of £31m (2022: £29m) for subleases which had transferred substantially all the risk and rewards of the right-of-use assets to the lessee under the sublease. All other subleases are accounted for as operating leases.
+
+Annual report 2023 | abrdn.com | 209
+
+---
+
+# Group financial statements continued
+
+(b)(i) Finance leases
+During the year ended 31 December 2023, the Group received finance income on the net investment in finance leases asset of less than £1m (2022: less than £1m). The Group recorded an initial gain of £6m in relation to new subleases entered into during the year ended 31 December 2023 (2022: £1m). The following table provides a maturity analysis of the future contractual undiscounted cash flows for the net investment in finance leases and a reconciliation to the net investment in finance leases asset.
+
+| | 2023<br>£m | 2022<br>£m |
+|---|---|---|
+| Less than 1 year | 3 | 3 |
+| Greater than or equal to 1 year and less than 2 years | 4 | 3 |
+| Greater than or equal to 2 years and less than 3 years | 4 | 4 |
+| Greater than or equal to 3 years and less than 4 years | 4 | 4 |
+| Greater than or equal to 4 years and less than 5 years | 4 | 4 |
+| Greater than or equal to 5 years and less than 10 years | 14 | 12 |
+| Greater than or equal to 10 years and less than 15 years | 1 | 2 |
+| Total contractual undiscounted cash flows under finance leases | 34 | 32 |
+| Unearned finance income | (3) | (3) |
+| Total net investment in finance leases | 31 | 29 |
+
+(b)(ii) Operating leases
+During the year ended 31 December 2023, the Group received property rental income from operating leases of £3m (2022: £3m).
+
+The following table provides a maturity analysis of the future contractual undiscounted cash flows for subleases classified as operating leases.
+
+| | 2023<br>£m | 2022<br>£m |
+|---|---|---|
+| Less than 1 year | 2 | 1 |
+| Greater than or equal to 1 year and less than 2 years | 2 | 1 |
+| Greater than or equal to 2 years and less than 3 years | 1 | 1 |
+| Greater than or equal to 3 years and less than 4 years | – | 1 |
+| Total contractual undiscounted cash flows under operating leases | 5 | 4 |
+
+210 | abrdn.com | Annual report 2023
+
+---
+
+# 17. Financial assets
+
+Financial assets are initially recognised at their fair value. Subsequently all equity securities and interests in pooled investment funds and derivative instruments are measured at fair value. All equity securities and interests in pooled investment funds are classified as FVTPL on a mandatory basis. Changes in their fair value are recognised in Net gains or losses on financial instruments and other income in the consolidated income statement. The classification of derivatives and the accounting treatment of derivatives designated as a hedging instrument are set out in Note 18.
+
+The subsequent measurement of debt instruments depends on whether their cash flows are solely payments of principal and interest and the nature of the business model they are held in as follows:
+
+| SPPI¹ test satisfied? | Business model | Classification |
+| --- | --- | --- |
+| Yes | A: Objective is to hold to collect contractual cash flows | Amortised cost² |
+| Yes | B: Objective is achieved by both collecting contractual cash flows and selling | Fair value through other comprehensive income (FVOCI)² |
+| Yes | C: Objective is neither A nor B | FVTPL |
+| No | N/A | FVTPL |
+
+1. Solely payments of principal and interest.
+2. May be classified as FVTPL if doing so eliminates or significantly reduces a measurement or recognition inconsistency (sometimes referred to as an 'accounting mismatch') that would otherwise arise from measuring assets or liabilities or recognising the gains and losses on them on different bases.
+
+The Group has no direct holding in debt instruments that are managed within a business model whose objective is achieved both by collecting contractual cash flows and selling and therefore there are no debt instruments classified as FVOCI. The Group's Chinese joint venture, HASL, does hold debt securities classified as FVOCI. Refer Basis of Preparation for further details. Debt instruments classified as FVTPL are classified as such due to the business model they are managed under, predominantly being held in consolidated investment vehicles.
+
+The methods and assumptions used to determine fair value of financial assets at FVTPL are discussed in Note 36.
+
+Amortised cost is calculated, and related interest is credited to the consolidated income statement, using the effective interest method. Impairment is determined using an expected credit loss impairment model which is applied to all financial assets measured at amortised cost. Financial assets measured at amortised cost attract a loss allowance equal to either:
+– 12 month expected credit losses (losses resulting from possible default within the next 12 months).
+– Lifetime expected credit losses (losses resulting from possible defaults over the remaining life of the financial asset).
+
+Financial assets attract a 12 month ECL allowance unless the asset has suffered a significant deterioration in credit quality or the simplified approach for calculation of ECL has been applied. As permitted under IFRS 9 Financial Instruments, the Group has applied the simplified approach to calculate the ECL allowance for trade receivables and contract assets recognised under IFRS 15 Revenue from Contracts with Customers and lease receivables recognised under IFRS 16 Leases. Under the simplified approach the ECL is always equal to the lifetime expected credit loss.
+
+The table below sets out an analysis of financial assets excluding those assets backing unit linked liabilities which are set out in Note 23.
+
+|  | | At fair value through profit or loss¹ | | Cash flow hedge² | | At amortised cost | | Total | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Notes | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m |
+| Derivative financial assets | 18 | 2 | 19 | 41 | 85 | – | – | 43 | 104 |
+| Equity securities and interests in pooled investment funds | 36 | 1,139 | 2,033 | – | – | – | – | 1,139 | 2,033 |
+| Debt securities | 36 | 740 | 592 | – | – | 125 | 210 | 865 | 802 |
+| Financial investments |  | 1,881 | 2,644 | 41 | 85 | 125 | 210 | 2,047 | 2,939 |
+|  |  |  |  |  |  |  |  |  |  |
+| Receivables and other financial assets | 19 | 11 | 19 | – | – | 1,060 | 888 | 1,071 | 907 |
+| Cash and cash equivalents | 22 | – | – | – | – | 1,196 | 1,133 | 1,196 | 1,133 |
+| Total |  | 1,892 | 2,663 | 41 | 85 | 2,381 | 2,231 | 4,314 | 4,979 |
+
+1. All financial assets measured at fair value through profit or loss have been classified at FVTPL on a mandatory basis. The Group has not designated any financial assets as FVTPL.
+2. Changes in fair value are recognised in the Cash Flow Hedges Reserve (refer Note 27) but may be reclassified subsequently to profit or loss.
+
+Annual report 2023 | abrdn.com | 211
+
+---
+
+# Group financial statements continued
+
+The amount of debt securities expected to be recovered or settled after more than 12 months is £8m (2022: £2m). Due to the nature of equity securities and interests in pooled investment funds, there is no fixed term associated with these securities. The amount of equity securities and interests in pooled investment funds expected to be recovered or settled after more than 12 months is £1,139m (2022: £669m).
+
+Included in Proceeds from sale or redemption of financial investments of £1,029m (2022: £1,633m) within the consolidated statement of cash flows are £576m (2022: £789m) in relation to sales of significant listed investments. Refer Note 11 for further details of the sales in 2023.
+
+## 18. Derivative financial instruments
+
+A derivative is a financial instrument that is typically used to manage risk and whose value moves in response to an underlying variable such as interest or foreign exchange rates. The Group uses derivative financial instruments in order to match subordinated debt liabilities and to reduce the risk from potential movements in foreign exchange rates on seed capital and co-investments and potential movements in market rates on seed capital. Certain consolidated investment vehicles may also use derivatives to take and alter market exposure, with the objective of enhancing performance and controlling risk.
+
+Management determines the classification of derivatives at initial recognition. All derivative instruments are classified as at FVTPL except those designated as part of a cash flow hedge or net investment hedge. Derivatives at FVTPL are measured at fair value with changes in fair value recognised in the consolidated income statement.
+
+On adoption of IFRS 9 Financial instruments in 2019, the Group has elected to continue applying the hedge accounting requirements of IAS 39. The accounting treatment below applies to derivatives designated as part of a hedging relationship.
+
+Using derivatives to manage a particular exposure is referred to as hedging. For a derivative to be considered as part of a hedging relationship its purpose must be formally documented at inception. In addition, the effectiveness of the hedge must be initially high and be able to be reliably measured on a regular basis. Derivatives used to hedge variability in future cash flows such as coupons payable on subordinated liabilities or revenue receivable in a foreign currency are designated as cash flow hedges, while derivatives used to hedge currency risk on investments in foreign operations are designated as net investment hedges.
+
+Where a derivative qualifies as a cash flow or net investment hedge, hedge accounting is applied. The effective part of any gain or loss resulting from the change in fair value is recognised in other comprehensive income, and in the cash flow or net investment hedge reserve in equity, while any ineffective part is recognised immediately in the consolidated income statement. If a derivative ceases to meet the relevant hedging criteria, hedge accounting is discontinued.
+
+For cash flow hedges, the amount recognised in the cash flow hedge reserve is transferred to the consolidated income statement (recycled) in the same period or periods during which the hedged item affects profit or loss and is transferred immediately if the cash flow is no longer expected to occur. For net investment hedges, the amount recognised in the net investment hedge reserve is transferred to the consolidated income statement on disposal of the investment.
+
+|  | Notes | Contract amount £m | Fair value assets £m | Fair value liabilities £m | Contract amount £m | Fair value assets £m | Fair value liabilities £m |
+|---|---|---|---|---|---|---|---|
+|  |  | **2023** | | | **2022** | | |
+| Cash flow hedges | 17,29 | 588 | 41 | - | 623 | 85 | - |
+| FVTPL | 17,29 | 628 | 2 | 9 | 638 | 19 | 1 |
+| Derivative financial instruments | 36 | 1,216 | 43 | 9 | 1,261 | 104 | 1 |
+| Derivative financial instruments backing unit linked liabilities | 23 | 2 | - | - | 258 | 1 | 2 |
+| Total derivative financial instruments |  | 1,218 | 43 | 9 | 1,519 | 105 | 3 |
+
+Derivative assets of £41m (2022: £85m) are expected to be recovered after more than 12 months. There are no derivative liabilities (2022: none) expected to be settled after more than 12 months.
+
+## (a) Hedging strategy
+The Group generally does not hedge the currency exposure relating to revenue and expenditure, nor does it hedge translation of overseas profits in the income statement. Where appropriate, the Group may use derivative contracts to reduce or eliminate currency risk arising from individual transactions or seed capital and co-investment activity.
+
+212 | abrdn.com | Annual report 2023
+
+---
+
+# (a)(i) Cash flow hedges
+On 18 October 2017, the Group issued subordinated notes with a principal amount of US$750m. In order to manage its foreign exchange risk relating to the principal and coupons payable on these notes the Group entered into a cross-currency swap which is designated as a cash flow hedge. The cash flow hedge was fully effective during the year. The cross-currency swap has the effect of swapping the 4.25% US Dollar fixed rate subordinated notes into 3.2% Sterling fixed rate subordinated notes with a principal amount of £569m. The cross-currency swap has a fair value asset position of £41m (2022: £85m asset). During the year ended 31 December 2023 fair value losses of £40m (2022: gains of £85m) were recognised in other comprehensive income in relation to the cross-currency swap. Losses of £35m (2022: gains of £70m) were transferred from other comprehensive income to Net gains or losses on financial instruments and other income in the consolidated income statement in relation to the cross-currency swap during the year. In addition, forward points of £6m (2022: £6m) and gains of £1m (2022: gains of £2m) were transferred from other comprehensive income to Finance costs in the consolidated income statement.
+
+# (a)(ii) FVTPL
+Derivative financial instruments classified as FVTPL include those that the Group holds as economic hedges of financial instruments that are measured at fair value. FVTPL derivative financial instruments are also held by the Group to match contractual liabilities that are measured at fair value or to achieve efficient portfolio management in respect of instruments measured at fair value.
+
+|  | 2023 | | | 2022 | | |
+|---|---|---|---|---|---|---|
+|  | Contract amount | Fair value assets | Fair value liabilities | Contract amount | Fair value assets | Fair value liabilities |
+|  | £m | £m | £m | £m | £m | £m |
+|**Equity derivatives:** | | | | | | |
+|Futures | 130 | – | 5 | 137 | 3 | – |
+|Swaps | 13 | – | – | – | – | – |
+|**Bond derivatives:** | | | | | | |
+|Futures | 46 | – | 2 | – | – | – |
+|**Interest rate derivatives:** | | | | | | |
+|Swaps | 21 | 1 | – | 18 | 1 | – |
+|**Foreign exchange derivatives:** | | | | | | |
+|Forwards | 339 | 1 | – | 678 | 16 | 3 |
+|**Other derivatives:** | | | | | | |
+|Credit default swaps | 81 | – | 2 | 63 | – | – |
+|**Derivative financial instruments at FVTPL** | 630 | 2 | 9 | 896 | 20 | 3 |
+
+# (b) Maturity profile
+The maturity profile of the contractual undiscounted cash flows in relation to derivative financial instruments is as follows:
+
+|  | Within 1 year | | 1-5 years | | 5-10 years | | Total | |
 |---|---|---|---|---|---|---|---|---|
-| | Notional amounts | | | | Market value | Notional amounts | Market value |
-| Foreign exchange derivatives | USD | NOK | EUR | Other | Total | Assets | Liabilities | | Assets | Liabilities |
-| FOREIGN EXCHANGE DERIVATIVES - CASH FLOW HEDGES | | | | | | 72 | 138 | | 86 | 74 |
-| Forward sales | 815 | 3,745 | 4,619 | 313 | 9,492 | | | 6,530 | | |
-| Forward purchases | 871 | 5,333 | 2,876 | 421 | 9,501 | | | 6,561 | | |
-| FOREIGN EXCHANGE DERIVATIVES - ECONOMIC HEDGES | | | | | | (0) | 13 | | 5 | 7 |
-| Forward sales | 375 | 434 | 714 | 729 | 2,252 | | | 1,927 | | |
-| Forward purchases | 634 | 400 | 871 | 341 | 2,247 | | | 1,926 | | |
-| Metal derivatives | Copper | Aluminum | Lead | Other | Total | Assets | Liabilities | Notional amounts | Assets | Liabilities |
-| METAL DERIVATIVES - CASH FLOW HEDGES | | | | | | 14 | 22 | | 13 | 12 |
-| Forward sales | 195 | 21 | 3 | | 219 | | | 297 | | |
-| Forward purchases | 520 | 90 | 59 | | 669 | | | 621 | | |
-| TOTAL FOREIGN EXCHANGE AND METAL DERIVATIVES | | | | | | 86 | 172 | | 104 | 93 |
+|  | 2023 | 2022 | 2023 | 2022 | 2023 | 2022 | 2023 | 2022 |
+|  | £m | £m | £m | £m | £m | £m | £m | £m |
+|**Cash inflows** | | | | | | | | |
+|Derivative financial assets | 339 | 569 | 677 | 107 | – | 637 | 1,016 | 1,313 |
+|Derivative financial liabilities | 25 | 138 | – | – | – | – | 25 | 138 |
+|Total | 364 | 707 | 677 | 107 | – | 637 | 1,041 | 1,451 |
+| | | | | | | | | |
+|**Cash outflows** | | | | | | | | |
+|Derivative financial assets | (331) | (541) | (632) | (91) | – | (578) | (963) | (1,210) |
+|Derivative financial liabilities | (25) | (141) | (2) | – | – | – | (27) | (141) |
+|Total | (356) | (682) | (634) | (91) | – | (578) | (990) | (1,351) |
+| | | | | | | | | |
+|**Net derivative financial instruments cash inflows** | 8 | 25 | 43 | 16 | – | 59 | 51 | 100 |
 
-NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024 46
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## 05 Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-* a negotiable debt securities program signed on December 21, 2018 for a maximum amount of 400 million euros, and increased to 600 million euros on November 10, 2021. Outstandings amounted to 308 million euros at December 31, 2023 (247 million euros at December 31, 2023).
-
-* at December 31, 2023, Nexans France SAS had sold 25 million euros worth of receivables under a program set up in the second half of 2021 (42 million euros at December 31, 2022).
-
-* the other main receivables securitization and factoring programs in 2023 concerned mainly Norway and Sweden:
-  * in Norway receivables sold under the factoring program totaled 38 million euros at December 31, 2023 (45 million euros at December 31, 2022).
-  * in Sweden receivables sold under the factoring program totaled 27 million euros at December 31, 2023 (49 million euros at December 31, 2022).
-  * an analysis of the terms of the contracts and programs showed that rights to the cash flows from the receivables and substantially all of the related risks and benefits were transferred to the factor. The factored receivables were therefore derecognized in accordance with IFRS.
-  * local credit facilities local credit facilities.
-
-### FINANCING AND ACCELERATION CLAUSES
-
-On October 26, 2022, the Group signed a new syndicated credit agreement for an amount of 800 million euros replacing the syndicated credit agreement signed in 2018. Its maturity date was extended to October 26, 2029, following the exercise of the second extension option by the Group.
-
-On October 6, 2022, the European Investment Bank (EIB) granted Nexans a loan facility in the amount of 200 million euros, intended to promote its active participation in the global energy transition and its commitment within the framework of the Science Based Targets initiative (SBTi), to achieve "Net-Zero" emissions by 2050.
-
-In April 2023, the Group drew down this financing for an amount of 200 million euros. The repayment will be made in fine in April 2027.
-
-The renewed syndicated loan and the loan granted by the European Investment Bank (EIB) are subject to the following two financial covenants:
-
-* the consolidated net debt to equity ratio (including non-controlling interests) must not exceed 1.20, and
-* a consolidated debt is capped at 3.2x consolidated EBITDA as defined in Note E.b.
-
-These ratios were well within the specified limits at both December 31, 2023, and at the date the Board of Directors approved the financial statements.
-
-If any of the covenants were breached, the syndicated credit facility or the European Investment Bank (EIB) loan facility would become unavailable and any drawdowns would be repayable, either immediately or after a contractual cure period depending on the nature of the breach.
-
-The Group is not subject to any other financial ratio covenants.
-
-The syndicated loan agreement and the European Investment Bank (EIB) loan contain standard covenants (negative pledge, cross default, pari passu and change of control clauses), which if breached could accelerate repayment of the syndicated loan or the bond debt.
-
-### B. Interest rate risk
-
-The Group structures its financing in such a way as to avoid exposure to the risk of rises in interest rates:
-
-* The Group's medium and long-term debt is predominantly at fixed rates and at December 31, 2023, mainly consisted of the 2023 and 2028 bond issues and the loan from the European Investment Bank (EIB).
-
-* The Group's short-term debt includes commercial paper at fixed rates of interest that is due within 3 months. The remainder of the Group's short-term debt is at a variable rate based on monetary indicators depending on the underlying currency (ESTER, EURIBOR, SOFR, SONIA, etc.).
-
-* Fixed-rate debts with original maturities of less than one year are considered as variable-rate debts. Short-term cash surpluses are invested in instruments which have maturities of less than one year (fixed rate renegotiated at renewal) or variable-rate instruments (ESTER, EURIBOR, SOFR, SONIA, etc.). Consequently, the Group's net exposure to short-term changes in interest rates is limited active net exposure of 420 million euros at December 31, 2023, and 219 million euros at December 31, 2022.
-
-The Group did not have any interest rate hedges in place in either 2023 or 2022.
+Annual report 2023                abrdn.com                213
 
 ---
 
-NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2023    48
+# Group financial statements continued
+
+Included in the above maturity profile are the following cash flows in relation to cash flow hedge assets:
+
+| | Within 1<br>year | | 1-5<br>years | | 5-10<br>years | | Total | |
+|---|---|---|---|---|---|---|---|---|
+| | 2023<br>£m | 2022<br>£m | 2023<br>£m | 2022<br>£m | 2023<br>£m | 2022<br>£m | 2023<br>£m | 2022<br>£m |
+| Cash inflows | 25 | 26 | 676 | 106 | - | 637 | 701 | 769 |
+| Cash outflows | (18) | (18) | (632) | (91) | - | (578) | (650) | (687) |
+| Net cash flow hedge cash<br>inflows | 7 | 8 | 44 | 15 | - | 59 | 51 | 82 |
+
+Cash inflows and outflows are presented on a net basis where the Group is required to settle cash flows net.
+
+## 19. Receivables and other financial assets
+
+| | | 2023 | 2022 |
+|---|---|---|---|
+| | Notes | £m | £m |
+| Amounts receivable from contracts with customers | 3(d) | 110 | 161 |
+| Accrued income | | 310 | 278 |
+| Amounts due from counterparties and customers for<br>unsettled trades and fund transactions | | 477 | 317 |
+| Net investment in finance leases | | 31 | 29 |
+| Collateral pledged in respect of derivative contracts | 34 | 19 | 14 |
+| Contingent consideration assets | 36 | 11 | 19 |
+| Other | | 113 | 89 |
+| Receivables and other financial assets | | 1,071 | 907 |
+
+The carrying amounts disclosed above reasonably approximate the fair values as at the year end.
+
+The amount of receivables and other financial assets expected to be recovered after more than 12 months is £67m (2022: £34m).
+
+Accrued income includes £306m (2022: £273m) of accrued income from contracts with customers (refer Note 3(d)).
+
+## 20. Other assets
+
+| | 2023 | 2022 |
+|---|---|---|
+| | £m | £m |
+| Prepayments | 75 | 89 |
+| Deferred acquisition costs | - | 1 |
+| Other | 2 | 2 |
+| Other assets | 77 | 92 |
+
+The amount of other assets expected to be recovered after more than 12 months is £24m (2022: £21m).
+
+Prepayments includes £23m (2022: £43m) relating to the Group's future purchase of certain products in the Phoenix Group's savings business offered through abrdn's adviser platforms together with the Phoenix Group's trustee investment plan business for UK pension scheme clients. Refer Note 39(b) for further details.
+
+All deferred acquisition costs above are costs deferred on investment contracts (deferred origination costs) which relate to contracts with customers (refer Note 3(d)). The amortisation charge for deferred origination costs relating to contracts with customers for the year was £1m (2022: £2m).
+
+214 | abrdn.com | Annual report 2023
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+# 21. Assets and liabilities held for sale
 
-Consolidated financial statements
+Assets and liabilities held for sale are presented separately in the consolidated statement of financial position and consist of operations and individual non-current assets whose carrying amount will be recovered principally through a sale transaction (expected within one year) and not through continuing use.
 
-The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
+Operations held for sale, being disposal groups, and investments in associates accounted for using the equity method are measured at the lower of their carrying amount and their fair value less disposal costs. No depreciation or amortisation is charged on assets in a disposal group once it has been classified as held for sale.
 
-Consolidated net debt breaks down as follows between variable and fixed interest rates:
+Operations held for sale include newly established investment vehicles which the Group has seeded but is actively seeking to divest from. For these investment funds, which do not have significant liabilities or non-financial assets, financial assets continue to be measured based on the accounting policies that applied before they were classified as held for sale. The Group classifies seeded operations as held for sale where the intention is to dispose of the investment vehicle in a single transaction. Where disposal of a seeded investment vehicle will be in more than one tranche the operations are not classified as held for sale in the consolidated statement of financial position.
 
-| At December 31, in millions of euros | 2024 |  |  | 2023 |  |  |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: |
-|  | Current | Non-current | Total | Current | Non-current | Total |
-| **VARIABLE RATES** |  |  |  |  |  |  |
-| Financial liabilities(a) | 149 | 0 | 149 | 346 | 9 | 355 |
-| Cash and cash equivalents | (1,254) | - | (1,254) | (1,131) | - | (1,131) |
-| **NET VARIABLE RATE POSITION** | (1,106) | 0 | (1,106) | (785) | 9 | (775) |
-| **FIXED RATES** |  |  |  |  |  |  |
-| Financial liabilities(a) | 80 | 1,706 | 1,785 | 252 | 737 | 989 |
-| Cash and cash equivalents | - | - | - | - | - | - |
-| **NET FIXED RATE POSITION** | 80 | 1,706 | 1,785 | 252 | 737 | 989 |
-| **NET FINANCIAL DEBT** | (1,026) | 1,706 | 681 | (532) | 746 | 214 |
+Certain amounts seeded into funds are classified as interests in pooled investment funds. Investment property and owner occupied property held for sale relates to property for which contracts have been exchanged but the sale had not completed during the current financial year. Interests in pooled investment funds and investment property held for sale continue to be measured based on the accounting policies that applied before they were classified as held for sale.
 
-(a) Including the short-term portion of accrued interest not yet due on long-term debt.
+|  | 2023<br>£m | 2022<br>£m |
+|---|---|---|
+| **Assets of operations held for sale** |  |  |
+| abrdn Capital Limited | - | 87 |
+| European-headquartered Private Equity business | 10 | - |
+| **Investments in joint ventures accounted for using the equity method** |  |  |
+| Virgin Money UTM | 9 | - |
+| **Assets held for sale** | 19 | 87 |
+| **Liabilities of operations held for sale** |  |  |
+| abrdn Capital Limited | - | 14 |
+| European-headquartered Private Equity business | 2 | - |
+| **Liabilities of operations held for sale** | 2 | 14 |
 
-## Foreign exchange and metal price risks
+**(a) European-headquartered Private Equity business**
 
-The Group's foreign exchange risk exposure primarily relates to operations-based transactions (purchases and sales).
+On 16 October 2023, the Group announced the proposed sale of its European-headquartered Private Equity business which is in the Investments segment. The sale is expected to complete in the first half of 2024 and this business has been classified as an operation held for sale. At 31 December 2023, this disposal group was measured at its carrying amount and comprised the following assets and liabilities:
 
-Due to its international presence, the Group is exposed to foreign currency translation risk on the net assets of subsidiaries whose functional currency is not the euro. It is Group policy not to hedge these risks.
+|  | 2023<br>£m |
+|---|---|
+| **Assets of operations held for sale** |  |
+| Receivables and other financial assets | 9 |
+| Cash and cash equivalents | 1 |
+| **Total assets of operations held for sale** | 10 |
+| **Liabilities of operations held for sale** |  |
+| Other financial liabilities | 2 |
+| **Total liabilities of operations held for sale** | 2 |
+| **Net assets of operations held for sale** | 8 |
 
-The Group's sensitivity to foreign exchange risk on operating cash flows is considered to be moderate due to its operational structure. Indeed, the majority of Nexans operating subsidiaries have a very strong local presence, except in the high-voltage business. The Group's policy is to hedge its foreign exchange and non-ferrous metal price risks on cash flows relating to foreseeable significant contractual commercial transactions and certain forecast transactions. The operations arising from this hedging activity may result in certain positions being kept open. Where this happens, the positions are limited in terms of amount and term, and they are overseen by the Treasury, Financing and Metals Department.
+Net assets of operations held for sale were net of intercompany balances between the European-headquartered Private Equity business and other group entities, the net assets on a gross basis as at 31 December 2023 were £8m.
 
-The risk management policy for non-ferrous metals is defined by the Finance Department. It is implemented by subsidiaries that purchase copper, aluminum, and to a lesser extent, lead. The Group's main exposure to metal price risk arises from fluctuations in copper prices.
-
-### METHODS USED TO MANAGE AND HEDGE EXPOSURE TO FOREIGN EXCHANGE RISK
-
-The Group verifies that its procedures for managing foreign exchange risk are properly applied by means of quarterly reports provided to the Treasury, Financing and Metals Department by all subsidiaries exposed to this type of risk, irrespective of whether or not they are members of the cash pool. The reports contain details on the subsidiaries' estimated future cash flows in each currency and the related hedges that have been set up, as well as a reconciliation between actual figures and previous forecasts.
-
-The Treasury, Financing and Metals Department has developed training materials for the Group's operations teams and carries out ad hoc audits to ensure that the relevant procedures have been properly understood and applied. Lastly, the Internal Audit Department regularly verifies that the procedures for identifying and hedging foreign exchange risks have been properly applied during its audit engagements carried out at the Group's subsidiaries.
-
-In addition, some bids are made in a currency other than that in which the entity concerned operates. Foreign exchange risks arising on these bids are not systematically hedged, which could generate a gain or loss for the Group if there is a significant fluctuation in the exchange rate between the date when the bid is presented and the date it is accepted by the customer. However, in such cases, the Group takes steps to reduce its potential risk by applying expiration dates to its bids and by incorporating the foreign exchange risk into the price proposal.
-
-Foreign exchange risk is identified at the level of the Group's subsidiaries. The subsidiaries' treasurers execute hedges centrally or locally using forward currency transactions. For subsidiaries that are members of the cash pool, these transactions are carried out with the Treasury, Financing and Metals Department. Other subsidiaries enter into forward currency transactions with their local banks. The objective is to reduce flows in the subsidiary's functional currency and/or to avoid open positions in a given currency for a given maturity.
-
-### METHODS USED TO MANAGE AND HEDGE EXPOSURE TO METAL RISK
-
-The exposure of a certain number of subsidiaries to the risk of changes in non-ferrous metal prices is hedged at Group level. To this end, each Group company reports its exposures to the Treasury, Financing and Metals Department.
-
-The Group verifies that its procedures for managing and hedging metal risks are correctly applied by means of each operating subsidiary reporting monthly on its exposure to copper, aluminum and lead risk in both tonnage and value terms. The related reports are analyzed and consolidated at Group level by the Treasury, Financing and Metals Department.
-
-49 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+Annual report 2023 | abrdn.com | 215
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+# Group financial statements continued
 
-## 05 Consolidated financial statements
+(b) abrdn Capital Limited (aCL)
+On 1 September 2023, the Group completed the sale of aCL. Refer Note 1 (c)(i). aCL was reported in the ii segment (previously named Personal).
+At 31 December 2022, this disposal group was measured at its carrying amount and comprised the following assets and liabilities:
 
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+| Assets of operations held for sale | 2022<br>£m |
+|-----------------------------------|-----------|
+| Intangible assets                  | 58        |
+| Property, plant and equipment      | –         |
+| Receivables and other financial assets | 15    |
+| Other assets                       | 1         |
+| Cash and cash equivalents          | 13        |
+| Total assets of operations held for sale | 87  |
+| **Liabilities of operations held for sale** |  |
+| Other financial liabilities        | 14        |
+| Total liabilities of operations held for sale | 14 |
+| **Net assets of operations held for sale** | 73 |
 
-In addition, the Treasury, Financing and Metals Department regularly provides training sessions and performs controls within the subsidiaries to ensure that the procedures are properly understood and applied. It has also created training modules on the Group intranet for operations teams, including salespeople, buyers, finance staff and "hedging operators" who are in charge of daily hedging activities concerning metal risks. Lastly, the Internal Audit Department systematically checks that the procedures for identifying and hedging metal risks have been properly applied during its audit engagements carried out at the Group's operating subsidiaries.
+Net assets of operations held for sale were net of intercompany balances between abrdn Capital Limited and other group entities, the net assets of abrdn Capital Limited on a gross basis as at 31 December 2022 were £70m.
 
-In order to offset the consequences of the volatility of non-ferrous metal prices (copper and to a lesser extent aluminum and lead), Nexans' policy is to pass on metal prices in its own selling prices and hedge the related risk either by setting up a physical hedge or by entering into futures contracts on the London, New York and to a lesser degree, Shanghai metal exchanges. Nexans does not generate any income from the speculative trading of metals.
+## 22. Cash and cash equivalents
 
-The Group's production units require access at all times to a minimum level of metal inventories for their routine operations, which is referred to as "Core exposure". Core exposure represents the minimum amounts that are necessary for the production units to operate appropriately. Consequently, the quantities of metal corresponding to core exposure are not hedged and are recorded within operating margin based on initial purchase cost. However, as described in Note 1.E.c, at the level of operating income, core exposure is measured at its weighted average cost and therefore the difference between historical cost and weighted average cost is recognized under "Core exposure effect" in the income statement.
+Cash and cash equivalents include cash at bank, money at call and short notice with banks, money market funds and any highly liquid investments with less than three months to maturity from the date of acquisition. For the purposes of the consolidated statement of cash flows, cash and cash equivalents also include bank overdrafts which are included in other financial liabilities on the consolidated statement of financial position where the overdraft is repayable on demand and forms an integral part of the Group's cash management.
 
-As a result, any reduction (via sales) in the volume of core exposure due to structural changes in the needed tonnages for the operations of an entity, in the event of structural reorganizations within the Group or a lasting significant change in the business levels of certain operations, can impact the Group's operating margin.
+Where the Group has a legally enforceable right of set off and intention to settle on a net basis, cash and overdrafts are offset in the consolidated statement of financial position.
 
-In addition, the Group's operating margin is still partially exposed to fluctuations in non-ferrous metal prices for certain product lines, such as copper cables for cabling systems and building sector products. In these markets, any changes in non-ferrous metal prices are generally passed on in the selling price, but with a time lag that can impact margins. The fierce competition in these markets also affects the timescale within which price increases are passed on.
+|                                                                          | 2023<br>£m | 2022<br>£m |
+|--------------------------------------------------------------------------|------------|------------|
+| Cash at bank and in hand                                                  | 704        | 783        |
+| Money at call, term deposits, reverse repurchase agreements and debt instruments with less than three months to maturity from acquisition | 301 | 236 |
+| Money market funds                                                        | 191        | 114        |
+| Cash and cash equivalents                                                 | 1,196      | 1,133      |
 
-In accordance with its risk management policy described above, the Group enters into physical contracts only for operational purposes (for the copper component of customer or supplier orders) and uses futures contracts only for hedging purposes (LME, COMEX or SHFE traded contracts, see Note 27.D "Metals derivatives"). The Group's main subsidiaries document their hedging relationships in compliance with the requirements of IFRS relating to cash flow hedges.
+|                                                              | Notes | 2023<br>£m | 2022<br>£m |
+|--------------------------------------------------------------|-------|------------|------------|
+| Cash and cash equivalents                                     |       | 1,196      | 1,133      |
+| Cash and cash equivalents backing unit linked liabilities     | 23    | 13         | 23         |
+| Cash and cash equivalents classified as held for sale         | 21    | 1          | 13         |
+| Bank overdrafts                                               | 32    | –          | (3)        |
+| Total cash and cash equivalents for consolidated statement of cash flows |  | 1,210  | 1,166      |
 
-### D. Credit and counterparty risk
+Cash at bank, money at call and short notice and deposits are subject to variable interest rates.
 
-In addition to customer credit risk, counterparty risk arises primarily on foreign exchange and non-ferrous metal derivatives as well as on the Group's investments and deposits placed with banks.
+Cash and cash equivalents in respect of unit linked funds (including third party interests in consolidated funds) are held in separate bank accounts and are not available for general use by the Group.
 
-#### CUSTOMER CREDIT RISK
-
-The Group's diverse business and customer base and wide geographic reach are natural mitigating factors for customer credit risk. At December 31, 2024, no single customer in any country represented more than 5% of the Group's total outstanding receivables except for Svenska Kraftnät (10%).
-
-The Group also applies a proactive policy for managing and reducing its customer credit risk by means of a Group-wide credit management policy which has been rolled out to Nexans' international subsidiaries. A portion of trade receivables is not covered by this Group insurance program and case-by-case studies are carried out to find solutions. The recent economic and political crises around the world have made the market environment difficult. The Group focuses on optimizing credit and collection procedures, to limit the incidence of late payments and disputes. As a result and in view of the current relatively favorable situation of the policy, the credit insurer has confirmed its support and its willingness to support Nexans' future growth strategy.
-
-#### FOREIGN EXCHANGE DERIVATIVES
-
-In accordance with Group policy to keep counterparty risk as low as possible, entities wishing to hedge the foreign exchange risk on their medium or long-term commercial commitments may only purchase long-term derivatives (expiring in more than one year) from banks that have been assigned medium and long-term ratings of at least A- by Standard & Poor's and A3 by Moody's. For short-term derivatives (expiring in less than one year), the banks must have been assigned short-term ratings of at least A-1 by Standard & Poor's and P-1 by Moody's. Where this requirement cannot be fulfilled due to local banking conditions, the entities in the countries concerned limit their counterparty risk by keeping their exposure to a minimum and spreading it between at least three banks.
-
-For subsidiaries that are not members of the cash pool, the same criteria apply but exceptions may be made, notably for subsidiaries located in countries with sovereign ratings that are below the specified thresholds. In this case, subsidiaries are asked to set up derivatives involving counterparty risk only with branches or subsidiaries of banking groups whose parent company satisfies the above risk criteria.
-
-NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2024 - 50
-
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## 05 Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-Based on a breakdown by maturity of the notional amounts at December 31, 2024 (the sum of the absolute values of the notional amounts of buyer and seller positions), the Group's main exposure for all subsidiaries (both members and non-members of the cash pool) is to short-term maturities.
-
-| At December 31, in millions of euros | 2024 |  | 2023 |  |
-| --- | ---: | ---: | ---: | ---: |
-|  | Buyer position notional amounts | Seller position notional amounts | Buyer position notional amounts | Seller position notional amounts |
-| Within one year | 5,872 | 5,913 | 5,117 | 5,109 |
-| Between one and two years | 1,215 | 1,221 | 1,327 | 1,332 |
-| Between two and three years | 2,252 | 2,236 | 765 | 760 |
-| Between three and four years | 1,314 | 1,295 | 1,278 | 1,256 |
-| Beyond four years | 1,095 | 1,079 | - | - |
-| TOTAL | 11,748 | 11,744 | 8,487 | 8,457 |
-
-## METAL DERIVATIVE INSTRUMENTS
-
-The Nexans Group hedges its exposure to copper, aluminum and to a lesser extent lead by entering into derivatives transactions in three organized markets: the LME in London, the COMEX in New York and in certain limited cases, the SHFE in Shanghai. Substantially all of the derivatives transactions conducted by the Group are standard buy and sell trades. The Group does not generally use metal options.
-
-The Treasury Financing and Metals Department performs metal derivatives transactions on behalf of substantially all of the Group's subsidiaries apart from, at December 31, 2024, its Australian, New Zealand and Chinese entities. Non-ferrous metal hedging transactions carried out on commodity exchanges may give rise to two different types of counterparty risk:
-
-- the risk of not recovering cash deposits made (margin calls); and
-- the replacement risk for contracts on which the counterparty defaults (mark-to-market exposure, i.e., the risk that the terms of a replacement contract will be different from those in the initial contract).
-
-The Treasury Financing and Metals Department manages counterparty risk on the Group's derivative instruments by applying a procedure that sets ceilings by counterparty and by type of transaction. The level of these ceilings depends notably on the counterparties' ratings. In addition, the transactions carried out are governed by master netting agreements developed by major international Futures and Options Associations that allow for the netting of credit and debit balances on each contract.
-
-The Group's counterparties for these transactions are usually its existing financial partners, provided they have a long-term rating of at least A-/A3. Counterparties rated between BBB-/Baa3 and BBB+/Baa1 can also be approved provided the Group's aggregate exposure to these counterparties does not exceed 20 million US dollars for counterparties rated BBB+/Baa1 or BBB in Australia and New Zealand. Because of the countries' time zone, the Group's subsidiaries carry out metal derivatives transactions with an Australian broker which is not rated. However, the Group only has a low level of exposure to this broker. Subsidiaries in China hedge their metal risks on the Shanghai Futures Exchange (SHFE), which can only be used by local brokers.
-
-The Group's metal derivatives transactions are governed for the most part by master netting agreements developed by major international futures and options associations that in the event of a default allow for the netting of a Group subsidiary's assets and liabilities related to the defaulting counterparty.
-
-The Group's maximum theoretical counterparty risk on its metal derivatives transactions can be measured as the sum of credit balances (including positive mark-to-market adjustments) and cash deposits after contractually permitted asset and liability netting. At December 31, 2024, this maximum theoretical risk was limited to 4 million euros. It amounted to 9 million euros at December 31, 2023.
-
-The notional amounts of metal derivatives (sum of the absolute values of buy and sell positions) at December 31, 2024 are analyzed by maturity in the table below:
-
-| At December 31, in millions of euros | 2024 |  | 2023 |  |
-| --- | ---: | ---: | ---: | ---: |
-|  | Buyer position notional amounts | Seller position notional amounts | Buyer position notional amounts | Seller position notional amounts |
-| Within one year | 507 | 219 | 531 | 289 |
-| Between one and two years | 79 | - | 74 | 8 |
-| Between two and three years | 41 | 0 | 16 | - |
-| Between three and four years | 40 | - | - | - |
-| Beyond four years | 1 | - | - | - |
-| TOTAL | 669 | 219 | 621 | 297 |
-
-51 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+216 | abrdn.com | Annual report 2023
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+# 23. Unit linked liabilities and assets backing unit linked liabilities
 
-## Consolidated financial statements 05
+The Group operates unit linked life assurance businesses through an insurance subsidiary. This subsidiary provides investment products through a life assurance wrapper. These products do not contain any features which transfer significant insurance risk and therefore are classified as investment contracts. Unit linked non-participating investment contracts are separated into two components being an investment management services component and a financial liability. All fees and related administrative expenses are deemed to be associated with the investment management services component (refer Note 3). The financial liability component is designated at FVTPL as it is implicitly managed on a fair value basis as its value is directly linked to the market value of the underlying portfolio of assets.
 
-The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.
+Where the Group is deemed to control an investment vehicle as a result of holdings in that vehicle by subsidiaries to back unit linked non-participating investment contract liabilities, the assets and liabilities of the vehicle are consolidated within the Group's statement of financial position. The liability for third party interest in such consolidated funds is presented as a unit linked liability.
 
-Cash deposited to meet margin calls on copper forward purchases whose fair value was negative at the year-end (see Note 27) amounted to 5 million euros at December 31, 2024 (8 million euros at December 31, 2023).
+Unit linked liabilities and assets backing unit linked liabilities are presented separately in the consolidated statement of financial position except for those held in operations held for sale, which are presented in assets and liabilities held for sale in the consolidated statement of financial position.
 
-In conclusion, the Group has limited exposure to credit risk. The Group considers that its management of counterparty risk is in line with market practices but it cannot totally rule out a significant impact on its consolidated financial statements should it be faced with the occurrence of systemic risk.
+Contributions received on non-participating investment contracts and from third party interest in consolidated funds are treated as deposits and not reported as revenue in the consolidated income statement.
 
-### RISK ON DEPOSITS AND INVESTMENTS
+Withdrawals paid out to policyholders on non-participating investment contracts and to third party interest in consolidated funds are treated as a reduction to deposits and not recognised as expenses in the consolidated income statement.
 
-Deposits and investments with banks of Nexans Financial Trading Services and Nexans Canada's surplus cash amounted to 824 million euros at December 31, 2024, representing approximately 29% of the Group's total cash and cash equivalents. All of these deposits and investments are with counterparties rated as investment grade by Standard & Poor's, with ratings of between A and AA.
+Investment return and related benefits credited in respect of non-participating investment contracts and third party interest in consolidated funds are recognised in the consolidated income statement as changes in investment contract liabilities and changes in liability for third party interest in consolidated funds respectively. Investment returns relating to unit linked business are for the account of policyholders and have an equal and opposite effect on income and expenses in the consolidated income statement with no impact on profit or loss after tax.
 
-Nexans Financial Trading Services has no SICAV's shares as of December 31, 2024.
+Assets backing unit linked liabilities comprise financial investments, which are all classified as FVTPL on a mandatory basis, and receivables and other financial assets and cash and cash equivalents which are measured at amortised cost.
 
-For the Group's other subsidiaries, counterparty risk on deposits and investments is managed in accordance with the principles and procedures described in Note 29.A.
+## (a) Result for the year attributable to unit linked business
 
-### E. Market risk sensitivity analysis
+| | Notes | 2023 £m | 2022 £m |
+|---|---|---|---|
+| Net gains or losses on financial instruments and other income | 4 | 4 | 5 |
+| Other administrative expense | 5 | (1) | (1) |
+| Profit before tax | | 3 | 4 |
+| Tax expense attributable to unit linked business | 9 | (3) | (4) |
+| Profit after tax | | – | – |
 
-A sensitivity analysis is provided below on the impact that a theoretical change in the above-mentioned main market risks would have on consolidated income and equity.
+## (b) Financial instrument risk management
 
-#### SENSITIVITY TO CHANGES IN COPPER PRICES
+The shareholder is not directly exposed to market risk or credit risk in relation to the financial assets backing unit linked liabilities. The shareholder's exposure to market risk on these assets is limited to variations in the value of future revenue as fees are based on a percentage of fund value.
 
-Fluctuations in copper prices can impact both consolidated income and equity, as well as the Group's financing needs. Sensitivity calculations are based on an assumed increase in copper prices. A fall in copper prices would have the inverse effect.
+The shareholder is exposed to liquidity risk relating to unit linked funds. For the unit linked business, liquidity risk is primarily managed by holding a range of diversified instruments which are assessed against cash flow and funding requirements. A core portfolio of assets is maintained and invested in accordance with the mandates of the relevant unit linked funds. Given that unit linked policyholders can usually choose to surrender, in part or in full, their unit linked contracts at any time, the non-participating investment contract unit linked liabilities are designated as payable within one year. Such surrenders would be matched in practice, if necessary, by sales of underlying assets. Policyholder behaviour and the trading position of asset classes are actively monitored. The Group can delay settling liabilities to unit linked policyholders to ensure fairness between those remaining in the fund and those leaving the fund. The length of any such delay is dependent on the underlying financial assets.
 
-A rise in copper prices would result in:
-* a rise in the fair value of the Group's portfolio of cash-settled copper derivatives (the Group is a net buyer);
-* an upward remeasurement of the Group's Core exposure.
-
-At Group level, the impact on working capital is limited and mainly relates to the timing of derivatives settlement. Potential significant variations could occur at local level due to pricing conditions.
-
-An increase in the fair value of cash-settled copper derivatives would positively affect either consolidated operating income or equity, based on the accounting treatment used for these derivative instruments (the derivatives of the Group's main subsidiaries are designated as cash flow hedges within the meaning of IFRS 9).
-
-The simulation below is based on the following assumptions (with all other assumptions remaining constant, notably exchange rates):
-* a 10% increase in copper prices at December 31, 2023 and 2024, and translation of this impact evenly across the entire price curve without any distortion of forward points/spreads
-* all working capital components (inventories and the copper component of trade receivables and payables) would be impacted by the increase in copper prices
-* 47,000 tons and 50,000 tons of copper included in working capital at December 31, 2023 and December 31, 2024, respectively
-* short-term interest rate (3-month Euribor) of 2.715% in 2024 and 3.93% in 2023. A worst-case scenario in which the increase in working capital would be constant throughout the year, leading to an annualized increase in financial expenses (not taking into account the temporary positive impact of margin calls or the effect of changes in exchange rates)
-* 43,350 tons of copper classified as core exposure at December 31, 2024 and 43,750 tons at December 31, 2023
-* using a theoretical income tax rate of 25.83% in 2024 as in 2023
-
-Any impact of changes in copper prices on both impairment in value of the Group's non-current assets (in accordance with IAS 36) and the provision for impairment of inventories has not been taken into account in this simulation, as it is impossible to identify a direct linear effect.
-
-| At December 31, in millions of euros | 2024 | 2023 |
-|-------------------------------------|------|------|
-| Impact on operating income | 36 | 33 |
-| Impact on financial income and expenses | (1) | (1) |
-| NET IMPACT ON INCOME (AFTER TAX) | 26 | 23 |
-| IMPACT ON EQUITY (AFTER TAX) | 24 | 20 |
-
-(a) Excluding net income (loss) for the period.
-
-NEXANS - UNIVERSAL REGISTRATION DOCUMENT 2024 - 52
+Annual report 2023 | abrdn.com | 217
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+# Group financial statements continued
 
-## Consolidated financial statements
+(c) Fair value measurement of unit linked financial liabilities and financial assets backing unit linked liabilities
 
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+Each of the unit linked financial liabilities and the financial assets backing unit linked liabilities has been categorised below using the fair value hierarchy as defined in Note 36. Refer Note 36 for details of valuation techniques used.
 
-## SENSITIVITY TO THE US DOLLAR (USD) AND NORWEGIAN KRONE (NOK) EXCHANGE RATES
+| | Level 1 | | Level 2 | | Level 3 | | Not at fair value | | Total | |
+|---|---|---|---|---|---|---|---|---|---|---|
+| | 2023 | 2022 | 2023 | 2022 | 2023 | 2022 | 2023 | 2022 | 2023 | 2022 |
+| | £m | £m | £m | £m | £m | £m | £m | £m | £m | £m |
+| Financial investments | 396 | 601 | 273 | 322 | - | 1 | - | - | 669 | 924 |
+| Receivables and other financial assets | - | - | - | - | - | - | 4 | 5 | 4 | 5 |
+| Cash and cash equivalents | - | - | - | - | - | - | 13 | 23 | 13 | 23 |
+| Total financial assets backing unit linked liabilities | 396 | 601 | 273 | 322 | - | 1 | 17 | 28 | 686 | 952 |
+| Investment contract liabilities | - | - | 684 | 772 | - | 1 | - | - | 684 | 773 |
+| Third party interest in consolidated funds | - | - | - | 173 | - | - | - | - | - | 173 |
+| Other unit linked financial liabilities | - | - | - | 2 | - | - | 2 | 4 | 2 | 6 |
+| Total unit linked financial liabilities | - | - | 684 | 947 | - | 1 | 2 | 4 | 686 | 952 |
 
-The main impacts on the consolidated financial statements stem from the revaluation of the Group's portfolio of derivative instruments. The impact on equity related to designated cash flow hedges and the impact on income have been separated out. The impact on income is offset by the revaluation of underlying US dollar positions included in the Group's trade receivables and trade payables portfolios, and net debt.
+In addition to financial assets backing unit linked liabilities and unit linked financial liabilities shown above there is a current tax asset of £nil (2022: less than £1m) included in unit linked assets and a current tax liability of £nil (2022: less than £1m) included in unit linked liabilities.
 
-The Group's other financial assets and liabilities are only exceptionally subject to foreign exchange risk. They were not taken into account in this simulation.
+The financial investments backing unit linked liabilities comprise equity securities and interests in pooled investment funds of £667m (2022: £811m), debt securities of £2m (2022: £112m) and derivative financial assets of £nil (2022: £1m).
 
-The US dollar is the main foreign currency to which the Group is exposed.
+The fair value of financial instruments not held at fair value approximates to their carrying value at both 31 December 2023 and 31 December 2022.
 
-The simulation is based on a 10% decrease in the US dollar spot rate against the world's other major currencies compared with the rates prevailing at December 31, 2023 and 2022 (e.g., using USD/EUR exchange rates of 1.10 and 1.07 respectively, without any changes in the forward points curve).
+There were no significant transfers from level 1 to level 2 during the year ended 31 December 2023. There were transfers from level 1 to level 2 of £52m during the year ended 31 December 2022. The Group now considers government bonds not issued by the G7 countries or the European Union as level 2. There were no significant transfers from level 2 to level 1 during the year ended 31 December 2023 (2022: £nil). Transfers are deemed to have occurred at the end of the calendar quarter in which they arose.
 
-The Norwegian krone (NOK) is an essential counterparty currency used in contracts for subsea high-voltage cables.
+The movements during the period of level 3 unit linked assets and liabilities held at fair value are analysed below.
 
-The simulation is based on similar assumptions to those used for the US dollar (i.e., a 10% decrease in the Norwegian krone spot rate against the world's other major currencies), e.g., using closing NOK/EUR exchange rates of 11.50 and 10.74 at December 31, 2023 and 2022, respectively, without any changes in the forward points curve.
-
-Foreign currency translation impacts have not been taken into account in the following calculations:
-
-| | 2024 | | 2023 | |
+| | Equity securities and interests in pooled investment funds | | Investment contract liabilities | |
 |---|---|---|---|---|
-| in millions of euros | Net impact on income<br>(after tax)<sup>(a)</sup> | Impact on equity<br>(after tax)<sup>(b)</sup> | Net impact on income<br>(after tax)<sup>(a)</sup> | Impact on equity<br>(after tax)<sup>(b)</sup> |
-| **NET POSITION – UNDERLYINGS<sup>(c)</sup>** | (14) | - | (10) | - |
-| **NET POSITION – DERIVATIVES** | (7) | (9) | 1 | 10 |
-| **USD – NET IMPACT ON THE GROUP** | (21) | (9) | (9) | 10 |
-| **NET POSITION – UNDERLYINGS<sup>(d)</sup>** | 32 | - | 7 | - |
-| **NET POSITION – DERIVATIVES** | (0) | (117) | (0) | (75) |
-| **NOK – NET IMPACT ON THE GROUP** | 32 | (117) | 7 | (75) |
+| | 31 Dec 2023 | 31 Dec 2022 | 31 Dec 2023 | 31 Dec 2022 |
+| | £m | £m | £m | £m |
+| At start of period | 1 | 1 | (1) | (1) |
+| Sales | (1) | - | 1 | - |
+| At end of period | - | 1 | - | (1) |
 
-(a) Using a theoretical income tax rate of 28.8% in 2023 and 2022.
-(b) Excluding net income for the period, the theoretical income tax rate was 28.8% in 2023 and 2022.
-(c) Impact primarily due to net open positions in countries whose currencies are very closely correlated to the US dollar.
-(d) Impact primarily due to net open positions in countries whose currencies are very closely correlated to the Norwegian krone.
+Unit linked level 3 assets related to holdings in real estate funds. No individual unobservable input is considered significant. Changing unobservable inputs in the measurement of the fair value of these unit linked level 3 financial assets and liabilities to reasonably possible alternative assumptions would have no impact on profit attributable to equity holders or on total assets.
 
-53   NEXANS   UNIVERSAL REGISTRATION DOCUMENT 2024
+Transfers of unit linked assets and liabilities to level 3 generally arise when external pricing providers stop providing prices for the underlying assets and liabilities in the funds or where the price provided is considered stale.
+
+218 | abrdn.com | Annual report 2023
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
-## Consolidated financial statements 05
+## (d) Change in non-participating investment contract liabilities
+The change in non-participating investment contract liabilities was as follows:
 
-*The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.*
+|  | 2023 | 2022 |
+| --- | ---: | ---: |
+| | £m | £m |
+| At 1 January | 773 | 1,088 |
+| Contributions | 54 | 36 |
+| Account balances paid on surrender and other terminations in the year | (206) | (237) |
+| Change in non-participating investment contract liabilities recognised in the consolidated income statement | 65 | (112) |
+| Recurring management charges | (2) | (2) |
+| At 31 December | 684 | 773 |
 
-## Note 30. Additional disclosures concerning financial instruments
+## (e) Derivatives
+The treatment of collateral accepted and pledged in respect of financial instruments and the Group's approach to offsetting financial assets and liabilities is described in Note 34. The following table presents the impact of master netting agreements and similar arrangements for derivatives backing unit linked liabilities.
 
-The main types of financial assets and liabilities are divided into the following categories:
+| | Gross amounts of financial instruments as presented on the consolidated statement of financial position | | Related amounts not offset on the consolidated statement of financial position | | | | |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| | 2023 | 2022 | Financial instruments | | Financial collateral pledged/(received) | | Net position | |
+| | £m | £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m |
+| Financial assets | | | | | | | | |
+| Derivatives¹ | – | 1 | – | – | – | – | – | 1 |
+| Total financial assets | – | 1 | – | – | – | – | – | 1 |
+| Financial liabilities | | | | | | | | |
+| Derivatives¹ | – | (1) | – | – | – | – | – | (1) |
+| Total financial liabilities | – | (1) | – | – | – | – | – | (1) |
 
-| At December 31, in millions of euros | IFRS 9 category | Fair value category | 2024 |  | 2023 |  |
+1. Only OTC derivatives subject to master netting agreements have been included above.
+
+Annual report 2023 | abrdn.com | 219
+
+---
+
+# Group financial statements continued
+
+## 24. Issued share capital and share premium
+
+Shares are classified as equity instruments when there is no contractual obligation to deliver cash or other assets to another entity on terms that may be unfavourable. The Company's share capital consists of the number of ordinary shares in issue multiplied by their nominal value. The difference between the proceeds received on issue of the shares and the nominal value of the shares issued is recorded in share premium.
+
+Where the Company undertakes share buybacks, the reduction to retained earnings is accounted for on the trade date of the transaction of each repurchase with a liability recognised for unsettled trades, unless the Company has an irrevocable contractual obligation with a third party. Where the Company has an irrevocable contractual obligation, the full contractual value of the buyback programme is recognised as a liability and as a reduction to retained earnings on the date of the agreement. The reduction to share capital for the cancellation of the shares and the related credit to the capital redemption reserve is always accounted for on the settlement date for the repurchases.
+
+The movement in the issued ordinary share capital and share premium of the Company was:
+
+|  | 2023 |  | 2022 |  |
+| --- | --- | --- | --- | --- |
+| Issued shares fully paid | Ordinary share capital<br>13 61/63p each | Share premium<br>£m | Ordinary share capital<br>13 61/63p each | Share premium<br>£m |
+| At 1 January | 2,001,891,899 | 280 | 640 | 2,180,724,786 | 305 | 640 |
+| Shares issued in respect of share incentive plans | 2,414 | - | - | 2,381 | - | - |
+| Share buyback | (161,153,949) | (23) | - | (178,835,268) | (25) | - |
+| At 31 December | 1,840,740,364 | 257 | 640 | 2,001,891,899 | 280 | 640 |
+
+All ordinary shares in issue in the Company rank pari passu and carry the same voting rights and entitlement to receive dividends and other distributions declared or paid by the Company.
+
+On 5 June 2023, the Company announced that it would initiate a £150m return to shareholders. On 8 August 2023, the Company announced the extension of this programme to £300m. The share buyback commenced on 5 June 2023 and was completed on 19 December 2023. During the year ended 31 December 2023, the Company had bought back and cancelled 161,153,949 shares as part of this programme. The total consideration was £302m which includes transaction costs.
+
+During the year ended 31 December 2022, the Company bought back and cancelled 178,835,268 shares. The total consideration was £302m which included transaction costs. There were no unsettled purchases at 31 December 2022.
+
+The share buyback has resulted in a reduction in retained earnings of £302m (2022: £302m).
+
+In addition, an amount of £23m (2022: £25m) has been credited to the capital redemption reserve relating to the nominal value of the shares cancelled.
+
+The Company can issue shares to satisfy awards granted under employee incentive plans which have been approved by shareholders. Details of the Group's employee plans are provided in Note 40.
+
+## 25. Shares held by trusts
+
+Shares held by trusts relates to shares in abrdn plc that are held by the abrdn Employee Benefit Trust (abrdn EBT), the abrdn Employee Trust (formerly named the Standard Life Employee Trust)(abrdn ET) and the Aberdeen Asset Management Employee Benefit Trust 2003 (AAM EBT).
+
+The abrdn EBT, abrdn ET and AAM EBT purchase shares in the Company for delivery to employees under employee incentive plans. Purchased shares are recognised as a deduction from equity at the price paid. Where new shares are issued to the abrdn EBT, abrdn ET or AAM EBT the price paid is the nominal value of the shares. When shares are distributed from the trust their corresponding value is released to retained earnings.
+
+The number of shares held by trusts was as follows:
+
+| Number of shares held by trusts | 2023 | 2022 |
+| --- | --- | --- |
+| abrdn Employee Benefit Trust | 34,076,343 | 36,112,240 |
+| abrdn Employee Trust | 22,187,644 | 22,629,035 |
+| Aberdeen Asset Management Employee Benefit Trust 2003 | 2,080,853 | 2,264,591 |
+
+220 | abrdn.com | Annual report 2023
+
+---
+
+# 26. Retained earnings
+The following table shows movements in retained earnings during the year.
+
+|  | Notes | 2023 £m | 2022 restated¹ £m |
+|---|---|---|---|
+| Opening balance carried forward |  | 4,986 | 5,766 |
+| Effect of application of IFRS 9 on Investments in associates and joint ventures accounted for using the equity method² |  | 51 | – |
+| Opening balance at 1 January |  | 5,037 | 5,766 |
+| Recognised in comprehensive income |  |  |  |
+| Recognised in profit/(loss) for the year attributable to equity holders¹ |  | 1 | (558) |
+| Recognised in other comprehensive income |  |  |  |
+| Remeasurement losses on defined benefit pension plans | 31 | (139) | (793) |
+| Share of other comprehensive income of associates and joint ventures¹ |  | (31) | (57) |
+| Total items recognised in comprehensive income |  | (169) | (1,408) |
+|  |  |  |  |
+| Recognised directly in equity |  |  |  |
+| Dividends paid on ordinary shares |  | (279) | (307) |
+| Share buyback | 24 | (302) | (302) |
+| Cancellation of capital redemption reserve | 27 | – | 1,059 |
+| Transfer for vested employee share-based payments |  | 31 | 63 |
+| Transfer between reserves on disposal of subsidiaries |  | – | 1 |
+| Transfer between reserves on impairment of subsidiaries | 27 | 169 | 207 |
+| Shares distributed by employee and other trusts |  | (38) | (70) |
+| Other movements³ |  | – | (23) |
+| Total items recognised directly in equity |  | (419) | 628 |
+| At 31 December |  | 4,449 | 4,986 |
+
+1. Comparatives for 2022 have been restated for the implementation of IFRS 17. Refer Basis of preparation.
+2. The Group implemented IFRS 9 in 2019. However, as permitted under a temporary exemption granted to insurers in IFRS 4 Insurance Contracts, the Group's insurance joint venture, Heng An Standard Life Insurance Company Limited, applied IFRS 9 at 1 January 2023 following the implementation of the new insurance standard, IFRS 17. Refer Basis of preparation.
+3. Other movements in 2022 included the transfer of (£17m) previously recognised in the foreign currency translation reserve (which is part of Other reserves) to Retained earnings. In prior years we have considered the functional currency of an intermediate subsidiary holding the Group's investment in HDFC Life to be US Dollars. We now consider that the functional currency should have been GBP, resulting in the current period transfer between reserves. Prior periods have not been restated as the impact on prior periods is not considered material.
+
+# 27. Movements in other reserves
+In July 2006 Standard Life Group demutualised and during this process the merger reserve, the reserve arising on Group reconstruction and the special reserve were created.
+
+**Merger reserve:** the merger reserve consists of two components. Firstly at demutualisation in July 2006 the Company issued shares to former members of the mutual company. The difference between the nominal value of these shares and their issue value was recognised in the merger reserve. The reserve includes components attaching to each subsidiary that was transferred to the Company at demutualisation based on their fair value at that date. Secondly following the completion of the merger of Standard Life plc and Aberdeen Asset Management PLC on 14 August 2017, an additional amount was recognised in the merger reserve representing the difference between the nominal value of shares issued to shareholders of Aberdeen Asset Management PLC and their fair value at that date. On disposal or impairment of a subsidiary any related component of the merger reserve is released to retained earnings.
+
+**Reserve arising on Group reconstruction:** The value of the shares issued at demutualisation was equal to the fair value of the business at that date. The business's assets and liabilities were recognised at their book value at the time of demutualisation. The difference between the book value of the business's net assets and its fair value was recognised in the reserve arising on Group reconstruction. The reserve comprises components attaching to each subsidiary that was transferred to the Company at demutualisation. On disposal of such a subsidiary any related component of the reserve arising on Group reconstruction is released to retained earnings.
+
+**Special reserve:** Immediately following demutualisation and the related initial public offering, the Company reduced its share premium reserve by court order giving rise to the special reserve. Dividends can be paid out of this reserve.
+
+**Capital redemption reserve:** In August 2018, as part of the return of capital and share buyback the capital redemption reserve was created. Additional capital redemption reserve is created by subsequent buybacks (refer Note 24). See below for the cancellation of the capital redemption reserve as at 1 July 2022.
+
+Annual report 2023 | abrdn.com | 221
+
+---
+
+# Group financial statements continued
+
+The following tables show the movements in other reserves during the year.
+
+| | Notes | Cash flow hedges £m | Foreign currency translation £m | Merger reserve £m | Equity compensation reserve £m | Special reserve £m | Reserve arising on Group reconstruction £m | Capital redemption reserve £m | Total £m |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 January 2023 | | 23 | 70 | 275 | 48 | 115 | (685) | 25 | (129) |
+| Recognised in other comprehensive income | | | | | | | | | |
+| Fair value losses on cash flow hedges | | (40) | - | - | - | - | - | - | (40) |
+| Exchange differences on translating foreign operations | | - | (35) | - | - | - | - | - | (35) |
+| Items transferred to profit or loss | | 28 | (1) | - | - | - | - | - | 27 |
+| Aggregate tax effect of items recognised in other comprehensive income | | 3 | - | - | - | - | - | - | 3 |
+| Total items recognised in other comprehensive income | | (9) | (36) | - | - | - | - | - | (45) |
+| Recognised directly in equity | | | | | | | | | |
+| Share buyback | 24 | - | - | - | - | - | - | 23 | 23 |
+| Reserves credit for employee share-based payments | | - | - | - | 24 | - | - | - | 24 |
+| Transfer to retained earnings for vested employee share-based payments | | - | - | - | (31) | - | - | - | (31) |
+| Transfer between reserves on impairment of subsidiaries | | - | - | (169) | - | - | - | - | (169) |
+| Total items recognised directly within equity | | - | - | (169) | (7) | - | - | 23 | (153) |
+| At 31 December 2023 | | 14 | 34 | 106 | 41 | 115 | (685) | 48 | (327) |
+
+The merger reserve includes £94m (2022: £263m) in relation to the Group's asset management businesses. During 2023, following the impairment of the Company's investment in abrdn Investments (Holdings) Limited, £169m was transferred from the merger reserve to retained earnings. During 2022, following the impairment of the Company's investments in abrdn Holdings Limited and abrdn Investments (Holdings) Limited, £207m was transferred from the merger reserve to retained earnings. Refer to the Company financial statements for further details on these impairments.
+
+222 | abrdn.com | Annual report 2023
+
+---
+
+| | Notes | Cash flow hedges | Foreign currency translation | Merger reserve | Equity compensation reserve | Special reserve | Reserve arising on Group reconstruction | Capital redemption reserve | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 January 2022 | | 18 | 17 | 483 | 87 | 115 | (685) | 1,059 | 1,094 |
+| Recognised in other comprehensive income | | | | | | | | | |
+| Fair value gains on cash flow hedges | | 85 | - | - | - | - | - | - | 85 |
+| Exchange differences on translating foreign operations | | - | 36 | - | - | - | - | - | 36 |
+| Items transferred to profit or loss | | (78) | - | - | - | - | - | - | (78) |
+| Aggregate tax effect of items recognised in other comprehensive income | | (2) | - | - | - | - | - | - | (2) |
+| Total items recognised in other comprehensive income | | 5 | 36 | - | - | - | - | - | 41 |
+| Recognised directly in equity | | | | | | | | | |
+| Share buyback | 24 | - | - | - | - | - | - | 25 | 25 |
+| Cancellation of capital redemption reserve | | - | - | - | - | - | - | (1,059) | (1,059) |
+| Reserves credit for employee share-based payments | | - | - | - | 24 | - | - | - | 24 |
+| Transfer to retained earnings for vested employee share-based payments | | - | - | - | (63) | - | - | - | (63) |
+| Transfer between reserves on disposal of subsidiaries | | - | - | (1) | - | - | - | - | (1) |
+| Transfer between reserves on impairment of subsidiaries | | - | - | (207) | - | - | - | - | (207) |
+| Other movements¹ | | - | 17 | - | - | - | - | - | 17 |
+| Total items recognised directly within equity | | - | 17 | (208) | (39) | - | - | (1,034) | (1,264) |
+| At 31 December 2022 | | 23 | 70 | 275 | 48 | 115 | (685) | 25 | (129) |
+
+1. Other movements included the transfer of (£17m) previously recognised in the foreign currency translation reserve to Retained earnings. In prior periods we had considered the functional currency of an intermediate subsidiary holding the Group's investment in HDFC Life to be US Dollars. We now consider that the functional currency should have been GBP, resulting in the transfer between reserves. Prior periods were not restated as the impact on prior periods was not considered material. There was no impact on net assets for any period presented.
+
+On 1 July 2022, the Company's capital redemption reserve at this date was cancelled in accordance with section 649 of the Companies Act 2006 resulting in a transfer of £1,059m to retained earnings.
+
+Annual report 2023 | abrdn.com | 223
+
+---
+
+# Group financial statements continued
+
+## 28. Other equity and non-controlling interests
+Perpetual subordinated notes issued by abrdn plc are classified as other equity where no contractual obligation to deliver cash exists.
+
+### (a) Other equity – perpetual subordinated notes
+**5.25% Fixed Rate Reset Perpetual Subordinated Contingent Convertible Notes**
+On 13 December 2021, the Company issued £210m of 5.25% Fixed Rate Reset Perpetual Subordinated Contingent Convertible Notes (the 'Notes'). These were classified as other equity and initially recognised at £207m (proceeds received less issuance costs of £3m).
+
+The Notes initially bear interest on their principal amount at 5.25% per annum payable semi-annually in arrears on 13 June and 13 December in each year. The interest rate is subject to reset on 13 June 2027 and then every five years thereafter. The payments of interest are discretionary and non-cumulative. The interest paid is recognised as profit attributable to other equity when paid. The profit for the year attributable to other equity was £11m (2022: £11m).
+
+The Notes have no fixed redemption date. The Company has the option to redeem the Notes (in full) between 13 December 2026 and 13 June 2027 and every five years thereafter. The Notes are convertible to ordinary shares in abrdn plc at a conversion price of £1.6275 (fixed subject to adjustment for share corporate actions e.g. share consolidations in accordance with the terms and conditions of the Notes) if the Group IFPR CET1 Ratio falls below 70%. The IFPR CET1 ratio at 31 December 2023 was 467% (2022: 408%).
+
+### (b) Non-controlling interests – ordinary shares
+Non-controlling interests – ordinary shares of £5m were held at 31 December 2023 (2022: £7m). The profit for the year attributable to non-controlling interests – ordinary shares was less than £1m (2022: £1m).
+
+## 29. Financial liabilities
+Management determines the classification of financial liabilities at initial recognition. Financial liabilities which are managed and whose performance is evaluated on a fair value basis are designated as at fair value through profit or loss. Changes in the fair value of these financial liabilities are recognised in the consolidated income statement.
+
+Derivatives are also measured at fair value. Changes in the fair value of derivatives are recognised in Net gains or losses on financial instruments and other income in the consolidated income statement except for derivative instruments that are designated as a cash flow hedge or net investment hedge. The classification of derivatives and the accounting treatment of derivatives designated as a hedging instrument are set out in Note 18.
+
+Except for contingent consideration liabilities which are measured at fair value, other financial liabilities are classified as being subsequently measured at amortised cost. Amortised cost is calculated, and the related interest expense is recognised in the consolidated income statement, using the effective interest method.
+
+All financial liabilities are initially recognised at fair value less, in the case of financial liabilities subsequently measured at amortised cost, transaction costs that are directly attributable to the issue of the liability.
+
+Where the terms of a financial liability measured at amortised cost are modified and the modification does not result in the derecognition of the liability, the liability is adjusted to the net present value of the future cash flows less transaction costs with a modification gain or loss recognised in the income statement.
+
+The methods and assumptions used to determine fair value of financial liabilities measured at fair value through profit or loss and derivatives are discussed in Note 36.
+
+The table below sets out an analysis of financial liabilities excluding unit linked financial liabilities which are set out in Note 23.
+
+| | | At fair value through profit or loss<sup>1</sup> | | At amortised cost | | Total | |
+|---|---|---|---|---|---|---|---|
+| | Notes | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m |
+| Third party interest in consolidated funds | | 187 | 242 | - | - | 187 | 242 |
+| Subordinated liabilities | 30 | - | - | 599 | 621 | 599 | 621 |
+| Derivative financial liabilities | 18 | 9 | 1 | - | - | 9 | 1 |
+| Other financial liabilities<sup>2</sup> | 32 | 129 | 143 | 1,112 | 1,058 | 1,241 | 1,201 |
+| Total | | 325 | 386 | 1,711 | 1,679 | 2,036 | 2,065 |
+
+1. All financial liabilities measured at fair value through profit or loss have been classified at FVTPL on a mandatory basis except for third party interest in consolidated funds which the Group has designated as at FVTPL.
+2. The Group has made a presentational change to show Deferred income within Other financial liabilities. Refer Note 32.
+
+224 | abrdn.com | Annual report 2023
+
+---
+
+# 30. Subordinated liabilities
+
+Subordinated liabilities are debt instruments issued by the Company which rank below its other obligations in the event of liquidation but above the share capital. Subordinated liabilities are initially recognised at the value of proceeds received after deduction of issue expenses. Subsequent measurement is at amortised cost using the effective interest rate method.
+
+|  | | 2023 | | 2022 | |
+| --- | --- | --- | --- | --- | --- |
+| | Notes | Principal amount | Carrying value | Principal amount | Carrying value |
+| Subordinated notes | | | | | |
+| 4.25% US Dollar fixed rate due 30 June 2028 | | $750m | £599m | $750m | £621m |
+| Total subordinated liabilities | 36 | | £599m | | £621m |
+
+A description of the key features of the Group's subordinated liabilities as at 31 December 2023 is as follows:
+
+| | 4.25% US Dollar fixed rate¹ |
+| --- | --- |
+| Principal amount | $750m |
+| Issue date | 18 October 2017 |
+| Maturity date | 30 June 2028 |
+| Callable at par at option of the Company from | Not applicable |
+| If not called by the Company interest will reset to | Not applicable |
+
+1. The cash flows arising from the US dollar subordinated notes give rise to foreign exchange exposure which the Group manages with a cross-currency swap designated as a cash flow hedge. Refer Note 18 for further details.
+
+The difference between the fair value and carrying value of the subordinated liabilities is presented in Note 36. A reconciliation of movements in subordinated liabilities in the year is provided in Note 37.
+
+The principal amount of the subordinated liabilities is expected to be settled after more than 12 months. The accrued interest on the subordinated liabilities of £13m (2022: £nil) is expected to be settled within 12 months.
+
+During the year ended 31 December 2022, the Group redeemed subordinated liabilities with the following key features:
+
+| | 5.5% Sterling fixed rate |
+| --- | --- |
+| Principal amount | £92m |
+| Issue date | 4 December 2012 |
+| Maturity date | 4 December 2042 |
+| Callable at par at option of the Company from | 4 December 2022 and on every interest payment date (semi-annually) thereafter |
+| If not called by the Company interest will reset to | 4.85% over the five-year gilt rate (and at each fifth anniversary) |
+
+The 5.5% Sterling fixed rate subordinated notes with a principal amount of £92m were redeemed on 4 December 2022.
+
+Annual report 2023 | abrdn.com | 225
+
+---
+
+# Group financial statements continued
+
+## 31. Pension and other post-retirement benefit provisions
+
+The Group operates two types of pension plans:
+– Defined benefit plans which provide pension payments upon retirement to members as defined by the plan rules. All of the Group's defined benefit plans, with the exception of a small plan in Ireland, are closed to future service accrual.
+– Defined contribution plans where the Group makes contributions to a member's pension plan but has no further payment obligations once the contributions have been paid.
+
+The Group's liabilities in relation to its defined benefit plans are valued by at least annual actuarial calculations. The Group has funded these liabilities in relation to its UK and Ireland defined benefit plans by ring-fencing assets in trustee-administered funds. The Group has further smaller defined benefit plans some of which are unfunded.
+
+The statement of financial position reflects a net asset or net liability for each defined benefit pension plan. The liability recognised is the present value of the defined benefit obligation (estimated future cash flows are discounted using the yields on high quality corporate bonds) less the fair value of plan assets, if any. If the fair value of the plan assets exceeds the defined benefit obligation, a pension surplus is only recognised if the Group considers that it has an unconditional right to a refund of the surplus from the plan. The amount of surplus recognised will be limited by tax and expenses. Our judgement is that, in the UK, an authorised surplus tax charge is not an income tax. Consequently, any UK surplus is recognised net of this tax charge rather than the tax charge being included within deferred taxation.
+
+For the principal defined benefit plan (abrdn UK Group plan), the Group considers that it has an unconditional right to a refund of a surplus, assuming the gradual settlement of the plan liabilities over time until all members have left the plan. The plan trustees can purchase annuities to insure member benefits and can, for the majority of benefits, transfer these annuities to members. The trustees cannot unconditionally wind up the plan or use the surplus to enhance member benefits without employer consent. Our judgement is that these trustee rights do not prevent us from recognising an unconditional right to a refund and therefore a surplus.
+
+Net interest income (if a plan is in surplus) or interest expense (if a plan is in deficit) is calculated using yields on high quality corporate bonds and recognised in the consolidated income statement. A current service cost is also recognised which represents the expected present value of the defined benefit pension entitlement earned by members in the period. A past service cost is also recognised which represents the change in the present value of the defined benefit obligation for service in prior periods, resulting from an amendment or curtailment to a plan.
+
+Remeasurements, which include gains and losses as a result of changes in actuarial assumptions, the effect of the limit on the plan surplus and returns on plan assets (other than amounts included in net interest) are recognised in other comprehensive income in the period in which they occur. Remeasurements are not reclassified to profit or loss in subsequent periods.
+
+For defined contribution plans, the Group pays contributions to separately administered pension plans. The Group has no further payment obligations once the contributions have been paid. The contributions are recognised in current service cost in the consolidated income statement as staff costs and other employee-related costs when they are due.
+
+226 | abrdn.com | Annual report 2023
+
+---
+
+# Defined contribution plans
+The defined contribution plans comprise a mixture of arrangements depending on the employing entity and other factors. Some of these plans are located within the same legal vehicles as defined benefit plans. The Group contributes a percentage of pensionable salary to each employee's plan. The contribution levels vary by employing entity and other factors.
+
+# Defined benefit plans
+## UK plans
+These plans are governed by trustee boards, which comprise employer and employee nominated trustees and an independent trustee. The plans are subject to the statutory funding objective requirements of the Pensions Act 2004, which require that plans be funded to at least the level of their technical provisions (an actuarial estimate of the assets needed to provide for benefits already built-up under the plan). The trustees perform regular valuations to check that the plans meet the statutory funding objective.
+
+While the IAS 19 valuation reflects a best estimate of the financial position of the plan, the funding valuation reflects a prudent estimate. There is no material difference in how assets are measured. The funding measure of liabilities (technical provisions) and the IAS 19 measure are materially different. The key differences are the discount rate and inflation assumptions. While IAS 19 requires that the discount rate reflect corporate bond yields, the funding measure discount rate reflects a prudent estimate of future investment return based on the actual investment strategy. The funding valuation adopts a market consistent measure of inflation without any adjustment. The IAS 19 RPI inflation assumption is derived from market-implied RPI inflation with an adjustment to remove the inflation risk premium believed to exist within market prices, with an additional deduction required to derive the IAS 19 CPI inflation assumption (to reflect differences between RPI and CPI).
+
+The trustees set the plan investment strategy to protect the ratio of plan assets to the trustees' measure of the value of assets needed to meet the trustees' objectives. This investment strategy does not aim to protect the IAS 19 surplus or the ratio of plan assets to the IAS 19 measure of liabilities.
+
+After consulting the relevant employers, the trustees prepare statements of funding and investment principles and set a schedule of contributions. If necessary, this schedule includes a recovery plan that aims to restore the funding level to the level of the technical provisions.
+
+| Plan | Description |
+|------|-------------|
+| **abrdn UK Group (SLSPS) plan (principal plan)** | This is the Group's principal defined benefit plan. The plan closed to new membership in 2004 and changed from a final salary basis to a revalued career average salary basis in 2008. Accrual ceased in April 2016.<br><br>Following a High Court ruling against a third party's pension scheme in 2018, that required pension schemes to address inequalities for the effect of unequal GMPs accrued between May 1990 and April 1997, an allowance for assumed equalisation was recognised as a past service cost for our principal defined benefit plan in 2018 and this adjustment has been carried forward to 2023. There was a further judgement in 2020 requiring pension schemes to address inequalities for the effect of unequal GMPs for those beneficiaries that transferred out of the scheme between May 1990 and October 2018. The estimated impact is immaterial and was recognised as a past service cost in 2020 and this adjustment has been carried forward to 2023.<br><br>The funding of the plan depends on the statutory valuation performed by the trustee, and the relevant employers, with the assistance of the scheme actuary – i.e. not the IAS 19 valuation. The funding valuation was last completed at 31 December 2022, and measured plan assets and liabilities to be £3.0bn and £2.1bn respectively. This corresponds to a surplus of £0.9bn and a funding level of 144%. As there is currently no deficit, no recovery plan is required.<br><br>As part of ongoing actions taken in recent years to reduce risk in abrdn's principal defined benefit pension plan, the trustee submitted a petition to the Court of Session in March 2023 seeking a direction on the destination of any residual surplus assets that remain after all plan-related obligations are settled or otherwise provided for. On 1 August 2023, the Court of Session, among other things, confirmed that if a buy-out were to be completed and sufficient provision made for: (i) any remaining liabilities; and (ii) expenses of completing the winding-up of the pension scheme, there would be a resulting trust in respect of any residual surplus assets in favour of the employer. We are continuing to work with the trustee on next steps. Any residual surplus will be determined on a different basis to IAS 19 or funding measures of the plan surplus. The timing of release of any surplus remains a matter for the trustee. The IAS 19 defined benefit plan asset is not included in abrdn's regulatory capital. |
+| **Other UK plans** | The Group also operates two UK defined benefit plans as a result of the acquisition of Aberdeen Asset Management PLC (now renamed abrdn Holdings Limited) in 2017. These plans are final salary based, with benefits depending on members' length of service and salary prior to retirement. At the last statutory valuation date (30 June 2022), one plan, the Edinburgh Fund Managers Group Scheme (the EFM Scheme) was in deficit and the Group agreed funding plans with the plan's trustees which aimed to eliminate the deficit. The other plan, the Murray Johnstone Limited Retirement Benefits Plan (the MJ Plan), was in surplus. Refer Section 31(d) for details of the buy-in undertaken on the MJ Plan in 2023. |
+
+## Other plans
+| Plan | Description |
+|------|-------------|
+| **abrdn ROI plan** | In December 2009, this plan closed to new membership and changed from a final salary basis to a career average revalued earnings (CARE) basis. Following the sale of the UK and European insurance business in 2018, there remain two employees who continue to accrue benefits under this plan.<br><br>At the last funding valuation, effective 1 January 2022, the plan was in deficit and as above, the Group agreed funding plans with the plan's trustees which aimed to eliminate the deficit. |
+| **Other** | The Group operates smaller funded and unfunded defined benefit plans in other countries. |
+
+Annual report 2023 | abrdn.com | 227
+
+Markdown version of document completed.
+
+---
+
+# Group financial statements continued
+
+## Plan regulations
+The plans are administered according to local laws and regulations in each country. Responsibility for the governance of the plans rests with the relevant trustee boards (or equivalent). The UK pensions market is regulated by the Pensions Regulator whose statutory objectives and regulatory powers are described on its website, www.thepensionsregulator.gov.uk
+
+## (a) Analysis of amounts recognised in the consolidated income statement
+The amounts recognised in the consolidated income statement for defined contribution and defined benefit plans are as follows:
+
+|  | 2023 | 2022 |
+| --- | --- | --- |
+|  | £m | £m |
+| Current service cost | 55 | 56 |
+| Past service cost | (5) | – |
+| Net interest income | (38) | (32) |
+| Administrative expenses | 4 | 3 |
+| Expense recognised in the consolidated income statement | 16 | 27 |
+
+Contributions made to defined contribution plans are included within current service cost.
+
+Contributions to defined benefit plans in the year ended 31 December 2023 comprised £8m (2022: £14m) to the Other UK plans and the abrdn ROI plan. Contributions are expected to be £5m in 2024 and are not expected to materially change in the two subsequent years. These contributions include a mixture of deficit funding and funding to achieve a targeted level of overall financial strength.
+
+## (b) Analysis of amounts recognised in the consolidated statement of financial position
+
+|  | 2023 |  |  | 2022 |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Principal plan | Other | Total | Principal plan | Other | Total |
+|  | £m | £m | £m | £m | £m | £m |
+| Present value of funded obligation | (1,784) | (234) | (2,018) | (1,755) | (228) | (1,983) |
+| Present value of unfunded obligation | – | (2) | (2) | – | (3) | (3) |
+| Fair value of plan assets | 2,912 | 233 | 3,145 | 3,001 | 251 | 3,252 |
+| Net asset/(liability) before the limit on plan surplus | 1,128 | (3) | 1,125 | 1,246 | 20 | 1,266 |
+| Effect of limit on plan surplus¹,² | (394) | (3) | (397) | (436) | (11) | (447) |
+| Net asset/(liability) | 734 | (6) | 728 | 810 | 9 | 819 |
+
+1. UK recoverable surpluses are reduced to reflect an authorised surplus payments charge of 35% that would arise on a refund. This applies to both the principal plan surplus and the defined benefit plan within Other which has a net asset of £6m at 31 December 2023 (2022: £21m).
+2. The UK Government announced in the Autumn Statement a proposed reduction in the authorised pension surplus charge from 35% to 25% to be effective from 6 April 2024. This change has not yet been enacted. The impact of the change would have been to increase the pension asset by £113m.
+
+Other comprises a defined benefit plan asset of £6m (2022: £21m) and a number of other defined benefit plans with a total liability of £12m (2022: £12m).
+
+A pension plan surplus is considered to be recoverable where an unconditional right to a refund exists. The principal plan surplus had reduced significantly in 2022 due to market movements, primarily driven by the increase in UK high quality bond yields with a smaller impact from UK inflation changes during 2022. There was further impact from these in 2023 but this was less significant.
+
+228 | abrdn.com | Annual report 2023
+
+---
+
+# (c) Movement in the net defined benefit asset
+
+| | Present value of obligation | | Fair value of plan assets | | Net asset/(liability) before the limit on plan surplus | | Effect of limit on plan surpluses | | Net asset/(liability) | |
+|---|---|---|---|---|---|---|---|---|---|---|
+| | 2023 | 2022 | 2023 | 2022 | 2023 | 2022 | 2023 | 2022 | 2023 | 2022 |
+| | £m | £m | £m | £m | £m | £m | £m | £m | £m | £m |
+| At 1 January | (1,986) | (3,252) | 3,252 | 5,686 | 1,266 | 2,434 | (447) | (865) | 819 | 1,569 |
+| **Total expense** | | | | | | | | | | |
+| Current service cost | – | – | – | – | – | – | – | – | – | – |
+| Past service cost | 5 | – | – | – | 5 | – | – | – | 5 | – |
+| Interest (expense)/income | (88) | (65) | 146 | 115 | 58 | 50 | (20) | (18) | 38 | 32 |
+| Administrative expenses | (4) | (3) | – | – | (4) | (3) | – | – | (4) | (3) |
+| Total (expense)/income recognised in consolidated income statement | (87) | (68) | 146 | 115 | 59 | 47 | (20) | (18) | 39 | 29 |
+| **Remeasurements** | | | | | | | | | | |
+| Return on plan assets, excluding amounts included in interest income | – | – | (186) | (2,473) | (186) | (2,473) | – | – | (186) | (2,473) |
+| Gain from change in demographic assumptions | 31 | 5 | – | – | 31 | 5 | – | – | 31 | 5 |
+| (Loss)/gain from change in financial assumptions | (56) | 1,450 | – | – | (56) | 1,450 | – | – | (56) | 1,450 |
+| Experience gains/(losses) | 2 | (211) | – | – | 2 | (211) | – | – | 2 | (211) |
+| Change in effect of limit on plan surplus | – | – | – | – | – | – | 70 | 436 | 70 | 436 |
+| Remeasurement (losses)/gains recognised in other comprehensive income | (23) | 1,244 | (186) | (2,473) | (209) | (1,229) | 70 | 436 | (139) | (793) |
+| Exchange differences | 4 | (6) | (4) | 5 | – | (1) | – | – | – | (1) |
+| Employer contributions | – | – | 8 | 14 | 8 | 14 | – | – | 8 | 14 |
+| Benefit payments | 72 | 96 | (71) | (95) | 1 | 1 | – | – | 1 | 1 |
+| At 31 December | (2,020) | (1,986) | 3,145 | 3,252 | 1,125 | 1,266 | (397) | (447) | 728 | 819 |
+
+Annual report 2023 | abrdn.com | 229
+
+---
+
+# Group financial statements continued
+
+## (d) Defined benefit plan assets
+
+Investment strategy is directed by the trustee boards (where relevant) who pursue different strategies according to the characteristics and maturity profile of each plan's liabilities. Assets and liabilities are managed holistically to create a portfolio with the dual objectives of return generation and liability management. In the principal plan this is achieved through a diversified multi-asset absolute return strategy seeking consistent positive returns, and hedging techniques which protect liabilities against movements arising from changes in interest rates and inflation expectations. Derivative financial instruments support both of these objectives and may lead to increased or decreased exposures to the physical asset categories disclosed below.
+
+To provide more information on the approach used to determine and measure the fair value of the plan assets, the fair value hierarchy has been used as defined in Note 36. Those assets which cannot be classified as level 1 have been presented together as level 2 or 3.
+
+The distribution of the fair value of the assets of the Group's funded defined benefit plans is as follows:
+
+| | Principal plan | | Other | | Total | |
 |---|---|---|---|---|---|---|
-| | | | Carrying amount | Fair value | Carrying amount | Fair value |
-| **Assets** | | | | | | |
-| Shares in non‑consolidated companies | Financial assets at fair value through profit or loss | | 16 | 16 | 21 | 21 |
-| | Financial assets at fair value through other comprehensive income | | 3 | 3 | 3 | 3 |
-| Other non‑current financial assets | Loans and receivables | | 96 | 96 | 95 | 95 |
-| Commercial receivables | | | | | | |
-| Contract assets | Loans and receivables | | 194 | 194 | 187 | 187 |
-| Trade receivables | Loans and receivables | | 1,197 | 1,197 | 856 | 856 |
-| Derivatives⁽ᵃ⁾ | Financial assets at fair value through profit or loss | Foreign exchange: 2 | 72 | 72 | 91 | 91 |
-| | | Metal: 1 | 14 | 14 | 13 | 13 |
-| Other current financial assets | Loans and receivables | | 144 | 144 | 175 | 175 |
-| Cash and cash equivalents | Financial assets at fair value through profit or loss | Term deposits: 2 | 52 | 1,254 | 75 | 1,131 |
-| | | Other: 1 | 1,202 | | 1,056 | |
-| **Liabilities** | | | | | | |
-| Gross debt | | | | | | |
-| Ordinary bonds⁽ᵇ⁾ | Financial liabilities at amortized cost | | 1,359 | 1,044 | 618 | 642 |
-| European Investment Bank loan⁽ᵇ⁾ | Financial liabilities at amortized cost | | 200 | 200 | 200 | 200 |
-| Other financial liabilities | Financial liabilities at amortized cost | | 203 | 203 | 395 | 395 |
-| Commercial payables | | | | | | |
-| Contract liabilities | Financial liabilities at amortized cost | | 1,004 | 1,004 | 738 | 738 |
-| Trade payables | Financial liabilities at amortized cost | | 1,622 | 1,622 | 1,601 | 1,601 |
-| Derivatives⁽ᵃ⁾ | Financial liabilities at fair value through profit or loss | Foreign exchange: 2 | 151 | 151 | 81 | 81 |
-| | | Metal: 1 | 21 | 21 | 12 | 12 |
-| Other current financial liabilities | Financial liabilities at amortized cost | | 432 | 432 | 412 | 412 |
+| | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m |
+| **Assets measured at fair value based on level 1 inputs** | | | | | | |
+| Derivatives | - | 9 | - | - | - | 9 |
+| Equity securities | - | 55 | - | - | - | 55 |
+| Debt securities | 1,403 | 2,186 | - | 93 | 1,403 | 2,279 |
+| **Total assets measured at fair value based on level 1 inputs** | 1,403 | 2,250 | - | 93 | 1,403 | 2,343 |
+| **Assets measured at fair value based on level 2 or 3 inputs** | | | | | | |
+| Derivatives | (3) | (7) | (2) | (3) | (5) | (10) |
+| Equity securities | 44 | 55 | - | - | 44 | 55 |
+| **Interests in pooled investment funds** | | | | | | |
+| Debt | 286 | 284 | 19 | 16 | 305 | 300 |
+| Equity | - | - | 7 | 6 | 7 | 6 |
+| Multi-asset private markets | 230 | 224 | - | - | 230 | 224 |
+| Property | 82 | 95 | 11 | 12 | 93 | 107 |
+| Absolute return | - | - | 9 | 24 | 9 | 24 |
+| Cash | 9 | 39 | 73 | 41 | 82 | 80 |
+| Debt securities | 1,110 | 581 | 2 | 12 | 1,112 | 593 |
+| Qualifying insurance policies | 2 | 2 | 125 | 45 | 127 | 47 |
+| **Total assets measured at fair value based on level 2 or 3 inputs** | 1,760 | 1,273 | 244 | 153 | 2,004 | 1,426 |
+| Cash and cash equivalents | 103 | 160 | 4 | 5 | 107 | 165 |
+| Liability in respect of collateral held | (354) | (682) | (15) | - | (369) | (682) |
+| **Total** | 2,912 | 3,001 | 233 | 251 | 3,145 | 3,252 |
 
-(a) Derivative instruments designated as cash flow hedges are carried at fair value through other comprehensive income. Any gains or losses previously recognized in equity are reclassified to the income statement in the period in which the hedged item impacts income.
-(b) Including short-term accrued interest (see Note 24.C).
+Further information on risks is provided at Section (g) of this Note. The £2,515m (2022: £2,872m) of debt securities includes £1,608m (2022: £2,550m) of government bonds (including conventional and index-linked). Of the remaining £907m (2022: £322m) debt securities, £815m (2022: £190m) are investment grade corporate bonds or certificates of deposit.
 
-The Group's fixed‑rate debt mainly consists of the 2028, 2029 and 2030 bonds, as well as the loan taken out with the European Investment Bank. Their fair value may differ from the carrying amount due to the use of the amortized cost method.
+Included in the qualifying insurance policy asset of £127m (2022: £47m) is £121m (2022: £42m) in relation to two insurance policies purchased by the trustees of Other UK defined benefit plans to protect the plans against future investment and actuarial risks.
 
-The fair value of the 2028, 2029 and 2030 ordinary bonds was calculated based on a bank valuation provided at December 31, 2024 and included the interest accrued at the year‑end. The same method was used at December 31, 2023.
+- £43m (2022: £42m) in relation to the partial buy-in completed on the EFM Scheme in 2015.
+- £78m (2022: £nil) in relation to the substantially full buy-in completed on the MJ Plan in 2023. The premium paid was £99m.
 
-NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024    54
+The MJ Plan buy-in is not considered to be a settlement therefore, as noted above, the insurance policy has been recognised within the plan assets. The buy-in transaction was an investment decision made by the trustee to increase the security of plan benefits. The insurance policy does provide the option to convert the buy-in into individual policies which would transfer the future obligation to pay pensions to the insurer for the members covered by the policy (known as a buy-out). However, this obligation remains with the Group and while the conversion to a buy-out may be considered in the future, a separate decision will be required, and certain conditions will need to be met, including changes to the MJ Plan's trust deed and rules, before any buy-out can be executed. Consequently the difference between the valuation of the policy and the premium paid has been recognised within Remeasurement (losses)/gains recognised in other comprehensive income.
 
----
-
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## 05 Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-## Note 31. Related party transactions
-
-Related party transactions primarily concern commercial and financial transactions carried out with the Quiñenco Group – Nexans' principal shareholder – as well as with associates, non-consolidated companies, and directors and key management personnel (whose total compensation is presented in a specific table, see Note 31.C).
-
-### A. Related party transactions with associates and non-consolidated companies
-
-**INCOME STATEMENT**
-
-*in millions of euros*
-
-| REVENUE | 2024 | 2023 |
-|:--------|-----:|-----:|
-| • Non-consolidated companies | 37 | 30 |
-| • Associates | 0 | 1 |
-
-| COST OF SALES | 2024 | 2023 |
-|:--------------|-----:|-----:|
-| • Non-consolidated companies | (10) | (12) |
-| • Associates | (2) | (2) |
-
-**BALANCE SHEET**
-
-The main items in the balance sheet concerned were as follows:
-
-*At December 31, in millions of euros*
-
-| ASSETS | 2024 | 2023 |
-|:-------|-----:|-----:|
-| • Non-consolidated companies | 3 | 3 |
-| • Associates | 0 | 0 |
-
-| FINANCIAL LIABILITIES/(RECEIVABLES) | 2024 | 2023 |
-|:-----------------------------------|-----:|-----:|
-| • Non-consolidated companies | (17) | (14) |
-| • Associates | - | - |
-
-| OTHER LIABILITIES | 2024 | 2023 |
-|:-----------------|-----:|-----:|
-| • Non-consolidated companies | 1 | 1 |
-| • Associates | 1 | 0 |
-
-### B. Relations with the Quiñenco Group
-
-At December 31, 2024, the Quiñenco group held approximately 29% of the Company's capital stock through two subsidiaries: Invexans Limited (UK) and Tech Pack (Chile). The Quiñenco group has given the Company a long-term undertaking that it would not request representation on the Board in excess of three non-independent members in a Board of 14 members or if the Board were to be enlarged, in excess of a number of directors proportionate to its shareholding.
-
-At December 31, 2024, the main contractual relations between Nexans and the Quiñenco group concerned agreements related to the contract dated February 21, 2008, for the acquisition of the Quiñenco group's cable business as amended by an addendum signed on September 30, 2008.
-
-The impact of the commercial agreements with the Quiñenco group on the income statement and balance sheet is included in the tables set out in **Note 31.A** above, on the line "Associates".
-
-### C. Compensation of key management personnel
-
-In 2024, as in 2023, key management personnel corresponds to the corporate officers and the members of the Executive Committee.
-
-## 55 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+230 | abrdn.com | Annual report 2023
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+On completion of the MJ Plan buy-in, a contract in place to hedge longevity risk for pensioners on this plan was derecognised. The fair value of this derivative at 31 December 2022 was a liability of £1m.
 
-Consolidated financial statements
+The £369m liability in respect of collateral held (2022: £682m) consists of repurchase agreements of £353m (2022: £652m), margins on derivatives of (£8m) (2022: (£10m)) and collateral of £24m (2022: £40m).
 
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
+(e) Estimates and assumptions
+Determination of the valuation of principal plan liabilities is a key estimate as a result of the assumptions made relating to both economic and non-economic factors.
 
-## TOTAL COMPENSATION
+The key economic assumptions for the principal plan, which are based in part on current market conditions, are shown below:
 
-Total compensation paid to the Group's Key Management Personnel can be analyzed as follows:
+|  | 2023 | 2022 |
+| --- | --- | --- |
+| Discount rate | 4.60 | 4.85 |
+| Rates of inflation |  |  |
+| Consumer Price Index (CPI) | 2.65 | 2.75 |
+| Retail Price Index (RPI) | 3.00 | 3.10 |
 
-| in millions of euros | 2024 | 2023 |
-| :--- | ---: | ---: |
-| Compensation for corporate officer positions⁽ᵃ⁾ | 3.2 | 2.7 |
-| Compensation under employment contracts and benefits in kind⁽ᵃ⁾ | 10.5 | 8.3 |
-| Performance shares⁽ᵇ⁾ | 5.1 | 4.1 |
-| Termination benefits⁽ᵃ⁾ | - | - |
-| Long-term incentive plan⁽ᵇ⁾ | 0.2 | 0.2 |
-| Accruals for pensions and other retirement benefit obligations⁽ᶜ⁾ | 1.1 | 1.1 |
-| **TOTAL COMPENSATION** | **20.2** | **16.4** |
+The changes in economic assumptions over the period reflect changes in both corporate bond prices and market implied inflation. The underlying methodology used to set these assumptions has not changed over the reporting period. The population of corporate bond prices excludes bonds issued by UK universities. The inflation assumption reflects the future reform of RPI effective from 2030 as described in Section (g)(i) below.
 
-(a) Amounts paid during the year, including payroll taxes.
-(b) Amounts expensed in the income statement during the year.
-(c) Payments related to supplementary defined contribution pension plans.
+The most significant non-economic assumption for the principal plan is post-retirement longevity which is inherently uncertain. These non-economic assumptions have been updated for the current reporting date. The longevity assumptions (along with sample expectations of life) are illustrated below:
 
-## COMMITMENTS GIVEN TO THE CHIEF EXECUTIVE
+| 2023 Table | Improvements | Normal Retirement Age (NRA) | Expectation of life from NRA |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | Male age today | Female age today |
+|  |  |  | NRA | 40 | NRA | 40 |
+| Plan specific basis (calibrated by Club Vita) reflecting membership demographics | Core parameterisation of the CMI 2021 mortality improvements model (SK parameter of 7.0), with an initial improvement (or 'A') parameter of +0.5% for males and females, and a long-term rate of improvement of 1.5%. | 60 | 27 | 28 | 29 | 31 |
 
-All of the commitments given to Christopher Guérin in his capacity as Chief Executive Officer (CEO) are described in detail each year in the Universal Registration Document (section entitled "Commitments given to the Chief Executive Officer (CEO)").
+| 2022 Table | Improvements | Normal Retirement Age (NRA) | Expectation of life from NRA |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | Male age today | Female age today |
+|  |  |  | NRA | 40 | NRA | 40 |
+| Plan specific basis (calibrated by Club Vita) reflecting membership demographics | Core parameterisation of the CMI 2019 mortality improvements model (SK parameter of 7.0), with an initial improvement (or 'A') parameter of +0.5% for males and females, and a long-term rate of improvement of 1.5%. | 60 | 27 | 29 | 29 | 31 |
 
-As Chief Executive Officer (CEO), Christopher Guérin has received the following commitments from the Company, which were decided at the Board meeting and approved yearly at the Shareholders' Meeting:
+These assumptions reflect a cautious allowance for the recently observed slowdown in longevity improvements. The updated mortality improvement assumptions are in line with CMI 2021 but with a 10% weighting on 2020 and 2021 data. This makes some allowance for recent post-pandemic experience whilst recognising that greater stability in recent 2022 mortality experience may be indicative of expected future trends.
 
-* If Christopher Guérin is removed from his position as Chief Executive Officer (CEO), he will be entitled to payment of a termination indemnity representing two years' worth of his total fixed and variable compensation. This indemnity will be subject to actual performance in relation to the objectives applicable to his target annual variable compensation being at least equal to 80% of said objectives on average over the three years preceding his removal. This indemnity will be payable only in the event of a forced departure due to a change of control or strategy, which will be deemed to be the case unless specifically decided otherwise by the Board of Directors, notably in the event of serious misconduct.
+Annual report 2023 | abrdn.com | 231
 
-* As compensation for an undertaking not to exercise any business that would compete either directly or indirectly with any of the Company's businesses for a period of two years from the end of his term of office as Chief Executive Officer (CEO), Christopher Guérin will receive a non-compete indemnity, regardless of the cause of termination of his duties. Said indemnity will be paid in 24 equal and successive monthly installments and will equal one year of his fixed and variable compensation, i.e., 12 times the amount of his most recent monthly compensation (fixed portion) plus the corresponding percentage of his bonus. The Board could decide to impose a non-competition obligation on the Chief Executive Officer (CEO) for a period shorter than two years. In such a case, the non-competition indemnity would be reduced pro rata temporis.
+# Group financial statements continued 
 
-In accordance with Article 25.3 of the Afep-Medef Code (December 2022 version), in the event of Christopher Guérin's departure the Board of Directors will decide whether or not the non-compete agreement entered into with him will apply and will be entitled to cancel it (in which case no non-compete indemnity will be payable).
+## (f) Duration of defined benefit obligation
+The graph below provides an illustration of the undiscounted expected benefit payments included in the valuation of the principal plan obligations.
 
-In addition, in accordance with Article 24.4 of the Afep-Medef Code, no non-compete indemnity will be due if Christopher Guérin takes retirement upon leaving the Group. In any event, no indemnity shall be paid beyond the age of 65.
+### Undiscounted benefit payments (£m)
 
-Lastly, in accordance with the compensation policy for corporate officers described in Section 4 of this Document, all severance benefits (termination benefits and non-compete benefits) may not exceed two years' worth of actual compensation (fixed and variable).
+[IMAGE_DESCRIPTION:
+Type: Bar chart/graph
+Location: Middle of document
+Content: A bar chart showing undiscounted benefit payments (£m) from 2024 to 2120. The chart shows a distribution with payments peaking around 2040-2050 at approximately 120£m, then gradually declining to near zero by 2090. The bars are split into two segments - darker portion at bottom representing "Current pensioner" payments and lighter/striped portion above representing "Non-current pensioner" payments.
+Text Elements: X-axis shows years from 2024 to 2120 in 10-year intervals. Y-axis shows values from 0 to 140£m.
+Colors & Style: Gray-scale with different shading patterns for current and non-current pensioners
+Purpose: To illustrate the timeline and amount of expected benefit payments
+Data Visualization: Shows how benefit payments are projected to distribute over time, with a legend indicating "Current pensioner" (dark circles) and "Non-current pensioner" (gray circles)
+]
 
-If Christopher Guérin retired, he would be entitled to benefits under the supplementary defined contribution pension plan set up by the Group in 2019 for certain employees and corporate officers. The annual contribution paid by the Company corresponds to 20% of the Chief Executive Officer's total actual annual compensation (fixed plus variable), i.e., 300,000 euros in 2024.
+| Weighted average duration | 2023 years | 2022 years |
+|---------------------------|------------|------------|
+| Current pensioner         | 11         | 11         |
+| Non-current pensioner     | 22         | 22         |
 
-## Note 32 - Disputes and contingent liabilities
+The weighted average duration is calculated based on discounted benefit payments so is impacted by changes in the discount and inflation rates used (Refer Section (e)).
 
-### A. Antitrust investigations
+## (g) Risk
+### (g)(i) Risks and mitigating actions
+The Group's consolidated statement of financial position is exposed to movements in the defined benefit plans' net asset. In particular, the consolidated statement of financial position could be materially sensitive to reasonably likely movements in the principal assumptions for the principal plan. By having offered post-retirement defined benefit pension plans the Group is exposed to a number of risks. An explanation of the key risks and mitigating actions in place for the principal plan is given below.
 
-In January 2009, antitrust investigations were launched in several countries against various cable manufacturers including Group companies in relation to alleged anticompetitive behavior in the submarine and underground high-voltage power cables sector.
+#### Asset volatility
+Investment strategy risks include underperformance of the absolute return strategy and underperformance of the liability hedging strategy. As the trustees set investment strategy to protect their own view of plan strength (not the IAS 19 position), changes in the IAS 19 liabilities (e.g. due to movements in corporate bond prices) may not always result in a similar movement in plan assets.
 
-On April 7, 2014, Nexans France SAS and the Company were notified of the European Commission's decision (EC Decision), which found that Nexans France SAS had participated directly in an infringement of European antitrust legislation in the submarine and underground high-voltage power cable sector. The Company was held jointly liable for the payment of a portion of the fine imposed on Nexans France SAS by the European Commission.
+Failure of the asset strategy to keep pace with changes in plan liabilities would expose the plan to the risk of a deficit developing, which could increase funding requirements for the Group. abrdn and the trustees are working together to determine the most appropriate de-risking strategy to best protect against the risk that this plan strength deteriorates in the future.
 
-In early July 2014, Nexans France SAS paid 70.6 million euro fine imposed on it by the European Commission.
+#### Yields/discount rate
+Falls in yields would in isolation be expected to increase the defined benefit plan liabilities.
 
----
+The principal plan uses both bonds and derivatives to hedge out yield risks on the relevant plan basis in order to meet the trustee's objectives, rather than the IAS 19 basis, which is expected to minimise the plan's need to rely on support from the Group.
 
-# NEXANS 2024 FINANCIAL STATEMENTS
-
-## Consolidated financial statements
-
-*The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.*
-
-Subsequently, certain Group entities have received claims from customers filed before the courts in the United Kingdom, the Netherlands, Germany and Italy against Nexans and other defendants relating to the EC Decision.
-
-In the United Kingdom, National Grid, Scottish Power and Vattenfall brought proceedings against Prysmian. Contribution claims were brought by Prysmian against the Company in these cases. Prysmian have now reached a settlement with each of these claimants. The contribution claims in respect of these claims are still pending but are not currently being pursued.
-
-In May 2019, an application for a collective proceedings order was lodged in the UK before the Competition Appeal Tribunal (CAT) by Ms Spottiswoode CBE seeking authorization to bring an action for damages on behalf of certain individuals against Nexans, Prysmian and NKT based on the EC Decision. Ms Spottiswoode claim was certified by the CAT (subject to various conditions) in May 2022 on an "opt-out" basis. She has secured financing from a professional third-party litigation funder. As part of its assessment the CAT will scrutinize the funding agreement to determine inter alia whether the proposed defendants costs would be sufficiently covered in the event that the claimant is unsuccessful in the claim. The Company is defending the claim and a hearing on one aspect of the claim is to be heard in April 2024.
-
-In July 2022, London Array Limited and others commenced a claim in the CAT against Nexans France SAS and the Company in relation to the EC Decision. Nexans France SAS and the Company are defending the claim, which is scheduled for trial in April-May 2024.
-
-In April 2019, Terna S.p.A. launched an antitrust damages claim against Nexans Italia before the Court of Milan based on the EC Decision. Nexans Italia filed a defense in October 2019 focusing on Nexans Italia's lack of standing to be sued. Nexans is defending the claim and a final outcome is not expected before the end of 2024 or 2025.
-
-In April 2019, a claim in Netherlands was made jointly by Electricity & Water Authority of Bahrain, Gulf Cooperation Council Interconnection Authority, Kuwait Ministry of Electricity and Water and Oman Electricity Transmission Company against certain companies of the Prysmian Group and its former shareholders, and companies in the Nexans Group and ABB Group.
-
-This action has been brought before the Court of Amsterdam. In December 2019, Nexans and other defendants filed a motion contesting jurisdiction, in which the defendants were successful. The court issued its judgment in November 2020, declaring itself incompetent with regard to the claims against the non-Dutch defendants, including the non-Dutch subsidiaries of the Company. The court also ordered the claimants to pay the costs of the proceedings. The claimants appealed this ruling and the matter has since been referred to the European Court of Justice (ECJ) for a ruling. A hearing before the ECJ was held in January 2024 and the judgment is awaited.
-
-In November 2017, in Spain, Nexans Iberia and the Company (in its capacity as Nexans Iberia's parent company) were notified of a decision by the Spanish competition authority ("CNMC") which found that Nexans Iberia had participated directly in an infringement of Spanish competition laws in the low and medium voltage cable sectors. The Company was held jointly liable for the payment of part of the fine levied on Nexans Iberia by the CNMC. In January 2018, Nexans Iberia settled the 1.3 million euro fine levied by the CNMC. Nexans Iberia and the Company have appealed the CNMC's decision.
-
-In July 2020 one claim was filed by Iberdrola, followed by four other Spanish claimants in 2022. All claims against Nexans Iberia are based on the CNMC decision in the low/medium voltage case. Nexans is defending these cases.
-
-In January and May 2016, the German Federal Cartel Office (FCO) carried out searches at three of Nexans's sites in Germany. These searches are part of an investigation into cable manufacturers concerning alleged coordination of industry-standard metal surcharges in Germany. The FCO also conducted inspections at the premises of other companies in Germany. Nexans successfully challenged the validity of the search. However, the investigation is ongoing and in February, and July 2018, the FCO carried out searches at other sites in Germany and in France.
-
-In October 2020, Saudi Electricity Company (SEC) brought a claim in Germany against Nexans S.A. and other companies including NKT and Prysmian based on the EC Decision. Nexans did not supply any power cables to SEC and is defending the claim, and in June 2024 succeeded in asking the court to require SEC to provide substantial security if it wished to continue its claim.
-
-An investigation in Brazil by the General Superintendence of the antitrust authority "CADE" in the high-voltage power cable sector was concluded in February 2015. In April 2020, the Administrative Tribunal of CADE fined the Company, together with other cable manufacturers. The Company has paid the 1 million euro (BRL equivalent) fine but has appealed the decision. The case is ongoing.
-
-57    NEXANS    UNIVERSAL REGISTRATION DOCUMENT 2024
+232 | abrdn.com | Annual report 2023
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+# Inflation
 
-## 05. Consolidated financial statements
+Increases in inflation expectations would in isolation be expected to increase the defined benefit plan liabilities.
 
-The audit procedures were carried out and the Statutory Auditors' report is being issued at the date of the publication.
+The principal plan uses both bonds and derivatives to hedge out inflation risks on the relevant plan basis in order to meet the objectives, rather than the IAS 19 basis, which is expected to minimise the plan's need to rely on support from the Group.
 
-| Companies by geographical area | % control | % interest | Consolidation method(a) |
-|:---------------------------|:--------:|:--------:|:------------------:|
-| **NORTHERN EUROPE** |  |  |  |
-| Nexans Benelux S.A. | 100.00% | 100.00% |  |
-| Nexans Network Solutions NV | 100.00% | 100.00% |  |
-| Nexans Services | 100.00% | 100.00% |  |
-| Nexans Deutschland GmbH | 100.00% | 100.00% |  |
-| Metrofunkkabel Union GmbH | 100.00% | 100.00% |  |
-| Nexans Auto Electric GmbH(d) | 100.00% | 100.00% |  |
-| Nexans Power Accessories Deutschland GmbH | 100.00% | 100.00% |  |
-| Nexans Industrial Solutions GmbH | 100.00% | 100.00% |  |
-| Nexans Nederland BV | 100.00% | 100.00% |  |
-| Nexans Norway A/S | 100.00% | 100.00% |  |
-| Nexans Subsea Operations | 100.00% | 100.00% |  |
-| Nexans Skagerrak | 100.00% | 100.00% |  |
-| Nexans Marine Operations | 100.00% | 100.00% |  |
-| Nexans Vessel Management | 100.00% | 100.00% |  |
-| Nexans Suisse S.A. | 100.00% | 100.00% |  |
-| Nexans Re(e) | 100.00% | 100.00% |  |
-| Nexans Logistics Ltd | 100.00% | 100.00% |  |
-| Nexans UK Ltd | 100.00% | 100.00% |  |
-| Nexans Sweden AB | 100.00% | 100.00% |  |
-| REKA Cables | 100.00% | 100.00% |  |
-| Nexans Finland Holding | 100.00% | 100.00% |  |
-| Nexans Industry Solutions(f) | 100.00% | 100.00% |  |
-| **SOUTHERN AND EASTERN EUROPE** |  |  |  |
-| Nexans Iberia SL | 100.00% | 100.00% |  |
-| Nexans Industrial Solutions Iberia | 100.00% | 100.00% |  |
-| Takami | 100.00% | 100.00% |  |
-| Nexans Italia SpA | 100.00% | 100.00% |  |
-| Gruppo LTC S.p.A. | 100.00% | 100.00% |  |
-| La Triveneta Cavi S.p.A. | 100.00% | 100.00% |  |
-| Veneta Trafili S.p.A. | 100.00% | 100.00% |  |
-| Nexans Partecipazioni Italia Srl | 100.00% | 100.00% |  |
-| Nexans Intercablo SpA | 100.00% | 100.00% |  |
-| Nexans Hellas S.A. | 100.00% | 100.00% |  |
-| Nexans Power Accessories Czech Republic | 100.00% | 100.00% |  |
-| Nexans Turkiye Endustri Ve Ticaret AS | 100.00% | 100.00% |  |
+In the principal plan, pensions in payment are generally linked to CPI, however inflationary risks are hedged using RPI instruments due to lack of availability of CPI linked instruments. Therefore, the plan is exposed to movements in the actual and expected long-term gap between RPI and CPI.
 
-61 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+A House of Lords report in 2019 raised the potential for changes to the RPI measure of inflation, which was followed by recommendations from the UK Statistics Authority. The results of the consultation on the reform of RPI (announced on 25 November 2020) confirmed that RPI will be aligned to CPIH (CPI excluding owner occupiers' housing costs) as proposed, but not before 2030. While uncertainty remains, there is a risk that future cash flows from, and thus the value of, the plan's RPI-linked assets fall without a corresponding reduction in the plan's CPI-linked liabilities. While not directly observable from market data, the plan's RPI-linked asset values may already reflect an element of the expected changes and risk of such changes.
+
+## Life expectancy
+
+Increases in life expectancy beyond those currently assumed will lead to an increase in plan liabilities. Regular reviews of longevity assumptions are performed to ensure assumptions remain appropriate.
+
+## Climate
+
+The principal plan adopts a low-risk strategy to investment, with the majority of plan assets invested in UK government bonds. The trustees have assessed the principal plan's exposure to severe climate change as being minimal, as a result of the low-risk investment strategy alongside the plan's strong funding level.
+
+## (g)(ii) Sensitivity to key assumptions
+
+The sensitivity of the principal plan's obligation and assets to the key assumptions is disclosed below.
+
+| Change in assumption | (Increase)/decrease in present value of obligation 2023 £m | Increase/(decrease) in fair value of plan assets 2023 £m | (Increase)/decrease in present value of obligation 2022 £m | Increase/(decrease) in fair value of plan assets 2022 £m |
+|---------------------|--------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------|---------------------------------------------------|
+| Yield/discount rate Decrease by 1% (e.g. from 4.60% to 3.60%) | (342) | 566 | (341) | 698 |
+| Increase by 1% | 266 | (432) | 268 | (525) |
+| Rates of inflation Decrease by 1% | 233 | (371) | 235 | (445) |
+| Increase by 1% | (306) | 485 | (305) | 591 |
+| Life expectancy Decrease by 1 year | 54 | N/A | 60 | N/A |
+| Increase by 1 year | (54) | N/A | (60) | N/A |
+
+## 32. Other financial liabilities
+
+| | Notes | 2023 £m | 2022 £m |
+|----------------|-------|--------|--------|
+| Accruals | | 284 | 326 |
+| Amounts due to counterparties and customers for unsettled trades and fund transactions | | 464 | 300 |
+| Lease liabilities | 16 | 223 | 224 |
+| Cash collateral held in respect of derivative contracts | 34 | 40 | 109 |
+| Bank overdrafts | 22 | – | 3 |
+| Contingent consideration liabilities | 36 | 114 | 132 |
+| Deferred income¹ | | 4 | 3 |
+| Other | | 112 | 104 |
+| Other financial liabilities | | 1,241 | 1,201 |
+
+1. The Group has made a presentational change to show Deferred income within Other financial liabilities.
+
+The amount of other financial liabilities expected to be settled after more than 12 months is £323m (2022: £318m).
+
+Annual report 2023 | abrdn.com | 233
 
 ---
 
-# NEXANS 2024 FINANCIAL STATEMENTS
+# Group financial statements continued
 
-## Consolidated financial statements
+## 33. Provisions and other liabilities
 
-The audit procedures were carried out and the Statutory Auditors' report is is being issued at the date of the publication.
+Provisions are obligations of the Group which are of uncertain timing or amount. They are recognised when the Group has a present obligation as a result of a past event, it is probable that a loss will be incurred in settling the obligation and a reliable estimate of the amount can be made.
 
-## Note 35. Statutory Auditors' fees
+Where some or all of the expenditure required to settle a provision is expected to be reimbursed by another party, a separate reimbursement asset is recognised when it is virtually certain that reimbursement will be received if the Group settles the obligation.
 
-The total fees paid to the Statutory Auditors for all controlled entities in France and recorded in the income statement for 2024 break down as follows:
+### (a) Provisions
 
-| in thousands of euros | Audit of the consolidated financial statements | Audit of the corporate financial statements | Audit of Sustainability report | Other (a) | Total |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| Forvis Mazars | 312 | 250 | 241 | 17 | 820 |
-| PwC | 307 | 350 | 611 | 908 | 2,176 |
-| **TOTAL** | **619** | **600** | **852** | **925** | **2,995** |
+The movement in provisions during the year is as follows:
 
-(a) Other non audit‑related services include, in particular, fees for due diligence in the context of acquisitions.
+| | Separation costs | | Process execution | | Tax related provisions | | Other provisions | | Total provisions | |
+|---|---|---|---|---|---|---|---|---|---|---|
+| | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m |
+| At 1 January | 33 | 35 | 41 | - | - | - | 23 | 14 | 97 | 49 |
+| Reclassified as held for sale during the year | - | - | - | - | - | - | - | (2) | - | (2) |
+| Charged/(credited) to the consolidated income statement | | | | | | | | | | |
+| Additional provisions | - | - | - | 41 | 42 | - | 33 | 18 | 75 | 59 |
+| Release of unused provision | (32) | - | - | - | - | - | (4) | (1) | (36) | (1) |
+| Used during the year | (1) | (2) | (41) | - | - | - | (28) | (6) | (70) | (8) |
+| At 31 December | - | 33 | - | 41 | 42 | - | 24 | 23 | 66 | 97 |
 
-## Note 36. Subsequent events
+The separation cost provision recognised at 31 December 2022 of £33m was in respect of costs expected to be incurred following the sale of the UK and European insurance business to Phoenix. Following the completion of the separation programme during the year ended 31 December 2023 the Group expects no further costs to be incurred and £32m (2022: less than £1m) was released from the provision. The remaining costs covered by the provision at 31 December 2022 were expected to be incurred in the next year.
 
-On January 2, 2025, Nexans completed the sale of AmerCable to Mattrr for a value of 280 million US dollar. The sale price is expected to be finalized in the first half of 2025 with the establishment of Amercable's financial statements as of December 31, 2024.
-No other significant event has occurred since December 31, 2024.
+A provision for a potential liability of £42m (2022: £nil) relates to a disputed tax matter which is the subject of an ongoing appeal. Any resolution is expected to be after 12 months. A reimbursement asset has been recognised for £18m (2022: £nil) which is an expected recovery in the event of any settlement.
 
-63 NEXANS UNIVERSAL REGISTRATION DOCUMENT 2024
+The process execution provision recognised at 31 December 2022 for £41m in respect of a payment required to compensate an asset management client relating to the provision of certain services has been fully utilised in the year ended 31 December 2023 to fully settle the compensation.
+
+Following the settlement, the Group had agreed a recovery of £36m from its liability insurance, being the cost of the compensation net of a £5m excess of which £36m had been received by 31 December 2023. The recovery has been credited against Other administrative expenses in the consolidated income statement.
+
+Other provisions primarily relates to restructuring and dilapidations on leased properties. Restructuring provisions are generally expected to be settled within 12 months. Dilapidations are generally expected to be settled after more than 12 months. Refer Note 16 for further details of the Group's leases.
+
+The amount of provisions expected to be settled after more than 12 months is £45m (2022: £3m).
+
+### (b) Other liabilities
+
+As at 31 December 2023, other liabilities totalled £4m (2022: £8m). The amount of other liabilities expected to be settled after more than 12 months is £nil (2022: £3m).
+
+234 | abrdn.com | Annual report 2023
+
+---
+
+# 34. Financial instruments risk management
+## (a) Overview
+The principal risks and uncertainties that affect the Group's business model and the Group's approach to risk management are set out in the Risk management section of the Strategic report.
+
+The Group's exposure to financial instrument risk is derived from the financial instruments that it holds directly, the assets and liabilities of the unit linked funds of the life operations of the Group and the Group's defined benefit pension plans. In addition due to the nature of the business, the Group's secondary exposure extends to the impact on treasury income and investment management and other fees that are determined on the basis of a percentage of AUMA and are therefore impacted by financial risks borne by third party investors. In this Note, exposures and sensitivities provided relate to the financial instrument assets and liabilities, in scope of IFRS 7, to which the shareholder is directly exposed.
+
+For the purposes of this Note:
+- Shareholder business refers to the assets and liabilities to which the shareholder is directly exposed. The shareholder refers to the equity holders of the Company.
+- Unit linked funds refers to the assets and liabilities of the unit linked funds of the life operations of the Group. It does not include the cash flows (such as asset management charges or investment expenses) arising from the unit linked fund contracts. These cash flows are included in shareholder business.
+- Third party interest in consolidated funds and non-controlling interests refers to the assets and liabilities recorded on the Group's consolidated statement of financial position which belong to third parties. The Group controls the entities which own the assets and liabilities but the Group does not own 100% of the equity or units of the relevant entities.
+
+Unit linked funds are excluded from the analysis in this Note. Details regarding the financial risks of instruments relating to the Group's unit linked funds can be found in Note 23 and the risks relating to the Group's principal defined benefit pension plan are explained in Note 31.
+
+Third party interests in consolidated funds do not expose the shareholder to market, credit or liquidity risk since the financial risks from the assets and obligations are borne by third parties. As a result equity risk, interest rate risk and credit risk quantitative disclosures in this Note exclude these assets.
+
+Under IFRS 7 the following financial instruments are excluded from scope:
+- Interests in subsidiaries, associates and joint ventures.
+- Rights and obligations arising from employee benefit plans.
+- Insurance contracts as defined by IFRS 17.
+- Share-based payment transactions.
+
+For the purposes of managing risks to the Group's financial instrument assets and liabilities, the Group considers the following categories:
+
+| Risk | Definition and exposure |
+|------|-------------------------|
+| Market | The risk of financial loss as a result of adverse financial market movements. The shareholder is directly exposed to the impact of movements in equity prices, interest rates and foreign exchange rates on the value of assets held by the shareholder business. |
+| Credit | The risk of financial loss as a result of the failure of a counterparty, issuer or borrower to meet their obligations or perform them in a timely manner. The shareholder is directly exposed to credit risk from holding cash, debt securities, derivative financial instruments and receivables and other financial assets. |
+| Liquidity | The risk of financial loss as a result of being unable to settle financial obligations when they fall due, as a result of having insufficient liquid resources or being unable to realise investments and other assets other than at excessive costs. The shareholder is directly exposed to the liquidity risk from the shareholder business if it is unable to realise investments and other assets in order to settle its financial obligations when they fall due, or can do so only at excessive cost. |
+
+As set out in the Risk management section of the Strategic report, the Group reviews and manages climate related risks. We continue to assess the potential impacts on our business with a view to the resilience of our operations and investment strategies. This is monitored through our climate risk and opportunity radar to ensure we are well positioned to realise opportunities and mitigate risks. Our day-to-day business is predominantly exposed to transition risk as markets, policy, and reputations come to terms with alignment to net zero. We have a critical role to play as stewards of clients' capital and this is reflected in our business strategy and our commitment to reduce the carbon intensity of our portfolios and absolute emissions from our direct operations. The Group is also exposed to climate risk in relation to its investment property which are primarily properties which are no longer being used operationally by the Group and are being sublet. Refer Note 15 for details of the Group's consideration of climate related factors in relation to investment property. We have considered the implications of climate related risk, including transition risks, for the 2023 financial statements, and have concluded that there are no material impacts on the valuation of the Group's assets and liabilities including the valuation of financial instruments held at fair value through profit or loss (in particular in relation to level 3 investments) or at amortised cost (in particular in relation to expected credit losses).
+
+Annual report 2023 | abrdn.com | 235
+
+---
+
+# Group financial statements continued
+
+(b) Market risk  
+The Group's largest exposure to market risk relates to our investment in Phoenix. Other market risk exposures primarily arise as a result of holdings in newly established investment vehicles which the Group has seeded and co-investments in property and infrastructure funds in the Investments segment. Seed capital is classified as held for sale when it is the intention to dispose of the vehicle in a single transaction and within one year. Co-investments are typically held for a longer term and align the Group's economic interests with those of property, private equity and infrastructure fund co-investors. The consolidated statement of financial position includes the following amounts in respect of seed capital and co-investments.
+
+|  | 2023 | 2022 |
+| --- | ---: | ---: |
+| Equity securities and interests in pooled investment funds at FVTPL | 209 | 213 |
+| Debt securities | 86 | 76 |
+| Total seed capital | 295 | 289 |
+|  |  |  |
+| Equity securities and interests in pooled investment funds at FVTPL | 116 | 107 |
+| Total co-investments | 116 | 107 |
+
+The Group sets limits for investing in seed capital and co-investment activity and regularly monitors exposures arising from these investments. The Group will consider hedging its exposure to market risk in respect of seed capital investments where it is appropriate and efficient to do so. The Group will also consider hedging its exposure to currency risk in respect of co-investments where it is appropriate and efficient to do so. Other market risks associated with co-investments are not hedged given the need for the Group's economic interests to be aligned with those of the co-investors.
+
+(b)(i) Elements of market risk  
+The main elements of market risk to which the Group is exposed are equity risk, interest rate risk and foreign currency risk, which are discussed on the following pages.
+
+Information on the methods used to determine fair values for each major category of financial instrument measured at fair value is presented in Note 36.
+
+(b)(i)(i) Exposure to equity risk  
+The Group is exposed to the risk of adverse equity market movements which could result in losses. This applies to daily changes in the market values and returns on the holdings in equity securities.
+
+At 31 December 2023 the shareholder exposure to equity markets was £792m (2022: £1,577m) in relation to equity securities. This primarily relates to the Group's investments in Phoenix of £557m (2022: £634m), seed capital investments of £151m (2022: £171m), and equity securities held by the abrdn Financial Fairness Trust of £64m (2022: £61m). At 31 December 2022, equity securities also included the Group's investments in HDFC Life of £203m and HDFC Asset Management of £477m.
+
+The Group is also exposed to adverse market price movements on its interests in pooled investment funds. The shareholder exposure of £235m (2022: £268m) to pooled investment funds primarily relates to £174m (2022: £149m) of seed capital and co-investments, investments in certain managed funds to hedge against liabilities from variable pay awards that are deferred and settled in cash by reference to the price of those funds of £35m (2022: £37m), pooled investment funds held by the abrdn Financial Fairness Trust of £22m (2022: £25m) and corporate funds held in absolute return funds of £nil (2022: £50m).
+
+The Equities and interests in pooled investment funds at FVTPL included in the consolidated statement of financial position includes £112m (2022: £188m) relating to third party interest in consolidated funds and non-controlling interests – ordinary shares to which the shareholder is not exposed.
+
+Exposures to equity risk are primarily managed though the hedging of market risk in respect of seed capital investments where it is appropriate and efficient to do so. Additionally limits are imposed on the amount of seed capital and co-investment activity that may be undertaken. The Group does not hedge equity risk in relation to its investment in Phoenix.
+
+236 | abrdn.com | Annual report 2023
+
+---
+
+# (b)(i)(ii) Exposure to interest rate risk
+Interest rate risk is the risk that arises from exposures to changes in the shape and level of yield curves which could result in losses due to the value of financial assets and liabilities, or the cash flows relating to these, fluctuating by different amounts.
+
+The main financial assets held by the Group which give rise to interest rate risk are debt securities and cash and cash equivalents. The Group is also exposed to interest rate risk on its investments in pooled investment funds where the underlying instruments are exposed to interest rate risk.
+
+Interest rate exposures are managed in line with the Group's risk appetite.
+
+# (b)(i)(iii) Exposure to foreign currency risk
+Foreign currency risk arises where adverse movements in currency exchange rates impact the value of revenues received from, and the value of assets and liabilities held in, currencies other than UK Sterling. The Group's financial assets are generally held in the local currency of its operational geographic locations. The Group generally does not hedge the currency exposure relating to revenue and expenditure, nor does it hedge translation of overseas profits in the income statement. Where appropriate, the Group may use derivative contracts to reduce or eliminate currency risk arising from individual transactions or seed capital and co-investment activity.
+
+The table below summarises the financial instrument exposure to foreign currency risks in UK Sterling.
+
+|  | | UK Sterling | | Indian Rupee | | Euro | | US Dollar | | Singapore Dollar | | Other currencies | | Total | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | Notes | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m |
+| Financial assets | 17 | 3,280 | 3,237 | - | 680 | 204 | 219 | 612 | 585 | 59 | 48 | 159 | 210 | 4,314 | 4,979 |
+| Financial liabilities¹ | 29 | (1,130) | (1,205) | - | - | (48) | (53) | (823) | (776) | (15) | (8) | (20) | (23) | (2,036) | (2,065) |
+| Cash flow hedges | | (588) | (623) | - | - | - | - | 588 | 623 | - | - | - | - | - | - |
+| Non-designated derivatives | | 296 | 296 | - | - | (66) | (68) | (186) | (182) | - | - | (44) | (46) | - | - |
+| | | 1,858 | 1,705 | - | 680 | 90 | 98 | 191 | 250 | 44 | 40 | 95 | 141 | 2,278 | 2,914 |
+
+1. The Group has made a presentational change to show Deferred income within Other financial liabilities which is part of Financial liabilities. Refer Note 32.
+
+The Indian Rupee exposure at 31 December 2022 primarily related to the Group's investments in HDFC Life and HDFC Asset Management which were fully disposed of in 2023. Refer Note 11 for further details. Other currencies include assets of £41m (2022: £85m) and liabilities of £nil (2022: £1m) in relation to the fair value of derivatives used to manage currency risk.
+
+On 18 October 2017, the Group issued US dollar subordinated notes with a principal amount of US$750m. The related cash flows expose the Group to foreign currency risk on the principal and coupons payable. The Group manages the foreign exchange risk with a cross-currency swap which is designated as a cash flow hedge.
+
+Non-designated derivatives relate to foreign exchange forward contracts that are not designated as cash flow hedges or net investment hedges and primarily relate to the management of currency risk arising from seed capital and co-investment activity.
+
+In addition to financial instruments analysed above, the principal source of foreign currency risk for shareholders arises from the Group's investments in overseas subsidiaries and associates and joint ventures accounted for using the equity method. The carrying value of the Group's Chinese joint venture is disclosed in Note 14. The Group does not hedge foreign currency risk in relation to these investments.
+
+# (b)(ii) Sensitivity of financial instruments to market risk analysis
+The Group's profit/loss after tax and equity are sensitive to variations in respect of the Group's market risk exposures and a sensitivity analysis is presented below. The analysis has been performed by calculating the sensitivity of profit after tax and equity to changes in equity security prices (equity risk), changes in interest rates (interest rate risk) and changes in foreign exchange rate (foreign currency risk) as at the reporting date applied to assets and liabilities other than those classified as held for sale, and after allowing for the Group's hedging strategy.
+
+The variables used in the sensitivity analysis are considered reasonable assumptions and are consistent with market peers. Changes to variables are provided by internal specialists who determine what are reasonable assumptions.
+
+Annual report 2023 | abrdn.com | 237
+
+---
+
+# Group financial statements continued
+
+## Profit/loss after tax and equity sensitivity to market risk
+
+| | 31 December 2023 | | 31 December 2022 | |
+|---|---|---|---|---|
+| | A reasonable change in the variable within the next calendar year | Increase/(decrease) in post-tax profit | A reasonable change in the variable within the next calendar year | Increase/(decrease) in post-tax profit |
+| | % | £m | % | £m |
+| Equity prices | | | | |
+| Increase | 10 | 74 | 10 | 148 |
+| Decrease | 10 | (74) | 10 | (148) |
+| US Dollar against Sterling | | | | |
+| Strengthen | 10 | 12 | 10 | 14 |
+| Weaken | 10 | (9) | 10 | (11) |
+| Euro against Sterling | | | | |
+| Strengthen | 10 | 10 | 10 | 11 |
+| Weaken | 10 | (8) | 10 | (9) |
+
+The reasonable change in variables have no impact on any other components of equity. These sensitivities concern only the impact on financial instruments and exclude indirect impacts of the variable on fee income and certain costs which may be affected by the changes in market conditions.
+
+Interest rate sensitivity to a reasonable change in the variable within the next calendar year is not material in either 2023 or 2022.
+
+### Limitations
+The sensitivity of the Group's profit after tax and equity may be non-linear and larger or smaller impacts should not be derived from these results. The sensitivities provided illustrate the impact of a reasonably possible change in a single sensitivity factor, while the other sensitivity factors remain unchanged. Correlations between the different risks and/or other factors may mean that experience would differ from that expected if more than one risk event occurred simultaneously.
+
+### (c) Credit risk
+Exposures to credit risk and concentrations of credit risk are managed by setting exposure limits for different types of financial instruments and counterparties. The limits are established using the following controls:
+
+| Financial instrument with credit risk exposure | Control |
+|---|---|
+| Cash and cash equivalents | Maximum counterparty exposure limits are set with reference to internal credit assessments. |
+| Derivative financial instruments | Maximum counterparty exposure limits, net of collateral, are set with reference to internal credit assessments. The forms of collateral that may be accepted are also specified and minimum transfer amounts in respect of collateral transfers are documented. |
+| Debt securities | The Group's policy is to set exposure limits by name of issuer, sector and credit rating. |
+| Other financial instruments | Appropriate limits are set for other financial instruments to which the Group may have exposure at certain times. |
+
+Group Treasury perform central monitoring of exposures against limits and are responsible for the escalation of any limit breaches to the Chief Risk Officer.
+
+Expected credit losses (ECL) are calculated on financial assets which are measured at amortised cost.
+
+Financial assets attract an ECL allowance equal to either:
+
+| | |
+|---|---|
+| 12 month ECL (losses resulting from possible default within the next 12 months) | No significant increase in credit risk since initial recognition.<br>Trade receivables or contract assets with significant financing component, or lease receivables if lifetime ECL measurement has not been elected. |
+| Lifetime ECL (losses resulting from possible defaults over the remaining life of the financial asset) | Significant increase in credit risk since initial recognition.<br>Trade receivables or contract assets with no significant financing component.<br>Trade receivables or contract assets with significant financing component, or lease receivables for which lifetime ECL measurement has been elected. |
+| Changes in Lifetime ECL | Credit-impaired at initial recognition. |
+
+In determining whether a default has taken place, or where there is an increased risk of a default, a number of factors are taken into account including a deterioration in the credit quality of a counterparty, the number of days that a payment is past due, and specific events which could impact a counterparty's ability to pay.
+
+238 | abrdn.com | Annual report 2023
+
+---
+
+The Group assumes that a significant increase in credit risk has arisen when contractual payments are more than 30 days past due. The Group assumes that credit risk on a financial instrument has not increased significantly since initial recognition if the financial instrument is determined to have low credit risk at the reporting date. Financial instruments with an external rating of 'investment grade' are presumed to have low credit risk in the absence of evidence to the contrary. Investment grade financial instruments are financial assets with credit ratings assigned by external rating agencies with classification within the range of AAA to BBB. If a financial asset is not rated by an external agency it is classified as 'not rated'.
+
+The Group applies the simplified approach, as permitted under IFRS 9, to calculate the ECL allowance for trade receivables and contract assets including accrued income from contracts with customers and lease receivables. Under the simplified approach, the ECL allowance is calculated over the remaining life of the asset, using a provision matrix approach based on historic observed default rates adjusted for knowledge of specific events which could influence loss rates.
+
+At 31 December 2023 the Group does not hold significant financial assets at amortised cost that it regards as credit-impaired or for which it considers the probability of default would result in material expected credit losses in its Investments and Adviser segments. Historically, default levels have been insignificant for the Group's customers within these segments. Trade debtors past due but not in default at 31 December 2023 for these segments were £71m (2022: £84m) of which £36m was over 90 days past due (2022: £33m). We have not identified significant credit risk with counterparties with balances over 90 days past due and recovery is still expected. Consequently, the expected credit losses recognised were less than £1m (2022: less than £1m). In making this assessment the Group has considered if any evidence is available to indicate the occurrence of an event which would result in a detrimental impact on the estimated future cash flows of these assets.
+
+The Group is exposed to a higher level of credit risk within its ii segment (previously named Personal), primarily in relation to ii. Trade debtors past due for the ii segment at 31 December 2023 were £5m (2022: £5m), the majority of which were considered to be credit impaired. A lifetime loss allowance of £2m (2022: £3m) has been recognised based on expected recovery.
+
+(c)(i) Credit exposure
+The following table presents an analysis of the credit quality of shareholder financial assets and the maximum exposure to credit risk without taking into account any collateral held.
+
+| | Fair value through profit or loss | Cash flow hedge | 12 month ECL | Lifetime ECL¹ | Total |
+|---|---|---|---|---|---|
+| | 2023<br>£m | 2022<br>£m | 2023<br>£m | 2022<br>£m | 2023<br>£m | 2022<br>£m | 2023<br>£m | 2022<br>£m | 2023<br>£m | 2022<br>£m |
+| AAA | 30 | - | - | - | 115 | 89 | - | - | 145 | 89 |
+| AA+ to AA- | 169 | 164 | - | - | 76 | 162 | - | - | 245 | 326 |
+| A+ to A- | 405 | 327 | 41 | 85 | 977 | 953 | - | - | 1,423 | 1,365 |
+| BBB | 86 | 76 | - | - | 127 | 126 | - | - | 213 | 202 |
+| BB | - | - | - | - | - | - | - | - | - | - |
+| Not rated | 12 | 21 | - | - | 610 | 429 | 452 | 463 | 1,074 | 913 |
+| Gross carrying amount | 702 | 588 | 41 | 85 | 1,905 | 1,759 | 452 | 463 | 3,100 | 2,895 |
+| Loss allowance | - | - | - | - | - | - | (2) | (3) | (2) | (3) |
+| Carrying amount | 702 | 588 | 41 | 85 | 1,905 | 1,759 | 450 | 460 | 3,098 | 2,892 |
+| | | | | | | | | | | |
+| Derivative financial assets | 2 | 19 | 41 | 85 | - | - | - | - | 43 | 104 |
+| Debt securities | 689 | 550 | - | - | 125 | 210 | - | - | 814 | 760 |
+| Receivables and other financial assets | 11 | 19 | - | - | 610 | 428 | 450 | 460 | 1,071 | 907 |
+| Cash and cash equivalents | - | - | - | - | 1,170 | 1,121 | - | - | 1,170 | 1,121 |
+| Carrying amount | 702 | 588 | 41 | 85 | 1,905 | 1,759 | 450 | 460 | 3,098 | 2,892 |
+
+1. As noted in Section (c) above, Lifetime ECL balances include trade debtors with a gross carrying value of £5m (2022: £5m) which are credit impaired for which a loss allowance of £2m (2022: £3m) has been recognised. All other Lifetime ECL balances are not credit impaired.
+
+In the table above debt securities exclude debt securities relating to third party interests in consolidated funds of £51m (2022: £42m). Cash and cash equivalents exclude cash and cash equivalents relating to third party interests in consolidated funds of £26m (2022: £12m). The shareholder is not exposed to the credit risk in respect of third party interests in consolidated funds since the financial risk of the assets are borne by third parties.
+
+Annual report 2023 | abrdn.com | 239
+
+---
+
+# Group financial statements continued
+
+(c)(ii) Collateral accepted and pledged in respect of financial instruments
+Collateral in respect of bilateral over-the-counter (OTC) derivative financial instruments and bilateral repurchase agreements is accepted from and provided to certain market counterparties to mitigate counterparty risk in the event of default. The use of collateral in respect of these instruments is governed by formal bilateral agreements between the parties. For OTC derivatives the amount of collateral required by either party is determined by the daily bilateral OTC exposure calculations in accordance with these agreements and collateral is moved on a daily basis to ensure there is full collateralisation. Under the terms of these agreements, collateral is posted with the ownership captured under title transfer of the contract. With regard to either collateral pledged or accepted, the Group may request the return of, or be required to return, collateral to the extent it differs from that required under the daily bilateral OTC exposure calculations.
+
+Where there is an event of default under the terms of the agreements, any collateral balances will be included in the close-out calculation of net counterparty exposure. At 31 December 2023, the Group had pledged £19m (2022: £14m) of cash and £nil (2022: £nil) of securities as collateral for derivative financial liabilities. At 31 December 2023, the Group had accepted £40m (2022: £109m) of cash and £35m (2022: £nil) of securities as collateral for derivatives financial assets and reverse repurchase agreements. None of the securities were sold or repledged at the year end.
+
+(c)(iii) Offsetting financial assets and liabilities
+Financial assets and liabilities are offset and the net amount reported on the consolidated statement of financial position only when there is a legally enforceable right to offset the recognised amounts and there is an intention to settle on a net basis, or to realise the asset and settle the liability simultaneously.
+
+The Group does not offset financial assets and liabilities on the consolidated statement of financial position, as there are no unconditional rights to set off. Consequently, the gross amount of other financial instruments presented on the consolidated statement of financial position is the net amount. The Group's bilateral OTC derivatives are all subject to an International Swaps and Derivative Association (ISDA) master agreement. ISDA master agreements and reverse repurchase agreements entered into by the Group are considered master netting agreements as they provide a right of set off that is enforceable only in the event of default, insolvency, or bankruptcy.
+
+The Group does not hold any other financial instruments which are subject to master netting agreements or similar arrangements.
+
+The following table presents the effect of master netting agreements and similar arrangements.
+
+| | Gross amounts of financial instruments as presented on the consolidated statement of financial position | | Financial instruments | | Financial collateral pledged/(received) | | Net position | |
+|---|---|---|---|---|---|---|---|---|
+| | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m |
+| **Financial assets** | | | | | | | | |
+| Derivatives¹ | 43 | 102 | (2) | (1) | (39) | (100) | 2 | 1 |
+| Reverse repurchase agreements | 35 | - | - | - | (35) | - | - | - |
+| **Total financial assets** | 78 | 102 | (2) | (1) | (74) | (100) | 2 | 1 |
+| **Financial liabilities** | | | | | | | | |
+| Derivatives¹ | (2) | (1) | 2 | 1 | - | - | - | - |
+| **Total financial liabilities** | (2) | (1) | 2 | 1 | - | - | - | - |
+
+1. Only OTC derivatives subject to master netting agreements have been included above.
+
+240 | abrdn.com | Annual report 2023
+
+---
+
+# (d) Liquidity risk
+
+The shareholder is exposed to liquidity risk if the Group is unable to realise investments and other assets in order to settle its financial obligations when they fall due, or can do so only at excessive cost. The following quantitative liquidity risk disclosures are provided in respect of these financial liabilities.
+
+The Group has a liquidity risk framework and processes in place for monitoring, assessing, and managing liquidity risk.
+
+This framework ensures that liquidity risks are identified across the Group and, where relevant, mitigation measures are put in place. Stress testing of the residual risks is performed to understand the quantum of risk under stress conditions. This then informs the level of liquid resources that need to be maintained. Where appropriate, this is enhanced with external credit facilities and the Group has a syndicated revolving credit facility of £400m which was undrawn at 31 December 2023.
+
+The level of liquid resources in the Group is also projected under a number of adverse scenarios. These are described more fully in the Viability Statement.
+
+A contingency funding plan is maintained to ensure that if liquidity risk did materialise, processes and procedures are already in place to assist with resolving the issue. Regular monitoring of liquid resources is performed and projections undertaken (under both base and stressed conditions) to understand the outlook.
+
+As a result of the policies and processes established to manage risk, the Group expects to be able to manage liquidity risk on an ongoing basis. We recognise there are a number of scenarios that can impact the liquid resources of a business as discussed in the Risk management section of the Strategic report.
+
+## (d)(i) Maturity analysis
+The analysis that follows presents the undiscounted cash flows payable under contractual maturity at the reporting date for all financial liabilities, other than those related to unit linked funds which are discussed in Note 23.
+
+| | Within 1 year | | 1-5 years | | 5-10 years | | 10-15 years | | 15-20 years | | Greater than 20 years | | Total | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m |
+| Subordinated liabilities | 24 | 24 | 647 | 94 | - | 577 | - | - | - | - | - | - | 671 | 695 |
+| Other financial liabilities¹ | 950 | 894 | 185 | 198 | 97 | 105 | 46 | 48 | 6 | 6 | - | 15 | 1,284 | 1,266 |
+| Total | 974 | 918 | 832 | 292 | 97 | 682 | 46 | 48 | 6 | 6 | - | 15 | 1,955 | 1,961 |
+
+1. The Group has made a presentational change to show Deferred income within Other financial liabilities. Refer Note 32.
+
+Refer Note 18 for the maturity profile of undiscounted cash flows of derivative financial instruments.
+
+The Group also had unrecognised commitments in respect of financial instruments as at 31 December 2023 (refer Note 39) with a contractual maturity of within one year, between one and five years and over five years of £2m, £29m and £36m respectively (2022: £3m, £32m and £37m). The commitments may generally be requested anytime up to the contractual maturity.
+
+Annual report 2023 | abrdn.com | 241
+
+---
+
+# Group financial statements continued
+
+## 35. Structured entities
+
+A structured entity is an entity that is structured in such a way that voting or similar rights are not the dominant factor in deciding who controls the entity. The Group has interests in structured entities through investments in a range of investment vehicles including:
+– Pooled investment funds managed internally and externally, including OEICs, SICAVs, unit trusts and limited partnerships.
+– Debt securitisation vehicles which issue asset-backed securities.
+
+The Group consolidates structured entities which it controls. Where the Group has an investment in, but not control over these types of entities, the investment is classified as an investment in associate when the Group has significant influence. Investments in associates at FVTPL are included in equity securities and pooled investment funds in the analysis of financial investments.
+
+The Group also has interests in structured entities through asset management fees and other fees received from these entities.
+
+### (a) Consolidated structured entities
+As at 31 December 2023 and 31 December 2022, the Group has not provided any non-contractual financial or other support to any consolidated structured entity and there are no current intentions to do so.
+
+### (b) Unconsolidated structured entities
+As at 31 December 2023 and 31 December 2022, the Group has not provided any non-contractual financial or other support to any unconsolidated structured entities and there are no current intentions to do so.
+
+The following table shows the carrying value of the Group's interests in unconsolidated structured entities by line item in the consolidated statement of financial position.
+
+|  | 2023 | 2022 |
+| --- | ---: | ---: |
+| Financial investments |  |  |
+| Equity securities and interests in pooled investment funds | 482 | 558 |
+| Debt securities | – | – |
+| Total financial investments | 482 | 558 |
+| Receivables and other financial assets | 196 | 215 |
+| Other financial liabilities | 114 | 95 |
+
+The Group's exposure to loss in respect of unconsolidated structured entities is limited to the carrying value of the Group's investment in these entities and the loss of future asset management and other fees received by the Group for the management of these entities. Exposure to loss arising from market and credit risk in relation to investments held in the unit linked funds and relating to third party interest in consolidated funds and non-controlling interests – ordinary shares is not borne by the shareholder.
+
+Additional information on the Group's exposure to financial risk and the management of these risks can be found in Note 23 and Note 34.
+
+The total assets under management of unconsolidated structured entities are £108,993m at 31 December 2023 (2022: £126,019m). The fees recognised in respect of these assets under management during the year to 31 December 2023 were £453m (2022: £566m).
+
+As at 31 December 2023, the Group had no investments in unconsolidated structured debt securitisation vehicles (2022: £nil).
+
+242 | abrdn.com | Annual report 2023
+
+---
+
+# 36. Fair value of assets and liabilities
+
+The Group uses fair value to measure many of its assets and liabilities. Fair value is the amount for which an asset could be exchanged, or a liability settled, between knowledgeable willing parties in an arm's length transaction.
+
+An analysis of the Group's financial assets and financial liabilities in accordance with the categories of financial instrument set out in IFRS 9 Financial Instruments is presented in Notes 17, 23 and 29 and includes those financial assets and liabilities held at fair value.
+
+**(a) Fair value hierarchy**
+
+In determining fair value, the following fair value hierarchy categorisation has been used:
+
+– **Level 1:** Fair values measured using quoted prices (unadjusted) in active markets for identical assets or liabilities. An active market exists where transactions take place with sufficient frequency and volume to provide pricing information on an ongoing basis.
+
+– **Level 2:** Fair values measured using inputs other than quoted prices included within level 1 that are observable for the asset or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices).
+
+– **Level 3:** Fair values measured using inputs that are not based on observable market data (unobservable inputs).
+
+Information on the methods and assumptions used to determine fair values for equity securities and interests in pooled investment funds, debt securities and derivatives measured at fair value is given below:
+
+| | Equities and interests in pooled investment funds<sup>1,2</sup> | Debt securities | Derivatives<sup>3</sup> |
+|---|---|---|---|
+| **Level 1** | Equity instruments listed on a recognised exchange valued using prices sourced from their primary exchange. | Debt securities listed on a recognised exchange valued using prices sourced from their primary exchange. | Exchange traded derivatives valued using prices sourced from the relevant exchange. |
+| **Level 2** | Pooled investment funds where daily unit prices are available and reference is made to observable market data. | Debt securities valued using prices received from external pricing providers based on quotes received from a number of market participants.<br><br>Debt securities valued using models and standard valuation formulas based on observable market data<sup>4</sup>. | Over-the-counter derivatives measured using a range of valuation models including discounting future cash flows and option valuation techniques. |
+| **Level 3** | These relate primarily to interests in private equity, real estate and infrastructure funds which are valued at net asset value. Underlying real estate and private equity investments are generally valued in accordance with independent professional valuation reports or International Private Equity and Venture Capital Valuation Guidelines where relevant. The underlying investments in infrastructure funds are generally valued based on the phase of individual projects forming the overall investment and discounted cash flow techniques based on project earnings.<br><br>Where net asset values are not available at the same date as the reporting date, the latest available valuations are reviewed and, where appropriate, adjustments are made to reflect the estimated impact of changes in market conditions between the date of the valuation and the end of the reporting period.<br><br>Other unlisted equity securities are generally valued using a calibration to the price of a recent investment. | Debt securities valued using prices received from external pricing providers based on a single broker indicative quote.<br><br>Debt securities valued using models and standard valuation formulas based on unobservable market data<sup>4</sup>. | N/A |
+
+1. Investments in associates at FVTPL are valued in the same manner as the Group's equity securities and interests in pooled investment funds.
+2. Where pooled investment funds have been seeded and the investment in the funds have been classified as held for sale, the costs to sell are assumed to be negligible. The fair value of pooled investment funds held for sale is calculated as equal to the observable unit price.
+3. Non-performance risk arising from the credit risk of each counterparty is also considered on a net exposure basis in line with the Group's risk management policies. At 31 December 2023 and 31 December 2022, the residual credit risk is considered immaterial and no credit risk adjustment has been made.
+4. If prices are not available from the external pricing providers or are considered to be stale, the Group has established procedures to arrive at an internal assessment of the fair value.
+
+Annual report 2023 | abrdn.com | 243
+
+---
+
+# Group financial statements continued
+
+The fair value of liabilities in respect of third party interest in consolidated funds and non-participating investment contracts are calculated equal to the fair value of the underlying assets and liabilities.
+
+Thus, the value of these liabilities is dependent on the methods and assumptions set out above in relation to the underlying assets and liabilities:
+– For third party interest in consolidated funds, when the underlying assets and liabilities are valued using readily available market information the liabilities in respect of third party interest in consolidated funds are treated as level 2. Where the underlying assets and liabilities are not valued using readily available market information the liabilities in respect of third party interest in consolidated funds are treated as level 3.
+– For non-participating investment contracts, the underlying assets and liabilities are predominately categorised as level 1 or 2 and as such, the inputs into the valuation of the liabilities are observable and these liabilities are predominately categorised within level 2 of the fair value hierarchy. Where the underlying assets are categorised as level 3, the liabilities are also categorised as level 3.
+
+In addition, contingent consideration assets and contingent consideration liabilities are also categorised as level 3 in the fair value hierarchy. Contingent consideration assets and liabilities have been recognised in respect of acquisitions and disposals. Generally valuations are based on unobservable assumptions regarding the probability weighted cash flows and, where relevant, discount rate.
+
+(a)(i) Fair value hierarchy for assets measured at fair value in the statement of financial position
+The table below presents the Group's non-unit linked assets measured at fair value by level of the fair value hierarchy (refer Note 23 for fair value analysis in relation to assets backing unit linked liabilities).
+
+| | Fair value hierarchy | | | | | | | |
+|---|---|---|---|---|---|---|---|---|
+| | Total | | Level 1 | | Level 2 | | Level 3 | |
+| | 2023 | 2022 | 2023 | 2022 | 2023 | 2022 | 2023 | 2022 |
+| | £m | £m | £m | £m | £m | £m | £m | £m |
+| Owner occupied property | 1 | 1 | - | - | - | - | 1 | 1 |
+| Derivative financial assets | 43 | 104 | - | 3 | 43 | 101 | - | - |
+| Equity securities and interests in pooled investment vehicles¹ | 1,139 | 2,033 | 769 | 1,621 | 137 | 181 | 233 | 231 |
+| Debt securities | 740 | 592 | 7 | 2 | 732 | 588 | 1 | 2 |
+| Contingent consideration assets | 11 | 19 | - | - | - | - | 11 | 19 |
+| Total assets at fair value | 1,934 | 2,749 | 776 | 1,626 | 912 | 870 | 246 | 253 |
+
+1. Includes £557m (2022: £634m) for the Group's listed equity investment in Phoenix which is classified as a significant listed investment. The Group's listed equity investments in HDFC Asset Management and HDFC Life which were also classified as significant listed investments were sold in the year ended 31 December 2023 (HDFC Asset Management: 2022: £477m, HDFC Life: 2022: £203m).
+
+There were no significant transfers from level 1 to level 2 during the year ended 31 December 2023 (2022: none). There were also no significant transfers from level 2 to level 1 during the year ended 31 December 2023 (2022: none). Transfers generally relate to assets where changes in the frequency of observable market transactions resulted in a change in whether the market was considered active and are deemed to have occurred at the end of the calendar quarter in which they arose.
+
+Refer Section (a)(iii) below for details of movements in level 3.
+
+244 | abrdn.com | Annual report 2023
+
+---
+
+# (a)(ii) Fair value hierarchy for liabilities measured at fair value in the statement of financial position
+The table below presents the Group's non-unit linked liabilities measured at fair value by level of the fair value hierarchy.
+
+| | Fair value hierarchy | | | | | | | |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| | Total | | Level 1 | | Level 2 | | Level 3 | |
+| | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m |
+| Liabilities in respect of third party interest in consolidated funds¹ | 187 | 242 | – | – | 117 | 168 | 70 | 74 |
+| Derivative financial liabilities | 9 | 1 | 7 | - | 2 | 1 | – | – |
+| Contingent consideration liabilities | 114 | 132 | – | – | – | – | 114 | 132 |
+| Other financial liabilities² | 15 | 11 | – | – | – | – | 15 | 11 |
+| Total liabilities at fair value | 325 | 386 | 7 | - | 119 | 169 | 199 | 217 |
+
+1. Liabilities in respect of third party interest in consolidated funds at 31 December 2022 were previously all disclosed as Level 2 (£242m). £74m of the liability at this date has been represented in the table above as Level 3 to be consistent with the categorisation of the underlying assets.
+2. Excluding contingent consideration liabilities.
+
+There were no significant transfers between levels 1 and 2 during the year (2022: none). Refer Section (a)(iii) below for details of movements in level 3. Transfers are deemed to have occurred at the end of the calendar quarter in which they arose.
+
+# (a)(iii) Reconciliation of movements in level 3 instruments
+The movements during the year of level 3 assets and liabilities held at fair value, excluding unit linked assets and liabilities and assets and liabilities held for sale, are analysed below.
+
+| | Owner occupied property | | Equity securities and interests in pooled investment funds | | Debt securities | | Liabilities in respect of third party interest in consolidated funds | |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m |
+| At 1 January | 1 | 1 | 231 | 106 | 2 | 1 | (74) | – |
+| Total gains recognised in the consolidated income statement | – | – | 1 | 2 | – | (2) | – | – |
+| Purchases | – | – | 18 | 139 | – | 3 | – | (70) |
+| Sales and other adjustments | – | – | (17) | (16) | (1) | – | 4 | (4) |
+| At 31 December | 1 | 1 | 233 | 231 | 1 | 2 | (70) | (74) |
+
+| | Contingent consideration assets | | Contingent consideration liabilities | | Other financial liabilities¹ | |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m |
+| At 1 January | 19 | 31 | (132) | (165) | (11) | – |
+| Total amounts recognised in the consolidated income statement | 7 | 3 | 16 | 32 | (5) | (11) |
+| Additions | 7 | 1 | (11) | (6) | – | – |
+| Settlements | (21) | (18) | 12 | 7 | 1 | – |
+| Other movements | (1) | 2 | 1 | – | – | – |
+| At 31 December | 11 | 19 | (114) | (132) | (15) | (11) |
+
+1. Excluding contingent consideration liabilities.
+
+For the year ended 31 December 2023, gains of £19m (2022: gains of £24m) were recognised in the consolidated income statement in respect of non-unit linked assets and liabilities held at fair value classified as level 3 at the year end, excluding assets and liabilities held for sale. Of this amount, gains of £19m (2022: gains of £24m) were recognised in Net gains or losses on financial instruments and other income.
+
+Transfers of equity securities and interests in pooled investment funds and debt securities into level 3 generally arise when external pricing providers stop providing a price or where the price provided is considered stale. Transfers of equity securities and interests in pooled investment funds and debt securities out of level 3 arise when acceptable prices become available from external pricing providers.
+
+Annual report 2023 | abrdn.com | 245
+
+---
+
+# Group financial statements continued 
+
+(a)(iv) Significant unobservable inputs in level 3 instrument valuations
+The table below identifies the significant unobservable inputs in relation to equity securities and interests in pooled investment funds categorised as level 3 instruments at 31 December 2023 with a fair value of £233m (2022: £231m).
+
+| | Fair value | | | |
+|---|---|---|---|---|
+| | 2023 £m | 2022 £m | Valuation technique | Unobservable input | Range (weighted average) |
+| Private equity, real estate, hedge and infrastructure funds | 221 | 219 | Net asset value | Net asset value statements provided for a large number of funds including nine significant funds (fair value >£5m). | A range of unobservable inputs is not applicable as we have determined that the reported NAV represents fair value at the end of the reporting period. |
+| Other unlisted equity securities | 12 | 12 | Indicative share price | Calibration to the price of a recent investment. | A range of unobservable inputs is not applicable as we have determined that the calibration to the price of a recent investment represents fair value at the end of the reporting period. |
+
+The unobservable input for the Group's related liabilities in respect of third party interest in consolidated funds categorised as level 3 instruments at 31 December 2023 with a fair value of (£70m) (2022: (£74m)) are the same as for the private equity, real estate, hedge and infrastructure funds above. There are no single significant funds in relation to liabilities in respect of third party interest in consolidated funds.
+
+The table below identifies the significant unobservable inputs in relation to contingent consideration assets and liabilities and other financial instrument liabilities categorised as level 3 instruments at 31 December 2023 with a fair value of (£118m) (2022: (£124m)).
+
+| | Fair value | | | |
+|---|---|---|---|---|
+| | 2023 £m | 2022 £m | Valuation technique | Unobservable input | Input used |
+| Contingent consideration assets and liabilities and other financial instrument liabilities | (118) | (124) | Probability weighted cash flow and where applicable discount rates | Unobservable inputs relate to probability weighted cash flows and, where relevant, discount rates. The most significant unobservable inputs relate to assumptions used to value the contingent consideration liability related to the acquisition of Tritax of £90m (2022: £112m). For Tritax a number of scenarios were prepared, around a base case, with probabilities assigned to each scenario (based on an assessment of the likelihood of each scenario). The value of the contingent consideration was determined for each scenario, and these were then probability weighted, with this probability weighted valuation then discounted from the payment date to the balance sheet date. It was assumed that the timing of the exercise of the earn out put options between 2024, 2025 and 2026 would be that which is most beneficial to the holders of the put options. | The base scenario for Tritax contingent consideration used a revenue compound annual growth rate (CAGR) from 31 March 2023 to 31 March 2026 of 9% (2022: CAGR from 31 March 2022 to 31 March 2026 of 14%) with other scenarios using a range of revenue growth rates around this base. The base scenario used a cost/income ratio of c56% (2022: c52%) with other scenarios using a range of cost/income ratios around this base. The risk adjusted contingent consideration cash flows have been discounted using a primary discount rate of 4% (2022: 4.5%). |
+
+(a)(v) Sensitivity of the fair value of level 3 instruments to changes in key assumptions
+At 31 December 2023 the shareholder is directly exposed to movements in the value of all non-unit linked level 3 instruments. See Note 23 for unit linked level 3 instruments.
+
+Sensitivities for material level 3 assets and liabilities are provided below. Changing unobservable inputs in the measurement of the fair value of the other level 3 financial assets and financial liabilities to reasonably possible alternative assumptions would not have a material impact on loss attributable to equity holders or on total assets.
+
+246 | abrdn.com | Annual report 2023
+
+---
+
+(a)(v)(i) Equity securities and interests in pooled investment funds/ liabilities in respect of third party interest in consolidated funds
+As noted above, of the level 3 equity securities and interests in pooled investment funds, £221m relates to private equity, real estate, hedge and infrastructure funds (2022: £219m) which are valued using net asset value statements. A 10% increase or decrease in the net asset value of these investments would increase or decrease the fair value of the investments by £22m (2022: £22m).
+
+(a)(v)(ii) Liabilities in respect of third party interest in consolidated funds
+As noted above, £70m of liabilities in respect of third party interest in consolidated funds of the level 3 equity securities and interests in pooled investment funds (2022: £74m) are also valued using net asset value statements. A 10% increase or decrease in the net asset value of these investments would increase or decrease the fair value of the liability by £7m (2022: £7m).
+
+(a)(v)(iii) Contingent consideration assets and liabilities and other financial instrument liabilities
+As noted above, the most significant unobservable inputs for level 3 instruments relate to assumptions used to value the contingent consideration related to the purchase of Tritax. Sensitivities for reasonably possible changes to key assumptions are provided in the table below.
+
+| Assumption | Change in assumption | Consequential increase/(decrease) in contingent consideration liability |
+| --- | --- | --- |
+|  |  | 2023 £m |
+| Revenue compound annual growth rate (CAGR) from 31 March 2023 to 31 March 2026 | Decreased by 5% | (17) |
+|  | Increased by 10% | 34 |
+| Cost/income ratio | Decreased by 5% | 14 |
+|  | Increased by 5% | (15) |
+| Discount rate | Decreased by 2% | 4 |
+|  | Increased by 2% | (4) |
+
+(b) Assets and liabilities not carried at fair value
+The table below presents estimated fair values by level of the fair value hierarchy of non-unit linked financial assets and liabilities whose carrying value does not approximate fair value. Fair values of assets and liabilities are based on observable market inputs where available, or are estimated using other valuation techniques.
+
+| | | As recognised in the consolidated statement of financial position line item | | Fair value | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | 2023 | 2022 | 2023 | 2022 | Level 1 | | Level 2 | | Level 3 | |
+| | Notes | £m | £m | £m | £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m | 2023 £m | 2022 £m |
+| Assets | | | | | | | | | | | |
+| Debt securities | | 125 | 210 | 125 | 211 | – | - | 125 | 210 | – | 1 |
+| Liabilities | | | | | | | | | | | |
+| Subordinated liabilities | 30 | 599 | 621 | 534 | 550 | – | – | 534 | 550 | – | – |
+
+The estimated fair values for subordinated liabilities are based on the quoted market offer price.
+
+The carrying value of all other financial assets and liabilities measured at amortised cost approximates their fair value.
+
+Annual report 2023                 abrdn.com                 247
+
+---
+
+# Group financial statements continued
+
+## 37. Statement of cash flows
+
+The Group classifies cash flows in the consolidated statement of cash flows as arising from operating, investing or financing activities.
+
+Cash flows are classified based on the nature of the activity to which they relate and with consideration to generally accepted presentation adopted by peers. For activities related to asset management business, cash flows arising from the sale and purchase of debt securities and equity securities and interests in pooled investment funds, with the exception of those related to unit linked funds, are classified as cash flows arising from investing activities. For activities related to insurance business, including those related to unit linked funds, cash flows arising from the sale and purchase of debt securities and equity securities and interests in pooled investment funds are classified as cash flows arising from operating activities.
+
+For activities related to the acquisition and disposal of subsidiaries, associates and joint ventures, cash flows are classified as investing activities. The settlement of contingent and deferred amounts recognised on acquisitions and disposals are classified as investing activities where there is not considered to be a significant financing component of the related inflows or outflows.
+
+Purchases and sales of financial investments are presented on a gross basis except for purchases and sales of short-term instruments with a high turnover held in consolidated liquidity funds which are presented on a net basis.
+
+Dividends received from associates and joint ventures are presented as cash flows arising from operating activities.
+
+Movements in cash collateral held in relation to derivative contracts hedging subordinated debt are presented as cash flows arising from financing activities.
+
+The tables below provide further analysis of the balances in the consolidated statement of cash flows.
+
+### (a) Change in operating assets
+
+| | 2023 | 2022 |
+|---|---:|---:|
+| Equity securities and interests in pooled investment funds | 314 | 680 |
+| Debt securities | 13 | 89 |
+| Derivative financial instruments | 30 | (11) |
+| Receivables and other financial assets and other assets | (184) | 174 |
+| Assets held for sale | (16) | (16) |
+| Change in operating assets | 157 | 916 |
+
+Change in operating assets includes related non-cash items.
+
+### (b) Change in operating liabilities
+
+| | 2023 | 2022 |
+|---|---:|---:|
+| Other financial liabilities, provisions and other liabilities¹ | 76 | (179) |
+| Pension and other post-retirement benefit provisions | (48) | (44) |
+| Investment contract liabilities | (90) | (315) |
+| Change in liability for third party interest in consolidated funds | (53) | (196) |
+| Liabilities held for sale | 6 | 9 |
+| Change in operating liabilities | (109) | (725) |
+
+¹ The change in Other financial liabilities, provisions and other liabilities for the year ended 31 December 2022 of (£179m) includes £1m previously separately disclosed as Deferred income. The Group has made a presentational change to show Deferred income within Other financial liabilities.
+
+Change in operating liabilities includes related non-cash items.
+
+248 | abrdn.com | Annual report 2023
+
+---
+
+# (c) Other non-cash and non-operating items
+
+|  | 2023<br>£m | 2022<br>restated¹<br>£m |
+| --- | ---: | ---: |
+| Gain on sale of subsidiaries and other operations | (79) | – |
+| Profit on disposal of interests in associates | – | (6) |
+| (Gain)/loss on disposal or derecognition of property, plant and equipment | (6) | 7 |
+| Depreciation of property, plant and equipment | 32 | 39 |
+| Amortisation of intangible assets | 128 | 129 |
+| Impairment losses on intangible assets | 65 | 369 |
+| (Reversal of impairment)/impairment of interests in associates and joint ventures | (2) | 9 |
+| Impairment losses recognised on property, plant and equipment | 50 | 7 |
+| Reversal of impairment losses recognised on property, plant and equipment | (3) | – |
+| Movement in contingent consideration assets/liabilities | (23) | (35) |
+| Equity settled share-based payments | 24 | 24 |
+| Finance costs | 25 | 29 |
+| Share of profit or loss from associates and joint ventures accounted for using the equity method | (1) | (5) |
+| Other non-cash and non-operating items | 210 | 567 |
+
+1. Comparatives for 2022 have been restated for the implementation of IFRS 17. Refer Basis of preparation.
+
+# (d) Disposal of subsidiaries and other operations
+
+|  | Notes | 2023¹<br>£m |
+| --- | :---: | ---: |
+| Intangibles |  | 59 |
+| Other assets of operations disposed of |  | 30 |
+| Other liabilities of operations disposed of |  | (12) |
+| Net assets disposed of |  | 77 |
+| Items transferred to profit or loss on disposal of subsidiaries | 1 | (1) |
+| Fair value of deferred and contingent consideration |  | (5) |
+| Non-cash consideration | 1 | (3) |
+| Gain on sale | 1 | 79 |
+| Transaction costs |  | 13 |
+| Total cash consideration |  | 160 |
+| Cash and cash equivalents disposed of |  | (21) |
+| Cash inflow from disposal of subsidiary |  | 139 |
+
+1. Relates to a number of 2023 disposals. Refer Note 1(c)(i) for further details.
+
+There were no operations disposed of in the year ended 31 December 2022.
+
+# (e) Movement in subordinated liabilities
+The following table reconciles the movement in subordinated liabilities in the year, split between cash and non-cash items.
+
+|  | 2023<br>£m | 2022<br>£m |
+| --- | ---: | ---: |
+| At 1 January | 621 | 644 |
+| Cash flows from financing activities |  |  |
+| Repayment of subordinated liabilities | – | (92) |
+| Interest paid¹ | (13) | (31) |
+| Cash flows from financing activities | (13) | (123) |
+| Non-cash items |  |  |
+| Interest expense | 26 | 30 |
+| Foreign exchange adjustment | (35) | 70 |
+| At 31 December | 599 | 621 |
+
+1. Interest paid on subordinated liabilities and other equity in the consolidated statement of cash flows of £20m (2022: £34m) includes an inflow of £4m (2022: £8m) in relation to the related cash flow hedge (refer Note 18) and an outflow of £11m (2022: £11m) in relation to other equity (refer Note 28). Other movements in the fair value of the cash flow hedge relate to non-cash movements. Cash collateral held in respect of derivative contracts of £40m (2022: £109m) in Other financial liabilities (refer Note 32) includes collateral held in respect of the cash flow hedge of £39m (2022: £89m).
+
+Annual report 2023 | abrdn.com | 249
+
+---
+
+# Group financial statements continued
+
+(f) Movement in lease liabilities
+The following table reconciles the movement in lease liabilities in the year, split between cash and non-cash items.
+
+| | 2023 | 2022 |
+| --- | ---: | ---: |
+| | £m | £m |
+| At 1 January | 224 | 225 |
+| **Cash flows from financing activities** | | |
+| Payment of lease liabilities – principal | (24) | (46) |
+| Payment of lease liabilities – interest | (6) | (6) |
+| Cash flows from financing activities | (30) | (52) |
+| **Non-cash items** | | |
+| Additions | 28 | 46 |
+| Disposals and adjustments | (2) | (8) |
+| Interest capitalised | 6 | 6 |
+| Foreign exchange adjustment | (3) | 7 |
+| At 31 December | 223 | 224 |
+
+## 38. Contingent liabilities and contingent assets
+
+Contingent liabilities are possible obligations of the Group of which timing and amount are subject to significant uncertainty. Contingent liabilities are not recognised on the consolidated statement of financial position but are disclosed, unless they are considered remote. If such an obligation becomes probable and the amount can be measured reliably it is no longer considered contingent and is recognised as a liability.
+
+Conversely, contingent assets are possible benefits to the Group. Contingent assets are only disclosed if it is probable that the Group will receive the benefit. If such a benefit becomes virtually certain it is no longer considered contingent and is recognised as an asset.
+
+### Legal proceedings, complaints and regulations
+The Group is subject to regulation in all of the territories in which it operates investment management and insurance businesses. In the UK, where the Group primarily operates, the FCA has broad powers, including powers to investigate marketing and sales practices.
+
+The Group, like other financial organisations, is subject to legal proceedings, complaints and regulatory and tax authority discussions and reviews in the normal course of its business. All such material matters are periodically reassessed, with the assistance of external professional advisers where appropriate, to determine the likelihood of the Group incurring a liability. Where it is concluded that it is more likely than not that a material outflow will be made a provision is established based on management's best estimate of the amount that will be payable. A subsidiary of the Group is currently responding to certain information requests from an overseas Tax Authority in connection with its Income Tax Return. Interpretation of tax legislation is complex and therefore, as part of the normal course of business, local tax authorities may sometimes request further information in order to clarify facts and technical approach. These types of enquiries can sometimes be prolonged due to inherent complexity. At this stage of enquiry, it is not possible to reliably predict the outcome.
+
+There are no other identified contingent liabilities expected to lead to a material exposure.
+
+250 | abrdn.com | Annual report 2023
+
+---
+
+# 39. Commitments
+
+The Group has contractual commitments which will be payable in future periods. These commitments are not recognised on the Group's statement of financial position at the year end but are disclosed to give an indication of the Group's future committed cash flows.
+
+## (a) Unrecognised financial instruments
+As at 31 December 2023, the Group has committed to investing an additional £67m (2022: £72m) into funds in which it holds a co-investment interest.
+
+## (b) Capital commitments
+As at 31 December 2023, the Group has no capital commitments other than in relation to financial instruments (2022: £2m).
+
+In addition, the Group has commitments relating to future acquisitions.
+- In February 2021, the Group announced the purchase of certain products in the Phoenix Group's savings business offered through abrdn's Wrap platform, comprising a self-invested pension plan (SIPP) and an onshore bond product, together with the Phoenix Group's trustee investment plan (TIP) business for UK pension scheme clients. The transaction is not expected to fully complete before 2025 and is subject to regulatory and court approvals. The upfront consideration paid by the Group in February 2021 was £62.5m, which is offset in part by payments from Phoenix to the Group relating to profits of the products prior to completion of the legal transfer. The net amount of consideration paid is included in prepayments in the consolidated statement of financial position with cash movements in relation to the consideration included in prepayment in respect of potential acquisition of customer contracts in the consolidated statement of cash flows.
+- At 31 December 2023, the Group had other commitments for the cost of obtaining customer contracts for £22m. These commitments are still subject to the satisfaction of certain conditions.
+
+Annual report 2023 | abrdn.com | 251
+
+---
+
+# Group financial statements continued
+
+## 40. Employee share-based payments and deferred fund awards
+
+The Group operates share incentive plans for its employees. These generally take the form of an award of options, conditional awards or restricted shares in abrdn plc (equity-settled share-based payments) but can also take the form of a cash award based on the share price of abrdn plc (cash-settled share-based payments). The Group also incentivises certain employees through the award of units in Group managed funds (deferred fund awards) which are cash-settled. All the Group's incentive plans have conditions attached before the employee becomes entitled to the award. These can be performance and/or service conditions (vesting conditions) or the requirement of employees to save in the save-as-you-earn scheme (non-vesting condition). The period over which all vesting conditions are satisfied is the vesting period and the awards vest at the end of this period.
+
+For all share-based payments, services received for the incentive granted are measured at fair value.
+
+For equity-settled share-based payment transactions, the fair value of services received is measured by reference to the fair value of the equity instruments at the grant date. The fair value of the number of instruments expected to vest is charged to the income statement over the vesting period with a corresponding credit to the equity compensation reserve in equity.
+
+At each period end the Group reassesses the number of equity instruments expected to vest and recognises any difference between the revised and original estimate in the consolidated income statement with a corresponding adjustment to the equity compensation reserve.
+
+At the time the equity instruments vest, the amount recognised in the equity compensation reserve in respect of those equity instruments is transferred to retained earnings.
+
+For cash-settled share-based payment and deferred fund awards transactions, services received are measured at the fair value of the liability. The fair value of the liability is remeasured at each reporting date and any changes in fair value are recognised in the consolidated income statement.
+
+The following plans made awards during the year ended 31 December 2023:
+
+| Plan | Options | Conditional awards | Restricted shares | Typical vesting period (years) | Contractual life for options | Recipients | Conditions which must be met prior to vesting |
+|------|---------|-------------------|-------------------|-------------------------------|------------------------------|------------|-------------------------------------------|
+| abrdn plc Deferred Share Plan/ Discretionary Share Plan/Executive LTIP Plan¹ | Yes | Yes | No | 1-3 years (3 years for Executive LTIP) | Up to 10 years from date of grant | Executives and senior management | Service, or service and performance conditions. These can be tailored to the individual award. |
+| Sharesave (Save-as-you-earn) | Yes | No | No | 3 or 5 | Up to six months after vesting | UK and Irish employees | Service only |
+| Share incentive plan | No | No | Yes | 3 years | Not applicable | UK and Irish employees | Service only |
+
+¹ Included in Deferred and discretionary share plans in Section (b)(i) below.
+
+All of the awards made under these plans are equity-settled except for a small number of cash-settled awards for the deferred and discretionary share plans (see Section (d)(ii) below).
+
+The fair value of awards granted under the Group's incentive schemes is determined using a relevant valuation technique, such as the Black Scholes option pricing model. The fair value of awards is recharged to employing entities over the life of the awards.
+
+The awards made under the deferred and discretionary share plans include awards for deferred bonuses of the prior year. With the exception of the Executive Incentive Plan (EIP) awards, the deferred bonus awards have service conditions of one, two and three years after the date of the award and no outstanding performance conditions. The awards for deferred bonus for executive Directors in 2020 were made under the conditions of the EIP including a performance underpin.
+
+The awards made include the awards for executive Directors under the Executive LTIP plan and certain awards under the deferred and discretionary share plans to senior management with specific performance conditions.
+
+Further details of the EIP and the Executive LTIP are set out in the Directors' remuneration report.
+
+The deferred and discretionary share plans also made a number of deferred fund awards in the year end 31 December 2023 (see Section (d)(i) below).
+
+252 | abrdn.com | Annual report 2023
+
+---
+
+Options and conditional awards are all at nil cost with the exception of Sharesave where eligible employees in the UK and Ireland save a monthly amount from their salaries, over either a three or five year period, which can be used to purchase shares in the Company at a predetermined price.
+
+The share incentive plan allows employees the opportunity to buy up to £1,800 of shares from their salary each year with the Group matching up to £600 per year. The matching shares awarded are granted each month but are restricted for three years (two years for Ireland).
+
+In addition, the Group operates the following plans for which there are outstanding awards but for which no awards were made during the year ended 31 December 2023:
+
+| Plan | Options | Conditional awards | Restricted shares | Typical vesting period (years) | Contractual life for options | Recipients | Conditions which must be met prior to vesting |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Aberdeen Asset Management Deferred Share Plan 2009¹ | Yes | No | No | 1-3 (3-5 for executive management) | Up to 10 years from date of grant | Executives and senior management | Service only. There are no outstanding performance conditions at date of grant. |
+| Aberdeen Asset Management USA Deferred Share Award Plan | No | Yes | No | 1-3 (3-5 for executive management) | Not applicable | US based executives and senior management | Service only. There are no outstanding performance conditions at date of grant. |
+
+1. Included in Annual bonus deferred share options Section (b)(i) below.
+
+The Group also operated the following plans for which no awards were made during the year ended 31 December 2023 and for which all outstanding awards were exercised by 31 December 2022:
+
+| Plan | Options | Conditional awards | Restricted shares | Typical vesting period (years) | Contractual life for options | Recipients | Conditions which must be met prior to vesting |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Standard Life Restricted stock plan (RSP) | Yes | No | No | 1-3 | Up to six months after vesting | Executives (other than executive Directors) and senior management | Service, or service and performance conditions. These are tailored to the individual award. |
+
+(a) Employee share-based payments and deferred fund awards expense
+The amounts recognised as an expense for equity-settled share-based payment transactions and deferred fund awards with employees are as follows:
+
+| | 2023 | 2022 |
+| --- | --- | --- |
+| | £m | £m |
+| Share options and share awards granted under deferred and discretionary share plans¹ | 22 | 22 |
+| Share options granted under Sharesave | 1 | 1 |
+| Matching shares granted under share incentive plans | 1 | 1 |
+| Equity-settled share-based payments | 24 | 24 |
+| Cash-settled deferred fund awards² | 7 | 2 |
+| Total expense | 31 | 26 |
+
+1. Includes expense for annual bonus deferred share options and conditional awards.
+2. The expense for cash-settled deferred fund awards includes £3m (2022: £2m) for awards related to funds which are consolidated.
+
+Included in the expense above is £12m (2022: £6m) which is included in Restructuring and corporate transaction expenses in the consolidated income statement.
+
+Annual report 2023    abrdn.com    253
+
+---
+
+# Group financial statements continued
+
+## (b) Options and conditional awards granted
+### (b)(i) Deferred and discretionary share plans
+The number and remaining contractual life for options outstanding and the share price at exercise of options exercised during the year are as follows:
+
+| | 2023 | | 2022 | |
+|---|---|---|---|---|
+| | Deferred and discretionary share plans | Annual bonus deferred share options | Deferred and discretionary share plans | Annual bonus deferred share options |
+| Outstanding at 1 January | 61,117,377 | 5,574,422 | 37,133,812 | 6,604,504 |
+| Granted | 7,847,719 | – | 45,752,914 | – |
+| Forfeited | (15,690,306) | (58,611) | (3,540,675) | – |
+| Exercised | (9,904,530) | (1,662,020) | (18,228,674) | (1,030,082) |
+| Outstanding at 31 December | 43,370,260 | 3,853,791 | 61,117,377 | 5,574,422 |
+| Exercisable at 31 December | 6,840,715 | 3,853,791 | 3,907,131 | 5,418,292 |
+| Remaining contractual life of options outstanding (years)¹ | 5.96 | 2.70 | 6.45 | 3.56 |
+| Options exercised during the year | – | – | – | – |
+| Share price at time of exercise¹ | 198p | 204p | 194p | 189p |
+
+¹. Weighted average.
+
+The options granted under the deferred and discretionary share plans were made throughout the year ended 31 December 2023 with a main grant date of 11 April 2023 and had a £nil exercise price. The weighted average option term was 2.52 years. The weighted average share price at grant date was 194p and the weighted average fair value at grant date was 172p. The options include an entitlement to the receipt of dividends in respect of awards that ultimately vest between the date of grant and the vesting date.
+
+In addition to nil costs options, 357,888 nil cost conditional awards were also granted under the deferred and discretionary share plans (2022: 2,464,050) with a weighted average share price at grant date of 194p which was also the weighted average fair value at grant date.
+
+### (b)(ii) Standard Life RSP
+As noted above the final RSP options were exercised in 2022.
+
+| | 2022 |
+|---|---|
+| | RSP |
+| Outstanding at 1 January | 3,372 |
+| Granted | – |
+| Forfeited | – |
+| Exercised | (3,372) |
+| Outstanding at 31 December | – |
+| Exercisable at 31 December | – |
+| Options exercised during the year | |
+| Share price at time of exercise¹ | 241p |
+
+¹. Weighted average.
+
+254 | abrdn.com | Annual report 2023
+
+---
+
+# (b)(iii) Sharesave
+
+The number, exercise price and remaining contractual life for options outstanding and the share price at exercise of options exercised during the year are as follows:
+
+|  | 2023 |  | 2022 |  |
+|---|---|---|---|---|
+|  | Sharesave | Weighted average exercise price for Sharesave | Sharesave | Weighted average exercise price for Sharesave |
+| Outstanding at 1 January | 9,981,563 | 143p | 7,862,031 | 203p |
+| Granted | 1,864,914 | 132p | 6,997,665 | 118p |
+| Forfeited | (501,929) | 154p | (165,551) | 191p |
+| Exercised | (440,123) | 186p | (46,727) | 200p |
+| Expired | (1,045,470) | 205p | (759,965) | 235p |
+| Cancelled | (749,465) | 154p | (3,905,890) | 197p |
+| Outstanding at 31 December | 9,109,490 | 130p | 9,981,563 | 143p |
+| Exercisable at 31 December | 774,894 | 173p | 1,390,636 | 206p |
+| Remaining contractual life of options outstanding (years)¹ | 2.85 |  | 3.12 |  |
+| Options exercised during the year |  |  |  |  |
+| Share price at time of exercise¹ | 201p |  | 223p |  |
+
+¹. Weighted average.
+
+The Sharesave options were granted on 10 October 2023 with an exercise price of 132p. The weighted average option term was 3.50 years. The weighted average share price at grant date was 161p and the weighted average fair value at grant date was 28p. Sharesave options have no dividend entitlement. In determining the fair value of options granted under the Sharesave scheme the historic volatility of the share price over a period of up to five years and a risk-free rate determined by reference to swap rates was also considered.
+
+The following table shows the range of exercise prices of Sharesave options outstanding.
+
+| | 2023 | 2022 |
+|---|---|---|
+| | Number of options outstanding | Number of options outstanding |
+| 117p-188p | 7,980,740 | 6,930,983 |
+| 189p-199p | 742,875 | 2,390,606 |
+| 200p-327p | 385,875 | 587,801 |
+| 328p-345p | – | 72,173 |
+| Outstanding at 31 December | 9,109,490 | 9,981,563 |
+
+## (c) Matching shares granted under share incentive plans
+
+During the year ended 31 December 2023, 338,001 matching shares were granted under the share incentive plan (2022: 490,814). The weighted average share price at grant date was 192p which was also the weighted average fair value at grant date. The plans include the entitlement to the receipt of dividends in respect of awards that ultimately vest between the date of grant and the vesting date.
+
+## (d) Deferred fund awards and cash settled share based payments
+
+### (d)(i) Deferred fund awards
+At 31 December 2023, the liability recognised for cash-settled deferred fund awards was £27m (2022: £44m). There is no liability (2022: £9m) for deferred fund awards relating to funds which are consolidated. The intrinsic value for vested deferred fund awards related to funds which were consolidated at 31 December 2022 was £6m.
+
+### (d)(ii) Cash settled share based payments
+At 31 December 2023, the liability recognised for cash-settled share based payments was £nil (2022: £nil).
+
+Annual report 2023 | abrdn.com | 255
+
+---
+
+# Group financial statements continued
+
+## 41. Related party transactions
+
+### (a) Transactions and balances with related parties
+In the normal course of business, the Group enters into transactions with related parties that relate to investment management and insurance businesses. In the year ended 31 December 2023, there have been no changes in the nature of these transactions.
+
+During the year, the Group recognised management fees of £2m (2022: £3m) from the Group's defined benefit pension plans. The Group's defined benefit pension plans have assets of £748m (2022: £847m) invested in investment vehicles managed by the Group.
+
+During the year, there were no sales to associates accounted for using the equity method in relation to management fees (2022: £nil) and no purchases in relation to services received (2022: £nil).
+
+During the year ended 31 December 2023, there were sales to joint ventures accounted for using the equity method of £4m (2022: £4m) and no purchases from joint ventures (2022: £nil). During the year ended 31 December 2023, the Group contributed no capital to a joint venture (2022: £2m). At 31 December 2023, there was no outstanding funding commitment to this joint venture (2022: £nil).
+
+The Group had no balances due to or from associates accounted for using the equity method as at 31 December 2023 (2022: £nil). The Group had no balances due from joint ventures as at 31 December 2023 (2022: £1m). There were no balances due to joint ventures (2022: £nil). During the year ended 31 December 2023, the Group contributed capital of £2m to an associate (2022: £3m). At 31 December 2023, the Group had no commitments to make capital contributions to an associate (2022: £2m).
+
+In addition to these transactions between the Group and the above related parties during the year, in the normal course of business the Group made a number of investments into/divestments from investment vehicles managed by the Group which may be considered to be related parties including investment vehicles which are classified as investments in associates measured at FVTPL. Group entities paid amounts for the issue of shares or units and received amounts for the cancellation of shares or units. Information in relation to unconsolidated structured entities can be found in Note 35.
+
+### (b) Compensation of key management personnel
+Key management personnel includes Directors of abrdn plc (since appointment) and the members of the executive leadership team (since appointment).
+
+The summary of compensation of key management personnel is as follows:
+
+| | 2023 | 2022 |
+|---|---:|---:|
+| Salaries and other short-term employee benefits | 10 | 11 |
+| Post-employment benefits | – | – |
+| Share-based payments and deferred fund awards | 7 | 6 |
+| Termination benefits | 1 | 2 |
+| Total compensation of key management personnel | 18 | 19 |
+
+### (c) Transactions with key management personnel and their close family members
+Certain members of key management personnel hold investments in investments products which are managed by the Group. None of the amounts concerned are material in the context of funds managed by the Group. All transactions between key management and their close family members and investments products which are managed by the Group during the year are on terms which are equivalent to those available to all employees of the Group.
+
+256 | abrdn.com | Annual report 2023
+
+---
+
+# 42. Capital management
+
+## (a) Capital and risk management policies and objectives
+Managing capital is the ongoing process of determining and maintaining the quantity and quality of capital appropriate for the Group and ensuring capital is deployed in a manner consistent with the expectations of our stakeholders. For these purposes, the Board considers our key stakeholders to be our clients, the providers of capital (our equity holders and holders of our subordinated liabilities) and the Financial Conduct Authority (FCA) as the lead prudential supervisor for the Group.
+
+There are two primary objectives of capital management within the Group. The first objective is to ensure that capital is, and will continue to be, adequate to maintain the required level of financial stability of the Group and hence to provide an appropriate degree of security to our stakeholders. The second objective is to create equity holder value by driving profit attributable to equity holders.
+
+The treasury and capital management policy, which is subject to review at least annually, forms one element of the Group's overall management framework. Most notably, it operates alongside and complements the strategic investment policy and the Group risk policies. Integrating policies in this way enables the Group to have a capital management framework that robustly links the process of capital allocation, value creation and risk management.
+
+Capital requirements are forecast on a periodic basis and assessed against the forecast available capital resources. In addition, rates of return achieved on capital invested are assessed against hurdle rates, which are intended to represent the minimum acceptable return given the risks associated with each investment. Ongoing monitoring of investments is incorporated into the Group's established performance management process. The capital planning process is the responsibility of the Chief Financial Officer. Capital plans are ultimately subject to approval by the Board.
+
+The formal procedures for identifying and assessing risks that could affect the capital position of the Group are described in the Risk management section of the Strategic report. Information on financial instruments risk is also provided in Note 34.
+
+## (b) Regulatory capital
+### (b)(i) Regulatory capital framework (unaudited)
+The Group is supervised under the Investment Firms Prudential Regime (IFPR). The Group's regulatory capital position under IFPR is determined by consolidating the eligible capital and reserves of the Group (subject to a number of deductions) to derive regulatory capital resources, and comparing this to the Group's regulatory capital requirements.
+
+Stress testing is completed to inform the appropriate level of regulatory capital and liquidity that the Group must hold, with results shared with the FCA at least annually. In addition, the Group monitors a range of capital and liquidity statistics on a daily, monthly or less frequent basis as required. Surplus capital levels are forecast, taking account of projected dividends and investment requirements, to ensure that appropriate levels of capital resources are maintained.
+
+The Group is required to hold capital resources to cover both the Own Funds Requirement and the Own Funds Threshold Requirement described below in complying with the Overall Financial Adequacy Rule.
+
+**Own Funds Requirement**  
+The Own Funds Requirement focuses on the Group's permanent minimum capital requirement, its fixed overhead requirement and its K-factor requirement with the own funds requirement being the highest of the three. At 31 December 2023, the Group's indicative Own Funds Requirement was £314m.
+
+**Own Funds Threshold Requirement**  
+The Own Funds Threshold Requirement supplements the own funds requirement via the Internal Capital Adequacy and Risk Assessment (ICARA), which is the means by which the Group assesses the level of capital that adequately supports all of the relevant current and future risks in its business, taking into account potential periods of financial stress during the economic cycle as well as a potential wind-down scenario with the own funds threshold requirement being the highest of the two, as per the Overall Financial Adequacy Rule. The results of the Group's ICARA process is subject to periodic review by the FCA under the Supervisory Review and Evaluation Process (SREP). The first review was conducted in 2023.
+
+Under IFPR the Group fully excludes the value of its holding in significant listed investments from its capital resources. IFPR also includes constraints on the proportion of the minimum capital requirement that can be met by each tier of capital. As a result, approximately £275m of Tier 2 capital, whilst continuing to be reported within the Group's capital resources, is not available to meet the minimum capital requirement.
+
+Annual report 2023 | abrdn.com | 257
+
+---
+
+# Group financial statements continued
+
+## (b)(ii) IFPR (unaudited)
+
+|  | 2023¹ | 2022 |
+| --- | ---: | ---: |
+| IFRS equity attributable to equity holders of abrdn plc | 4,878 | 5,628 |
+| Deductions for intangibles and defined benefit pension assets, net of related deferred tax liabilities | (2,168) | (2,319) |
+| Deductions for significant investments in financial sector entities | (780) | (1,366) |
+| Deductions for non-significant investments in financial sector entities | (12) | (229) |
+| Other deductions and adjustments, including provision for foreseeable dividend | (452) | (413) |
+| Common Equity Tier 1 capital resources | 1,466 | 1,301 |
+| Additional Tier 1 capital resources | 207 | 207 |
+| Total Tier 1 capital resources | 1,673 | 1,508 |
+| Tier 2 capital resources | 539 | 621 |
+| Total regulatory capital resources | 2,212 | 2,129 |
+|  |  |  |
+| Total regulatory capital requirement | (1,054) | (1,054) |
+|  |  |  |
+| CET1 capital requirement² | (590) | (590) |
+| Surplus CET1 regulatory capital | 876 | 711 |
+|  |  |  |
+| Own Funds Requirement | 314 | 319 |
+| CET1 ratio (CET1 as % of Own Funds Requirement) | 467% | 408% |
+
+1. 2023 draft position on 26 February 2024 following finalisation of the Annual report and accounts.
+2. 56% of total regulatory capital requirement.
+
+The Group has complied with all externally imposed capital requirements during the year.
+
+## 43. Events after the reporting date
+
+On 24 January 2024, the Group announced a new transformation programme targeting an annualised cost reduction of at least £150m by the end of 2025. The bulk of the savings will be in non-staff costs. However, the programme is expected to result in the reduction of approximately 500 roles. To achieve the desired simplification and cost savings, total implementation costs are estimated to be around £150m.
+
+On 14 February 2024, the agreed sale of the Group's interest in Virgin Money UTM to its joint venture partner, Clydesdale Bank, was announced. The interest in Virgin Money UTM does not form part of the Group's reportable segments. The sale is expected to complete in H1 2024. The Group's interest in Virgin Money UTM was classified as held for sale at 31 December 2023 (refer Note 21). The sale is expected to result in an IFRS profit on disposal of interests in joint ventures of approximately £11m.
+
+258 | abrdn.com | Annual report 2023
+
+---
+
+# 44. Related undertakings
+
+The Companies Act 2006 requires disclosure of certain information about the Group's related undertakings which is set out in this Note. Related undertakings are subsidiaries, joint ventures, associates and other significant holdings. In this context significant means either a shareholding greater than or equal to 20% of the nominal value of any class of shares, or a book value greater than 20% of the Group's assets.
+
+The particulars of the Company's related undertakings at 31 December 2023 are listed below. For details of the Group's consolidation policy refer to (b) Basis of consolidation in the Presentation of consolidated financial statements section. Under that policy limited partnerships and limited liability companies in which the Group has no interest but whose general partner or manager is controlled by the Group are not consolidated. However, such limited partnerships are considered to be subsidiaries under Companies Act 2006 and therefore are listed below. Where the Group has no interest in a limited partnership or limited liability company that is considered a related entity, the interest held is disclosed as 0%.
+
+The ability of subsidiaries to transfer cash or other assets within the Group for example through payment of cash dividends is generally restricted only by local laws and regulations, and solvency requirements. Included in equity attributable to equity holders of abrdn plc at 31 December 2023 is £94m (2022: £90m) related to the abrdn Financial Fairness Trust, a subsidiary undertaking of the Group. The assets of the abrdn Financial Fairness Trust are restricted to be used for charitable purposes.
+
+The registered head office of all related undertakings is 1 George Street, Edinburgh, EH2 2LL unless otherwise stated.
+
+## (a) Direct subsidiaries
+
+| Name of related undertaking | Share class¹ | % interest held² |
+|----------------------------|-------------|-----------------|
+| 30 STMA 1 Limited³ | Ordinary shares | 100% |
+| 30 STMA 2 Limited³ | Ordinary shares | 100% |
+| 30 STMA 3 Limited³ | Ordinary shares | 100% |
+| 30 STMA 4 Limited³ | Ordinary shares | 100% |
+| 30 STMA 5 Limited³ | Ordinary shares | 100% |
+| 6 SAS 3 Limited³ | Ordinary shares | 100% |
+| Aberdeen Corporate Services Limited | Ordinary shares | 100% |
+| abrdn Charitable Foundation⁴ | N/A | 100% |
+| abrdn Client Management Limited | Ordinary shares | 100% |
+| abrdn Finance Limited | Ordinary shares | 100% |
+| abrdn Financial Fairness Trust | N/A | 100% |
+| abrdn Financial Planning Limited³ | Ordinary shares | 100% |
+| abrdn Holdings Limited⁴ | Ordinary shares | 100% |
+| abrdn Investments (Holdings) Limited | Ordinary shares | 100% |
+| abrdn (Mauritius Holdings) 2006 Limited⁵ | Ordinary shares | 100% |
+| Antler Holdco Limited⁶ | Ordinary shares | 100% |
+| Interactive Investor Limited⁷ | Ordinary shares | 100% |
+| Focus Business Solutions Limited⁸ | Ordinary shares | 100% |
+| Standard Life Aberdeen Trustee Company Limited | Ordinary shares | 100% |
+| Standard Life Savings Limited | Ordinary shares | 100% |
+| The abrdn Company 2006 | N/A | 100% |
+| Threesixty Services LLP⁹ | Limited Liability Partnership | 100% |
+| Threesixty Support LLP⁹ | Limited Liability Partnership | 100% |
+
+## (b) Other subsidiaries
+
+| Name of related undertaking | Share class¹ | % interest held² |
+|----------------------------|-------------|-----------------|
+| 6 SAS 1 Limited | Ordinary shares | 100% |
+| 6 SAS 2 Limited | Ordinary shares | 100% |
+| Aberdeen ACM Team LP⁴ | Limited Partnership | 0% |
+| Aberdeen ACP LLP⁴ | Limited Liability Partnership | 100% |
+| Aberdeen Asia III Property Fund Of Funds¹⁰ | SIF fund with only Class A1 Units | 2% |
+| Aberdeen Asia IV (General Partner) S.a.r.l.¹¹ | Ordinary shares | 100% |
+| Aberdeen Asia Pacific Fund, LP¹² | Limited Partnership | 0% |
+| Aberdeen Asia Pacific Fund II, LP¹² | Limited Partnership | 0% |
+| Aberdeen Asia Pacific II (Offshore), LP¹² | Limited Partnership | 0% |
+| Aberdeen Asia Pacific III Ex-Co-Investment (Offshore), LP¹² | Limited Partnership | 0% |
+
+Annual report 2023 | abrdn.com | 259
+
+---
+
+# Group financial statements continued
+
+| Name of related undertaking | Share class<sup>1</sup> | % interest held<sup>2</sup> |
+|----------------------------|------------------------|--------------------------|
+| Aberdeen Asia Pacific III Ex-Co-Investment, LP<sup>12</sup> | Limited Partnership | 0% |
+| Aberdeen Asia Pacific III, LP<sup>12</sup> | Limited Partnership | 0% |
+| Aberdeen Asia Partners III, LP<sup>13</sup> | Limited Partnership | 0% |
+| Aberdeen ASIF Carry LP<sup>4</sup> | Limited Partnership | 25% |
+| Aberdeen Asset Management (Thailand) Ltd<sup>14</sup> | Ordinary shares | 100% |
+| Aberdeen Asset Management Denmark A/S<sup>15</sup> | Ordinary shares | 100% |
+| Aberdeen Asset Management Finland Oy<sup>16</sup> | Ordinary shares | 100% |
+| Aberdeen Claims Administration, Inc.<sup>17</sup> | Ordinary shares | 100% |
+| Aberdeen Co-Investment Mandate LP<sup>4</sup> | Limited Partnership | 0% |
+| Aberdeen Direct Property (Holding) Limited<sup>3</sup> | Ordinary shares | 100% |
+| Aberdeen Emerging Asia Fund, LP<sup>12</sup> | Limited Partnership | 0% |
+| Aberdeen Emerging Asia Pacific II (Offshore), LP<sup>12</sup> | Limited Partnership | 0% |
+| Aberdeen Emerging Asia Pacific III Ex-Co-Investments, LP<sup>12</sup> | Limited Partnership | 0% |
+| Aberdeen Energy & Resource Company IV, LLC<sup>13</sup> | Limited Liability Company | 73% |
+| Aberdeen Energy & Resources Company V, LLC<sup>13</sup> | Limited Liability Company | 93% |
+| Aberdeen Energy & Resources Partners II, LP<sup>13</sup> | Limited Partnership | 0% |
+| Aberdeen Energy & Resources Partners III, LP<sup>13</sup> | Limited Partnership | 0% |
+| Aberdeen Energy & Resources Partners IV, LP<sup>13</sup> | Limited Partnership | 1% |
+| Aberdeen Energy & Resources Partners V, LP<sup>13</sup> | Limited Partnership | 2% |
+| Aberdeen European Infrastructure Carry GP Limited<sup>4</sup> | Ordinary shares | 100% |
+| Aberdeen European Infrastructure Carry Limited<sup>4</sup> | Ordinary shares | 100% |
+| Aberdeen European Infrastructure Co-Invest II LP<sup>3</sup> | Limited Partnership | 0% |
+| Aberdeen European Infrastructure GP II Limited<sup>3</sup> | Ordinary shares | 100% |
+| Aberdeen European Infrastructure GP III Limited<sup>3</sup> | Ordinary shares | 100% |
+| Aberdeen European Infrastructure GP Limited<sup>3</sup> | Ordinary shares | 100% |
+| Aberdeen European Infrastructure III A Limited<sup>3</sup> | Ordinary shares | 100% |
+| Aberdeen European Infrastructure III B Limited<sup>3</sup> | Ordinary shares | 100% |
+| Aberdeen European Infrastructure IV Ltd<sup>3</sup> | Ordinary shares | 100% |
+| Aberdeen European Infrastructure Partners Carry LP<sup>4</sup> | Limited Partnership | 25% |
+| Aberdeen European Infrastructure Partners Carry II LP<sup>4</sup> | Limited Partnership | 25% |
+| Aberdeen European Infrastructure Partners Carry III LP<sup>4</sup> | Limited Partnership | 25% |
+| Aberdeen European Infrastructure Partners LP<sup>3</sup> | Limited Partnership | 3% |
+| Aberdeen European Infrastructure Partners II LP<sup>3</sup> | Limited Partnership | 2% |
+| Aberdeen European Infrastructure Partners III LP<sup>3</sup> | Limited Partnership | 5% |
+| Aberdeen European Opportunities Property Fund of Funds LLC<sup>18</sup> | Limited Liability Company | 3% |
+| Aberdeen European Residential Opportunities Fund SCSp<sup>10</sup> | Limited Partnership | 0% |
+| Aberdeen Fund Distributors LLC<sup>17</sup> | Limited Liability Company | 100% |
+| Aberdeen Fund Management II Oy<sup>16</sup> | Ordinary shares | 100% |
+| Aberdeen General Partner 1 Limited<sup>4</sup> | Ordinary shares | 100% |
+| Aberdeen General Partner 2 Limited<sup>4</sup> | Ordinary shares | 100% |
+| Aberdeen General Partner CAPELP Limited<sup>12</sup> | Ordinary shares | 100% |
+| Aberdeen General Partner CGPLP Limited<sup>12</sup> | Ordinary shares | 100% |
+| Aberdeen General Partner CMENAPELP Limited<sup>12</sup> | Ordinary shares | 100% |
+| Aberdeen General Partner CPELP II Limited<sup>12</sup> | Ordinary shares | 100% |
+| Aberdeen General Partner CPELP Limited<sup>12</sup> | Ordinary shares | 100% |
+| Aberdeen Global ex-Japan Property Fund of Funds LP<sup>12</sup> | Limited Partnership | 5% |
+| Aberdeen Global ex-Japan GP Limited<sup>12</sup> | Ordinary shares | 100% |
+| Aberdeen Global Infrastructure Carry GP Limited<sup>4</sup> | Ordinary shares | 100% |
+| Aberdeen Global Infrastructure GP II Limited<sup>19</sup> | Ordinary shares | 100% |
+| Aberdeen Global Infrastructure GP Limited<sup>19</sup> | Ordinary shares | 100% |
+| Aberdeen Global Infrastructure Partners II Carry LP<sup>4</sup> | Limited Partnership | 25% |
+| Aberdeen Global Infrastructure Partners II LP<sup>20</sup> | Limited Partnership | 0% |
+| Aberdeen Global Infrastructure Partners III Carry LP | Limited Partnership | 25% |
+| Aberdeen Global Infrastructure Partners LP<sup>20</sup> | Limited Partnership | 0% |
+
+260 abrdn.com Annual report 2023
+
+---
+
+| Name of related undertaking | Share class¹ | % interest held² |
+|----------------------------------|------------|---------------|
+| Aberdeen GP 1 LLP⁴ | Limited Liability Partnership | 100% |
+| Aberdeen GP 2 LLP⁴ | Limited Liability Partnership | 100% |
+| Aberdeen GP 3 LLP⁴ | Limited Liability Partnership | 100% |
+| Aberdeen Indirect Property Partners II FCP-FIS¹⁰ | Class A1, A2 and A3 units | 1% |
+| Aberdeen Infrastructure Feeder GP Limited⁴ | Ordinary shares | 100% |
+| Aberdeen Infrastructure Finance GP Limited¹⁹ | Ordinary shares | 100% |
+| Aberdeen Infrastructure GP II Limited³ | Ordinary shares | 100% |
+| Aberdeen Infrastructure Partners II Carry LP⁴ | Limited Partnership | 25% |
+| Aberdeen Infrastructure Partners II LP³ | Limited Partnership | 0% |
+| Aberdeen Infrastructure Partners LP Inc²⁰ | Limited Partnership | 0% |
+| Aberdeen Investment Company Limited⁴ | Ordinary shares | 100% |
+| Aberdeen Keva Asia IV Property Partners SCSp¹¹ | Limited Partnership | 1% |
+| Aberdeen Pension Trustees Limited⁴ | Ordinary shares | 100% |
+| Aberdeen Pooling II GP AB²¹ | Ordinary shares | 100% |
+| Aberdeen Property Fund Management Estonia Ou²² | Ordinary shares | 100% |
+| Aberdeen Property Investors (General Partner) S.a.r.l.²³ | Ordinary shares | 100% |
+| Aberdeen Property Investors Estonia Ou²² | Ordinary shares | 100% |
+| Aberdeen Property Investors Limited Partner Oy¹⁶ | Ordinary shares | 100% |
+| Aberdeen Property Investors The Netherlands BV²⁴ | Ordinary shares | 100% |
+| Aberdeen Property Secondaries Partners II¹⁰ | Limited Partnership | 23% |
+| Aberdeen Real Asset Partners, LP¹³ | Limited Partnership | 0% |
+| Aberdeen Real Estate Fund Finland II LP²⁵ | Limited Partnership | 100% |
+| Aberdeen Real Estate Partners II, LP¹³ | Limited Partnership | 0% |
+| Aberdeen Real Estate Partners III, LP¹³ | Limited Partnership | 0% |
+| Aberdeen Secondaries II GP S.a.r.l.¹⁰ | Ordinary shares | 100% |
+| Aberdeen Sidecar LP Inc²⁰ | Limited Partnership | 0% |
+| Aberdeen Standard 2019 European PE A Carry LP | Limited Partnership | 40% |
+| Aberdeen Standard 2019 European PE B Carry LP | Limited Partnership | 40% |
+| Aberdeen Standard Carlsbad Carry LP⁴ | Limited Partnership | 25% |
+| Aberdeen Standard Carlsbad GP Limited¹⁹ | Ordinary shares | 100% |
+| Aberdeen Standard Carlsbad LP²⁰ | Limited Partnership | 0% |
+| Aberdeen Standard Global Infrastructure Partners III LP²⁰ | Limited Partnership | 5% |
+| Aberdeen Standard Core Infrastructure III LTP LP | Limited Partnership | 25% |
+| Aberdeen Standard Core Infrastructure III SCSp¹⁰ | Limited Partnership | 1% |
+| Aberdeen Standard ECF II GP LP | Limited Partnership | 40% |
+| Aberdeen Standard European Infrastructure GP IV Limited³ | Ordinary shares | 100% |
+| Aberdeen Standard European Infrastructure Partners Carry IV LP | Limited Partnership | 25% |
+| Aberdeen Standard European Infrastructure Partners Co-invest IV LP³ | Limited Partnership | 0% |
+| Aberdeen Standard European Infrastructure Partners IV LP³ | Limited Partnership | 5% |
+| Aberdeen Standard European Long Income Real Estate Fund SCSp¹⁰ | Limited Partnership | 0% |
+| Aberdeen Standard Global Infrastructure GP III Ltd¹⁹ | Ordinary shares | 100% |
+| Aberdeen Standard Global Infrastructure Partners I (2021) Carry LP | Limited Partnership | 25% |
+| Aberdeen Standard Gulf Carry GP Limited⁴ | Ordinary shares | 100% |
+| Aberdeen Standard Gulf Carry LP⁴ | Limited Partnership | 12% |
+| Aberdeen Standard Investments Sweden AB²⁶ | Ordinary shares | 100% |
+| Aberdeen Standard Private Real Assets Co-Investment Fund I GP, LLC¹³ | Limited liability company | 80% |
+| Aberdeen Standard Private Real Assets Co-Investment Fund I, LLC¹³ | Limited Liability Company | 79% |
+| Aberdeen Standard Private Real Assets Co-Investment Fund I, LP¹³ | Limited Partnership | 1% |
+| Aberdeen Standard SOF IV Feeder LP | Limited Partnership | 0% |
+| Aberdeen Standard SOF IV GP LP | Limited Partnership | 25% |
+| Aberdeen Standard SOF IV LP | Limited Partnership | 0% |
+| Aberdeen Standard SOF Evergreen GP LP | Limited Partnership | 40% |
+| Aberdeen Standard SOF Evergreen LP | Limited Partnership | 0% |
+| Aberdeen Trust Limited⁴ | Ordinary shares | 100% |
+| Aberdeen UK Infrastructure Carry GP Limited⁴ | Ordinary shares | 100% |
+
+Annual report 2023 | abrdn.com | 261
+
+[IMAGE_DESCRIPTION:
+Type: Page footer/header
+Location: Right side of document
+Content: A vertical black bar with white text
+Text Elements: "FINANCIAL INFORMATION"
+Colors & Style: Black background with white text, vertical orientation
+Purpose: Section marker or page header
+]
+
+---
+
+# Group financial statements continued
+
+| Name of related undertaking | Share class¹ | % interest held² |
+|------------------------------|-------------|-----------------|
+| Aberdeen UK Infrastructure Carry Limited⁴ | Ordinary shares | 100% |
+| Aberdeen Unit Trust Managers Limited⁴ | Ordinary shares | 100% |
+| abrdn – Emerging Markets Equity ADR Fund¹³ | Corporate Fund | 100% |
+| abrdn - US SMID Cap Equity Fund¹³ | Corporate Fund | 100% |
+| abrdn III ICAV - abrdn Global Real Estate Active Thematics UCITS ETF²⁷ | ICAV | 91% |
+| abrdn Alternative Funds Limited | Ordinary shares | 100% |
+| abrdn Alternative Holdings Limited⁴ | Ordinary shares | 100% |
+| abrdn Alternative Investments Limited³ | Ordinary shares | 100% |
+| abrdn APAC PE 4 Executive Co-investment LP | Limited Partnership | 0% |
+| abrdn APAC Private Equity 4 LP¹² | Limited Partnership | 0% |
+| abrdn Asia Limited²⁸ | Ordinary shares | 100% |
+| abrdn Bloomberg Industrial Metals Strategy K-1 Free ETF²⁹ | ETF | 72% |
+| abrdn Brasil Investimentos Ltda³⁰ | Limited Liability Company | 100% |
+| abrdn Canada Funds - Global Smaller Companies Equity Fund³¹ | Private Commingled Fund | 100% |
+| abrdn Canada Limited³² | Ordinary shares | 100% |
+| abrdn Capital Partners LLP | Limited Liability Partnership | 100% |
+| abrdn Colombia SAS³³ | Ordinary shares | 100% |
+| abrdn Commercial Real Estate Debt LP³ | Limited Partnership | 0% |
+| abrdn Commercial Real Estate Debt II LP | Limited Partnership | 0% |
+| abrdn Corporate Secretary Limited | Ordinary shares | 100% |
+| abrdn CP (Holdings) Limited | Ordinary shares | 100% |
+| abrdn (CRED II) GP Limited | Ordinary shares | 100% |
+| abrdn Eclipse HFRI 500 SP¹² | Private Commingled Fund | 36% |
+| abrdn ETFs Advisors LLC¹³ | Limited liability company | 100% |
+| abrdn ETFs Sponsor LLC¹³ | Limited liability company | 100% |
+| abrdn European Property Growth Fund LP³ | Limited Partnership | 0% |
+| abrdn Financial Planning & Advice Limited³ | Ordinary A shares<br>Ordinary B shares | 100% |
+| abrdn Founder Co Limited | Ordinary shares | 100% |
+| abrdn Fund Managers Limited³ | Ordinary shares | 100% |
+| abrdn (General Partner CRED) Limited³ | Ordinary shares | 100% |
+| abrdn (General Partner ELIREF) S.a.r.l.¹⁰ | Ordinary shares | 100% |
+| abrdn (General Partner EPGF) Limited | Ordinary shares | 100% |
+| abrdn (General Partner PFF 2018) S.a.r.l.¹⁰ | Ordinary shares | 100% |
+| abrdn (General Partner SCF 1) Limited | Ordinary shares | 100% |
+| abrdn Global Absolute Return Strategies Offshore Feeder Fund Limited¹² | Ordinary shares | 100% |
+| abrdn Global Absolute Return Strategies Onshore Feeder Fund, LP¹³ | Limited Partnership | 0% |
+| abrdn Global Risk Mitigation Fund³⁴ | Unit Trust | 38% |
+| abrdn Hong Kong Limited³⁵ | Ordinary shares | 100% |
+| abrdn (IL Infrastructure Debt) GP Limited³ | Ordinary shares | 100% |
+| abrdn Inc.¹³ | Ordinary shares | 100% |
+| abrdn Inflation-Linked Infrastructure Debt LP³ | Limited Partnership | 0% |
+| abrdn Infrastructure Fibre Co-Investment SCSp¹⁰ | Limited Partnership | 100% |
+| abrdn Investment Management Limited | Ordinary shares | 100% |
+| abrdn Investments Beteiligungs GmbH³⁶ | Limited Liability Company | 90% |
+| abrdn Investments Deutschland AG³⁶ | Ordinary shares | 90% |
+| abrdn Investments (General Partner UK Shopping Centre Feeder Fund LP) Limited³ | Ordinary shares | 100% |
+| abrdn Investments Group Limited³ | Ordinary shares | 100% |
+| abrdn Investments Holdings Europe Limited³ | Ordinary shares | 100% |
+| abrdn Investments Ireland Limited³⁷ | Ordinary shares | 100% |
+| abrdn Investments Jersey Limited³⁸ | Ordinary shares | 100% |
+| abrdn Investments Limited⁴ | Ordinary shares | 100% |
+| abrdn Investments Luxembourg Corporate Manager S.a.r.l.¹⁰ | Ordinary shares | 100% |
+| abrdn Investments Luxembourg S.A.¹⁰ | Ordinary shares | 100% |
+| abrdn Investments Middle East Limited³⁹ | Ordinary shares | 100% |
+
+262       abrdn.com       Annual report 2023
+
+---
+
+| Name of related undertaking | Share class¹ | % interest held² |
+|---|---|---|
+| abrdn Investments Switzerland AG⁴⁰ | Ordinary shares | 100% |
+| abrdn Islamic Malaysia Sdn. Bhd.⁴¹ | Ordinary shares | 100% |
+| abrdn Japan Limited⁴² | Ordinary shares | 100% |
+| abrdn Jersey Limited⁴³ | Ordinary shares | 100% |
+| abrdn Korea Co. Limited.⁴⁴ | Ordinary shares | 100% |
+| abrdn Korea GP 2 Pte. Ltd⁴⁵ | Ordinary shares | 100% |
+| abrdn Korea Separate Account 2 LP⁴⁵ | Limited Partnership | 1% |
+| abrdn Life and Pensions Limited³ | Ordinary shares | 100% |
+| abrdn Liquidity Fund (Lux) - Seabury Sterling Liquidity 1 Fund¹⁰ | SICAV | 100% |
+| abrdn Malaysia Sdn. Bhd.⁴¹ | Ordinary shares Irredeemable non-convertible preference shares | 100% |
+| abrdn MSPC General Partner S.a.r.l.¹⁰ | Ordinary shares | 100% |
+| abrdn Multi-Sector Private Credit Fund SCSp¹⁰ | Limited Partnership | 3% |
+| abrdn Nominees Services HK Limited³⁵ | Ordinary shares | 100% |
+| abrdn OEIC I - abrdn China A Share Equity Fund³ | OEIC | 47% |
+| abrdn OEIC III - abrdn MyFolio Sustainable I Fund³ | OEIC | 46% |
+| abrdn OEIC III - abrdn MyFolio Sustainable Index I Fund³ | OEIC | 72% |
+| abrdn OEIC III - abrdn MyFolio Sustainable Index V Fund³ | OEIC | 32% |
+| abrdn OEIC III - abrdn Multi-Sector Credit Fund³ | OEIC | 100% |
+| abrdn OEIC V - abrdn Multi-Asset Climate Solutions Fund³ | OEIC | 84% |
+| abrdn Oceania Pty Ltd⁴⁶ | Ordinary shares | 100% |
+| Abrdn Pan European Residential Property Feeder S.C.A. SICAV RAIF¹⁰ | Limited Partnership | 0% |
+| abrdn Phoenix Fund Financing SCSp¹⁰ | Limited Partnership | 0% |
+| abrdn Poinsettia GP Ltd¹² | Ordinary shares | 100% |
+| abrdn Portfolio Investments abrdn Asia-China Bond⁴⁷ | Corporate Fund | 100% |
+| abrdn Portfolio Investments Limited | Ordinary shares | 100% |
+| abrdn Portfolio Investments US Inc.¹³ | Ordinary shares | 100% |
+| abrdn Portfolio Solutions Limited³ | Ordinary shares | 100% |
+| abrdn Premises Services Limited | Ordinary shares | 100% |
+| abrdn Private Equity (Europe) Limited | Ordinary shares | 100% |
+| abrdn Private Fund Management (Shanghai) Company Limited⁴⁸ | Ordinary shares | 100% |
+| abrdn Property Investors France SAS⁴⁹ | Ordinary shares | 100% |
+| abrdn Real Estate Operations Limited⁴ | Ordinary shares | 100% |
+| abrdn Secure Credit LP | Limited Partnership | 0% |
+| abrdn SICAV I - Asian Credit Sustainable Bond Fund¹⁰ | SICAV | 67% |
+| abrdn SICAV I - Asian Sustainable Development Equity Fund¹⁰ | SICAV | 93% |
+| abrdn SICAV I - CCBI Belt & Road Bond Fund¹⁰ | SICAV | 33% |
+| abrdn SICAV I - China Next Generation Fund¹⁰ | SICAV | 62% |
+| abrdn SICAV I - Asian High Yield Sustainable Bond Fund¹⁰ | SICAV | 99% |
+| abrdn SICAV I - Climate Transition Bond Fund¹⁰ | SICAV | 51% |
+| abrdn SICAV I - Global Climate & Environment Equity Fund¹⁰ | SICAV | 89% |
+| abrdn SICAV I - Global Mid-Cap Equity Fund¹⁰ | SICAV | 42% |
+| abrdn SICAV II - Multi Asset Climate Opportunities⁵⁰ | SICAV | 97% |
+| abrdn Si Yuan Private Fund Management (Shanghai) Company Limited⁴⁸ | Ordinary shares | 100% |
+| abrdn (SLSPS) Pension Trustee Company Ltd | Ordinary shares | 100% |
+| abrdn SPT Management Pte. Ltd.⁵¹ | Ordinary shares | 100% |
+| abrdn Pan European Residential Property Fund SICAV-RAIF¹⁰ | Limited Partnership | 0% |
+| abrdn UK Shopping Centre Feeder Fund Company Limited⁵² | Ordinary shares | 100% |
+| abrdn UK Shopping Centre Feeder Fund Limited Partnership³ | Limited Partnership | 100% |
+| ACM Carry LP⁴ | Limited Partnership | 40% |
+| AEROF (Luxembourg) GP S.a.r.l.¹⁰ | Ordinary shares | 100% |
+| AERP V-A Master, LP¹³ | Limited Partnership | 0% |
+| AIA Series T Holdings LLC¹⁸ | Limited liability company | 0% |
+| AIPP Folksam Europe¹⁰ | Limited Partnership | 0% |
+| AIPP Folksam Europe II Kommanditbolag²¹ | Limited Partnership | 0% |
+| AIPP Pooling I SA¹⁰ | Ordinary shares | 100% |
+
+Annual report 2023 | abrdn.com | 263
+
+---
+
+# Group financial statements continued
+
+| Name of related undertaking | Share class¹ | % interest held² |
+|----------------------------|-------------|-----------------|
+| Airport Industrial GP Limited⁵³ | Ordinary shares | 60% |
+| Airport Industrial Limited Partnership⁵⁴ | Limited Partnership | 0% |
+| Airport Industrial Nominees B Limited⁵³ | Ordinary shares | 60% |
+| Airport Industrial Nominees Limited⁵³ | Ordinary shares | 60% |
+| Aldwych Capital Partners, LP | Limited Partnership | 0% |
+| Alliance Trust Savings Limited | Ordinary shares | 100% |
+| Andean Social Infrastructure (No. 1) Limited³ | Ordinary shares | 100% |
+| Andean Social Infrastructure Fund I LP¹² | Limited Partnership | 5% |
+| Andean Social Infrastructure GP Limited¹² | Ordinary shares | 100% |
+| aPE NewCo 1 Limited | Ordinary shares | 100% |
+| aPE NewCo 2 Limited | Ordinary shares | 100% |
+| Arden Garden State NJ Fund, LP¹⁸ | Limited Partnership | 0% |
+| Arden Institutional Advisers, LP¹⁸ | Limited Partnership | 0% |
+| Arthur House (No.6) Limited³ | Ordinary shares | 100% |
+| Artio Global Investors Inc.¹⁷ | Ordinary shares | 100% |
+| ASI Direct RE GP LLP | Limited Liability Partnership | 100% |
+| ASI European Private Equity 2019 B LP¹³ | Limited Partnership | 0% |
+| ASI (General Partner 2019 European PE A Carry) Limited | Ordinary shares | 100% |
+| ASI (General Partner 2019 European PE A) S.a.r.l.¹⁰ | Ordinary shares | 100% |
+| ASI (General Partner 2019 European PE B) Limited | Ordinary shares | 100% |
+| ASI (General Partner 2019 European PE B) LLC¹³ | Ordinary shares | 0% |
+| ASI (General Partner ECF II) Limited | Ordinary shares | 100% |
+| ASI (General Partner PE2) Limited | Ordinary shares | 100% |
+| ASI (General Partner SOF IV) Limited | Ordinary shares | 100% |
+| ASI Han Co-Investment LP | Limited Partnership | 93% |
+| ASI (KFAS) RE GP LLP | Limited Liability Partnership | 100% |
+| ASI Little Mill Carry LP⁴ | Limited Partnership | 0% |
+| ASI Little Mill Co-Invest LP⁴ | Limited Partnership | 0% |
+| ASI Little Mill LP⁴ | Limited Partnership | 0% |
+| ASI Mid-Market 1 LP⁴ | Limited Partnership | 0% |
+| ASI MM Executive Co Investment LP⁴ | Limited Partnership | 0% |
+| ASI (NWPE 2021) Carry LP | Limited Partnership | 0% |
+| ASI PE 1 Carry LP⁴ | Limited Partnership | 40% |
+| ASI (PGPE III) GP LP | Limited Partnership | 40% |
+| ASI Phoenix Global Private Equity III LP | Limited Partnership | 0% |
+| ASI Private Equity 1 LP⁴ | Limited Partnership | 0% |
+| ASI Private Equity 2 GP LP | Limited Partnership | 40% |
+| ASI Private Equity 2 LP | Limited Partnership | 0% |
+| ASI REMM GP LLP⁴ | Limited Liability Partnership | 100% |
+| ASI Shin Co-Investment LP⁴ | Limited Partnership | 100% |
+| ASI Shin Global Investment GP Limited¹² | Ordinary shares | 100% |
+| ASI (SOF E GP) Limited | Ordinary shares | 100% |
+| ASIF Sidecar Carry LP⁴ | Limited Partnership | 25% |
+| ASPER (Luxembourg) GP S.a.r.l.¹⁰ | Ordinary shares | 100% |
+| BOSEMP Feeder LP⁴ | Limited Partnership | 0% |
+| Brain Co-Invest General Partner LLP | Limited Liability Partnership | 100% |
+| Brain Co-Invest LP | Limited Partnership | 0% |
+| Coutts Asian Private Equity Limited Partnership¹² | Limited Partnership | 0% |
+| Coutts Global Property Limited Partnership¹² | Limited Partnership | 0% |
+| Coutts Middle East and North Africa Private Equity Limited Partnership¹² | Limited Partnership | 0% |
+| Coutts Private Equity Limited Partnership¹² | Limited Partnership | 0% |
+| Coutts Private Equity Limited Partnership II¹² | Limited Partnership | 0% |
+| CPP General Partner Limited Partnership | Limited Partnership | 20% |
+| Edinburgh Fund Managers Group Limited⁴ | Ordinary shares | 100% |
+| Edinburgh Fund Managers Plc | Ordinary shares | 100% |
+| Edinburgh Unit Trust Managers Limited⁴ | Ordinary shares<br>Deferred shares | 100% |
+
+264     abrdn.com     Annual report 2023
+
+---
+
+| Name of related undertaking | Share class¹ | % interest held² |
+| --- | --- | --- |
+| Elevate Portfolio Services Limited³ | Ordinary shares | 100% |
+| Emerging Markets ex-China Equity Fund, a series of the aICF, LLC¹³ | Private Commingled Fund | 91% |
+| Emerging Markets Income Equity Fund, a series of the aICF, LLC¹³ | Private Commingled Fund | 99% |
+| ESF I Executive Co Investment Limited Partnership | Limited Partnership | 0% |
+| ESP 2004 Co Investment Limited Partnership | Limited Partnership | 0% |
+| ESP 2004 Conduit LP | Limited Partnership | 0% |
+| ESP 2004 General Partner Limited Partnership | Limited Partnership | 0% |
+| ESP 2006 Co Investment Limited Partnership | Limited Partnership | 0% |
+| ESP 2006 Conduit LP | Limited Partnership | 0% |
+| ESP 2006 General Partner Limited Partnership | Limited Partnership | 5% |
+| ESP 2008 Conduit LP | Limited Partnership | 0% |
+| ESP 2008 Executive Co Investment Limited Partnership | Limited Partnership | 0% |
+| ESP 2008 General Partner Limited Partnership | Limited Partnership | 0% |
+| ESP CPPIB European Mid Market Fund | Limited Partnership | 1% |
+| ESP General Partner Limited Partnership | Limited Partnership | 0% |
+| ESP Golden Bear Europe Fund | Limited Partnership | 3% |
+| ESP Golden Bear General Partner Limited Partnership | Limited Partnership | 0% |
+| ESP II Co Investment Limited Partnership | Limited Partnership | 0% |
+| ESP II Conduit LP | Limited Partnership | 0% |
+| ESP II General Partner Limited Partnership | Limited Partnership | 0% |
+| ESP Tidal Reach General Partner Limited Partnership | Limited Partnership | 20% |
+| ESP Tidal Reach LP | Limited Partnership | 1% |
+| European Strategic Partners | Limited Partnership | 0% |
+| European Strategic Partners - I LP⁵⁵ | Limited Partnership | 0% |
+| European Strategic Partners 2004 'A' | Limited Partnership | 0% |
+| European Strategic Partners 2004 'B' | Limited Partnership | 0% |
+| European Strategic Partners 2006 'A' | Limited Partnership | 0% |
+| European Strategic Partners 2006 'B' | Limited Partnership | 0% |
+| European Strategic Partners 2008 'A' | Limited Partnership | 0% |
+| European Strategic Partners 2008 'B' | Limited Partnership | 0% |
+| European Strategic Partners II 'A' | Limited Partnership | 0% |
+| European Strategic Partners II 'B' | Limited Partnership | 0% |
+| European Strategic Partners II 'C' | Limited Partnership | 0% |
+| European Strategic Partners II 'D' | Limited Partnership | 0% |
+| European Strategic Partners II 'E' | Limited Partnership | 0% |
+| European Strategic Partners Scottish 'B' | Limited Partnership | 0% |
+| European Strategic Partners Scottish 'C' | Limited Partnership | 0% |
+| Finimize Limited³ | Ordinary shares | 100% |
+| Flag Asia Company III, LLC¹³ | Limited liability company | 100% |
+| Flag Asia Company III, LP¹³ | Limited Partnership | 0% |
+| Flag Energy & Resource Company II, LLC¹³ | Limited liability company | 0% |
+| Flag Energy & Resource Company III, LLC¹³ | Limited liability company | 0% |
+| Flag Real Assets Company LLC¹³ | Limited liability company | 0% |
+| Flag Real Asset Company, LP¹³ | Limited Partnership | 0% |
+| Flag Real Estate Company II, LLC¹³ | Limited liability company | 0% |
+| Flag Real Estate Company III, LLC¹³ | Limited liability company | 0% |
+| Flag Squadron Asia Pacific III GP LP¹² | Limited Partnership | 100% |
+| Fraser Heath Financial Management Limited⁵⁶ | Ordinary shares | 100% |
+| FSA III EA SPV, LP¹² | Limited Partnership | 0% |
+| FSA III Pacific SPV, LP¹² | Limited Partnership | 0% |
+| Griffin Nominees Limited³ | Ordinary shares | 100% |
+| Ignis Asset Management Limited | Ordinary shares | 100% |
+| Ignis Cayman GP2 Limited¹² | Ordinary shares | 100% |
+| Ignis Cayman GP3 Limited¹² | Ordinary shares | 100% |
+| Ignis Investment Services Limited | Ordinary shares | 100% |
+| Ignis Private Equity Fund LP¹² | Limited Partnership | 0% |
+| Ignis Strategic Credit Fund LP¹² | Limited Partnership | 0% |
+
+Annual report 2023 | abrdn.com | 265
+
+---
+
+# Group financial statements continued
+
+| Name of related undertaking | Share class¹ | % interest held² |
+|---------------------------|------------|---------------|
+| Interactive Investor Services Limited⁷ | Ordinary shares | 100% |
+| Interactive Investor Services Nominees Limited⁷ | Ordinary shares | 100% |
+| Investor Nominees (Dundee) Limited | Ordinary shares | 100% |
+| Investor Nominees Limited⁷ | Ordinary shares | 100% |
+| Investor SIPP Trustees Ltd⁷ | Ordinary shares | 100% |
+| KFAS Real Estate Limited Partnership | Limited Partnership | 0% |
+| Local2Local Limited⁵³ | Ordinary shares | 60% |
+| Murray Johnstone Limited⁴ | Ordinary shares | 100% |
+| MYS Living Limited | Ordinary shares | 75% |
+| NASP 2006 General Partner Limited Partnership | Limited Partnership | 62% |
+| NASP 2006 Special Limited Partnership | Limited Partnership | 0% |
+| NASP 2008 General Partner Limited Partnership | Limited Partnership | 0% |
+| NASP 2008 Special Limited Partnership | Limited Partnership | 0% |
+| North American Strategic Partners 2006 LP¹⁷ | Limited Partnership | 0% |
+| North American Strategic Partners 2008 LP¹⁷ | Limited Partnership | 0% |
+| North American Strategic Partners (Feeder) 2006 | Limited Partnership | 0% |
+| North American Strategic Partners (Feeder) 2008 Limited Partnership | Limited Partnership | 0% |
+| North East Trustees Limited³ | Ordinary A shares<br>Ordinary B shares | 100% |
+| Orion Partners CLP Inc.⁵⁷ | Ordinary shares | 100% |
+| Orion Partners Services Inc.⁵⁷ | Ordinary shares | 100% |
+| Ostara China Real Estate Fund LP⁵⁷ | Limited Partnership | 0% |
+| Ostara Japan Fund 3 LP⁵⁷ | Limited Partnership | 1% |
+| Ostara Korea GP 2 Pte. Ltd⁴⁵ | Ordinary shares | 100% |
+| Ostara Korea Separate Account LP⁴⁵ | Limited Partnership | 0% |
+| Ostara Partners Inc. China⁵⁷ | Ordinary shares | 100% |
+| Ostara Partners Inc. Japan 3⁵⁷ | Ordinary shares | 100% |
+| PE1 LP⁴ | Limited Partnership | 0% |
+| PE1A LP⁴ | Limited Partnership | 0% |
+| PE2 Carry LP⁴ | Limited Partnership | 40% |
+| PE2 LP⁴ | Limited Partnership | 0% |
+| Pearl Private Equity LP | Limited Partnership | 0% |
+| Pearl Strategic Credit LP | Limited Partnership | 0% |
+| Pearson Jones & Company (Trustees) Limited³ | Ordinary shares | 100% |
+| Pearson Jones Nominees Limited³ | Ordinary shares | 100% |
+| PGB European Buy-out Fund I SCSp¹⁰ | Limited Partnership | 1% |
+| PGB European Co-Investment Fund I SCSp¹⁰ | Limited Partnership | 1% |
+| Poinsettia Holdco LP¹² | Limited Partnership | 0% |
+| PT Aberdeen Standard Investments Indonesia⁵⁸ | Limited Liability Company | 99% |
+| Regent Property Partners (Retail Parks) Limited⁵⁶ | Ordinary shares | 100% |
+| SG Commercial LLP⁵³ | Limited Liability Partnership | 60% |
+| Share Limited⁷ | Ordinary shares | 100% |
+| Share Nominees Limited⁷ | Ordinary shares | 100% |
+| Shin Global Investment Partners LP¹² | Limited Partnership | 0% |
+| SL Capital 2016 Co-Investment GP LP | Limited Partnership | 5% |
+| SL Capital 2016 Co-Investment LP | Limited Partnership | 0% |
+| SL Capital ECF GP LP | Limited Partnership | 4% |
+| SL Capital ESF I GP LP | Limited Partnership | 0% |
+| SL Capital ESF I LP | Limited Partnership | 1% |
+| SL Capital European Co-Investment B LP | Limited Partnership | 0% |
+| SL Capital European Co-Investment LP | Limited Partnership | 0% |
+| SL Capital Ignis Private Equity Founder LP | Limited Partnership | 65% |
+| SL Capital Ignis Strategic Credit Founder LP | Limited Partnership | 0% |
+| SL Capital Infrastructure Fund II Top-Up Co-Investment Fund SCSp¹⁰ | Limited Partnership | 0% |
+| SL Capital Infrastructure I GP LP | Limited Partnership | 100% |
+| SL Capital Infrastructure I LP | Limited Partnership | 0% |
+| SL Capital Infrastructure II LTP LP | Limited Partnership | 25% |
+
+266   abrdn.com   Annual report 2023
+
+---
+
+| Name of related undertaking | Share class¹ | % interest held² |
+|---------------------------|------------|--------------|
+| SL Capital Infrastructure II SCSp¹⁰ | Limited Partnership | 1% |
+| SL Capital Infrastructure Secondary I GP LP | Limited Partnership | 25% |
+| SL Capital Infrastructure Secondary I LP | Limited Partnership | 0% |
+| SL Capital Infrastructure Secondary II LP | Limited Partnership | 0% |
+| SL Capital NASF I A LP | Limited Partnership | 2% |
+| SL Capital NASF I Carry LP | Limited Partnership | 0% |
+| SL Capital NASF I GP LP | Limited Partnership | 0% |
+| SL Capital NASF I LP¹³ | Limited Partnership | 0% |
+| SL Capital Pearl Private Equity GP LP | Limited Partnership | 0% |
+| SL Capital Pearl Strategic Credit GP LP | Limited Partnership | 1% |
+| SL Capital SOF I Feeder LP | Limited Partnership | 0% |
+| SL Capital SOF II Feeder LP | Limited Partnership | 1% |
+| SL Capital SOF III Feeder LP | Limited Partnership | 0% |
+| SL Capital SOF I GP LP | Limited Partnership | 0% |
+| SL Capital SOF II GP LP | Limited Partnership | 0% |
+| SL Capital SOF III GP LP | Limited Partnership | 0% |
+| SL Capital SOF I LP | Limited Partnership | 0% |
+| SL Capital SOF II LP | Limited Partnership | 0% |
+| SL Capital SOF III LP | Limited Partnership | 0% |
+| SLC EC I Executive Co Investment Limited Partnership | Limited Partnership | 0% |
+| SLCI I Executive Co Investment Limited Partnership | Limited Partnership | 0% |
+| SLCI II Executive Co-Investment LP | Limited Partnership | 0% |
+| SLCI Rail Co-Invest LP | Limited Partnership | 0% |
+| SLCP (Founder Partner Ignis Private Equity) Limited | Ordinary shares | 100% |
+| SLCP (Founder Partner Ignis Strategic Credit) Limited | Ordinary shares | 100% |
+| SLCP (General Partner) Limited | Ordinary shares | 100% |
+| SLCP (General Partner II) Limited | Ordinary shares | 100% |
+| SLCP (General Partner 2016 Co-investment) Limited | Ordinary shares | 100% |
+| SLCP (General Partner CPP) Limited | Ordinary shares | 100% |
+| SLCP (General Partner EC) Limited | Ordinary shares | 100% |
+| SLCP (General Partner ESF I) Limited | Ordinary shares | 100% |
+| SLCP (General Partner ESP 2004) Limited | Ordinary shares | 100% |
+| SLCP (General Partner ESP 2006) Limited | Ordinary shares | 100% |
+| SLCP (General Partner ESP 2008) Limited | Ordinary shares | 100% |
+| SLCP (General Partner ESP CAL) Limited | Ordinary shares | 100% |
+| SLCP (General Partner Infrastructure I) Limited | Ordinary shares | 100% |
+| SLCP (General Partner Infrastructure Secondary I) Limited | Ordinary shares | 100% |
+| SLCP (General Partner NASF I) Limited | Ordinary shares | 100% |
+| SLCP (General Partner NASP 2006) Limited | Ordinary shares | 100% |
+| SLCP (General Partner NASP 2008) Limited | Ordinary shares | 100% |
+| SLCP (General Partner Pearl Private Equity) Limited | Ordinary shares | 100% |
+| SLCP (General Partner Pearl Strategic Credit) Limited | Ordinary shares | 100% |
+| SLCP (General Partner SOF I) Limited | Ordinary shares | 100% |
+| SLCP (General Partner SOF II) Limited | Ordinary shares | 100% |
+| SLCP (General Partner SOF III) Limited | Ordinary shares | 100% |
+| SLCP (General Partner Tidal Reach) Limited | Ordinary shares | 100% |
+| SLCP (General Partner USA) Limited | Ordinary shares | 100% |
+| SLIPC (General Partner Infrastructure II LTP 2017) Limited | Ordinary shares | 100% |
+| SLIPC (General Partner Infrastructure II) S.a.r.l.¹⁰ | Ordinary shares | 100% |
+| SLIPC (General Partner Infrastructure III) S.a.r.l.¹⁰ | Ordinary shares | 100% |
+| SLTM Limited | Ordinary shares | 100% |
+| SOF I Executive Co Investment Limited Partnership | Limited Partnership | 0% |
+| SOF II Executive Co Investment Limited Partnership | Limited Partnership | 0% |
+| SOF III Executive Co Investment Limited Partnership | Limited Partnership | 0% |
+| SOF IV Carry LP | Limited Partnership | 25% |
+| SOF IV Executive Co Investment Limited Partnership | Limited Partnership | 0% |
+| Squadron Asia Pacific Fund, LP¹² | Limited Partnership | 0% |
+
+Annual report 2023 | abrdn.com | 267
+
+| Name of related undertaking | Share class¹ | % interest held² |
+|---|---|---|
+| Squadron Asia Pacific Fund II, LP¹² | Limited Partnership | 0% |
+| Squadron Capital Asia Pacific GP, LP¹² | Limited Partnership | 100% |
+| Squadron Capital Asia Pacific II GP LP¹² | Limited Partnership | 100% |
+| Squadron Capital Partners Limited¹² | Ordinary shares | 100% |
+| Squadron GP Participation, LP¹² | Limited Partnership | 0% |
+| Squadron GP Participation II, LP¹² | Limited Partnership | 0% |
+| Standard Life Investments Brent Cross General Partner Limited | Ordinary shares | 100% |
+| Standard Life investments Brent Cross LP | Limited Partnership | 0% |
+| Standard Life Investments European Real Estate Club II LP³ | Limited Partnership | 1% |
+| Standard Life Investments European Real Estate Club III LP³ | Limited Partnership | 2% |
+| Standard Life Investments (General Partner European Real Estate Club) Limited³ | Ordinary shares | 100% |
+| Standard Life Investments (General Partner European Real Estate Club II) Limited³ | Ordinary shares | 100% |
+| Standard Life Investments (General Partner European Real Estate Club III) Limited³ | Ordinary shares | 100% |
+| Standard Life Investments (General Partner GARS) Limited | Ordinary shares | 100% |
+| Standard Life Investments (General Partner GFS) Limited | Ordinary shares | 100% |
+| Standard Life Investments (General Partner Global Tactical Asset Allocation) Limited | Ordinary shares | 100% |
+| Standard Life Investments (General Partner MAC) Limited | Ordinary shares | 100% |
+| Tenon Nominees Limited⁴ | Ordinary shares | 100% |
+| The Share Centre (Administration Services) Ltd⁷ | Ordinary shares | 100% |
+| The Share Centre Limited⁷ | Ordinary shares | 100% |
+| Touchstone Insurance Company Limited⁵⁹ | Ordinary shares | 100% |
+| TPIF (No. 1) GP LLP⁶⁰ | Limited Liability Partnership | 60% |
+| TPIF (No. 1) LP⁶⁰ | Limited Partnership | 0% |
+| TPIF (Portfolio No. 1) GP LLP⁵³ | Limited Liability Partnership | 60% |
+| TPIF (Portfolio No. 1) LP⁵⁴ | Limited Partnership | 0% |
+| TPIF (Portfolio No. 1) Nominee Limited⁵³ | Ordinary shares | 60% |
+| Tritax abrdn Supply Chain Carry GP LLP⁵³ | Limited Liability Partnership | 60% |
+| Tritax abrdn Supply Chain Carry LP⁶⁰ | Limited Partnership | 0% |
+| Tritax abrdn Supply Chain GP LLP⁵³ | Limited Liability Partnership | 60% |
+| Tritax abrdn Supply Chain LP⁵⁴ | Limited Partnership | 0% |
+| Tritax Assets LLP⁵³ | Limited Liability Partnership | 60% |
+| Tritax LMR Carry GP LLP⁶⁰ | Limited Liability Partnership | 60% |
+| Tritax LMR Carry Limited Partnership⁶⁰ | Limited Partnership | 7% |
+| Tritax Management LLP³ | Limited Liability Partnership | 60% |
+| Tritax PowerBox Limited⁵³ | Ordinary shares | 60% |
+| Tritax Securities LLP⁵³ | Limited Liability Partnership | 60% |
+| UK PRS Opportunities General Partner Limited³ | Ordinary shares | 100% |
+| UK PRS Opportunities LP³ | Limited Partnership | 0% |
+| VZWL Bestandsimmobilien GmbH & Co geschlossene Investment KG³⁶ | Limited Partnership | 0% |
+| VZWL Private Equity GmbH & Co geschlossene Investment KG³⁶ | Limited Partnership | 0% |
+
+268 | abrdn.com | Annual report 2023
+
+---
+
+# (c) Associates and joint ventures
+
+| Name of related undertaking | Share class¹ | % interest held² |
+|----------------------------|------------|-----------------|
+| abrdn Investcorp Infrastructure Investments Manager Limited⁶¹ | Ordinary shares | 50% |
+| abrdn SICAV I - Short Dated Enhanced Income Fund¹⁰ | SICAV | 25% |
+| Archax Holdings Limited⁶² | Ordinary shares | 11% |
+| Criterion Tec Holdings Ltd⁶³ | Ordinary shares | 21% |
+| Heng An Standard Life Insurance Company Limited⁶⁴ | Ordinary shares | 50% |
+| PURetail Luxembourg Management Company S.a.r.l.⁶⁵ | Class A shares | 50% |
+| Tenet Group Limited⁶⁶ | Ordinary B shares | 25% |
+| Virgin Money Unit Trust Managers Limited⁶⁷ | Ordinary shares | 50% |
+
+1. OEIC = Open-ended investment company
+   SICAV = Société d'investissement à capital variable
+   ETF = Exchange traded fund
+   ICAV = Irish collective asset-management vehicle
+
+2. Limited Partnerships or limited liability companies in which the Group has no interest but whose general partner or manager is controlled by the Group are considered subsidiaries under Companies Act 2006. Where the Group has no interest in a limited partnership or limited liability company that is considered a subsidiary, the interest held is disclosed as 0%.
+
+Annual report 2023 | abrdn.com | 269
+
+---
+
+# Group financial statements continued
+
+## Registered offices
+
+3. 280 Bishopsgate, London, EC2M 4AG
+4. 10 Queens Terrace, Aberdeen, AB10 1XL
+5. c/o IQ EQ Fund Services (Mauritius) Ltd, 33 Edith Cavell Street, Port Louis, 11324, Mauritius
+6. PO Box 19, Martello Court, Admiral Park, St Peter Port, GY1 3HB, Guernsey
+7. 201 Deansgate, Manchester, M3 3NW
+8. Cranford House, Kenilworth Road, Blackdown, Leamington Spa, CV32 6RQ
+9. 2nd Floor, The Royals, Altrincham Road, Sharston, Manchester M22 4BJ
+10. 35a Avenue John F. Kennedy, L-1855 Luxembourg, Luxembourg
+11. 287-289, route d'Arlon, L-1150 Luxembourg, Luxembourg
+12. c/o Maples Corporate Services Limited, Ugland House, P.O. Box 309, Grand Cayman, KY1-1104, Cayman Islands
+13. c/o Corporation Service Company, 251 Little Falls Drive, Wilmington, DE, 19808, USA
+14. Bangkok City Tower, 28th Floor, 179 South Sathorn Road, Thungmahamek, Sathorn, Bangkok, 10120, Thailand
+15. Strandvejen 171,3, 2900 Hellerup, Denmark
+16. c/o Aatsto DLA Piper Finland Oy, Fabianinkatu 23, FI-00130 Helsinki, Finland
+17. c/o Corporation Service Company, 2711 Centerville Road, Suite 400, Wilmington, DE, 19808, USA
+18. 1900 Market Street, Suite 200, Philadelphia, PA 19103, USA
+19. Western Suite, Ground Floor Mill Court, La Charroterie, St Peter Port, Guernsey, GY1 1EJ
+20. Top Floor, Mill Court, La Charroterie, St Peter Port, Guernsey, GY1 1EJ
+21. Box 162 85, 103 25 Stockholm, Sweden
+22. Parnu mnt 22, Tallinn, Harju maakond, 10141, Estonia
+23. 2 Boulevard de la Foire, L-1528 Luxembourg, Luxembourg
+24. WTC, H-Tower, 20th Floor, Zuidplein 166, 1077 XV Amsterdam, Netherlands
+25. One London Wall, London, EC2Y 5AB
+26. Johan Fjellstrom, Deloitte AB 113 79, Stockholm, Sweden
+27. 70 Sir John Rogerson's Quay, Dublin 2, D02 R296, Ireland
+28. 7 Straits View, #23-04 Marina One East Tower, 018936, Singapore
+29. 712 5th Ave, New York, NY 10019, USA
+30. Rua Joaquim Floriano, 913 – 7th floor – Cj. 71, Itaim Bibi, São Paulo, 04534-013, Brasil
+31. 1 First Canadian Place, 100 King Street West, Toronto, Ontario, Canada
+32. 4 Chipman Hill, Suite 100, Saint John, New Brunswick, E2L 2A9, Canada
+33. AC 82 NO. 10 60 P 5 Bogota DC, Columbia
+34. Level 2, 395 Collins Street, Melbourne, Victoria 3000, Australia
+35. 6th Floor, Alexandra House, 18 Chater Road, Central, Hong Kong
+36. Bockenheimer Landstrasse 25, 60325 Frankfurt am Main, Germany
+37. 2-4 Merrion Row, Dublin 2, D02 WP23, Ireland
+38. 1st Floor, Sir Walter Raleigh House, Esplanade, St Helier, JE2 3QB, Jersey
+39. Office Unit 8, 6th Floor, Al Khatem Tower, Abu Dhabi Global Market Square, Al Marya Island, PO Box 764605, Abu Dhabi, United Arab Emirates
+40. Schweizergasse 14, Zurich, 8001, Switzerland
+41. Suite 1005, 10th Floor, Wisma Hamzah-Kwong Hing No.1, Leboh Ampang 50100 Kuala Lumpur, Malaysia
+42. Otemachi Financial City Grand Cube 9F, 1-9-2 Otemachi, Chiyoda-ku, Tokyo, 100-0004, Japan
+43. 44 Esplanade, St Helier, Jersey, JE4 9WG
+44. 13th Fl., B Tower (Seocho-dong, Kyobo Tower Building), 465, Gangnam-daero, Seocho-gu, Seoul, Korea
+45. 9 Raffles Place, #26-01 Republic Plaza, 048619, Singapore
+46. Governor Macquarie Tower, Level 40, 1 Farrer Place, Sydney, NSW, 2000, Australia
+47. 21 Church Street, #01-01, Capital Square Two, 049480, Singapore
+48. West Area, 2F, No.707 Zhangyang Road, China (Shanghai) Pilot Free Trade Zone
+49. 29 Rue De Berri, Paris, 75008, France
+50. 2-4, Rue Eugène Ruppert, L-2453 Luxembourg, Luxembourg
+51. 1 Marina Boulevard, #28-00, 018989, Singapore
+52. Ogier House, Esplanade, St Helier, JE4 9WG, Jersey
+53. 72 Broadwick Street, London, W1F 9QZ
+54. 3rd Floor, 6 Duke Street St James's, London, SW1Y 6BN
+55. c/o The Corporation Trust Company, Corporation Trust Center, 1209 Orange Street, Wilmington, DE, 19801, USA
+56. 30 Finsbury Square, London, EC2A 1AG
+57. Campbells Corporate Services Limited, 4th Floor, Willow House, Cricket Square, Grand Cayman, KY1-9010, Cayman Islands
+58. 16th Floor, Menara DEA Tower 2, 16th Floor, Kawasan Mega Kuningan, Jl Mega Kuningan Barat Kav. E4.3 No. 1-2, 12950 Jakarta, Indonesia
+59. c/o Aon, PO Box 33, Maison Trinity, Trinity Square, St Peter Port, Guernsey GY1 4AT
+60. 50 Lothian Road, Festival Square, Edinburgh, EH3 9WJ
+61. c/o Paget-Brown Trust Company Ltd, Boundary Hall, Cricket Square, P.O. Box 1111, Grand Cayman, KY1-1102, Cayman Islands
+62. 4th Floor, 1 Old Jewry, London, EC2R 8DN
+63. 9 - 10 St Andrew Square, Edinburgh, EH2 2AF
+64. 18F, Tower II, The Exchange, 189 Nanjing Road, Heping District, Tianjin, People's Republic of China, 300051
+65. 11, rue Jean Piret, L-2350 Luxembourg, Luxembourg
+66. 5 Lister Hill, Horsforth, Leeds LS18 5AZ
+67. Jubilee House, Gosforth, Newcastle-Upon-Tyne, NE3 4PL
+
+270 | abrdn.com | Annual report 2023
+
